@@ -98,6 +98,14 @@ const renderPortfolioData = function (data) {
       `;
     }).join("");
   }
+
+  // render soft skills
+  const softSkillsList = document.querySelector("[data-soft-skills-list]");
+  if (softSkillsList && data.experience?.soft_skills?.length) {
+    softSkillsList.innerHTML = data.experience.soft_skills.map(function (skill) {
+      return `<li class="tag-item">${skill}</li>`;
+    }).join("");
+  }
 };
 
 // fetch and render portfolio data
