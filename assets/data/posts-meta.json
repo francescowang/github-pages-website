@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "kubernetes-control-plane-and-worker-nodes",
+    "title": "Kubernetes 101: Control Plane and Worker Nodes",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "A walkthrough of how the Kubernetes control plane coordinates scheduling and how worker nodes run your workloads.",
+    "tags": ["Kubernetes", "Infrastructure", "Beginner"]
+  },
+  {
+    "slug": "secure-kubernetes-and-cloud-foundations",
+    "title": "Secure Kubernetes and Cloud Foundations",
+    "category": "Cloud Security",
+    "date": "2026-04-24",
+    "summary": "A practical baseline for securing clusters and cloud primitives before you start layering on more advanced policy controls.",
+    "tags": ["Kubernetes", "Security", "Cloud"]
+  },
+  {
+    "slug": "cicd-finops-and-reliability-posts",
+    "title": "CI/CD, FinOps, and Reliability Posts",
+    "category": "Automation",
+    "date": "2026-04-24",
+    "summary": "A post format for writing about delivery controls, cost signals, and the operational feedback loops that keep systems reliable.",
+    "tags": ["CI/CD", "FinOps", "Reliability", "Automation"]
+  },
+  {
+    "slug": "kubernetes-services-and-networking",
+    "title": "Kubernetes Networking: Services, Load Balancing, and Connectivity",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "An overview of how Kubernetes handles networking, from the pod network model to services, ingress, and network policies.",
+    "tags": ["Kubernetes", "Networking", "Services"]
+  }
+]

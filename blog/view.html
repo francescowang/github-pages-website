@@ -29,6 +29,8 @@
           <time id="post-date"></time>
           <span id="post-reading-time"></span>
         </div>
+
+        <div class="blog-post-tags" id="post-tags"></div>
       </header>
 
       <section class="post-content" id="post-content">
@@ -78,6 +80,11 @@
               day: '2-digit', month: 'short', year: 'numeric'
             });
             document.getElementById('post-date').setAttribute('datetime', meta.date);
+          }
+
+          if (meta.tags) {
+            const tagsArr = meta.tags.split(',').map(t => t.trim());
+            document.getElementById('post-tags').innerHTML = tagsArr.map(tag => `<span class="post-tag">${tag}</span>`).join('');
           }
 
           document.getElementById('post-content').innerHTML = marked.parse(content);

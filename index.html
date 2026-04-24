@@ -27,7 +27,7 @@
 
 <body
   data-portfolio-source="./assets/data/portfolio.json"
-  data-blog-posts-source="./assets/data/posts-index.json"
+  data-blog-posts-source="./assets/data/posts-meta.json"
   data-blog-viewer-path="./blog/view.html">
 
   <main>
@@ -262,11 +262,17 @@
           <h2 class="h2 article-title">Blog</h2>
         </header>
 
-        <section class="about-text">
-          <p>
-            This section is for technical writing: cloud architecture notes, Kubernetes lessons, security decisions,
-            CI/CD workflows, automation write-ups, and operational retrospectives.
-          </p>
+        <section class="blog-filter">
+          <div class="search-wrapper">
+            <input type="text" name="search" placeholder="Search posts..." class="search-input" data-blog-search>
+            <ion-icon name="search-outline"></ion-icon>
+          </div>
+
+          <ul class="filter-list" data-filter-list>
+            <li class="filter-item">
+              <button class="active" data-filter-btn data-filter-tag="all">All</button>
+            </li>
+          </ul>
         </section>
 
         <section class="blog-posts">

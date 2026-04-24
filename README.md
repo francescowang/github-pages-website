@@ -8,10 +8,10 @@ The UI shell is rendered from `index.html`, while content is loaded from JSON an
 
 - `index.html`: Main single-page app (About, CV, Portfolio, Blog tabs).
 - `assets/js/script.js`: Loads and renders profile/CV data from JSON.
-- `assets/js/blog-posts.js`: Loads the post slug index, fetches each markdown file, parses frontmatter, and renders blog cards.
+- `assets/js/blog-posts.js`: Fetches `posts-meta.json` in a single request and renders blog cards.
 - `assets/data/portfolio.json`: Source of truth for About/CV/skills content.
-- `assets/data/posts-index.json`: Ordered list of blog post slugs. Controls which posts appear and in what order.
-- `blog/posts/*.md`: Markdown files — each contains YAML frontmatter (title, category, date, summary) and the post body.
+- `assets/data/posts-meta.json`: Source of truth for blog card metadata (slug, title, category, date, summary). One entry per post.
+- `blog/posts/*.md`: Markdown files — the full body of each post. Frontmatter is optional (only needed by the viewer for rendering the post title/date).
 - `blog/view.html`: Blog post viewer. Fetches the markdown file directly, parses frontmatter, and renders the post.
 
 ## Data Flow
@@ -21,7 +21,7 @@ The UI shell is rendered from `index.html`, while content is loaded from JSON an
 	 - `data-blog-posts-source`
 	 - `data-blog-viewer-path`
 2. On load, `script.js` fetches `portfolio.json` and fills CV/About placeholders.
-3. `blog-posts.js` fetches `posts-index.json` (a JSON array of slugs), then fetches each `blog/posts/<slug>.md` in parallel. Metadata (title, category, date, summary) is parsed from the YAML frontmatter at the top of each file. Each card links to:
+3. `blog-posts.js` fetches `posts-meta.json` (a single JSON request), sorts by date, and renders all blog cards. Each card links to:
 	 - `./blog/view.html?post=<slug>`
 4. `view.html` uses the `post` query param, fetches `blog/posts/<slug>.md`, parses the frontmatter, and renders the post body via `marked.js`.
 
@@ -62,7 +62,25 @@ If you change schema keys, update `assets/js/script.js` accordingly.
 
 ## Add A New Blog Post
 
-1. Create a markdown file with YAML frontmatter at the top:
+1. Add an entry to `assets/data/posts-meta.json`:
+
+```json
+{
+  "slug": "your-post-slug",
+  "title": "Your Post Title",
+  "category": "Kubernetes",
+  "date": "2026-05-01",
+  "summary": "One-line summary shown on the blog card."
+}
+```
+
+Order in the array controls display order (newest first by convention). Cards are also sorted by `date` descending at runtime.
+
+2. Create the markdown file:
+
+- `blog/posts/your-post-slug.md`
+
+The viewer expects the following frontmatter at the top of the file:
 
 ```markdown
 ---
@@ -77,37 +95,22 @@ summary: One-line summary shown on the blog card.
 Post body starts here...
 ```
 
-Save it as:
-
-- `blog/posts/your-post-slug.md`
-
-2. Add the slug to `assets/data/posts-index.json`:
-
-```json
-[
-  "your-post-slug",
-  "kubernetes-control-plane-and-worker-nodes"
-]
-```
-
-Order in the array controls display order (newest first by convention).
-
 3. Refresh browser at `http://127.0.0.1:4173/`.
 
 The post card will appear in Blog and open in the viewer.
 
-**To remove a post:** delete the `.md` file and remove its slug from `posts-index.json`. Remaining posts are unaffected.
+**To remove a post:** delete the `.md` file and remove its entry from `posts-meta.json`. Remaining posts are unaffected.
 
 ## Common Issues
 
 - Blog cards or CV sections not showing:
 	- Ensure you are running with a local server (not `file://`).
 - New post not visible:
-	- Confirm the slug is present in `assets/data/posts-index.json`.
-	- Confirm the markdown filename matches: `blog/posts/<slug>.md`.
-	- Confirm the frontmatter block is valid (starts and ends with `---`).
+	- Confirm an entry with the correct `slug` exists in `assets/data/posts-meta.json`.
+	- Confirm the markdown file exists at `blog/posts/<slug>.md` (slug must match exactly).
 - Viewer says "Error loading post":
-	- Confirm markdown file exists at `blog/posts/<slug>.md`.
+	- Confirm the markdown file exists at `blog/posts/<slug>.md`.
+	- Confirm the frontmatter block is valid (starts and ends with `---`).
 
 ## Deployment
 
