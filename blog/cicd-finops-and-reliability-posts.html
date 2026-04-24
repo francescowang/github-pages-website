@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CI/CD, FinOps, and Reliability Posts | Francesco Wang</title>
+  <link rel="shortcut icon" href="../assets/images/logo.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body class="post-page">
+
+  <main class="post-shell">
+    <article class="post-article">
+
+      <a href="../index.html#blog" class="text-link post-back-link">Back to portfolio blog</a>
+
+      <header class="post-header">
+        <p class="post-kicker">Automation</p>
+        <h1 class="post-title">CI/CD, FinOps, and Reliability Posts</h1>
+
+        <div class="post-meta">
+          <time datetime="2026-04-24">24 Apr 2026</time>
+          <span>Delivery and cost discipline</span>
+        </div>
+
+        <p class="post-summary">
+          A post format for writing about delivery controls, cost signals, and the operational feedback loops that keep systems reliable.
+        </p>
+      </header>
+
+      <section class="post-content">
+        <p>
+          Reliability work becomes more persuasive when it is tied to delivery speed and cost. Pipeline controls, spend visibility, and service health are usually treated as separate topics, but the strongest platform stories connect them.
+        </p>
+
+        <h2>Write from the change path</h2>
+
+        <p>
+          Good posts in this area usually follow one deployment path end to end: code change, pipeline execution, infrastructure impact, and operational result. That creates a concrete thread instead of a generic best-practices list.
+        </p>
+
+        <h2>Useful questions to answer</h2>
+
+        <ul>
+          <li>What failed or cost too much before the change?</li>
+          <li>What guardrail was added to the pipeline?</li>
+          <li>How did the team measure the impact afterwards?</li>
+        </ul>
+
+        <pre><code>name: infrastructure-plan
+on: [pull_request]
+jobs:
+  terraform-plan:
+    runs-on: ubuntu-latest</code></pre>
+
+        <p>
+          If the post shows how a platform decision improved both confidence and cost awareness, it will stay useful long after the original ticket is closed.
+        </p>
+      </section>
+
+    </article>
+  </main>
+
+</body>
+
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Writing Technical Notes Here | Francesco Wang</title>
+  <link rel="shortcut icon" href="../assets/images/logo.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body class="post-page">
+
+  <main class="post-shell">
+    <article class="post-article">
+
+      <a href="../index.html#blog" class="text-link post-back-link">Back to portfolio blog</a>
+
+      <header class="post-header">
+        <p class="post-kicker">Platform Engineering</p>
+        <h1 class="post-title">Writing Technical Notes Here</h1>
+
+        <div class="post-meta">
+          <time datetime="2026-04-24">24 Apr 2026</time>
+          <span>Operational writing workflow</span>
+        </div>
+
+        <p class="post-summary">
+          A lightweight structure for turning engineering lessons into useful notes without bloating the site or burying the main idea.
+        </p>
+      </header>
+
+      <section class="post-content">
+        <p>
+          Most engineering notes fail because they start too wide. The fastest way to publish something useful is to write from a single event: a migration, an outage, a hardening decision, or a Terraform refactor that changed how the platform behaves.
+        </p>
+
+        <h2>Use a repeatable post structure</h2>
+
+        <ol>
+          <li>State the problem in one paragraph.</li>
+          <li>Describe the constraints that shaped the decision.</li>
+          <li>Show the implementation details that mattered.</li>
+          <li>Finish with the operational outcome and any tradeoffs.</li>
+        </ol>
+
+        <p>
+          That structure keeps the post readable for engineers who want the takeaway first and the code second. It also gives you a natural place to insert snippets, diagrams, or links to pull requests.
+        </p>
+
+        <h2>Capture commands while the work is fresh</h2>
+
+        <pre><code>kubectl get events -A --sort-by=.lastTimestamp
+terraform plan -out=tfplan
+argocd app history platform-core</code></pre>
+
+        <blockquote>
+          <p>Write the note from the incident timeline or implementation log, not from memory a week later.</p>
+        </blockquote>
+
+        <p>
+          If a note helps a future teammate repeat the change safely, it is already worth publishing. That is the standard to optimise for.
+        </p>
+      </section>
+
+    </article>
+  </main>
+
+</body>
+
+</html>

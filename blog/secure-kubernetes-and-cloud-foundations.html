@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Secure Kubernetes and Cloud Foundations | Francesco Wang</title>
+  <link rel="shortcut icon" href="../assets/images/logo.ico" type="image/x-icon">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body class="post-page">
+
+  <main class="post-shell">
+    <article class="post-article">
+
+      <a href="../index.html#blog" class="text-link post-back-link">Back to portfolio blog</a>
+
+      <header class="post-header">
+        <p class="post-kicker">Cloud Security</p>
+        <h1 class="post-title">Secure Kubernetes and Cloud Foundations</h1>
+
+        <div class="post-meta">
+          <time datetime="2026-04-24">24 Apr 2026</time>
+          <span>Cluster hardening baseline</span>
+        </div>
+
+        <p class="post-summary">
+          A practical baseline for securing clusters and cloud primitives before you start layering on more advanced policy controls.
+        </p>
+      </header>
+
+      <section class="post-content">
+        <p>
+          Security posture improves fastest when the first controls are boring and enforced everywhere. The goal is not to install every tool in the CNCF landscape. The goal is to make insecure defaults difficult to ship.
+        </p>
+
+        <h2>Start with identity and boundaries</h2>
+
+        <ul>
+          <li>Use workload identity instead of long-lived static credentials.</li>
+          <li>Separate cluster-admin activity from delivery pipeline permissions.</li>
+          <li>Keep cloud IAM roles narrow and tied to a real workload boundary.</li>
+        </ul>
+
+        <h2>Enforce the minimum admission rules</h2>
+
+        <p>
+          Admission policy is where platform teams stop debating conventions and start enforcing them. Even a small baseline makes a real difference: no privileged containers, no writable root filesystem by default, and no public ingress without an explicit review path.
+        </p>
+
+        <pre><code>apiVersion: kyverno.io/v1
+kind: ClusterPolicy
+metadata:
+  name: disallow-privileged
+spec:
+  validationFailureAction: Enforce</code></pre>
+
+        <h2>Log what matters</h2>
+
+        <p>
+          Audit logs, identity changes, and control plane events should land in one place where they can be queried quickly during an incident. If the evidence is fragmented, the control is weaker than it looks on paper.
+        </p>
+      </section>
+
+    </article>
+  </main>
+
+</body>
+
+</html>

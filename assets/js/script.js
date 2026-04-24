@@ -152,26 +152,89 @@ if (form && formBtn && formInputs.length) {
 
 
 
+// blog posts variables
+const blogPostsList = document.querySelector("[data-blog-posts-list]");
+
+const formatBlogPostDate = function (dateValue) {
+  const parsedDate = new Date(dateValue);
+
+  if (Number.isNaN(parsedDate.getTime())) {
+    return dateValue;
+  }
+
+  return new Intl.DateTimeFormat("en-GB", {
+    day: "2-digit",
+    month: "short",
+    year: "numeric"
+  }).format(parsedDate);
+}
+
+if (blogPostsList && Array.isArray(window.blogPosts)) {
+  const sortedBlogPosts = [...window.blogPosts].sort(function (leftPost, rightPost) {
+    return new Date(rightPost.date) - new Date(leftPost.date);
+  });
+
+  blogPostsList.innerHTML = sortedBlogPosts.map(function (post) {
+    return `
+      <li class="blog-post-item">
+        <a href="${post.href}">
+
+          <div class="blog-content">
+
+            <div class="blog-meta">
+              <p class="blog-category">${post.category}</p>
+
+              <span class="dot"></span>
+
+              <time datetime="${post.date}">${formatBlogPostDate(post.date)}</time>
+            </div>
+
+            <h3 class="h3 blog-item-title">${post.title}</h3>
+
+            <p class="blog-text">
+              ${post.summary}
+            </p>
+
+          </div>
+
+        </a>
+      </li>
+    `;
+  }).join("");
+}
+
+
+
 // page navigation variables
 const navigationLinks = document.querySelectorAll("[data-nav-link]");
 const pages = document.querySelectorAll("[data-page]");
+
+const setActivePage = function (pageName) {
+  for (let i = 0; i < pages.length; i++) {
+    const isActivePage = pageName === pages[i].dataset.page;
+
+    pages[i].classList.toggle("active", isActivePage);
+    navigationLinks[i].classList.toggle("active", isActivePage);
+  }
+}
 
 if (navigationLinks.length && pages.length) {
   // add event to all nav link
   for (let i = 0; i < navigationLinks.length; i++) {
     navigationLinks[i].addEventListener("click", function () {
 
-      for (let i = 0; i < pages.length; i++) {
-        if (this.innerHTML.toLowerCase() === pages[i].dataset.page) {
-          pages[i].classList.add("active");
-          navigationLinks[i].classList.add("active");
-          window.scrollTo(0, 0);
-        } else {
-          pages[i].classList.remove("active");
-          navigationLinks[i].classList.remove("active");
-        }
-      }
+      const selectedPage = this.innerHTML.toLowerCase();
+
+      setActivePage(selectedPage);
+      window.location.hash = selectedPage;
+      window.scrollTo(0, 0);
 
     });
+  }
+
+  const requestedPage = window.location.hash.replace("#", "").toLowerCase();
+
+  if (requestedPage) {
+    setActivePage(requestedPage);
   }
 }
