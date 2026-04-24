@@ -2019,17 +2019,19 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   main {
-    max-width: 1200px;
+    width: min(1400px, calc(100vw - 48px));
+    max-width: 1400px;
     margin-inline: auto;
     display: flex;
     justify-content: center;
     align-items: stretch;
-    gap: 25px;
+    gap: 32px;
   }
 
   .main-content {
-    min-width: 75%;
-    width: 75%;
+    flex: 1 1 auto;
+    min-width: 0;
+    width: auto;
     margin: 0;
   }
 
@@ -2040,6 +2042,8 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .sidebar {
+    flex: 0 0 340px;
+    width: 340px;
     position: sticky;
     top: 60px;
     max-height: max-content;
@@ -2073,6 +2077,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    display: block;
   }
 
   .contact-info :is(.contact-link, time, address) {

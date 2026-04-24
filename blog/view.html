@@ -11,6 +11,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <script src="../assets/js/vendor/marked.min.js"></script>
 </head>
 
 <body class="post-page">
@@ -39,116 +40,6 @@
 
   <script>
     'use strict';
-
-    const escapeHtml = function (value) {
-      return value
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;');
-    };
-
-    const renderInlineMarkdown = function (line) {
-      return escapeHtml(line)
-        .replace(/`([^`]+)`/g, '<code>$1</code>')
-        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-        .replace(/\*([^*]+)\*/g, '<em>$1</em>');
-    };
-
-    const markdownToHtml = function (markdown) {
-      const lines = markdown.split('\n');
-      let html = '';
-      let inCodeBlock = false;
-      let inUnorderedList = false;
-      let inOrderedList = false;
-
-      const closeLists = function () {
-        if (inUnorderedList) {
-          html += '</ul>';
-          inUnorderedList = false;
-        }
-        if (inOrderedList) {
-          html += '</ol>';
-          inOrderedList = false;
-        }
-      };
-
-      for (const rawLine of lines) {
-        const line = rawLine.trim();
-
-        if (line.startsWith('```')) {
-          closeLists();
-          if (!inCodeBlock) {
-            html += '<pre><code>';
-            inCodeBlock = true;
-          } else {
-            html += '</code></pre>';
-            inCodeBlock = false;
-          }
-          continue;
-        }
-
-        if (inCodeBlock) {
-          html += `${escapeHtml(rawLine)}\n`;
-          continue;
-        }
-
-        if (!line) {
-          closeLists();
-          continue;
-        }
-
-        if (line.startsWith('# ')) {
-          closeLists();
-          html += `<h1>${renderInlineMarkdown(line.slice(2))}</h1>`;
-          continue;
-        }
-
-        if (line.startsWith('## ')) {
-          closeLists();
-          html += `<h2>${renderInlineMarkdown(line.slice(3))}</h2>`;
-          continue;
-        }
-
-        if (line.startsWith('### ')) {
-          closeLists();
-          html += `<h3>${renderInlineMarkdown(line.slice(4))}</h3>`;
-          continue;
-        }
-
-        const orderedMatch = line.match(/^\d+\.\s+(.*)$/);
-        if (orderedMatch) {
-          if (!inOrderedList) {
-            closeLists();
-            html += '<ol>';
-            inOrderedList = true;
-          }
-          html += `<li>${renderInlineMarkdown(orderedMatch[1])}</li>`;
-          continue;
-        }
-
-        if (line.startsWith('- ')) {
-          if (!inUnorderedList) {
-            closeLists();
-            html += '<ul>';
-            inUnorderedList = true;
-          }
-          html += `<li>${renderInlineMarkdown(line.slice(2))}</li>`;
-          continue;
-        }
-
-        if (line.startsWith('> ')) {
-          closeLists();
-          html += `<blockquote><p>${renderInlineMarkdown(line.slice(2))}</p></blockquote>`;
-          continue;
-        }
-
-        closeLists();
-        html += `<p>${renderInlineMarkdown(line)}</p>`;
-      }
-
-      closeLists();
-      return html;
-    };
 
     // get post slug from URL query parameter
     const urlParams = new URLSearchParams(window.location.search);
@@ -192,7 +83,7 @@
               return response.text();
             })
             .then(markdown => {
-              const html = markdownToHtml(markdown);
+              const html = marked.parse(markdown);
               document.getElementById('post-content').innerHTML = html;
               
               // estimate reading time
