@@ -1,3 +1,10 @@
+---
+title: "CI/CD, FinOps, and Reliability Posts"
+category: Automation
+date: 2026-04-24
+summary: A post format for writing about delivery controls, cost signals, and the operational feedback loops that keep systems reliable.
+---
+
 # CI/CD, FinOps, and Reliability Posts
 
 A post format for writing about delivery controls, cost signals, and the operational feedback loops that keep systems reliable.

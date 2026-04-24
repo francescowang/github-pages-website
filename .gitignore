@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+Icon?
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Python virtualenvs & artifacts
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node / JS package caches
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build / caches / logs
+dist/
+build/
+public/
+coverage/
+.cache/
+.parcel-cache/
+.sass-cache/
+*.log
+
+# Environment files
+.env
+.env.*.local
+
+# Editor swap / temp files
+*.swp
+*.swo
+*.tmp
+
+# Optional: ignore local vendor libraries if you prefer CDN (uncomment to enable)
+# assets/js/vendor/
