@@ -25,7 +25,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
 
-<body>
+<body
+  data-portfolio-source="./assets/data/portfolio.json"
+  data-blog-posts-source="./assets/data/blog-posts.json"
+  data-blog-viewer-path="./blog/view.html">
 
   <main>
 
@@ -133,11 +136,7 @@
         </header>
 
         <section class="about-text">
-          <p>
-            Highly collaborative IT engineer with a security-first mindset passionate about building scalable and secure
-            infrastructure. Reliable team player who delivers business value to stakeholders and promotes best
-            practices.
-          </p>
+          <p data-about-text></p>
         </section>
 
         <section class="stack-section">
@@ -145,20 +144,7 @@
           <h3 class="h3 service-title">Main Tech Stack</h3>
 
           <div class="info-card">
-            <ul class="tag-list">
-              <li class="tag-item">AWS</li>
-              <li class="tag-item">Azure</li>
-              <li class="tag-item">Terraform</li>
-              <li class="tag-item">Docker</li>
-              <li class="tag-item">Kubernetes</li>
-              <li class="tag-item">CI/CD</li>
-              <li class="tag-item">Linux</li>
-              <li class="tag-item">Platform Architecture</li>
-              <li class="tag-item">Python</li>
-              <li class="tag-item">Go</li>
-              <li class="tag-item">Bash</li>
-              <li class="tag-item">MySQL</li>
-            </ul>
+            <ul class="tag-list" data-tech-list></ul>
           </div>
 
         </section>
@@ -181,23 +167,7 @@
             <h3 class="h3">Work Experience</h3>
           </div>
 
-          <ol class="timeline-list">
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Platform Engineer at Cloudhouse</h4>
-              <span>Nov 2025 - March 2026</span>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Site Reliability Engineer at Ello Group</h4>
-              <span>Aug 2023 - Nov 2025</span>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">DevOps Engineer at KPMG UK</h4>
-              <span>Aug 2021 - Aug 2023</span>
-            </li>
-
+          <ol class="timeline-list" data-work-list>
           </ol>
 
         </section>
@@ -212,16 +182,7 @@
             <h3 class="h3">Certifications</h3>
           </div>
 
-          <ol class="timeline-list">
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Professional Certifications</h4>
-              <p class="timeline-text">
-                Current certifications are available on
-                <a href="https://www.credly.com/users/francesco-wang/" class="text-link" target="_blank" rel="noreferrer">Credly</a>.
-              </p>
-            </li>
-
+          <ol class="timeline-list" data-certifications-list>
           </ol>
 
         </section>
@@ -236,18 +197,7 @@
             <h3 class="h3">Education</h3>
           </div>
 
-          <ol class="timeline-list">
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Maastricht University</h4>
-              <p class="timeline-text">MA in Globalisation and Development Studies</p>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">University of Manchester</h4>
-              <p class="timeline-text">BA in Business Management and Modern Languages</p>
-            </li>
-
+          <ol class="timeline-list" data-education-list>
           </ol>
 
         </section>
@@ -262,33 +212,7 @@
             <h3 class="h3">Volunteering &amp; Internships</h3>
           </div>
 
-          <ol class="timeline-list">
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Niyo Bootcamp Mentor</h4>
-              <span>2023</span>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">IT&apos;s Her Future Mentor</h4>
-              <span>2021 to 2023</span>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">KPMG UK Green Volunteer</h4>
-              <span>2022</span>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">J.P. Morgan Chase Software Engineering</h4>
-              <span>2021</span>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Bright Network Technology Internship</h4>
-              <span>2020</span>
-            </li>
-
+          <ol class="timeline-list" data-volunteering-list>
           </ol>
 
         </section>
@@ -303,28 +227,7 @@
             <h3 class="h3">Hobbies</h3>
           </div>
 
-          <ol class="timeline-list">
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Chess</h4>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Hiking</h4>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Video Editing</h4>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Photography</h4>
-            </li>
-
-            <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Travelling</h4>
-            </li>
-
+          <ol class="timeline-list" data-hobbies-list>
           </ol>
 
         </section>

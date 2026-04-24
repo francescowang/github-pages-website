@@ -152,55 +152,106 @@ if (form && formBtn && formInputs.length) {
 
 
 
-// blog posts variables
-const blogPostsList = document.querySelector("[data-blog-posts-list]");
-
-const formatBlogPostDate = function (dateValue) {
-  const parsedDate = new Date(dateValue);
-
-  if (Number.isNaN(parsedDate.getTime())) {
-    return dateValue;
+// portfolio data rendering
+const renderPortfolioData = function (data) {
+  // render about text
+  const aboutSection = document.querySelector("[data-about-text]");
+  if (aboutSection && data.profile?.about) {
+    aboutSection.textContent = data.profile.about;
   }
 
-  return new Intl.DateTimeFormat("en-GB", {
-    day: "2-digit",
-    month: "short",
-    year: "numeric"
-  }).format(parsedDate);
-}
+  // render technologies
+  const techList = document.querySelector("[data-tech-list]");
+  if (techList && data.technologies?.length) {
+    techList.innerHTML = data.technologies.map(function (tech) {
+      return `<li class="tag-item">${tech}</li>`;
+    }).join("");
+  }
 
-if (blogPostsList && Array.isArray(window.blogPosts)) {
-  const sortedBlogPosts = [...window.blogPosts].sort(function (leftPost, rightPost) {
-    return new Date(rightPost.date) - new Date(leftPost.date);
-  });
+  // render work experience
+  const workList = document.querySelector("[data-work-list]");
+  if (workList && data.experience?.work?.length) {
+    workList.innerHTML = data.experience.work.map(function (job) {
+      return `
+        <li class="timeline-item">
+          <h4 class="h4 timeline-item-title">${job.title}</h4>
+          <span>${job.period}</span>
+        </li>
+      `;
+    }).join("");
+  }
 
-  blogPostsList.innerHTML = sortedBlogPosts.map(function (post) {
-    return `
-      <li class="blog-post-item">
-        <a href="${post.href}">
+  // render certifications
+  const certList = document.querySelector("[data-certifications-list]");
+  if (certList && data.experience?.certifications?.length) {
+    certList.innerHTML = data.experience.certifications.map(function (cert) {
+      return `
+        <li class="timeline-item">
+          <h4 class="h4 timeline-item-title">${cert.title}</h4>
+          <p class="timeline-text">
+            ${cert.description}
+          </p>
+        </li>
+      `;
+    }).join("");
+  }
 
-          <div class="blog-content">
+  // render education
+  const educationList = document.querySelector("[data-education-list]");
+  if (educationList && data.experience?.education?.length) {
+    educationList.innerHTML = data.experience.education.map(function (edu) {
+      return `
+        <li class="timeline-item">
+          <h4 class="h4 timeline-item-title">${edu.institution}</h4>
+          <p class="timeline-text">${edu.degree}</p>
+        </li>
+      `;
+    }).join("");
+  }
 
-            <div class="blog-meta">
-              <p class="blog-category">${post.category}</p>
+  // render volunteering
+  const volunteerList = document.querySelector("[data-volunteering-list]");
+  if (volunteerList && data.experience?.volunteering?.length) {
+    volunteerList.innerHTML = data.experience.volunteering.map(function (vol) {
+      return `
+        <li class="timeline-item">
+          <h4 class="h4 timeline-item-title">${vol.title}</h4>
+          <span>${vol.period}</span>
+        </li>
+      `;
+    }).join("");
+  }
 
-              <span class="dot"></span>
+  // render hobbies
+  const hobbiesList = document.querySelector("[data-hobbies-list]");
+  if (hobbiesList && data.experience?.hobbies?.length) {
+    hobbiesList.innerHTML = data.experience.hobbies.map(function (hobby) {
+      return `
+        <li class="timeline-item">
+          <h4 class="h4 timeline-item-title">${hobby}</h4>
+        </li>
+      `;
+    }).join("");
+  }
+};
 
-              <time datetime="${post.date}">${formatBlogPostDate(post.date)}</time>
-            </div>
+// fetch and render portfolio data
+const portfolioSource = document.body.dataset.portfolioSource;
 
-            <h3 class="h3 blog-item-title">${post.title}</h3>
-
-            <p class="blog-text">
-              ${post.summary}
-            </p>
-
-          </div>
-
-        </a>
-      </li>
-    `;
-  }).join("");
+if (portfolioSource) {
+  fetch(portfolioSource, { cache: "no-store" })
+    .then(function (response) {
+      if (!response.ok) {
+        throw new Error("Failed to load portfolio data");
+      }
+      return response.json();
+    })
+    .then(function (data) {
+      renderPortfolioData(data);
+    })
+    .catch(function (error) {
+      console.error("Error loading portfolio data:", error);
+    });
 }
 
 

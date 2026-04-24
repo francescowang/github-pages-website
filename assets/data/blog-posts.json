@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Writing Technical Notes Here",
+      "category": "Platform Engineering",
+      "date": "2026-04-24",
+      "summary": "Use this card style for platform architecture breakdowns, migration notes, and hardening decisions.",
+      "slug": "writing-technical-notes-here"
+    },
+    {
+      "id": 2,
+      "title": "Secure Kubernetes and Cloud Foundations",
+      "category": "Cloud Security",
+      "date": "2026-04-24",
+      "summary": "A place for posts on cluster hardening, IAM boundaries, network controls, and secure delivery.",
+      "slug": "secure-kubernetes-and-cloud-foundations"
+    },
+    {
+      "id": 3,
+      "title": "CI/CD, FinOps, and Reliability Posts",
+      "category": "Automation",
+      "date": "2026-04-24",
+      "summary": "Use this section for delivery pipeline improvements, cost control stories, and operational lessons.",
+      "slug": "cicd-finops-and-reliability-posts"
+    },
+    {
+      "id": 4,
+      "title": "Kubernetes 101: Control Plane and Worker Nodes",
+      "category": "Kubernetes",
+      "date": "2026-04-24",
+      "summary": "A dummy walkthrough of how the Kubernetes control plane coordinates scheduling and how worker nodes run your workloads.",
+      "slug": "kubernetes-control-plane-and-worker-nodes"
+    }
+  ]
+}

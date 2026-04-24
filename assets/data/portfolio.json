@@ -1,0 +1,88 @@
+{
+  "profile": {
+    "name": "Francesco Wang",
+    "title": "Senior DevOps Engineer",
+    "about": "Highly collaborative IT engineer with a security-first mindset passionate about building scalable and secure infrastructure. Reliable team player who delivers business value to stakeholders and promotes best practices."
+  },
+  "contact": {
+    "email": "francescofw@proton.me",
+    "location": "Manchester, UK",
+    "linkedin": "https://www.linkedin.com/in/francescowang/",
+    "github": "https://github.com/francescowang"
+  },
+  "technologies": [
+    "AWS",
+    "Azure",
+    "Terraform",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Linux",
+    "Platform Architecture",
+    "Python",
+    "Go",
+    "Bash",
+    "TypeScript"
+  ],
+  "experience": {
+    "work": [
+      {
+        "title": "Platform Engineer at Cloudhouse",
+        "period": "Nov 2025 - March 2026"
+      },
+      {
+        "title": "Site Reliability Engineer at Ello Group",
+        "period": "Aug 2023 - Nov 2025"
+      },
+      {
+        "title": "DevOps Engineer at KPMG UK",
+        "period": "Aug 2021 - Aug 2023"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Maastricht University",
+        "degree": "MA in Globalisation and Development Studies"
+      },
+      {
+        "institution": "University of Manchester",
+        "degree": "BA in Business Management and Modern Languages"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Professional Certifications",
+        "description": "Current certifications are available on <a href=\"https://www.credly.com/users/francesco-wang/\" class=\"text-link\" target=\"_blank\" rel=\"noreferrer\">Credly</a>."
+      }
+    ],
+    "volunteering": [
+      {
+        "title": "Niyo Bootcamp Mentor",
+        "period": "2023"
+      },
+      {
+        "title": "IT's Her Future Mentor",
+        "period": "2021 to 2023"
+      },
+      {
+        "title": "KPMG UK Green Volunteer",
+        "period": "2022"
+      },
+      {
+        "title": "J.P. Morgan Chase Software Engineering",
+        "period": "2021"
+      },
+      {
+        "title": "Bright Network Technology Internship",
+        "period": "2020"
+      }
+    ],
+    "hobbies": [
+      "Chess",
+      "Hiking",
+      "Video Editing",
+      "Photography",
+      "Travelling"
+    ]
+  }
+}
