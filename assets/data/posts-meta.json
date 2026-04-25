@@ -1,5 +1,14 @@
 [
   {
+    "slug": "amazon-rds-mysql-connection",
+    "folder": "aws",
+    "title": "Connecting to Amazon RDS MySQL: Endpoints, Security, and Troubleshooting",
+    "category": "AWS",
+    "date": "2026-04-24",
+    "summary": "A practical guide on how to securely connect to your Amazon RDS MySQL instance using various tools and how to troubleshoot common connection issues.",
+    "tags": ["AWS", "RDS", "MySQL", "Databases", "Connectivity", "Infrastructure"]
+  },
+  {
     "slug": "amazon-rds-mysql-upgrades",
     "folder": "aws",
     "title": "Mastering Amazon RDS MySQL Upgrades: Strategies for Success",
