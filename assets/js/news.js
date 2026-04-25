@@ -13,9 +13,9 @@
 
   const HN_API = 'https://hacker-news.firebaseio.com/v0';
   const AWS_SECURITY_RSS = 'https://aws.amazon.com/blogs/security/feed/';
-  const FEED2JSON_API = 'https://feed2json.org/convert';
+  const RSS2JSON_API = 'https://api.rss2json.com/v1/api.json';
   
-  const STORIES_TO_FETCH = 30;
+  const STORIES_TO_FETCH = 10;
 
   /**
    * Hacker News Fetching
@@ -68,15 +68,13 @@
   async function fetchSecurity() {
     if (!securityList) return;
     try {
-      // feed2json returns a standard JSON Feed format
-      const response = await fetch(`${FEED2JSON_API}?url=${encodeURIComponent(AWS_SECURITY_RSS)}`);
+      const response = await fetch(`${RSS2JSON_API}?rss_url=${encodeURIComponent(AWS_SECURITY_RSS)}&count=${STORIES_TO_FETCH}`);
       if (!response.ok) throw new Error('Failed to fetch security news');
       
       const data = await response.json();
-      // JSON Feed items are in .items
-      const items = data.items ? data.items.slice(0, STORIES_TO_FETCH) : [];
+      if (data.status !== 'ok') throw new Error(data.message || 'Failed to parse RSS');
 
-      renderSecurity(items);
+      renderSecurity(data.items);
       securityLoading.style.display = 'none';
     } catch (error) {
       console.error('Error fetching security news:', error);
@@ -88,11 +86,11 @@
   function renderSecurity(items) {
     securityList.innerHTML = items.map(item => `
       <li class="news-item">
-        <a href="${escapeHtml(item.url)}" class="news-link" target="_blank" rel="noopener noreferrer">
+        <a href="${escapeHtml(item.link)}" class="news-link" target="_blank" rel="noopener noreferrer">
           <h3 class="news-title">${escapeHtml(item.title)}</h3>
           <div class="news-meta">
-            <span class="news-date">📅 ${formatDate(item.date_published || item.date_modified)}</span>
-            <span class="news-author">✍️ ${escapeHtml((item.author && item.author.name) || 'AWS Security')}</span>
+            <span class="news-date">📅 ${formatDate(item.pubDate)}</span>
+            <span class="news-author">✍️ ${escapeHtml(item.author || 'AWS Security')}</span>
             <span class="news-source">AWS Security Blog</span>
           </div>
         </a>
