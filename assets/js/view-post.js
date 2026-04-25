@@ -1,6 +1,47 @@
 'use strict';
 
 (function () {
+
+  // ── Reading progress bar ────────────────────────────────────────────────
+  var progressBar = document.getElementById('reading-progress');
+  if (progressBar) {
+    window.addEventListener('scroll', function () {
+      var scrollTop    = document.documentElement.scrollTop || document.body.scrollTop;
+      var scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      progressBar.style.width = (scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0) + '%';
+    }, { passive: true });
+  }
+
+  // ── Copy code buttons ───────────────────────────────────────────────────
+  function addCopyButtons(container) {
+    container.querySelectorAll('pre').forEach(function (pre) {
+      var code = pre.querySelector('code');
+      if (!code) return;
+
+      var btn = document.createElement('button');
+      btn.className = 'copy-btn';
+      btn.textContent = 'Copy';
+      btn.setAttribute('aria-label', 'Copy code to clipboard');
+
+      btn.addEventListener('click', function () {
+        navigator.clipboard.writeText(code.textContent).then(function () {
+          btn.textContent = 'Copied!';
+          btn.classList.add('copied');
+          setTimeout(function () {
+            btn.textContent = 'Copy';
+            btn.classList.remove('copied');
+          }, 2000);
+        }).catch(function () {
+          btn.textContent = 'Error';
+          setTimeout(function () { btn.textContent = 'Copy'; }, 2000);
+        });
+      });
+
+      pre.appendChild(btn);
+    });
+  }
+
+  // ── Post fetch + render ─────────────────────────────────────────────────
   const urlParams = new URLSearchParams(window.location.search);
   const postSlug = urlParams.get('post');
 
@@ -54,6 +95,7 @@
       }
 
       document.getElementById('post-content').innerHTML = marked.parse(content);
+      addCopyButtons(document.getElementById('post-content'));
 
       const wordCount = content.split(/\s+/).length;
       document.getElementById('post-reading-time').textContent = Math.ceil(wordCount / 200) + ' min read';

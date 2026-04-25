@@ -7,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Blog Post | Francesco Wang</title>
   <link rel="shortcut icon" href="../assets/images/my-avatar.png" type="image/png">
+  <script src="../assets/js/theme.js"></script>
   <link rel="stylesheet" href="../assets/css/base.css">
   <link rel="stylesheet" href="../assets/css/layout.css">
   <link rel="stylesheet" href="../assets/css/pages.css">
@@ -21,10 +22,15 @@
 
 <body class="post-page">
 
+  <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
+
   <main class="post-shell" aria-label="Blog post">
     <article class="post-article active">
 
-      <a href="../index.html#blog" class="text-link post-back-link" aria-label="Back to blog listing">Back to portfolio blog</a>
+      <div class="post-nav-row">
+        <a href="../index.html#blog" class="text-link post-back-link" aria-label="Back to blog listing">← Back to portfolio blog</a>
+        <button class="theme-btn" data-theme-toggle aria-label="Switch to light mode" title="Switch to light mode">☀</button>
+      </div>
 
       <header class="post-header">
         <p class="post-kicker" id="post-category"></p>

@@ -103,6 +103,86 @@
 
 
 /*-----------------------------------*\
+  #LIGHT MODE
+\*-----------------------------------*/
+
+[data-theme="light"] {
+
+  --smoky-black:      hsl(210, 16%, 93%);
+  --eerie-black-2:    hsl(0, 0%, 100%);
+  --eerie-black-1:    hsl(210, 14%, 95%);
+  --jet:              hsl(210, 10%, 82%);
+  --onyx:             hsl(210, 12%, 88%);
+
+  --white-1:          hsl(0, 0%, 8%);
+  --white-2:          hsl(0, 0%, 10%);
+  --light-gray:       hsl(0, 0%, 28%);
+  --light-gray-70:    hsla(0, 0%, 28%, 0.7);
+
+  --bg-gradient-onyx: linear-gradient(
+    to bottom right,
+    hsl(210, 14%, 90%) 3%,
+    hsl(210, 10%, 86%) 97%
+  );
+  --bg-gradient-jet: linear-gradient(
+    to bottom right,
+    hsla(210, 14%, 88%, 0.4) 0%,
+    hsla(210, 14%, 90%, 0) 100%
+  ), hsl(210, 14%, 94%);
+  --border-gradient-onyx: linear-gradient(
+    to bottom right,
+    hsl(210, 10%, 72%) 0%,
+    hsla(210, 10%, 72%, 0) 50%
+  );
+
+  --shadow-1: -4px 8px 24px hsla(0, 0%, 0%, 0.08);
+  --shadow-2: 0 16px 30px hsla(0, 0%, 0%, 0.08);
+  --shadow-3: 0 16px 40px hsla(0, 0%, 0%, 0.08);
+  --shadow-4: 0 25px 50px hsla(0, 0%, 0%, 0.05);
+  --shadow-5: 0 24px 80px hsla(0, 0%, 0%, 0.08);
+
+}
+
+[data-theme="light"] ::selection {
+  color: var(--white-1);
+}
+
+/* inline code: yellow on light bg has poor contrast — use blue */
+[data-theme="light"] .post-content code {
+  color: hsl(215, 60%, 38%);
+}
+
+
+
+
+
+/*-----------------------------------*\
+  #THEME TOGGLE BUTTON
+\*-----------------------------------*/
+
+.theme-btn {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--jet);
+  background: var(--onyx);
+  cursor: pointer;
+  transition: color var(--transition-1), border-color var(--transition-1);
+  line-height: 1;
+}
+
+.theme-btn:hover,
+.theme-btn:focus {
+  color: var(--orange-yellow-crayola);
+  border-color: var(--orange-yellow-crayola);
+}
+
+
+
+
+
+/*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
 

@@ -187,3 +187,8 @@ main {
 .navbar-link:focus { color: var(--light-gray-70); }
 
 .navbar-link.active { color: var(--orange-yellow-crayola); }
+
+[data-theme="light"] .navbar {
+  background: hsla(210, 20%, 94%, 0.85);
+  border-color: var(--jet);
+}

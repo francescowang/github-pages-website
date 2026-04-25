@@ -216,6 +216,98 @@
   color: var(--light-gray-70);
 }
 
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--fs-6);
+  overflow-x: auto;
+  display: block;
+}
+
+.post-content th,
+.post-content td {
+  padding: 8px 14px;
+  border: 1px solid var(--jet);
+  text-align: left;
+  line-height: 1.5;
+  white-space: nowrap;
+}
+
+.post-content th {
+  background: var(--onyx);
+  color: var(--white-2);
+  font-weight: var(--fw-500);
+}
+
+.post-content td {
+  color: var(--light-gray);
+}
+
+
+/*-----------------------------------*\
+  #READING PROGRESS BAR
+\*-----------------------------------*/
+
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: var(--orange-yellow-crayola);
+  z-index: 999;
+  transition: width 0.1s linear;
+}
+
+
+/*-----------------------------------*\
+  #COPY CODE BUTTON
+\*-----------------------------------*/
+
+.post-content pre {
+  position: relative;
+}
+
+.copy-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 3px 10px;
+  background: var(--jet);
+  color: var(--light-gray);
+  font-size: var(--fs-8);
+  font-family: var(--ff-poppins);
+  font-weight: var(--fw-500);
+  border-radius: 6px;
+  border: 1px solid var(--onyx);
+  cursor: pointer;
+  transition: color var(--transition-1), background var(--transition-1);
+  opacity: 0.7;
+}
+
+.copy-btn:hover,
+.copy-btn:focus {
+  opacity: 1;
+  color: var(--orange-yellow-crayola);
+}
+
+.copy-btn.copied {
+  color: hsl(140, 60%, 55%);
+  opacity: 1;
+}
+
+
+/*-----------------------------------*\
+  #POST NAV ROW
+\*-----------------------------------*/
+
+.post-nav-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
 
 
 /*-----------------------------------*\
