@@ -109,7 +109,7 @@ nodes:
 ### How port mappings work:
 
 ```sh
-Your Mac (macOS)           Docker Desktop VM        Kubernetes Cluster
+Your Mac (macOS)          Docker Desktop VM       Kubernetes Cluster
 ┌──────────────┐          ┌──────────────┐        ┌──────────────┐
 │ localhost    │          │ Docker Daemon│        │ Control Plane│
 │ :8080 ────────────────→ :8080 ────────────────→ :80 (HTTP)     │
@@ -437,7 +437,7 @@ kubectl port-forward -n ingress-nginx svc/ingress-nginx-controller 8080:80
 **What this does:**
 
 ```sh
-Your Mac Terminal          Docker Container       Kubernetes Cluster
+Your Mac Terminal        Docker Container        Kubernetes Cluster
 ┌──────────────┐         ┌──────────────────┐    ┌────────────────────┐
 │ localhost    │         │  Docker Network  │    │ Ingress Controller │
 │ :8080 ◄─────────────────► :80 (tunneled) ◄─────► Port 80            │
@@ -456,7 +456,7 @@ When you `curl localhost:8080`, kubectl intercepts the request and forwards it t
 - `8080:80`: Local port 8080 → Remote port 80
 
 The command runs in the foreground and prints:
-```
+```sb
 Forwarding from 127.0.0.1:8080 -> 80
 ```
 
