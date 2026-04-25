@@ -396,6 +396,21 @@
     ]
   },
   {
+    "slug": "kubernetes-disruption-and-priority",
+    "folder": "kubernetes",
+    "title": "Kubernetes Pod Group Disruption and Priority",
+    "category": "Kubernetes",
+    "date": "2026-04-25",
+    "summary": "Exploring the intersection of availability and importance: how Kubernetes manages disruptions for pod groups and uses priority to handle scheduling pressure.",
+    "tags": [
+      "Kubernetes",
+      "Workloads",
+      "Availability",
+      "Priority",
+      "Infrastructure"
+    ]
+  },
+  {
     "slug": "kubernetes-services-and-networking",
     "folder": "kubernetes",
     "title": "Kubernetes Networking: Services, Load Balancing, and Connectivity",
