@@ -137,13 +137,14 @@ const navigationLinks = document.querySelectorAll("[data-nav-link]");
 const pages = document.querySelectorAll("[data-page]");
 
 const setActivePage = function (pageName) {
-  for (let i = 0; i < pages.length; i++) {
-    const isActivePage = pageName === pages[i].dataset.page;
-
-    pages[i].classList.toggle("active", isActivePage);
-    navigationLinks[i].classList.toggle("active", isActivePage);
-    navigationLinks[i].setAttribute("aria-current", isActivePage ? "page" : "false");
-  }
+  pages.forEach(function (page) {
+    page.classList.toggle("active", page.dataset.page === pageName);
+  });
+  navigationLinks.forEach(function (link) {
+    const isActive = link.dataset.navLink === pageName;
+    link.classList.toggle("active", isActive);
+    link.setAttribute("aria-current", isActive ? "page" : "false");
+  });
 }
 
 if (navigationLinks.length && pages.length) {
@@ -151,7 +152,7 @@ if (navigationLinks.length && pages.length) {
   for (let i = 0; i < navigationLinks.length; i++) {
     navigationLinks[i].addEventListener("click", function () {
 
-      const selectedPage = this.innerHTML.toLowerCase();
+      const selectedPage = this.dataset.navLink;
 
       setActivePage(selectedPage);
       window.location.hash = selectedPage;

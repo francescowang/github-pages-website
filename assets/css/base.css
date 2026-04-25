@@ -96,6 +96,12 @@
   --transition-1: 0.25s ease;
   --transition-2: 0.5s ease-in-out;
 
+  /**
+   * navbar backdrop
+   */
+
+  --navbar-bg: hsla(240, 1%, 17%, 0.75);
+
 }
 
 
@@ -159,6 +165,8 @@
   --shadow-3: 0 16px 40px hsla(0, 0%, 0%, 0.08);
   --shadow-4: 0 25px 50px hsla(0, 0%, 0%, 0.05);
   --shadow-5: 0 24px 80px hsla(0, 0%, 0%, 0.08);
+
+  --navbar-bg: hsla(210, 20%, 94%, 0.85);
 
 }
 
