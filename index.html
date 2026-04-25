@@ -323,11 +323,17 @@
             <ion-icon name="search-outline" aria-hidden="true"></ion-icon>
           </div>
 
-          <ul class="filter-list" data-filter-list role="list" aria-label="Filter posts by tag">
-            <li class="filter-item">
-              <button class="active" data-filter-btn data-filter-tag="all">All</button>
-            </li>
-          </ul>
+          <details class="filter-collapsible">
+            <summary class="filter-summary">
+              <span>Filter by Tag</span>
+              <ion-icon name="chevron-down-outline" aria-hidden="true"></ion-icon>
+            </summary>
+            <ul class="filter-list" data-filter-list role="list" aria-label="Filter posts by tag">
+              <li class="filter-item">
+                <button class="active" data-filter-btn data-filter-tag="all">All</button>
+              </li>
+            </ul>
+          </details>
         </section>
 
         <section class="blog-posts">
