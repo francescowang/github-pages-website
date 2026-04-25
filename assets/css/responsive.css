@@ -383,8 +383,8 @@
    */
 
   .sidebar {
-    flex: 0 0 340px;
-    width: 340px;
+    flex: 0 0 400px;
+    width: 400px;
     position: sticky;
     top: 60px;
     max-height: max-content;
@@ -415,10 +415,8 @@
   .contacts-list { grid-template-columns: 1fr; }
 
   .contact-info :is(.contact-link) {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
     display: block;
+    word-break: break-all;
   }
 
   .contact-info :is(.contact-link, time, address) {
