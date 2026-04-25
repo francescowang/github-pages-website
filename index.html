@@ -153,6 +153,10 @@
           </li>
 
           <li class="navbar-item">
+            <button class="navbar-link" data-nav-link="security-news" aria-current="false">Security News</button>
+          </li>
+
+          <li class="navbar-item">
             <button class="theme-btn" data-theme-toggle aria-label="Switch to light mode" title="Switch to light mode">☀</button>
           </li>
 
@@ -344,6 +348,20 @@
           <p class="loading-message" id="news-loading">Loading latest stories...</p>
           <ul class="news-list" id="news-list" aria-label="Latest tech news from Hacker News"></ul>
           <p class="error-message" id="news-error" style="display: none;">Failed to load news. Please try again later.</p>
+        </section>
+
+      </article>
+
+      <article class="security-news" data-page="security-news">
+
+        <header>
+          <h2 class="h2 article-title">Security News</h2>
+        </header>
+
+        <section class="news-section">
+          <p class="loading-message" id="security-loading">Loading latest security news...</p>
+          <ul class="news-list" id="security-list" aria-label="Latest security news from AWS Blog"></ul>
+          <p class="error-message" id="security-error" style="display: none;">Failed to load security news. Please try again later.</p>
         </section>
 
       </article>
