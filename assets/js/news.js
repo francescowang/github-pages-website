@@ -32,7 +32,7 @@
             <span class="news-source">${s.source}</span>
           `
         })).join('');
-        document.getElementById('news-loading').style.display = 'none';
+        document.getElementById('news-loading').classList.add('hidden');
       }
 
       if (securityList && data.security) {
@@ -45,7 +45,7 @@
             <span class="news-source">AWS Security Blog</span>
           `
         })).join('');
-        document.getElementById('security-loading').style.display = 'none';
+        document.getElementById('security-loading').classList.add('hidden');
       }
     } catch (error) {
       console.error('Cache load error:', error);

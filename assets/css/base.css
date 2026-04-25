@@ -102,6 +102,27 @@
 
   --navbar-bg: hsla(240, 1%, 17%, 0.75);
 
+  /**
+   * spacing
+   */
+
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 20px;
+  --spacing-2xl: 24px;
+  --spacing-3xl: 32px;
+  --spacing-4xl: 40px;
+
+  /**
+   * border-radius
+   */
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+
 }
 
 
@@ -412,3 +433,15 @@ article.active {
 
 .text-link:hover,
 .text-link:focus { color: var(--white-2); }
+
+/**
+ * utility classes for inline styles
+ */
+
+.map-embed {
+  border: none;
+}
+
+.hidden {
+  display: none;
+}
