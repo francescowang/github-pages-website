@@ -8,7 +8,7 @@
   if (!newsList) return;
 
   const HN_API = 'https://hacker-news.firebaseio.com/v0';
-  const STORIES_TO_FETCH = 10;
+  const STORIES_TO_FETCH = 30;
 
   async function fetchNews() {
     try {
