@@ -1,5 +1,61 @@
 [
   {
+    "slug": "kubernetes-pod-lifecycle",
+    "title": "Kubernetes Pod Lifecycle: From Pending to Terminated",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding the various phases, conditions, and container states that define the life of a Kubernetes Pod.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-service-internal-traffic-policy",
+    "title": "Kubernetes Service Internal Traffic Policy: Optimizing Local Routing",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring how the Internal Traffic Policy allows you to control whether Service traffic is routed cluster-wide or restricted to the local node.",
+    "tags": ["Kubernetes", "Networking", "Traffic Policy", "Performance", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-cluster-ip-allocation",
+    "title": "Kubernetes ClusterIP Allocation: Preventing IP Collisions",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding the internal logic of how Kubernetes allocates IP addresses to Services and the strategy used to avoid conflicts.",
+    "tags": ["Kubernetes", "Networking", "ClusterIP", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-windows-networking",
+    "title": "Kubernetes Networking on Windows: Bridging the OS Gap",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding how Kubernetes handles networking for Windows containers, including the Host Networking Service (HNS) and differences from Linux.",
+    "tags": ["Kubernetes", "Networking", "Windows", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-topology-aware-routing",
+    "title": "Kubernetes Topology Aware Routing: Optimizing for Performance and Cost",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Learn how Topology Aware Routing helps reduce cross-zone traffic and latency by preferring endpoints in the same zone.",
+    "tags": ["Kubernetes", "Networking", "Topology", "Performance", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-dual-stack",
+    "title": "Kubernetes Dual-Stack: Bridging IPv4 and IPv6",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring how Kubernetes supports both IPv4 and IPv6 addresses simultaneously for Pods and Services.",
+    "tags": ["Kubernetes", "Networking", "Dual-Stack", "Infrastructure"]
+  },
+  {
+    "slug": "kubernetes-dns-services-pods",
+    "title": "Kubernetes DNS: How Services and Pods Find Each Other",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "A deep dive into the cluster's internal phonebook—understanding how DNS names are assigned to Services and Pods.",
+    "tags": ["Kubernetes", "Networking", "DNS", "Infrastructure"]
+  },
+  {
     "slug": "kubernetes-network-policies",
     "title": "Kubernetes Network Policies: Securing the East-West Traffic",
     "category": "Kubernetes",
