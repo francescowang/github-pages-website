@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "setup-local-kubernetes-kind",
+    "folder": "tutorials",
+    "title": "Hands-on: Setting up a Local Cluster with KinD",
+    "category": "Kubernetes",
+    "date": "2026-04-25",
+    "summary": "A step-by-step guide to running Kubernetes locally using Docker container nodes. Perfect for testing CNI and Ingress controllers.",
+    "tags": ["Kubernetes", "Docker", "Local Development", "Tutorial"]
+  }
+]

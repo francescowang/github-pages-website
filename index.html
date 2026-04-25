@@ -149,6 +149,10 @@
           </li>
 
           <li class="navbar-item">
+            <button class="navbar-link" data-nav-link="tutorials" aria-current="false">Tutorials</button>
+          </li>
+
+          <li class="navbar-item">
             <button class="navbar-link" data-nav-link="tech-news" aria-current="false">Tech News</button>
           </li>
 
@@ -332,6 +336,42 @@
               <ion-icon name="chevron-down-outline" aria-hidden="true"></ion-icon>
             </summary>
             <ul class="filter-list" data-filter-list role="list" aria-label="Filter posts by tag">
+              <li class="filter-item">
+                <button class="active" data-filter-btn data-filter-tag="all">All</button>
+              </li>
+            </ul>
+          </details>
+        </section>
+
+        <section class="blog-posts">
+
+          <ul class="blog-posts-list" data-blog-posts-list></ul>
+
+        </section>
+
+      </article>
+
+      <article class="tutorials" data-page="tutorials">
+
+        <header>
+          <h2 class="h2 article-title">Tutorials</h2>
+        </header>
+
+        <section class="blog-filter">
+          <div class="search-wrapper">
+            <input type="text" name="search" placeholder="Search tutorials..." class="search-input" data-blog-search aria-label="Search tutorials">
+            <ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+          </div>
+
+          <details class="filter-collapsible">
+            <summary class="filter-summary">
+              <span>
+                <ion-icon name="filter-outline" aria-hidden="true"></ion-icon>
+                Filter by Tag
+              </span>
+              <ion-icon name="chevron-down-outline" aria-hidden="true"></ion-icon>
+            </summary>
+            <ul class="filter-list" data-filter-list role="list" aria-label="Filter tutorials by tag">
               <li class="filter-item">
                 <button class="active" data-filter-btn data-filter-tag="all">All</button>
               </li>

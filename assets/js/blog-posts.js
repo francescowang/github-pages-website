@@ -1,138 +1,143 @@
 'use strict';
 
-(function() {
-  const blogPostsMetaSource = document.body.dataset.blogPostsSource;
-  const blogViewerPath = document.body.dataset.blogViewerPath || './blog/view.html';
-  
-  let allPosts = [];
-  let activeTag = 'all';
-  let searchQuery = '';
+class PostEngine {
+  constructor(containerSelector, sourceUrl) {
+    this.container = document.querySelector(containerSelector);
+    if (!this.container) return;
 
-  const blogPostsList = document.querySelector('[data-blog-posts-list]');
-  const filterList = document.querySelector('[data-filter-list]');
-  const searchInput = document.querySelector('[data-blog-search]');
+    this.sourceUrl = sourceUrl;
+    this.viewerPath = document.body.dataset.blogViewerPath || './blog/view.html';
+    
+    this.allPosts = [];
+    this.activeTag = 'all';
+    this.searchQuery = '';
 
-  if (blogPostsMetaSource) {
-    fetch(blogPostsMetaSource, { cache: 'no-store' })
-      .then(function (response) {
-        if (!response.ok) throw new Error('Failed to load posts metadata');
-        return response.json();
-      })
-      .then(function (posts) {
-        allPosts = posts.slice().sort(function (a, b) {
-          return new Date(b.date) - new Date(a.date);
-        });
-        
-        renderTags(allPosts);
-        renderBlogPosts(allPosts);
-        setupEventListeners();
-      })
-      .catch(function (error) {
-        console.error('Error loading blog posts:', error);
-        if (blogPostsList) {
-          blogPostsList.innerHTML = '<li class="blog-post-item"><div class="blog-content"><p class="blog-text">Unable to load blog posts. Run a local server or use GitHub Pages.</p></div></li>';
-        }
-      });
+    this.postsList = this.container.querySelector('[data-blog-posts-list]');
+    this.filterList = this.container.querySelector('[data-filter-list]');
+    this.searchInput = this.container.querySelector('[data-blog-search]');
+
+    this.init();
   }
 
-  function renderTags(posts) {
-    if (!filterList) return;
+  async init() {
+    try {
+      const response = await fetch(this.sourceUrl, { cache: 'no-store' });
+      if (!response.ok) throw new Error('Failed to load posts');
+      
+      const posts = await response.json();
+      this.allPosts = posts.slice().sort((a, b) => new Date(b.date) - new Date(a.date));
+      
+      this.renderTags();
+      this.renderPosts();
+      this.setupEventListeners();
+    } catch (error) {
+      console.error(`Error loading posts from ${this.sourceUrl}:`, error);
+      if (this.postsList) {
+        this.postsList.innerHTML = '<li class="blog-post-item"><div class="blog-content"><p class="blog-text">Unable to load content at this time.</p></div></li>';
+      }
+    }
+  }
+
+  renderTags() {
+    if (!this.filterList) return;
     
     const tags = new Set();
-    posts.forEach(post => {
-      if (post.tags) {
-        post.tags.forEach(tag => tags.add(tag));
-      }
+    this.allPosts.forEach(post => {
+      if (post.tags) post.tags.forEach(tag => tags.add(tag));
     });
 
     const sortedTags = Array.from(tags).sort();
     
-    // Keep "All" and add the others
-    filterList.innerHTML = `
+    this.filterList.innerHTML = `
       <li class="filter-item">
-        <button class="${activeTag === 'all' ? 'active' : ''}" data-filter-btn data-filter-tag="all">All</button>
+        <button class="${this.activeTag === 'all' ? 'active' : ''}" data-filter-btn data-filter-tag="all">All</button>
       </li>
       ${sortedTags.map(tag => `
         <li class="filter-item">
-          <button class="${activeTag === tag ? 'active' : ''}" data-filter-btn data-filter-tag="${tag}">${tag}</button>
+          <button class="${this.activeTag === tag ? 'active' : ''}" data-filter-btn data-filter-tag="${tag}">${tag}</button>
         </li>
       `).join('')}
     `;
   }
 
-  function renderBlogPosts(posts) {
-    if (!blogPostsList) return;
+  renderPosts() {
+    if (!this.postsList) return;
 
-    const filtered = posts.filter(post => {
-      const matchesTag = activeTag === 'all' || (post.tags && post.tags.includes(activeTag));
-      const matchesSearch = post.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
-                            post.summary.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                            (post.tags && post.tags.some(t => t.toLowerCase().includes(searchQuery.toLowerCase())));
+    const filtered = this.allPosts.filter(post => {
+      const matchesTag = this.activeTag === 'all' || (post.tags && post.tags.includes(this.activeTag));
+      const matchesSearch = post.title.toLowerCase().includes(this.searchQuery.toLowerCase()) || 
+                            post.summary.toLowerCase().includes(this.searchQuery.toLowerCase()) ||
+                            (post.tags && post.tags.some(t => t.toLowerCase().includes(this.searchQuery.toLowerCase())));
       return matchesTag && matchesSearch;
     });
 
     if (filtered.length === 0) {
-      blogPostsList.innerHTML = '<li class="blog-post-item"><div class="blog-content"><p class="blog-text">No posts found matching your criteria.</p></div></li>';
+      this.postsList.innerHTML = '<li class="blog-post-item"><div class="blog-content"><p class="blog-text">No items found matching your criteria.</p></div></li>';
       return;
     }
 
-    blogPostsList.innerHTML = filtered.map(function (post) {
-      return `
-        <li class="blog-post-item">
-          <a href="${blogViewerPath}?post=${encodeURIComponent(post.slug)}">
-            <div class="blog-content">
-              <div class="blog-meta">
-                <p class="blog-category">${post.category}</p>
-                <span class="dot"></span>
-                <time datetime="${post.date}">${formatBlogPostDate(post.date)}</time>
-              </div>
-              <h3 class="h3 blog-item-title">${post.title}</h3>
-              <p class="blog-text">${post.summary}</p>
-              ${post.tags ? `
-                <div class="blog-post-tags">
-                  ${post.tags.map(tag => `<span class="post-tag">${tag}</span>`).join('')}
-                </div>
-              ` : ''}
+    this.postsList.innerHTML = filtered.map(post => `
+      <li class="blog-post-item">
+        <a href="${this.viewerPath}?post=${encodeURIComponent(post.slug)}">
+          <div class="blog-content">
+            <div class="blog-meta">
+              <p class="blog-category">${post.category}</p>
+              <span class="dot"></span>
+              <time datetime="${post.date}">${this.formatDate(post.date)}</time>
             </div>
-          </a>
-        </li>
-      `;
-    }).join('');
+            <h3 class="h3 blog-item-title">${post.title}</h3>
+            <p class="blog-text">${post.summary}</p>
+            ${post.tags ? `
+              <div class="blog-post-tags">
+                ${post.tags.map(tag => `<span class="post-tag">${tag}</span>`).join('')}
+              </div>
+            ` : ''}
+          </div>
+        </a>
+      </li>
+    `).join('');
   }
 
-  function formatBlogPostDate(dateValue) {
+  formatDate(dateValue) {
     const parsedDate = new Date(dateValue);
     if (Number.isNaN(parsedDate.getTime())) return dateValue;
     return new Intl.DateTimeFormat('en-GB', {
-      day: '2-digit',
-      month: 'short',
-      year: 'numeric'
+      day: '2-digit', month: 'short', year: 'numeric'
     }).format(parsedDate);
   }
 
-  function setupEventListeners() {
-    if (filterList) {
-      filterList.addEventListener('click', function(e) {
+  setupEventListeners() {
+    if (this.filterList) {
+      this.filterList.addEventListener('click', (e) => {
         const btn = e.target.closest('[data-filter-btn]');
         if (!btn) return;
         
         const clickedTag = btn.dataset.filterTag;
-        activeTag = (clickedTag !== 'all' && clickedTag === activeTag) ? 'all' : clickedTag;
+        this.activeTag = (clickedTag !== 'all' && clickedTag === this.activeTag) ? 'all' : clickedTag;
         
-        // Update active class
-        filterList.querySelectorAll('[data-filter-btn]').forEach(b => {
-          b.classList.toggle('active', b.dataset.filterTag === activeTag);
+        this.filterList.querySelectorAll('[data-filter-btn]').forEach(b => {
+          b.classList.toggle('active', b.dataset.filterTag === this.activeTag);
         });
         
-        renderBlogPosts(allPosts);
+        this.renderPosts();
       });
     }
 
-    if (searchInput) {
-      searchInput.addEventListener('input', function(e) {
-        searchQuery = e.target.value;
-        renderBlogPosts(allPosts);
+    if (this.searchInput) {
+      this.searchInput.addEventListener('input', (e) => {
+        this.searchQuery = e.target.value;
+        this.renderPosts();
       });
     }
   }
-})();
+}
+
+// Initialize for both sections
+document.addEventListener('DOMContentLoaded', () => {
+  const blogSource = document.body.dataset.blogPostsSource;
+  if (blogSource) {
+    new PostEngine('article.blog', blogSource);
+  }
+  
+  new PostEngine('article.tutorials', './assets/data/tutorials-meta.json');
+});
