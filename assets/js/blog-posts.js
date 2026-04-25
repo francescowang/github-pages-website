@@ -116,11 +116,13 @@
         const btn = e.target.closest('[data-filter-btn]');
         if (!btn) return;
         
-        activeTag = btn.dataset.filterTag;
+        const clickedTag = btn.dataset.filterTag;
+        activeTag = (clickedTag !== 'all' && clickedTag === activeTag) ? 'all' : clickedTag;
         
         // Update active class
-        filterList.querySelectorAll('[data-filter-btn]').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
+        filterList.querySelectorAll('[data-filter-btn]').forEach(b => {
+          b.classList.toggle('active', b.dataset.filterTag === activeTag);
+        });
         
         renderBlogPosts(allPosts);
       });

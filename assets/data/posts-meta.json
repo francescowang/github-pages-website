@@ -1,5 +1,13 @@
 [
   {
+    "slug": "kubernetes-pod-qos",
+    "title": "Kubernetes Pod QoS Classes: Understanding Resource Priority",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring how Kubernetes assigns Quality of Service (QoS) classes to Pods and how this affects scheduling and eviction during resource pressure.",
+    "tags": ["Kubernetes", "Workloads", "Pods", "Resources", "Infrastructure"]
+  },
+  {
     "slug": "kubernetes-pod-hostname",
     "title": "Kubernetes Pod Hostnames: Understanding Identity and DNS",
     "category": "Kubernetes",

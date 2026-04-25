@@ -5,10 +5,13 @@
 
 /**
  * copyright 2022 @codewithsadee
+ *
+ * CSS is split into logical files.
+ * Each HTML file links them directly as <link> tags for parallel loading.
+ *
+ *   base.css       — custom properties, reset, reused styles
+ *   layout.css     — main layout, sidebar, navbar
+ *   pages.css      — about, resume sections
+ *   blog.css       — blog cards, post viewer, search & filter
+ *   responsive.css — all @media queries
  */
-
-@import './base.css';
-@import './layout.css';
-@import './pages.css';
-@import './blog.css';
-@import './responsive.css';
