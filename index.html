@@ -149,6 +149,10 @@
           </li>
 
           <li class="navbar-item">
+            <button class="navbar-link" data-nav-link="tech-news" aria-current="false">Tech News</button>
+          </li>
+
+          <li class="navbar-item">
             <button class="theme-btn" data-theme-toggle aria-label="Switch to light mode" title="Switch to light mode">☀</button>
           </li>
 
@@ -330,11 +334,26 @@
 
       </article>
 
+      <article class="tech-news" data-page="tech-news">
+
+        <header>
+          <h2 class="h2 article-title">Tech News</h2>
+        </header>
+
+        <section class="news-section">
+          <p class="loading-message" id="news-loading">Loading latest stories...</p>
+          <ul class="news-list" id="news-list" aria-label="Latest tech news from Hacker News"></ul>
+          <p class="error-message" id="news-error" style="display: none;">Failed to load news. Please try again later.</p>
+        </section>
+
+      </article>
+
     </div>
 
   </main>
 
   <script src="./assets/js/blog-posts.js"></script>
+  <script src="./assets/js/news.js"></script>
   <script src="./assets/js/script.js"></script>
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
