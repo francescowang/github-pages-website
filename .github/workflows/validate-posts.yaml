@@ -16,6 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Check JavaScript syntax
+        run: node --check assets/js/*.js
+
       - name: Check every slug has a matching .md file
         run: python3 scripts/validate-posts.py
 
