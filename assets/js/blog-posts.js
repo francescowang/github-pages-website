@@ -83,7 +83,7 @@ class PostEngine {
             <div class="blog-meta">
               <p class="blog-category">${post.category}</p>
               <span class="dot"></span>
-              <time datetime="${post.date}">${this.formatDate(post.date)}</time>
+              <time datetime="${post.date}">${Utils.formatDate(post.date)}</time>
             </div>
             <h3 class="h3 blog-item-title">${post.title}</h3>
             <p class="blog-text">${post.summary}</p>
@@ -96,14 +96,6 @@ class PostEngine {
         </a>
       </li>
     `).join('');
-  }
-
-  formatDate(dateValue) {
-    const parsedDate = new Date(dateValue);
-    if (Number.isNaN(parsedDate.getTime())) return dateValue;
-    return new Intl.DateTimeFormat('en-GB', {
-      day: '2-digit', month: 'short', year: 'numeric'
-    }).format(parsedDate);
   }
 
   setupEventListeners() {
@@ -135,9 +127,8 @@ class PostEngine {
 // Initialize for both sections
 document.addEventListener('DOMContentLoaded', () => {
   const blogSource = document.body.dataset.blogPostsSource;
-  if (blogSource) {
-    new PostEngine('article.blog', blogSource);
-  }
-  
-  new PostEngine('article.tutorials', './assets/data/tutorials-meta.json');
+  if (blogSource) new PostEngine('article.blog', blogSource);
+
+  const tutorialsSource = document.body.dataset.tutorialsSource;
+  if (tutorialsSource) new PostEngine('article.tutorials', tutorialsSource);
 });

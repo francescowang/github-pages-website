@@ -161,8 +161,6 @@
     left: -43px;
   }
 
-  .skills-item:not(:last-child) { margin-bottom: 25px; }
-
 
 
   /**
@@ -215,17 +213,6 @@
   /**
    * ABOUT
    */
-
-  /* testimonials modal */
-
-  .testimonials-modal {
-    gap: 35px;
-    max-width: 680px;
-  }
-
-  .modal-avatar-box img { width: 80px; }
-
-
 
   /**
    * PORTFOLIO

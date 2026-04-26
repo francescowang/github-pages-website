@@ -49,12 +49,19 @@
       }
     } catch (error) {
       console.error('Cache load error:', error);
-      // Fail silently or show error UI if cache is missing
+      document.getElementById('news-loading')?.classList.add('hidden');
+      document.getElementById('security-loading')?.classList.add('hidden');
+      document.getElementById('news-error')?.classList.remove('hidden');
+      document.getElementById('security-error')?.classList.remove('hidden');
     }
   }
 
   function formatDate(dateStr) {
-    try { return new Date(dateStr).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' }); } catch { return dateStr; }
+    try {
+      return new Date(dateStr).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+    } catch {
+      return dateStr;
+    }
   }
 
   function escapeHtml(text) {

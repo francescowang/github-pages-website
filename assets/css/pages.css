@@ -31,25 +31,6 @@
   background: var(--onyx);
 }
 
-.location-section { margin-bottom: 10px; }
-
-.map-container {
-  width: 100%;
-  height: 300px;
-  border-radius: 8px;
-  overflow: hidden;
-  border: 1px solid var(--jet);
-  margin-top: 15px;
-}
-
-.map-container iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-
-
 
 
 /*-----------------------------------*\
