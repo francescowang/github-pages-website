@@ -30,7 +30,7 @@ const renderPortfolioData = function (data) {
       fetch(data.profile.aboutFile, { cache: "no-store" })
         .then(response => response.text())
         .then(markdown => {
-          aboutSection.innerHTML = marked(markdown);
+          aboutSection.innerHTML = marked.parse(markdown);
         })
         .catch(error => console.error("Error loading about text:", error));
     } else if (data.profile?.about) {
