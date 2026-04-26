@@ -1,0 +1,29 @@
+{
+  "commands": {
+    "whoami": {"output": "Francesco Wang\nSenior DevOps Engineer"},
+    "hostname": {"output": "platform-engineer"},
+    "pwd": {"output": "/home/francesco"},
+    "date": {"output": "Sun Apr 26 2026 12:00:00 GMT+0000 (UTC)"},
+    "uname -a": {"output": "Linux platform-engineer 6.1.0-ubuntu #1 SMP x86_64 GNU/Linux"},
+    "uname": {"output": "Linux"},
+    "ls": {"output": "about/                golden-path/          skills/\nipe/                  dpe/                  spe/                   ope/\ncontact/              education/            certifications/"},
+    "ls -la": {"output": "total 48\ndrwxr-xr-x 10 francesco francesco 4096 Apr 26 12:00 .\ndrwxr-xr-x  3 root      root      4096 Apr 26 11:00 ..\n-rw-r--r--  1 francesco francesco  512 Apr 26 12:00 about\ndrwxr-xr-x  2 francesco francesco 4096 Apr 26 12:00 contact\ndrwxr-xr-x  2 francesco francesco 4096 Apr 26 12:00 education\ndrwxr-xr-x  2 francesco francesco 4096 Apr 26 12:00 golden-path\ndrwxr-xr-x  2 francesco francesco 4096 Apr 26 12:00 ipe\ndrwxr-xr-x  2 francesco francesco 4096 Apr 26 12:00 dpe\ndrwxr-xr-x  2 francesco francesco 4096 Apr 26 12:00 spe\ndrwxr-xr-x  2 francesco francesco 4096 Apr 26 12:00 ope\ndrwxr-xr-x  2 francesco francesco 4096 Apr 26 12:00 skills"},
+    "echo hello": {"output": "hello"},
+    "echo $USER": {"output": "francesco"},
+    "history": {"output": "  1  whoami\n  2  ls\n  3  cat about\n  4  cd portfolio\n  5  history"},
+    "about": {"output": "Multidisciplinary Platform Engineer with the versatility to operate across the entire platform lifecycle.\n\nI wear the different hats of Infrastructure Platform Engineer (IPE), DevEx Platform Engineer (DPE), Security Platform Engineer (SPE), and Observability Platform Engineer (OPE) to bridge the gap between scalable infrastructure and developer enablement.\n\nRun 'cat ipe', 'cat dpe', 'cat spe', or 'cat ope' for details."},
+    "ipe": {"output": "Infrastructure Platform Engineer (IPE)\n\nI define default resource configurations and maintain core foundations including servers, networks, and databases to ensure the entire platform remains scalable and efficient."},
+    "dpe": {"output": "DevEx Platform Engineer (DPE)\n\nI focus on the human side of engineering by creating the tools, templates, and documentation required to streamline workflows and reduce cognitive load."},
+    "spe": {"output": "Security Platform Engineer (SPE)\n\nI embed security directly into the heartbeat of the platform by governing automated policy checks and sign-offs to ensure robust and built-in protection."},
+    "ope": {"output": "Observability Platform Engineer (OPE)\n\nI set the standards for reliability and monitoring whilst specialising in resource optimisation and the fine-tuning of production environments to maintain peak performance."},
+    "golden-path": {"output": "The Golden Path\n\nBy unifying the core pillars (IPE, DPE, SPE, OPE), I design and govern the Golden Path — a seamless and automated foundation that allows engineering teams to ship code rapidly within a reliable, optimised, and secure production environment."},
+    "skills": {"output": "AWS, Azure, Terraform, Docker, Kubernetes, CI/CD, Linux, Platform Architecture, Python, Go, Bash, TypeScript"},
+    "contact": {"output": "Email: francescofw@proton.me\nLinkedIn: https://www.linkedin.com/in/francescowang/\nGitHub: https://github.com/francescowang"},
+    "education": {"output": "Maastricht University - MA in Globalisation and Development Studies\nUniversity of Manchester - BA in Business Management and Modern Languages"},
+    "certifications": {"output": "View certifications on Credly: https://www.credly.com/users/francesco-wang/"},
+    "cat resume": {"output": "Senior DevOps Engineer specialising in platform engineering.\n\nMultidisciplinary Platform Engineer with expertise across:\n  - Infrastructure Platform Engineering (IPE)\n  - DevEx Platform Engineering (DPE)\n  - Security Platform Engineering (SPE)\n  - Observability Platform Engineering (OPE)\n\nDesign and govern the Golden Path for scalable, secure, and reliable infrastructure."},
+    "man platform-engineer": {"output": "PLATFORM-ENGINEER(1)\n\nNAME\n    platform-engineer - multidisciplinary engineer specialising in infrastructure, DevEx, security, and observability\n\nSYNOPSIS\n    Bridges gap between scalable infrastructure and developer enablement\n\nROLES\n    IPE (Infrastructure Platform Engineer)\n    DPE (DevEx Platform Engineer)\n    SPE (Security Platform Engineer)\n    OPE (Observability Platform Engineer)\n\nSEE ALSO\n    cat ipe, cat dpe, cat spe, cat ope, cat golden-path"},
+    "clear": {"output": "CLEAR"},
+    "help": {"output": "Available commands:\n\n  System Info:\n whoami - Print current user\n hostname - Print system hostname\n pwd                 - Print working directory\n    date                - Show current date/time\n    uname               - Show system information\n    uname -a            - Show detailed system info\n\n  File Operations:\n    ls                  - List files and directories\n    ls -la              - Detailed file listing\n    cat <file>          - Display file contents\n    cat about           - About section\n    cat resume          - Resume summary\n\n  Portfolio:\n    ipe/dpe/spe/ope     - Details on each platform engineering role\n    golden-path         - Learn about the Golden Path\n    skills              - Technical skills\n    contact             - Contact information\n    education           - Educational background\n    certifications      - View certifications\n\n  Other:\n    echo <text>         - Echo text\n    history             - Show command history\n    man <topic>         - Display manual page\n    clear               - Clear terminal\n    help                - Show this help message"}
+  }
+}

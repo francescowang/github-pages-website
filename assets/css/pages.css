@@ -13,7 +13,9 @@
 
 .about-text p { margin-bottom: 15px; }
 
-.stack-section { margin-bottom: 10px; }
+.stack-section { margin-bottom: 40px; }
+
+.service-title { margin-bottom: 20px; }
 
 .tag-list {
   display: flex;
