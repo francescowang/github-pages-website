@@ -2,7 +2,9 @@
   "profile": {
     "name": "Francesco Wang",
     "title": "Senior DevOps Engineer",
-    "aboutFile": "assets/data/portfolio-about.md"
+    "aboutFile": "assets/data/portfolio-about.md",
+    "learning": ["CUDA", "C++"],
+    "languages": ["Italian", "English", "Mandarin", "Spanish"]
   },
   "contact": {
     "email": "francescofw@proton.me",

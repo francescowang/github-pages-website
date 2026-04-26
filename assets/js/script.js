@@ -119,6 +119,22 @@ const renderPortfolioData = function (data) {
       return `<li class="tag-item">${skill}</li>`;
     }).join("");
   }
+
+  // render learning
+  const learningList = document.querySelector("[data-learning-list]");
+  if (learningList && data.profile?.learning?.length) {
+    learningList.innerHTML = data.profile.learning.map(function (item) {
+      return `<li class="tag-item">${item}</li>`;
+    }).join("");
+  }
+
+  // render languages
+  const languagesList = document.querySelector("[data-languages-list]");
+  if (languagesList && data.profile?.languages?.length) {
+    languagesList.innerHTML = data.profile.languages.map(function (lang) {
+      return `<li class="tag-item">${lang}</li>`;
+    }).join("");
+  }
 };
 
 // fetch and render portfolio data
