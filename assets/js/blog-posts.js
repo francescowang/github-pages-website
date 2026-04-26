@@ -54,7 +54,7 @@ class PostEngine {
       </li>
       ${sortedTags.map(tag => `
         <li class="filter-item">
-          <button class="${this.activeTag === tag ? 'active' : ''}" data-filter-btn data-filter-tag="${tag}">${tag}</button>
+          <button class="${this.activeTag === tag ? 'active' : ''}" data-filter-btn data-filter-tag="${Utils.escapeHtml(tag)}">${Utils.escapeHtml(tag)}</button>
         </li>
       `).join('')}
     `;
@@ -81,15 +81,15 @@ class PostEngine {
         <a href="${this.viewerPath}?post=${encodeURIComponent(post.slug)}">
           <div class="blog-content">
             <div class="blog-meta">
-              <p class="blog-category">${post.category}</p>
+              <p class="blog-category">${Utils.escapeHtml(post.category)}</p>
               <span class="dot"></span>
               <time datetime="${post.date}">${Utils.formatDate(post.date)}</time>
             </div>
-            <h3 class="h3 blog-item-title">${post.title}</h3>
-            <p class="blog-text">${post.summary}</p>
+            <h3 class="h3 blog-item-title">${Utils.escapeHtml(post.title)}</h3>
+            <p class="blog-text">${Utils.escapeHtml(post.summary)}</p>
             ${post.tags ? `
               <div class="blog-post-tags">
-                ${post.tags.map(tag => `<span class="post-tag">${tag}</span>`).join('')}
+                ${post.tags.map(tag => `<span class="post-tag">${Utils.escapeHtml(tag)}</span>`).join('')}
               </div>
             ` : ''}
           </div>

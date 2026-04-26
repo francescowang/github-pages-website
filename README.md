@@ -1,38 +1,85 @@
 # Francesco Wang - Personal Website
 
-This repository contains a static personal website with dynamic content loading for portfolio data and blog posts.
+This repository contains a static personal website with dynamic content loading for portfolio data and blog posts. No build step, no runtime dependencies.
 
 ## How The Website Works
 
 The UI shell is rendered from `index.html`, while content is loaded from JSON and Markdown files at runtime.
 
-- `index.html`: Main single-page app (About, CV, Portfolio, Blog tabs).
-- `assets/js/script.js`: Loads and renders profile/CV data from JSON.
-- `assets/js/blog-posts.js`: Fetches `posts-meta.json` in a single request and renders blog cards with filtering and search.
-- `assets/js/view-post.js`: Fetches post metadata from `posts-meta.json` and content from markdown, then renders the post.
-- `assets/data/portfolio.json`: Source of truth for About/CV/skills content.
-- `assets/data/posts-meta.json`: Single source of truth for all blog metadata (slug, title, category, date, summary, tags). One entry per post.
-- `blog/posts/<folder>/*.md`: Markdown files — pure content only, no frontmatter. Content is rendered via `marked.js`. Posts are organised into topic subfolders (e.g. `kubernetes/`, `aws/`).
-- `blog/view.html`: Blog post viewer shell. Loads `view-post.js` which handles fetching and rendering.
+### JavaScript
+
+| File | Purpose |
+|---|---|
+| `assets/js/theme.js` | Loaded before CSS — reads `localStorage` and sets `data-theme` to prevent flash of wrong theme |
+| `assets/js/utils.js` | Shared utilities: `formatDate`, `escapeHtml` |
+| `assets/js/script.js` | Loads `portfolio.json`, renders About/CV placeholders, handles page navigation |
+| `assets/js/blog-posts.js` | Fetches post/tutorial metadata, renders cards with tag filter and search via `PostEngine` class |
+| `assets/js/view-post.js` | Fetches post metadata and markdown content, renders the full post in `blog/view.html` |
+| `assets/js/news.js` | Loads cached news from `news-cache.json` and renders tech/security news sections |
+| `assets/js/vendor/marked.min.js` | Vendored markdown parser (no CDN dependency) |
+
+### Data Files
+
+| File | Purpose |
+|---|---|
+| `assets/data/portfolio.json` | Source of truth for profile, CV, skills, and metadata |
+| `assets/data/portfolio-about.md` | Long-form About section content (markdown, rendered at runtime) |
+| `assets/data/posts-meta.json` | Metadata for all blog posts (slug, title, category, date, summary, tags) |
+| `assets/data/tutorials-meta.json` | Metadata for all tutorials (same schema as posts) |
+| `assets/data/news-cache.json` | Cached tech and security news, updated by CI |
+
+### Pages
+
+| File | Purpose |
+|---|---|
+| `index.html` | Main single-page app (About, CV, Portfolio, Blog, Tutorials, News tabs) |
+| `blog/view.html` | Blog post and tutorial viewer shell |
 
 ## Data Flow
 
-1. `index.html` declares data sources via body attributes:
-	 - `data-portfolio-source`
-	 - `data-blog-posts-source`
-	 - `data-blog-viewer-path`
-2. On load, `script.js` fetches `portfolio.json` and fills CV/About placeholders.
-3. `blog-posts.js` fetches `posts-meta.json` (a single JSON request), sorts by date, and renders all blog cards with tag filters and search. Each card links to:
-	 - `./blog/view.html?post=<slug>`
-4. `view.html` loads `view-post.js`, which:
-   - Reads the `post` query param
-   - Parallel-fetches `posts-meta.json` (for metadata) and `blog/posts/<slug>.md` (for content)
-   - Renders the post header (title, category, date, tags) from metadata
-   - Renders the post body from markdown via `marked.js`
+1. `index.html` declares all data sources via `<body>` attributes:
+   - `data-portfolio-source`
+   - `data-blog-posts-source`
+   - `data-tutorials-source`
+   - `data-blog-viewer-path`
+2. `script.js` fetches `portfolio.json` and fills CV/About placeholders. If `profile.aboutFile` is set, it fetches and renders that markdown file.
+3. `blog-posts.js` reads both source attributes and creates a `PostEngine` instance per section. Each engine fetches its metadata JSON, sorts by date, and renders cards with tag filters and search.
+4. `view.html` loads `view-post.js`, which reads the `post` query param, searches both metadata files for the matching slug, fetches the markdown file, and renders the full post.
+
+## `portfolio.json` Schema
+
+```json
+{
+  "profile": {
+    "name": "string",
+    "title": "string",
+    "aboutFile": "path/to/about.md",
+    "learning": ["string"],
+    "languages": ["string"]
+  },
+  "contact": {
+    "email": "string",
+    "location": "string",
+    "linkedin": "url",
+    "github": "url"
+  },
+  "technologies": ["string"],
+  "experience": {
+    "work": [{ "title": "string", "period": "string" }],
+    "education": [{ "institution": "string", "degree": "string" }],
+    "certifications": [{ "title": "string", "description": "string" }],
+    "volunteering": [{ "title": "string", "period": "string" }],
+    "hobbies": ["string"],
+    "soft_skills": ["string"]
+  }
+}
+```
+
+If you change schema keys, update `assets/js/script.js` accordingly.
 
 ## Run Locally
 
-Do not open `index.html` directly from file explorer (`file://...`) because `fetch()` for JSON/Markdown will fail in most browsers.
+Do not open `index.html` directly from file explorer (`file://`) because `fetch()` for JSON/Markdown will fail in most browsers.
 
 Run a static server from the repo root:
 
@@ -40,29 +87,27 @@ Run a static server from the repo root:
 python -m http.server 4173
 ```
 
-Open:
-
-- `http://127.0.0.1:4173/`
-
-Stop server with `Ctrl+C`.
+Open `http://127.0.0.1:4173/` and stop with `Ctrl+C`.
 
 ## Edit Portfolio Content
 
-Update this file:
+- **About text:** edit `assets/data/portfolio-about.md` directly — supports full markdown
+- **Everything else:** edit `assets/data/portfolio.json`
 
-- `assets/data/portfolio.json`
+Sections rendered from `portfolio.json`:
 
-Sections currently rendered from it:
-
-- `profile.about`
-- `technologies`
-- `experience.work`
-- `experience.certifications`
-- `experience.education`
-- `experience.volunteering`
-- `experience.hobbies`
-
-If you change schema keys, update `assets/js/script.js` accordingly.
+| Key | Rendered in |
+|---|---|
+| `profile.aboutFile` | About — fetched and rendered as markdown |
+| `profile.learning` | About — "What I'm Learning" tag list |
+| `profile.languages` | CV — Languages timeline section |
+| `technologies` | About — Technical Skills tag list |
+| `experience.work` | CV — Work Experience |
+| `experience.certifications` | CV — Certifications |
+| `experience.education` | CV — Education |
+| `experience.volunteering` | CV — Volunteering & Internships |
+| `experience.hobbies` | CV — Hobbies |
+| `experience.soft_skills` | About — Soft Skills tag list |
 
 ## Add A New Blog Post
 
@@ -90,23 +135,19 @@ Or manually:
 
 `folder` must match the subdirectory under `blog/posts/` (e.g. `kubernetes`, `aws`). Cards are sorted by `date` descending at runtime.
 
-2. Create the markdown file **with only the post content** (no frontmatter):
+2. Create the markdown file with only the post content (no frontmatter):
 
-- `blog/posts/<folder>/your-post-slug.md`
-
-```markdown
-Post body starts here—no frontmatter, no duplicate title needed.
-
-## Section
-
-More content...
+```
+blog/posts/<folder>/your-post-slug.md
 ```
 
 3. Refresh browser at `http://127.0.0.1:4173/`.
 
-The post card will appear in Blog with all metadata from `posts-meta.json` and open in the viewer showing the content from the `.md` file.
+**To remove a post:** delete the `.md` file and remove its entry from `posts-meta.json`.
 
-**To remove a post:** delete the `.md` file and remove its entry from `posts-meta.json`. Remaining posts are unaffected.
+## Add A New Tutorial
+
+Same process as blog posts, but use `assets/data/tutorials-meta.json` and place the markdown file under `blog/posts/<folder>/`.
 
 ## Scripts & Hooks
 
@@ -134,20 +175,13 @@ See `.github/workflows/validate-posts.yml`.
 
 ## Common Issues
 
-- Blog cards or CV sections not showing:
-	- Ensure you are running with a local server (not `file://`).
-- New post not visible:
-	- Confirm an entry with the correct `slug` exists in `assets/data/posts-meta.json`.
-	- Confirm the markdown file exists at `blog/posts/<slug>.md` (slug must match exactly).
-- Viewer says "Error loading post":
-	- Confirm the markdown file exists at `blog/posts/<slug>.md`.
-	- Confirm the entry exists in `assets/data/posts-meta.json`.
-	- Check browser console for network errors (e.g., 404 on the `.md` file or JSON).
+- **Blog cards or CV sections not showing** — ensure you are running with a local server, not `file://`
+- **New post not visible** — confirm an entry with the correct `slug` exists in `posts-meta.json` and the markdown file exists at the matching path
+- **Viewer says "Error loading post"** — check the browser console for a 404 on the `.md` file or the metadata JSON
+- **About text not showing** — confirm `profile.aboutFile` in `portfolio.json` points to a valid path and the markdown file exists
 
 ## Deployment
 
-The site is static and can be hosted on GitHub Pages or any static host.
+The site is static — deploy to GitHub Pages or any static host with no build step.
 
-**Important:** Ensure `.nojekyll` file is present at the repo root. GitHub Pages runs Jekyll by default, which would intercept your `.md` files and prevent them from being served raw to `fetch()` calls. The `.nojekyll` file tells GitHub Pages to skip Jekyll entirely.
-
-No build step is required for the current setup.
+**Important:** ensure `.nojekyll` is present at the repo root. GitHub Pages runs Jekyll by default, which intercepts `.md` files and prevents them from being served raw to `fetch()`. The `.nojekyll` file disables Jekyll entirely.

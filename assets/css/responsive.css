@@ -6,12 +6,6 @@
  * responsive larger than 450px screen
  */
 
-@media (min-width: 450px) {
-
-}
-
-
-
 /**
  * responsive larger than 580px screen
  */
@@ -209,10 +203,6 @@
   .navbar-link { --fs-8: 15px; }
 
 
-
-  /**
-   * ABOUT
-   */
 
   /**
    * PORTFOLIO

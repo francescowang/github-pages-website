@@ -7,5 +7,11 @@ const Utils = {
     return new Intl.DateTimeFormat('en-GB', {
       day: '2-digit', month: 'short', year: 'numeric'
     }).format(parsed);
+  },
+
+  escapeHtml(text) {
+    if (!text) return '';
+    const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' };
+    return text.replace(/[&<>"']/g, m => map[m]);
   }
 };
