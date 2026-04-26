@@ -8,8 +8,8 @@
   function createNewsItemHtml({ title, url, metaContent }) {
     return `
       <li class="news-item">
-        <a href="${escapeHtml(url)}" class="news-link" target="_blank" rel="noopener noreferrer">
-          <h3 class="news-title">${escapeHtml(title)}</h3>
+        <a href="${Utils.escapeHtml(url)}" class="news-link" target="_blank" rel="noopener noreferrer">
+          <h3 class="news-title">${Utils.escapeHtml(title)}</h3>
           <div class="news-meta">${metaContent}</div>
         </a>
       </li>
@@ -62,12 +62,6 @@
     } catch {
       return dateStr;
     }
-  }
-
-  function escapeHtml(text) {
-    if (!text) return '';
-    const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' };
-    return text.replace(/[&<>"']/g, m => map[m]);
   }
 
   loadCachedNews();
