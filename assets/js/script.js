@@ -24,8 +24,18 @@ if (sidebar && sidebarBtn) {
 const renderPortfolioData = function (data) {
   // render about text
   const aboutSection = document.querySelector("[data-about-text]");
-  if (aboutSection && data.profile?.about) {
-    aboutSection.textContent = data.profile.about;
+  if (aboutSection) {
+    if (data.profile?.aboutFile) {
+      // fetch and render markdown file
+      fetch(data.profile.aboutFile, { cache: "no-store" })
+        .then(response => response.text())
+        .then(markdown => {
+          aboutSection.innerHTML = marked(markdown);
+        })
+        .catch(error => console.error("Error loading about text:", error));
+    } else if (data.profile?.about) {
+      aboutSection.textContent = data.profile.about;
+    }
   }
 
   // render technologies
