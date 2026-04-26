@@ -1,74 +1,74 @@
 {
   "tech": [
     {
-      "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
-      "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-      "score": 107,
-      "comments": 23,
-      "source": "github.com"
-    },
-    {
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 337,
-      "comments": 63,
-      "source": "hypertalking.com"
+      "title": "USB Cheat Sheet",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "score": 120,
+      "comments": 39,
+      "source": "fabiensanglard.net"
     },
     {
       "title": "The Free Universal Construction Kit",
       "url": "https://fffff.at/free-universal-construction-kit/",
-      "score": 44,
-      "comments": 7,
+      "score": 256,
+      "comments": 47,
       "source": "fffff.at"
+    },
+    {
+      "title": "Trump fires all 24 members of the U.S. National Science Foundation",
+      "url": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
+      "score": 315,
+      "comments": 138,
+      "source": "science.org"
+    },
+    {
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "score": 515,
+      "comments": 86,
+      "source": "hypertalking.com"
+    },
+    {
+      "title": "The Joy of Folding Bikes",
+      "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
+      "score": 68,
+      "comments": 38,
+      "source": "blog.korny.info"
+    },
+    {
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "score": 156,
+      "comments": 96,
+      "source": "blog.matthewbrunelle.com"
+    },
+    {
+      "title": "Why Has There Been So Little Progress on Alzheimer's Disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "score": 7,
+      "comments": 0,
+      "source": "freakonomics.com"
     },
     {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 438,
-      "comments": 255,
+      "score": 535,
+      "comments": 311,
       "source": "jeffgeerling.com"
     },
     {
-      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-      "url": "https://github.com/MartinGalway/C64_music",
-      "score": 114,
-      "comments": 16,
-      "source": "github.com"
-    },
-    {
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 745,
-      "comments": 717,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "What's Missing in the 'Agentic' Story",
-      "url": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains",
-      "score": 47,
-      "comments": 33,
-      "source": "mnot.net"
-    },
-    {
-      "title": "Desmond Morris, 98, Dies; Zoologist Saw Links Between Humans and Apes",
-      "url": "https://www.nytimes.com/2026/04/20/science/desmond-morris-dead.html",
-      "score": 44,
-      "comments": 4,
+      "title": "Her Life Savings Mysteriously Disappeared After a Systems Glitch",
+      "url": "https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html",
+      "score": 7,
+      "comments": 2,
       "source": "nytimes.com"
     },
     {
-      "title": "GPT 5.5 biosafety bounty",
-      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-      "score": 67,
-      "comments": 59,
-      "source": "openai.com"
-    },
-    {
-      "title": "Insights into firewood use by early Middle Pleistocene hominins",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0277379126001824",
-      "score": 26,
-      "comments": 6,
-      "source": "sciencedirect.com"
+      "title": "Simulacrum of Knowledge Work",
+      "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+      "score": 81,
+      "comments": 32,
+      "source": "blog.happyfellow.dev"
     }
   ],
   "security": [
