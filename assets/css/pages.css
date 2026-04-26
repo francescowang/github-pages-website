@@ -182,22 +182,13 @@
 }
 
 .news-item > a {
-  position: relative;
   background: var(--border-gradient-onyx);
   padding: 20px;
   border-radius: 16px;
   box-shadow: var(--shadow-4);
-  z-index: 1;
 }
 
-.news-item > a::before {
-  content: "";
-  position: absolute;
-  inset: 1px;
-  border-radius: inherit;
-  background: var(--eerie-black-1);
-  z-index: -1;
-}
+.news-item > a::before { background: var(--eerie-black-1); }
 
 .news-title {
   color: var(--white-2);

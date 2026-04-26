@@ -47,7 +47,9 @@ const renderPortfolioData = (data) => {
     certList.innerHTML = data.experience.certifications.map(cert => `
       <li class="timeline-item">
         <h4 class="h4 timeline-item-title">${Utils.escapeHtml(cert.title)}</h4>
-        <p class="timeline-text">${Utils.escapeHtml(cert.description)}</p>
+        <p class="timeline-text">${Utils.escapeHtml(cert.description)}${
+          cert.credlyUrl ? ` <a href="${Utils.escapeHtml(cert.credlyUrl)}" class="text-link" target="_blank" rel="noopener noreferrer">View on Credly</a>` : ''
+        }</p>
       </li>
     `).join('');
   }

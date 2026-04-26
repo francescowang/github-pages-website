@@ -54,7 +54,8 @@
     "certifications": [
       {
         "title": "Professional Certifications",
-        "description": "Current certifications are available on <a href=\"https://www.credly.com/users/francesco-wang/\" class=\"text-link\" target=\"_blank\" rel=\"noreferrer\">Credly</a>."
+        "description": "View my credentials and certifications.",
+        "credlyUrl": "https://www.credly.com/users/francesco-wang/"
       }
     ],
     "volunteering": [

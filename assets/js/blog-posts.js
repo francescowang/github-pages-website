@@ -78,7 +78,7 @@ class PostEngine {
 
     this.postsList.innerHTML = filtered.map(post => `
       <li class="blog-post-item">
-        <a href="${this.viewerPath}?post=${encodeURIComponent(post.slug)}">
+        <a href="${this.viewerPath}?post=${encodeURIComponent(post.slug)}" class="has-bezel">
           <div class="blog-content">
             <div class="blog-meta">
               <p class="blog-category">${Utils.escapeHtml(post.category)}</p>

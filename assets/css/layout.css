@@ -67,17 +67,6 @@ main {
   padding: 10px;
   box-shadow: var(--shadow-2);
   transition: var(--transition-1);
-  z-index: 1;
-}
-
-.info_more-btn::before {
-  content: "";
-  position: absolute;
-  inset: 1px;
-  border-radius: inherit;
-  background: var(--bg-gradient-jet);
-  transition: var(--transition-1);
-  z-index: -1;
 }
 
 .info_more-btn:hover,

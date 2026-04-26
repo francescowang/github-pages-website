@@ -8,7 +8,7 @@
   function createNewsItemHtml({ title, url, metaContent }) {
     return `
       <li class="news-item">
-        <a href="${Utils.escapeHtml(url)}" class="news-link" target="_blank" rel="noopener noreferrer">
+        <a href="${Utils.escapeHtml(url)}" class="news-link has-bezel" target="_blank" rel="noopener noreferrer">
           <h3 class="news-title">${Utils.escapeHtml(title)}</h3>
           <div class="news-meta">${metaContent}</div>
         </a>

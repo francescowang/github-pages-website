@@ -192,22 +192,16 @@
 }
 
 /* Remove the "pressed" bezel effect in light mode */
-[data-theme="light"] .content-card::before,
-[data-theme="light"] .info-card::before,
-[data-theme="light"] .blog-post-item > a::before,
-[data-theme="light"] .filter-collapsible::before,
-[data-theme="light"] .icon-box::before {
+[data-theme="light"] .has-bezel::before {
   display: none;
 }
 
-[data-theme="light"] .content-card,
-[data-theme="light"] .info-card,
-[data-theme="light"] .blog-post-item > a,
-[data-theme="light"] .filter-collapsible,
-[data-theme="light"] .icon-box {
+[data-theme="light"] .has-bezel {
   background: var(--eerie-black-1);
   border: 1px solid var(--jet);
 }
+
+[data-theme="light"] .icon-box { background: var(--onyx); }
 
 [data-theme="light"] ::selection {
   background: hsl(226, 70%, 45%);
@@ -247,6 +241,27 @@
 
 
 
+
+
+
+/*-----------------------------------*\
+  #REUSABLE UTILITIES
+\*-----------------------------------*/
+
+.has-bezel {
+  position: relative;
+  z-index: 1;
+}
+
+.has-bezel::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  border-radius: inherit;
+  background: var(--bg-gradient-jet);
+  z-index: -1;
+  transition: var(--transition-1);
+}
 
 
 /*-----------------------------------*\
@@ -317,7 +332,6 @@ article {
 }
 
 .icon-box {
-  position: relative;
   background: var(--border-gradient-onyx);
   width: 30px;
   height: 30px;
@@ -328,17 +342,9 @@ article {
   font-size: 16px;
   color: var(--orange-yellow-crayola);
   box-shadow: var(--shadow-1);
-  z-index: 1;
 }
 
-.icon-box::before {
-  content: "";
-  position: absolute;
-  inset: 1px;
-  background: var(--eerie-black-1);
-  border-radius: inherit;
-  z-index: -1;
-}
+.icon-box::before { background: var(--eerie-black-1); }
 
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
@@ -407,41 +413,19 @@ article.active {
 .has-scrollbar::-webkit-scrollbar-button { width: 20px; }
 
 .content-card {
-  position: relative;
   background: var(--border-gradient-onyx);
   padding: 15px;
   padding-top: 45px;
   border-radius: 14px;
   box-shadow: var(--shadow-2);
   cursor: pointer;
-  z-index: 1;
-}
-
-.content-card::before {
-  content: "";
-  position: absolute;
-  inset: 1px;
-  background: var(--bg-gradient-jet);
-  border-radius: inherit;
-  z-index: -1;
 }
 
 .info-card {
-  position: relative;
   background: var(--border-gradient-onyx);
   padding: 20px;
   border-radius: 14px;
   box-shadow: var(--shadow-2);
-  z-index: 1;
-}
-
-.info-card::before {
-  content: "";
-  position: absolute;
-  inset: 1px;
-  background: var(--bg-gradient-jet);
-  border-radius: inherit;
-  z-index: -1;
 }
 
 .text-link {
