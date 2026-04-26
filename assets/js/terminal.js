@@ -6,264 +6,284 @@
 
   let fileSystem = {};
   let currentPath = '/home/francesco';
+  let previousPath = '/home/francesco';
   let commandHistory = [];
   let historyIndex = -1;
 
-  // Load file system from JSON
   try {
     const response = await fetch('./assets/data/terminal-commands.json', { cache: 'no-store' });
-    if (!response.ok) throw new Error('Failed to load terminal data');
-    const data = await response.json();
-    fileSystem = data.fileSystem;
-  } catch (error) {
-    console.error('Error loading terminal data:', error);
+    if (!response.ok) throw new Error();
+    fileSystem = await response.json();
+  } catch {
+    appendOutput('Error: failed to load terminal data.', 'error');
     return;
   }
 
-  function getNode(path) {
-    if (path === '/home/francesco') return fileSystem['/home/francesco'];
+  // string = file, object = directory
+  function isDir(node) {
+    return typeof node === 'object' && node !== null;
+  }
 
-    const relativePath = path.replace('/home/francesco/', '');
-    const parts = relativePath.split('/').filter(p => p);
-    let current = fileSystem['/home/francesco'];
-
+  function getNode(absPath) {
+    if (absPath === '/home/francesco') return fileSystem;
+    const rel = absPath.replace('/home/francesco/', '');
+    const parts = rel.split('/').filter(Boolean);
+    let node = fileSystem;
     for (const part of parts) {
-      if (!current.contents || !current.contents[part]) return null;
-      current = current.contents[part];
+      if (!isDir(node) || !(part in node)) return null;
+      node = node[part];
     }
-    return current;
+    return node;
+  }
+
+  function resolvePath(input) {
+    if (!input || input === '~') return '/home/francesco';
+    if (input === '-') return previousPath;
+    if (input.startsWith('~/')) return '/home/francesco/' + input.slice(2);
+    if (input.startsWith('/')) return input;
+
+    const base = currentPath.split('/').filter(Boolean);
+    for (const part of input.split('/')) {
+      if (part === '..') base.pop();
+      else if (part !== '.') base.push(part);
+    }
+    return '/' + base.join('/');
   }
 
   function appendOutput(text, className = '') {
-    const line = document.createElement('div');
-    line.className = `terminal-output ${className}`;
-    line.textContent = text;
-    terminalContainer.appendChild(line);
+    const el = document.createElement('div');
+    el.className = className ? `terminal-output ${className}` : 'terminal-output';
+    el.textContent = text;
+    terminalContainer.appendChild(el);
     terminalContainer.scrollTop = terminalContainer.scrollHeight;
   }
 
   function displayPrompt() {
-    const promptLine = document.createElement('div');
-    promptLine.className = 'terminal-line';
-    const displayPath = currentPath === '/home/francesco' ? '~' : currentPath.replace('/home/francesco', '~');
-    promptLine.innerHTML = `<span class="terminal-prompt">francesco@platform-engineer:${Utils.escapeHtml(displayPath)}$ </span>`;
+    const line = document.createElement('div');
+    line.className = 'terminal-line';
+    const displayPath = currentPath === '/home/francesco'
+      ? '~'
+      : currentPath.replace('/home/francesco', '~');
+
+    line.innerHTML =
+      `<span class="tp-user">francesco@ubuntu</span>` +
+      `<span class="tp-colon">:</span>` +
+      `<span class="tp-path">${Utils.escapeHtml(displayPath)}</span>` +
+      `<span class="tp-dollar">$ </span>`;
 
     const input = document.createElement('input');
     input.type = 'text';
     input.className = 'terminal-input';
-    input.placeholder = 'Enter command...';
     input.autocomplete = 'off';
+    input.setAttribute('spellcheck', 'false');
 
-    promptLine.appendChild(input);
-    terminalContainer.appendChild(promptLine);
+    line.appendChild(input);
+    terminalContainer.appendChild(line);
     input.focus();
 
     input.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
         handleCommand(input.value);
-        promptLine.remove();
+        line.remove();
         displayPrompt();
       } else if (e.key === 'ArrowUp') {
         e.preventDefault();
         historyIndex = Math.min(historyIndex + 1, commandHistory.length - 1);
-        input.value = historyIndex >= 0 ? commandHistory[commandHistory.length - 1 - historyIndex] : '';
+        input.value = historyIndex >= 0
+          ? commandHistory[commandHistory.length - 1 - historyIndex]
+          : '';
+        setTimeout(() => input.setSelectionRange(input.value.length, input.value.length), 0);
       } else if (e.key === 'ArrowDown') {
         e.preventDefault();
         historyIndex = Math.max(historyIndex - 1, -1);
-        input.value = historyIndex >= 0 ? commandHistory[commandHistory.length - 1 - historyIndex] : '';
+        input.value = historyIndex >= 0
+          ? commandHistory[commandHistory.length - 1 - historyIndex]
+          : '';
+        setTimeout(() => input.setSelectionRange(input.value.length, input.value.length), 0);
       }
     });
   }
 
-  function handleCommand(input) {
-    const trimmed = input.trim();
+  function lsNode(node, label, longFormat) {
+    if (!isDir(node)) {
+      appendOutput(`ls: '${label}': Not a directory`, 'error');
+      return;
+    }
+    const keys = Object.keys(node).sort();
+    if (!longFormat) {
+      appendOutput(keys.map(k => isDir(node[k]) ? k + '/' : k).join('  '));
+    } else {
+      appendOutput(`total ${keys.length}`);
+      keys.forEach(k => {
+        const flag = isDir(node[k]) ? 'drwxr-xr-x' : '-rw-r--r--';
+        appendOutput(`${flag}  1  francesco  ${k}${isDir(node[k]) ? '/' : ''}`);
+      });
+    }
+  }
+
+  function treeNode(node, prefix) {
+    const keys = Object.keys(node).sort();
+    keys.forEach((k, i) => {
+      const last = i === keys.length - 1;
+      appendOutput(prefix + (last ? '└── ' : '├── ') + k + (isDir(node[k]) ? '/' : ''));
+      if (isDir(node[k])) treeNode(node[k], prefix + (last ? '    ' : '│   '));
+    });
+  }
+
+  function handleCommand(raw) {
+    const trimmed = raw.trim();
     if (!trimmed) return;
 
     commandHistory.push(trimmed);
     historyIndex = -1;
 
-    appendOutput(`$ ${trimmed}`, 'command');
+    const displayPath = currentPath === '/home/francesco'
+      ? '~'
+      : currentPath.replace('/home/francesco', '~');
+    appendOutput(`francesco@ubuntu:${displayPath}$ ${trimmed}`, 'command');
 
     const parts = trimmed.split(/\s+/);
-    const cmd = parts[0].toLowerCase();
-    const args = parts.slice(1).join(' ');
+    const cmd = parts[0];
+    const args = parts.slice(1);
+    const flags = args.filter(a => a.startsWith('-'));
+    const operands = args.filter(a => !a.startsWith('-'));
 
-    if (cmd === 'pwd') {
-      appendOutput(currentPath);
-    } else if (cmd === 'whoami') {
-      appendOutput('francesco');
-    } else if (cmd === 'hostname') {
-      appendOutput('platform-engineer');
-    } else if (cmd === 'ls') {
-      const node = getNode(currentPath);
-      if (!node || node.type !== 'dir') {
-        appendOutput('ls: cannot access: No such file or directory', 'error');
-      } else if (!node.contents || Object.keys(node.contents).length === 0) {
-        // Empty directory
-      } else {
-        const items = Object.keys(node.contents)
-          .map(name => {
-            const item = node.contents[name];
-            return item.type === 'dir' ? name + '/' : name;
-          })
-          .sort();
-        appendOutput(items.join('  '));
-      }
-    } else if (cmd === 'ls -la') {
-      const node = getNode(currentPath);
-      if (!node || node.type !== 'dir') {
-        appendOutput('ls: cannot access: No such file or directory', 'error');
-      } else {
-        appendOutput('total 24');
-        appendOutput('drwxr-xr-x 5 francesco francesco 4096 Apr 26 12:00 .');
-        const parentDir = currentPath === '/home/francesco' ? '/home' : currentPath.substring(0, currentPath.lastIndexOf('/'));
-        appendOutput(`drwxr-xr-x 3 root      root      4096 Apr 26 11:00 ..`);
-        if (node.contents) {
-          Object.keys(node.contents)
-            .sort()
-            .forEach(name => {
-              const item = node.contents[name];
-              const type = item.type === 'dir' ? 'd' : '-';
-              appendOutput(`${type}rw-r--r-- 1 francesco francesco 4096 Apr 26 12:00 ${name}`);
-            });
-        }
-      }
-    } else if (cmd === 'cd') {
-      if (!args) {
-        currentPath = '/home/francesco';
-      } else if (args === '~') {
-        currentPath = '/home/francesco';
-      } else if (args === '..') {
-        if (currentPath !== '/home/francesco') {
-          const parts = currentPath.split('/').filter(p => p);
-          parts.pop();
-          currentPath = '/' + parts.join('/');
-        }
-      } else if (args.startsWith('/')) {
-        const node = getNode(args);
-        if (!node || node.type !== 'dir') {
-          appendOutput(`cd: ${args}: No such file or directory`, 'error');
+    switch (cmd) {
+
+      case 'pwd':
+        appendOutput(currentPath);
+        break;
+
+      case 'whoami':
+        appendOutput('francesco');
+        break;
+
+      case 'hostname':
+        appendOutput('ubuntu');
+        break;
+
+      case 'date':
+        appendOutput(new Date().toString());
+        break;
+
+      case 'uname':
+        appendOutput(flags.includes('-a')
+          ? 'Linux ubuntu 6.8.0-ubuntu SMP x86_64 GNU/Linux'
+          : 'Linux');
+        break;
+
+      case 'echo':
+        appendOutput(operands.join(' '));
+        break;
+
+      case 'clear':
+        terminalContainer.innerHTML = '';
+        break;
+
+      case 'history':
+        commandHistory.forEach((entry, i) => appendOutput(`  ${i + 1}  ${entry}`));
+        break;
+
+      case 'ls': {
+        const longFormat = flags.some(f => f.includes('l'));
+        const target = operands[0];
+        if (target) {
+          const p = resolvePath(target);
+          const node = getNode(p);
+          if (node === null) {
+            appendOutput(`ls: cannot access '${target}': No such file or directory`, 'error');
+          } else {
+            lsNode(node, target, longFormat);
+          }
         } else {
-          currentPath = args;
+          lsNode(getNode(currentPath), currentPath, longFormat);
         }
-      } else {
-        const newPath = currentPath === '/home/francesco'
-          ? `/home/francesco/${args}`
-          : `${currentPath}/${args}`;
+        break;
+      }
+
+      case 'cd': {
+        const target = operands[0];
+        if (!target) {
+          previousPath = currentPath;
+          currentPath = '/home/francesco';
+          break;
+        }
+        const newPath = resolvePath(target);
         const node = getNode(newPath);
-        if (!node || node.type !== 'dir') {
-          appendOutput(`cd: ${args}: No such file or directory`, 'error');
+        if (node === null) {
+          appendOutput(`cd: ${target}: No such file or directory`, 'error');
+        } else if (!isDir(node)) {
+          appendOutput(`cd: ${target}: Not a directory`, 'error');
         } else {
+          previousPath = currentPath;
           currentPath = newPath;
         }
+        break;
       }
-    } else if (cmd === 'cat') {
-      if (!args) {
-        appendOutput('cat: missing file argument', 'error');
-      } else {
-        let filePath;
-        if (args.startsWith('/')) {
-          filePath = args;
-        } else {
-          filePath = currentPath === '/home/francesco'
-            ? `/home/francesco/${args}`
-            : `${currentPath}/${args}`;
+
+      case 'cat': {
+        const target = operands[0];
+        if (!target) {
+          appendOutput('cat: missing file operand', 'error');
+          break;
         }
-
-        const node = getNode(filePath);
-        if (!node) {
-          appendOutput(`cat: ${args}: No such file or directory`, 'error');
-        } else if (node.type === 'dir') {
-          appendOutput(`cat: ${args}: Is a directory`, 'error');
+        const p = resolvePath(target);
+        const node = getNode(p);
+        if (node === null) {
+          appendOutput(`cat: ${target}: No such file or directory`, 'error');
+        } else if (isDir(node)) {
+          appendOutput(`cat: ${target}: Is a directory`, 'error');
         } else {
-          appendOutput(node.content);
+          appendOutput(node);
         }
+        break;
       }
-    } else if (cmd === 'clear') {
-      terminalContainer.innerHTML = '';
-    } else if (cmd === 'history') {
-      commandHistory.forEach((cmd, idx) => {
-        appendOutput(`${idx + 1}  ${cmd}`);
-      });
-    } else if (cmd === 'date') {
-      appendOutput('Sun Apr 26 2026 12:00:00 GMT+0000 (UTC)');
-    } else if (cmd === 'uname') {
-      appendOutput('Linux');
-    } else if (cmd === 'uname -a') {
-      appendOutput('Linux platform-engineer 6.1.0-ubuntu #1 SMP x86_64 GNU/Linux');
-    } else if (cmd === 'echo') {
-      appendOutput(args || '');
-    } else if (cmd === 'grep') {
-      appendOutput('grep: usage: grep [OPTION]... PATTERNS [FILE]...', 'error');
-    } else if (cmd === 'man') {
-      if (!args) {
-        appendOutput('man: what manual page do you want?', 'error');
-      } else {
-        appendOutput(`No manual entry for ${args}`, 'error');
+
+      case 'tree': {
+        const target = operands[0];
+        const p = target ? resolvePath(target) : currentPath;
+        const node = getNode(p);
+        if (node === null) {
+          appendOutput(`tree: '${target}': No such file or directory`, 'error');
+        } else if (!isDir(node)) {
+          appendOutput(`tree: '${target}': Not a directory`, 'error');
+        } else {
+          const label = p === '/home/francesco' ? '~' : p.replace('/home/francesco', '~');
+          appendOutput(label + '/');
+          treeNode(node, '');
+        }
+        break;
       }
-    } else if (cmd === 'mkdir') {
-      appendOutput('mkdir: operation not supported', 'error');
-    } else if (cmd === 'touch') {
-      appendOutput('touch: operation not supported', 'error');
-    } else if (cmd === 'rm') {
-      appendOutput('rm: operation not supported', 'error');
-    } else if (cmd === 'tree') {
-      const renderTree = (node, prefix = '') => {
-        if (!node.contents) return;
-        const items = Object.keys(node.contents).sort();
-        items.forEach((name, idx) => {
-          const isLast = idx === items.length - 1;
-          const item = node.contents[name];
-          const connector = isLast ? '└── ' : '├── ';
-          const nextPrefix = prefix + (isLast ? '    ' : '│   ');
-          const icon = item.type === 'dir' ? name + '/' : name;
-          appendOutput(prefix + connector + icon);
-          if (item.type === 'dir') {
-            renderTree(item, nextPrefix);
-          }
-        });
-      };
 
-      const node = getNode(currentPath);
-      if (!node || node.type !== 'dir') {
-        appendOutput('tree: command not found', 'error');
-      } else {
-        const displayPath = currentPath === '/home/francesco' ? '~' : currentPath.replace('/home/francesco', '~');
-        appendOutput(displayPath + '/');
-        renderTree(node);
-      }
-    } else if (cmd === 'help') {
-      const help = `Available commands:
+      case 'help':
+        appendOutput([
+          'Commands:',
+          '',
+          '  ls [dir]       List directory contents',
+          '  ls -l [dir]    Long listing format',
+          '  cd <dir>       Change directory  (supports .., ~, -)',
+          '  cat <file>     Display file contents',
+          '  pwd            Print working directory',
+          '  tree [dir]     Show directory tree',
+          '  echo [text]    Print text',
+          '  whoami         Print current user',
+          '  hostname       Print hostname',
+          '  date           Print current date and time',
+          '  uname [-a]     Print system information',
+          '  history        Show command history',
+          '  clear          Clear the terminal',
+          '  help           Show this message',
+          '',
+          'Try:  ls  →  cd portfolio  →  cat about',
+        ].join('\n'));
+        break;
 
-Navigation & Files:
-  cd <dir>      - Change directory (cd .., cd ~, cd /)
-  pwd           - Print working directory
-  ls            - List directory contents
-  ls -la        - Detailed listing
-  cat <file>    - Display file contents
-  tree          - Show directory tree
-
-System Info:
-  whoami        - Print current user
-  hostname      - Print system hostname
-  date          - Show current date/time
-  uname         - Show system information
-  uname -a      - Detailed system info
-
-Other:
-  echo <text>   - Print text
-  history       - Show command history
-  clear         - Clear terminal
-  help          - Show this help message
-
-Try: cd portfolio → ls → cat about`;
-      appendOutput(help);
-    } else {
-      appendOutput(`command not found: ${cmd}. Type 'help' for available commands.`, 'error');
+      default:
+        appendOutput(`${cmd}: command not found`, 'error');
     }
   }
 
-  appendOutput('Welcome to Francesco Wang\'s Interactive Portfolio');
-  appendOutput('Type "help" to see available commands.\n');
+  appendOutput('Ubuntu 24.04 LTS  |  Francesco Wang\'s Portfolio');
+  appendOutput('Type "help" for available commands.\n');
   displayPrompt();
 })();
