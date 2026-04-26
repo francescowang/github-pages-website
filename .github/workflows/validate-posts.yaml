@@ -24,3 +24,15 @@ jobs:
 
       - name: Check internal links in HTML files
         run: python3 scripts/check-links.py
+
+      - name: Check for unescaped innerHTML interpolations
+        run: |
+          UNSAFE=$(grep -rn '\${' assets/js/ \
+            | grep -v "escapeHtml\|marked\.parse\|encodeURIComponent\|formatDate\|Math\.\|post\.date\|post\.slug\|post\.folder\|postSlug\|this\.activeTag\|filterTag\|error\.message\|scrollHeight\|scrollTop" \
+            | grep -i "innerhtml" || true)
+          if [ -n "$UNSAFE" ]; then
+            echo "Unescaped interpolation in innerHTML detected:"
+            echo "$UNSAFE"
+            echo "Wrap dynamic values with Utils.escapeHtml() before interpolating into innerHTML."
+            exit 1
+          fi

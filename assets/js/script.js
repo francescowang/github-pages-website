@@ -29,15 +29,15 @@ const renderPortfolioData = (data) => {
 
   const techList = document.querySelector('[data-tech-list]');
   if (techList && data.technologies?.length) {
-    techList.innerHTML = data.technologies.map(tech => `<li class="tag-item">${tech}</li>`).join('');
+    techList.innerHTML = data.technologies.map(tech => `<li class="tag-item">${Utils.escapeHtml(tech)}</li>`).join('');
   }
 
   const workList = document.querySelector('[data-work-list]');
   if (workList && data.experience?.work?.length) {
     workList.innerHTML = data.experience.work.map(job => `
       <li class="timeline-item">
-        <h4 class="h4 timeline-item-title">${job.title}</h4>
-        <span>${job.period}</span>
+        <h4 class="h4 timeline-item-title">${Utils.escapeHtml(job.title)}</h4>
+        <span>${Utils.escapeHtml(job.period)}</span>
       </li>
     `).join('');
   }
@@ -46,8 +46,8 @@ const renderPortfolioData = (data) => {
   if (certList && data.experience?.certifications?.length) {
     certList.innerHTML = data.experience.certifications.map(cert => `
       <li class="timeline-item">
-        <h4 class="h4 timeline-item-title">${cert.title}</h4>
-        <p class="timeline-text">${cert.description}</p>
+        <h4 class="h4 timeline-item-title">${Utils.escapeHtml(cert.title)}</h4>
+        <p class="timeline-text">${Utils.escapeHtml(cert.description)}</p>
       </li>
     `).join('');
   }
@@ -56,8 +56,8 @@ const renderPortfolioData = (data) => {
   if (educationList && data.experience?.education?.length) {
     educationList.innerHTML = data.experience.education.map(edu => `
       <li class="timeline-item">
-        <h4 class="h4 timeline-item-title">${edu.institution}</h4>
-        <p class="timeline-text">${edu.degree}</p>
+        <h4 class="h4 timeline-item-title">${Utils.escapeHtml(edu.institution)}</h4>
+        <p class="timeline-text">${Utils.escapeHtml(edu.degree)}</p>
       </li>
     `).join('');
   }
@@ -66,8 +66,8 @@ const renderPortfolioData = (data) => {
   if (volunteerList && data.experience?.volunteering?.length) {
     volunteerList.innerHTML = data.experience.volunteering.map(vol => `
       <li class="timeline-item">
-        <h4 class="h4 timeline-item-title">${vol.title}</h4>
-        <span>${vol.period}</span>
+        <h4 class="h4 timeline-item-title">${Utils.escapeHtml(vol.title)}</h4>
+        <span>${Utils.escapeHtml(vol.period)}</span>
       </li>
     `).join('');
   }
@@ -76,26 +76,26 @@ const renderPortfolioData = (data) => {
   if (hobbiesList && data.experience?.hobbies?.length) {
     hobbiesList.innerHTML = data.experience.hobbies.map(hobby => `
       <li class="timeline-item">
-        <h4 class="h4 timeline-item-title">${hobby}</h4>
+        <h4 class="h4 timeline-item-title">${Utils.escapeHtml(hobby)}</h4>
       </li>
     `).join('');
   }
 
   const softSkillsList = document.querySelector('[data-soft-skills-list]');
   if (softSkillsList && data.experience?.soft_skills?.length) {
-    softSkillsList.innerHTML = data.experience.soft_skills.map(skill => `<li class="tag-item">${skill}</li>`).join('');
+    softSkillsList.innerHTML = data.experience.soft_skills.map(skill => `<li class="tag-item">${Utils.escapeHtml(skill)}</li>`).join('');
   }
 
   const learningList = document.querySelector('[data-learning-list]');
   if (learningList && data.profile?.learning?.length) {
-    learningList.innerHTML = data.profile.learning.map(item => `<li class="tag-item">${item}</li>`).join('');
+    learningList.innerHTML = data.profile.learning.map(item => `<li class="tag-item">${Utils.escapeHtml(item)}</li>`).join('');
   }
 
   const languagesList = document.querySelector('[data-languages-list]');
   if (languagesList && data.profile?.languages?.length) {
     languagesList.innerHTML = data.profile.languages.map(lang => `
       <li class="timeline-item">
-        <h4 class="h4 timeline-item-title">${lang}</h4>
+        <h4 class="h4 timeline-item-title">${Utils.escapeHtml(lang)}</h4>
       </li>
     `).join('');
   }

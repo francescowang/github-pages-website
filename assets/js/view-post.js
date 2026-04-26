@@ -95,7 +95,7 @@
 
     const tagsEl = document.getElementById('post-tags');
     if (tagsEl && post.tags?.length) {
-      tagsEl.innerHTML = post.tags.map(tag => `<span class="post-tag">${tag}</span>`).join('');
+      tagsEl.innerHTML = post.tags.map(tag => `<span class="post-tag">${Utils.escapeHtml(tag)}</span>`).join('');
     }
 
     if (contentEl) {
