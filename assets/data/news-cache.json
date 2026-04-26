@@ -1,67 +1,67 @@
 {
   "tech": [
     {
+      "title": "Statecharts: hierarchical state machines",
+      "url": "https://statecharts.dev/",
+      "score": 63,
+      "comments": 10,
+      "source": "statecharts.dev"
+    },
+    {
       "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
       "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 266,
-      "comments": 172,
+      "score": 445,
+      "comments": 284,
       "source": "scientificamerican.com"
+    },
+    {
+      "title": "The West forgot how to make things, now it\u2019s forgetting how to code",
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "score": 543,
+      "comments": 314,
+      "source": "techtrenches.dev"
+    },
+    {
+      "title": "Show HN: Turning a Gaussian Splat into a videogame",
+      "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
+      "score": 47,
+      "comments": 7,
+      "source": "blog.playcanvas.com"
     },
     {
       "title": "Why has there been so little progress on Alzheimer's disease?",
       "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 182,
-      "comments": 85,
+      "score": 264,
+      "comments": 159,
       "source": "freakonomics.com"
+    },
+    {
+      "title": "I spent 6 years building my Kanban as I hated how managers run the boards",
+      "url": "https://www.npmjs.com/package/ooko",
+      "score": 42,
+      "comments": 37,
+      "source": "npmjs.com"
     },
     {
       "title": "USB Cheat Sheet (2022)",
       "url": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 252,
-      "comments": 52,
+      "score": 359,
+      "comments": 66,
       "source": "fabiensanglard.net"
-    },
-    {
-      "title": "The route from Prussian military headquarters to Gary Gygax\u2019s basement",
-      "url": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
-      "score": 16,
-      "comments": 0,
-      "source": "asteriskmag.com"
     },
     {
       "title": "GnuPG \u2013 post-quantum crypto landing in mainline",
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "score": 24,
-      "comments": 3,
+      "score": 88,
+      "comments": 31,
       "source": "lists.gnupg.org"
     },
     {
-      "title": "Mahjong: A Visual Guide",
-      "url": "https://themahjong.guide/",
-      "score": 52,
-      "comments": 14,
-      "source": "themahjong.guide"
-    },
-    {
-      "title": "Flickr: The first and last great photo platform",
-      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
-      "score": 125,
-      "comments": 66,
-      "source": "petapixel.com"
-    },
-    {
-      "title": "EU Age Control: The trojan horse for digital IDs",
-      "url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
-      "score": 82,
-      "comments": 20,
-      "source": "juraj.bednar.io"
-    },
-    {
-      "title": "OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-      "score": 182,
-      "comments": 32,
-      "source": "openai.com"
+      "title": "Cheating at Tetris",
+      "url": "https://chalkdustmagazine.com/features/cheating-at-tetris/",
+      "score": 10,
+      "comments": 1,
+      "source": "chalkdustmagazine.com"
     }
   ],
   "security": [
