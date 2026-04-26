@@ -2,7 +2,7 @@
   "profile": {
     "name": "Francesco Wang",
     "title": "Senior DevOps Engineer",
-    "about": "Highly collaborative IT engineer with a security-first mindset passionate about building scalable and secure infrastructure. Reliable team player who delivers business value to stakeholders and promotes best practices."
+    "aboutFile": "assets/data/portfolio-about.md"
   },
   "contact": {
     "email": "francescofw@proton.me",
