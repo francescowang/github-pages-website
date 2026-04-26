@@ -56,12 +56,6 @@
   #PRINT BUTTON
 \*-----------------------------------*/
 
-.cv header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-}
-
 .print-btn {
   display: inline-flex;
   align-items: center;
