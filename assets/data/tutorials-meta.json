@@ -6,6 +6,11 @@
     "category": "Kubernetes",
     "date": "2026-04-25",
     "summary": "A step-by-step guide to running Kubernetes locally using Docker container nodes. Perfect for testing CNI and Ingress controllers.",
-    "tags": ["Kubernetes", "Docker", "Local Development", "Tutorial"]
+    "tags": [
+      "Kubernetes",
+      "Docker",
+      "Local Development",
+      "Tutorial"
+    ]
   }
 ]

@@ -1,4 +1,26 @@
 {
-  "README": "Welcome to Francesco Wang's Portfolio Terminal.\n\nType: cat cv",
-  "cv": {"$ref": "./assets/data/cv.md"}
+  "bin":   {"$locked": true},
+  "boot":  {"$locked": true},
+  "dev":   {"$locked": true},
+  "etc":   {"$locked": true},
+  "home": {
+    "francesco": {
+      "README": "Welcome to Francesco Wang's Portfolio Terminal.\n\nType: cat cv",
+      "cv": {"$ref": "./assets/data/cv.md"}
+    }
+  },
+  "lib":   {"$locked": true},
+  "lib64": {"$locked": true},
+  "media": {"$locked": true},
+  "mnt":   {"$locked": true},
+  "opt":   {"$locked": true},
+  "proc":  {"$locked": true},
+  "root":  {"$locked": true},
+  "run":   {"$locked": true},
+  "sbin":  {"$locked": true},
+  "srv":   {"$locked": true},
+  "sys":   {"$locked": true},
+  "tmp":   {"$locked": true},
+  "usr":   {"$locked": true},
+  "var":   {"$locked": true}
 }

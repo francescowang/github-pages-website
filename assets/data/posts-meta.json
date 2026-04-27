@@ -6,7 +6,29 @@
     "category": "AWS",
     "date": "2026-04-26",
     "summary": "A deep dive into the trade-offs between MySQL and PostgreSQL on AWS RDS, covering architecture, performance, security, and use cases.",
-    "tags": ["AWS", "RDS", "MySQL", "PostgreSQL", "Databases", "Infrastructure"]
+    "tags": [
+      "AWS",
+      "RDS",
+      "MySQL",
+      "PostgreSQL",
+      "Databases",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-disruption-and-priority",
+    "folder": "kubernetes",
+    "title": "Kubernetes Pod Group Disruption and Priority",
+    "category": "Kubernetes",
+    "date": "2026-04-25",
+    "summary": "Exploring the intersection of availability and importance: how Kubernetes manages disruptions for pod groups and uses priority to handle scheduling pressure.",
+    "tags": [
+      "Kubernetes",
+      "Workloads",
+      "Availability",
+      "Priority",
+      "Infrastructure"
+    ]
   },
   {
     "slug": "amazon-rds-mysql-connection",
@@ -15,7 +37,14 @@
     "category": "AWS",
     "date": "2026-04-24",
     "summary": "A practical guide on how to securely connect to your Amazon RDS MySQL instance using various tools and how to troubleshoot common connection issues.",
-    "tags": ["AWS", "RDS", "MySQL", "Databases", "Connectivity", "Infrastructure"]
+    "tags": [
+      "AWS",
+      "RDS",
+      "MySQL",
+      "Databases",
+      "Connectivity",
+      "Infrastructure"
+    ]
   },
   {
     "slug": "amazon-rds-mysql-upgrades",
@@ -49,6 +78,62 @@
     ]
   },
   {
+    "slug": "kubernetes-cluster-ip-allocation",
+    "folder": "kubernetes",
+    "title": "Kubernetes ClusterIP Allocation: Preventing IP Collisions",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding the internal logic of how Kubernetes allocates IP addresses to Services and the strategy used to avoid conflicts.",
+    "tags": [
+      "Kubernetes",
+      "Networking",
+      "ClusterIP",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-control-plane-and-worker-nodes",
+    "folder": "kubernetes",
+    "title": "Kubernetes 101: Control Plane and Worker Nodes",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "A walkthrough of how the Kubernetes control plane coordinates scheduling and how worker nodes run your workloads.",
+    "tags": [
+      "Kubernetes",
+      "Infrastructure",
+      "Beginner"
+    ]
+  },
+  {
+    "slug": "kubernetes-disruptions",
+    "folder": "kubernetes",
+    "title": "Kubernetes Disruptions: Protecting Application Availability",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding voluntary and involuntary disruptions and how to use Pod Disruption Budgets (PDBs) to ensure your app stays online during maintenance.",
+    "tags": [
+      "Kubernetes",
+      "Workloads",
+      "Pods",
+      "Availability",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-dns-services-pods",
+    "folder": "kubernetes",
+    "title": "Kubernetes DNS: How Services and Pods Find Each Other",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "A deep dive into the cluster's internal phonebook—understanding how DNS names are assigned to Services and Pods.",
+    "tags": [
+      "Kubernetes",
+      "Networking",
+      "DNS",
+      "Infrastructure"
+    ]
+  },
+  {
     "slug": "kubernetes-downward-api",
     "folder": "kubernetes",
     "title": "Kubernetes Downward API: Exposing Pod Metadata to Containers",
@@ -64,77 +149,30 @@
     ]
   },
   {
-    "slug": "kubernetes-user-namespaces",
+    "slug": "kubernetes-dual-stack",
     "folder": "kubernetes",
-    "title": "Kubernetes User Namespaces: Enhancing Container Isolation",
+    "title": "Kubernetes Dual-Stack: Bridging IPv4 and IPv6",
     "category": "Kubernetes",
     "date": "2026-04-24",
-    "summary": "Exploring how User Namespaces provide an extra layer of security by remapping container users to non-privileged host users.",
-    "tags": [
-      "Kubernetes",
-      "Workloads",
-      "Pods",
-      "Security",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-scheduling-groups",
-    "folder": "kubernetes",
-    "title": "Kubernetes Scheduling Groups: Native Gang Scheduling",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Exploring the new Scheduling Group API\u2014how to use PodGroups to enable all-or-nothing scheduling for batch and ML workloads.",
-    "tags": [
-      "Kubernetes",
-      "Workloads",
-      "Pods",
-      "Scheduling",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-pod-qos",
-    "folder": "kubernetes",
-    "title": "Kubernetes Pod QoS Classes: Understanding Resource Priority",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Exploring how Kubernetes assigns Quality of Service (QoS) classes to Pods and how this affects scheduling and eviction during resource pressure.",
-    "tags": [
-      "Kubernetes",
-      "Workloads",
-      "Pods",
-      "Resources",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-pod-hostname",
-    "folder": "kubernetes",
-    "title": "Kubernetes Pod Hostnames: Understanding Identity and DNS",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "How Kubernetes assigns hostnames to Pods and how to use the hostname and subdomain fields to create predictable network identities.",
+    "summary": "Exploring how Kubernetes supports both IPv4 and IPv6 addresses simultaneously for Pods and Services.",
     "tags": [
       "Kubernetes",
       "Networking",
-      "DNS",
-      "Pods",
+      "Dual-Stack",
       "Infrastructure"
     ]
   },
   {
-    "slug": "kubernetes-disruptions",
+    "slug": "kubernetes-endpoint-slices",
     "folder": "kubernetes",
-    "title": "Kubernetes Disruptions: Protecting Application Availability",
+    "title": "Kubernetes EndpointSlices: Scaling Service Networking",
     "category": "Kubernetes",
     "date": "2026-04-24",
-    "summary": "Understanding voluntary and involuntary disruptions and how to use Pod Disruption Budgets (PDBs) to ensure your app stays online during maintenance.",
+    "summary": "How EndpointSlices provide a more scalable and extensible way to track network endpoints in large Kubernetes clusters.",
     "tags": [
       "Kubernetes",
-      "Workloads",
-      "Pods",
-      "Availability",
+      "Networking",
+      "Scalability",
       "Infrastructure"
     ]
   },
@@ -154,182 +192,12 @@
     ]
   },
   {
-    "slug": "kubernetes-sidecar-containers",
-    "folder": "kubernetes",
-    "title": "Kubernetes Sidecar Containers: Enhancing the Main App",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Understanding the sidecar pattern\u2014how to use auxiliary containers to handle logging, monitoring, and security alongside your main application.",
-    "tags": [
-      "Kubernetes",
-      "Workloads",
-      "Pods",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-init-containers",
-    "folder": "kubernetes",
-    "title": "Kubernetes Init Containers: Preparing the Ground",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Learn how to use Init Containers to perform setup tasks, wait for dependencies, or populate volumes before your main app starts.",
-    "tags": [
-      "Kubernetes",
-      "Workloads",
-      "Pods",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-pod-conditions",
-    "folder": "kubernetes",
-    "title": "Kubernetes Pod Conditions: A Deeper Look at Health",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Going beyond phases\u2014understanding the array of conditions that provide a detailed status report of a Pod's health.",
-    "tags": [
-      "Kubernetes",
-      "Workloads",
-      "Pods",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-pod-lifecycle",
-    "folder": "kubernetes",
-    "title": "Kubernetes Pod Lifecycle: From Pending to Terminated",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Understanding the various phases, conditions, and container states that define the life of a Kubernetes Pod.",
-    "tags": [
-      "Kubernetes",
-      "Workloads",
-      "Pods",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-service-internal-traffic-policy",
-    "folder": "kubernetes",
-    "title": "Kubernetes Service Internal Traffic Policy: Optimizing Local Routing",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Exploring how the Internal Traffic Policy allows you to control whether Service traffic is routed cluster-wide or restricted to the local node.",
-    "tags": [
-      "Kubernetes",
-      "Networking",
-      "Traffic Policy",
-      "Performance",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-cluster-ip-allocation",
-    "folder": "kubernetes",
-    "title": "Kubernetes ClusterIP Allocation: Preventing IP Collisions",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Understanding the internal logic of how Kubernetes allocates IP addresses to Services and the strategy used to avoid conflicts.",
-    "tags": [
-      "Kubernetes",
-      "Networking",
-      "ClusterIP",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-windows-networking",
-    "folder": "kubernetes",
-    "title": "Kubernetes Networking on Windows: Bridging the OS Gap",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Understanding how Kubernetes handles networking for Windows containers, including the Host Networking Service (HNS) and differences from Linux.",
-    "tags": [
-      "Kubernetes",
-      "Networking",
-      "Windows",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-topology-aware-routing",
-    "folder": "kubernetes",
-    "title": "Kubernetes Topology Aware Routing: Optimizing for Performance and Cost",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Learn how Topology Aware Routing helps reduce cross-zone traffic and latency by preferring endpoints in the same zone.",
-    "tags": [
-      "Kubernetes",
-      "Networking",
-      "Topology",
-      "Performance",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-dual-stack",
-    "folder": "kubernetes",
-    "title": "Kubernetes Dual-Stack: Bridging IPv4 and IPv6",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Exploring how Kubernetes supports both IPv4 and IPv6 addresses simultaneously for Pods and Services.",
-    "tags": [
-      "Kubernetes",
-      "Networking",
-      "Dual-Stack",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-dns-services-pods",
-    "folder": "kubernetes",
-    "title": "Kubernetes DNS: How Services and Pods Find Each Other",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "A deep dive into the cluster's internal phonebook\u2014understanding how DNS names are assigned to Services and Pods.",
-    "tags": [
-      "Kubernetes",
-      "Networking",
-      "DNS",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-network-policies",
-    "folder": "kubernetes",
-    "title": "Kubernetes Network Policies: Securing the East-West Traffic",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "Learn how to use Network Policies to control traffic flow between Pods and secure your cluster's internal communication.",
-    "tags": [
-      "Kubernetes",
-      "Networking",
-      "Security",
-      "Infrastructure"
-    ]
-  },
-  {
-    "slug": "kubernetes-endpoint-slices",
-    "folder": "kubernetes",
-    "title": "Kubernetes EndpointSlices: Scaling Service Networking",
-    "category": "Kubernetes",
-    "date": "2026-04-24",
-    "summary": "How EndpointSlices provide a more scalable and extensible way to track network endpoints in large Kubernetes clusters.",
-    "tags": [
-      "Kubernetes",
-      "Networking",
-      "Scalability",
-      "Infrastructure"
-    ]
-  },
-  {
     "slug": "kubernetes-gateway-api",
     "folder": "kubernetes",
     "title": "Kubernetes Gateway API: The Evolution of Service Networking",
     "category": "Kubernetes",
     "date": "2026-04-24",
-    "summary": "An overview of the Kubernetes Gateway API\u2014a role-oriented, expressive, and extensible evolution of traditional Ingress.",
+    "summary": "An overview of the Kubernetes Gateway API—a role-oriented, expressive, and extensible evolution of traditional Ingress.",
     "tags": [
       "Kubernetes",
       "Networking",
@@ -343,7 +211,7 @@
     "title": "Understanding Kubernetes Ingress Controllers",
     "category": "Kubernetes",
     "date": "2026-04-24",
-    "summary": "Exploring the engine behind Ingress resources\u2014how Ingress Controllers actually implement your routing rules.",
+    "summary": "Exploring the engine behind Ingress resources—how Ingress Controllers actually implement your routing rules.",
     "tags": [
       "Kubernetes",
       "Networking",
@@ -366,56 +234,118 @@
     ]
   },
   {
-    "slug": "kubernetes-services-deep-dive",
+    "slug": "kubernetes-init-containers",
     "folder": "kubernetes",
-    "title": "Service in Kubernetes: Decoupling and Discovery",
+    "title": "Kubernetes Init Containers: Preparing the Ground",
     "category": "Kubernetes",
     "date": "2026-04-24",
-    "summary": "Understanding how Kubernetes Services provide stable networking for volatile pods using labels and selectors.",
+    "summary": "Learn how to use Init Containers to perform setup tasks, wait for dependencies, or populate volumes before your main app starts.",
     "tags": [
       "Kubernetes",
-      "Networking",
+      "Workloads",
+      "Pods",
       "Infrastructure"
     ]
   },
   {
-    "slug": "kubernetes-control-plane-and-worker-nodes",
+    "slug": "kubernetes-network-policies",
     "folder": "kubernetes",
-    "title": "Kubernetes 101: Control Plane and Worker Nodes",
+    "title": "Kubernetes Network Policies: Securing the East-West Traffic",
     "category": "Kubernetes",
     "date": "2026-04-24",
-    "summary": "A walkthrough of how the Kubernetes control plane coordinates scheduling and how worker nodes run your workloads.",
+    "summary": "Learn how to use Network Policies to control traffic flow between Pods and secure your cluster's internal communication.",
     "tags": [
       "Kubernetes",
-      "Infrastructure",
-      "Beginner"
-    ]
-  },
-  {
-    "slug": "secure-kubernetes-and-cloud-foundations",
-    "folder": "kubernetes",
-    "title": "Secure Kubernetes and Cloud Foundations",
-    "category": "Cloud Security",
-    "date": "2026-04-24",
-    "summary": "A practical baseline for securing clusters and cloud primitives before you start layering on more advanced policy controls.",
-    "tags": [
-      "Kubernetes",
+      "Networking",
       "Security",
-      "Cloud"
+      "Infrastructure"
     ]
   },
   {
-    "slug": "kubernetes-disruption-and-priority",
+    "slug": "kubernetes-pod-conditions",
     "folder": "kubernetes",
-    "title": "Kubernetes Pod Group Disruption and Priority",
+    "title": "Kubernetes Pod Conditions: A Deeper Look at Health",
     "category": "Kubernetes",
-    "date": "2026-04-25",
-    "summary": "Exploring the intersection of availability and importance: how Kubernetes manages disruptions for pod groups and uses priority to handle scheduling pressure.",
+    "date": "2026-04-24",
+    "summary": "Going beyond phases—understanding the array of conditions that provide a detailed status report of a Pod's health.",
     "tags": [
       "Kubernetes",
       "Workloads",
-      "Availability",
-      "Priority",
+      "Pods",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-pod-hostname",
+    "folder": "kubernetes",
+    "title": "Kubernetes Pod Hostnames: Understanding Identity and DNS",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "How Kubernetes assigns hostnames to Pods and how to use the hostname and subdomain fields to create predictable network identities.",
+    "tags": [
+      "Kubernetes",
+      "Networking",
+      "DNS",
+      "Pods",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-pod-lifecycle",
+    "folder": "kubernetes",
+    "title": "Kubernetes Pod Lifecycle: From Pending to Terminated",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding the various phases, conditions, and container states that define the life of a Kubernetes Pod.",
+    "tags": [
+      "Kubernetes",
+      "Workloads",
+      "Pods",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-pod-qos",
+    "folder": "kubernetes",
+    "title": "Kubernetes Pod QoS Classes: Understanding Resource Priority",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring how Kubernetes assigns Quality of Service (QoS) classes to Pods and how this affects scheduling and eviction during resource pressure.",
+    "tags": [
+      "Kubernetes",
+      "Workloads",
+      "Pods",
+      "Resources",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-scheduling-groups",
+    "folder": "kubernetes",
+    "title": "Kubernetes Scheduling Groups: Native Gang Scheduling",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring the new Scheduling Group API—how to use PodGroups to enable all-or-nothing scheduling for batch and ML workloads.",
+    "tags": [
+      "Kubernetes",
+      "Workloads",
+      "Pods",
+      "Scheduling",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-service-internal-traffic-policy",
+    "folder": "kubernetes",
+    "title": "Kubernetes Service Internal Traffic Policy: Optimizing Local Routing",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring how the Internal Traffic Policy allows you to control whether Service traffic is routed cluster-wide or restricted to the local node.",
+    "tags": [
+      "Kubernetes",
+      "Networking",
+      "Traffic Policy",
+      "Performance",
       "Infrastructure"
     ]
   },
@@ -430,6 +360,90 @@
       "Kubernetes",
       "Networking",
       "Services"
+    ]
+  },
+  {
+    "slug": "kubernetes-services-deep-dive",
+    "folder": "kubernetes",
+    "title": "Service in Kubernetes: Decoupling and Discovery",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding how Kubernetes Services provide stable networking for volatile pods using labels and selectors.",
+    "tags": [
+      "Kubernetes",
+      "Networking",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-sidecar-containers",
+    "folder": "kubernetes",
+    "title": "Kubernetes Sidecar Containers: Enhancing the Main App",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding the sidecar pattern—how to use auxiliary containers to handle logging, monitoring, and security alongside your main application.",
+    "tags": [
+      "Kubernetes",
+      "Workloads",
+      "Pods",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-topology-aware-routing",
+    "folder": "kubernetes",
+    "title": "Kubernetes Topology Aware Routing: Optimizing for Performance and Cost",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Learn how Topology Aware Routing helps reduce cross-zone traffic and latency by preferring endpoints in the same zone.",
+    "tags": [
+      "Kubernetes",
+      "Networking",
+      "Topology",
+      "Performance",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-user-namespaces",
+    "folder": "kubernetes",
+    "title": "Kubernetes User Namespaces: Enhancing Container Isolation",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Exploring how User Namespaces provide an extra layer of security by remapping container users to non-privileged host users.",
+    "tags": [
+      "Kubernetes",
+      "Workloads",
+      "Pods",
+      "Security",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "kubernetes-windows-networking",
+    "folder": "kubernetes",
+    "title": "Kubernetes Networking on Windows: Bridging the OS Gap",
+    "category": "Kubernetes",
+    "date": "2026-04-24",
+    "summary": "Understanding how Kubernetes handles networking for Windows containers, including the Host Networking Service (HNS) and differences from Linux.",
+    "tags": [
+      "Kubernetes",
+      "Networking",
+      "Windows",
+      "Infrastructure"
+    ]
+  },
+  {
+    "slug": "secure-kubernetes-and-cloud-foundations",
+    "folder": "kubernetes",
+    "title": "Secure Kubernetes and Cloud Foundations",
+    "category": "Cloud Security",
+    "date": "2026-04-24",
+    "summary": "A practical baseline for securing clusters and cloud primitives before you start layering on more advanced policy controls.",
+    "tags": [
+      "Kubernetes",
+      "Security",
+      "Cloud"
     ]
   }
 ]

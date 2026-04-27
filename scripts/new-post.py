@@ -26,8 +26,8 @@ import subprocess
 import sys
 from datetime import date
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-META_PATH = os.path.join(REPO_ROOT, "assets", "data", "posts-meta.json")
+REPO_ROOT  = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+META_PATH  = os.path.join(REPO_ROOT, "assets", "data", "posts-meta.json")
 POSTS_ROOT = os.path.join(REPO_ROOT, "blog", "posts")
 
 
