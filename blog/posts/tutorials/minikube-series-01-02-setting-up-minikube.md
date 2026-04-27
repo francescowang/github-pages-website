@@ -4,16 +4,16 @@ This is Part 2 of a 10-part series on Kubernetes using Minikube. We install the 
 
 ## The Series
 
-1. [What is Kubernetes?](/blog/view.html?slug=minikube-series-01-what-is-kubernetes&folder=tutorials)
+1. [What is Kubernetes?](/blog/view.html?slug=minikube-series-01-01-what-is-kubernetes&folder=tutorials)
 2. **Setting Up Your Local Cluster** ← you are here
-3. [Your First Deployment](/blog/view.html?slug=minikube-series-03-first-deployment&folder=tutorials)
-4. [Exposing Your App](/blog/view.html?slug=minikube-series-04-exposing-your-app&folder=tutorials)
-5. [YAML and Declarative Configuration](/blog/view.html?slug=minikube-series-05-yaml-declarative-config&folder=tutorials)
-6. [Scaling and Self-Healing](/blog/view.html?slug=minikube-series-06-scaling-and-self-healing&folder=tutorials)
-7. [Multi-Service Architecture](/blog/view.html?slug=minikube-series-07-multi-service-architecture&folder=tutorials)
-8. [Service-to-Service Communication](/blog/view.html?slug=minikube-series-08-service-to-service-communication&folder=tutorials)
-9. [Ingress and HTTP Routing](/blog/view.html?slug=minikube-series-09-ingress-http-routing&folder=tutorials)
-10. [Production Readiness](/blog/view.html?slug=minikube-series-10-production-readiness&folder=tutorials)
+3. [Your First Deployment](/blog/view.html?slug=minikube-series-01-03-first-deployment&folder=tutorials)
+4. [Exposing Your App](/blog/view.html?slug=minikube-series-01-04-exposing-your-app&folder=tutorials)
+5. [YAML and Declarative Configuration](/blog/view.html?slug=minikube-series-01-05-yaml-declarative-config&folder=tutorials)
+6. [Scaling and Self-Healing](/blog/view.html?slug=minikube-series-01-06-scaling-and-self-healing&folder=tutorials)
+7. [Multi-Service Architecture](/blog/view.html?slug=minikube-series-01-07-multi-service-architecture&folder=tutorials)
+8. [Service-to-Service Communication](/blog/view.html?slug=minikube-series-01-08-service-to-service-communication&folder=tutorials)
+9. [Ingress and HTTP Routing](/blog/view.html?slug=minikube-series-01-09-ingress-http-routing&folder=tutorials)
+10. [Production Readiness](/blog/view.html?slug=minikube-series-01-10-production-readiness&folder=tutorials)
 
 ---
 
