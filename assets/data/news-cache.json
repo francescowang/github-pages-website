@@ -1,74 +1,74 @@
 {
   "tech": [
     {
-      "title": "Asahi Linux Progress Linux 7.0",
-      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 457,
-      "comments": 197,
-      "source": "asahilinux.org"
+      "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "score": 297,
+      "comments": 153,
+      "source": "ca98am79.medium.com"
     },
     {
-      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "score": 124,
+      "comments": 37,
+      "source": "sentinelone.com"
+    },
+    {
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+      "score": 219,
+      "comments": 137,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
+      "url": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
+      "score": 58,
+      "comments": 39,
+      "source": "news.adidas.com"
+    },
+    {
+      "title": "Box to Save Memory in Rust",
+      "url": "https://dystroy.org/blog/box-to-save-memory/",
+      "score": 36,
+      "comments": 5,
+      "source": "dystroy.org"
+    },
+    {
+      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+      "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+      "score": 99,
+      "comments": 26,
+      "source": "smithsonianmag.com"
+    },
+    {
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "url": "https://github.com/sachitrafa/YourMemory",
+      "score": 49,
+      "comments": 22,
+      "source": "github.com"
+    },
+    {
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "score": 243,
+      "comments": 196,
+      "source": "koshyjohn.com"
+    },
+    {
+      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
+      "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
+      "score": 72,
+      "comments": 24,
+      "source": "tokyodev.com"
+    },
+    {
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
       "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "score": 131,
-      "comments": 80,
+      "score": 235,
+      "comments": 137,
       "source": "openai.com"
-    },
-    {
-      "title": "Clay PCB Tutorial",
-      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "score": 105,
-      "comments": 74,
-      "source": "feministhackerspaces.cargo.site"
-    },
-    {
-      "title": "Dear friend, you have built a Kubernetes (2024)",
-      "url": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
-      "score": 40,
-      "comments": 36,
-      "source": "macchaffee.com"
-    },
-    {
-      "title": "The Visible Zorker: Zork 1",
-      "url": "https://eblong.com/infocom/visi/zork1/",
-      "score": 18,
-      "comments": 0,
-      "source": "eblong.com"
-    },
-    {
-      "title": "Statecharts: hierarchical state machines",
-      "url": "https://statecharts.dev/",
-      "score": 226,
-      "comments": 68,
-      "source": "statecharts.dev"
-    },
-    {
-      "title": "Free Textbook on Engineering Thermodynamics",
-      "url": "https://thermodynamicsbook.com/",
-      "score": 31,
-      "comments": 11,
-      "source": "thermodynamicsbook.com"
-    },
-    {
-      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
-      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "score": 634,
-      "comments": 451,
-      "source": "scientificamerican.com"
-    },
-    {
-      "title": "Show HN: Turning a Gaussian Splat into a videogame",
-      "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
-      "score": 144,
-      "comments": 28,
-      "source": "blog.playcanvas.com"
-    },
-    {
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 351,
-      "comments": 239,
-      "source": "freakonomics.com"
     }
   ],
   "security": [
