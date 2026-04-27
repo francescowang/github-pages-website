@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Pgbackrest is no longer being maintained",
+      "url": "https://github.com/pgbackrest/pgbackrest",
+      "score": 124,
+      "comments": 52,
+      "source": "github.com"
+    },
+    {
+      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+      "url": "https://github.com/WeebLabs/DSPi",
+      "score": 65,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
       "title": "Flipdiscs",
       "url": "https://flipdisc.io",
-      "score": 155,
-      "comments": 26,
+      "score": 354,
+      "comments": 60,
       "source": "flipdisc.io"
     },
     {
       "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
       "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 691,
-      "comments": 367,
+      "score": 890,
+      "comments": 454,
       "source": "ca98am79.medium.com"
+    },
+    {
+      "title": "Moleskine's AI Lord of the Rings collection can only mock",
+      "url": "https://cjleo.com/blog/moleskine-ai-lord-of-the-rings-collection-can-only-mock/",
+      "score": 43,
+      "comments": 29,
+      "source": "cjleo.com"
     },
     {
       "title": "TurboQuant: A first-principles walkthrough",
       "url": "https://arkaung.github.io/interactive-turboquant/",
-      "score": 106,
-      "comments": 14,
+      "score": 201,
+      "comments": 43,
       "source": "arkaung.github.io"
-    },
-    {
-      "title": "Self-updating screenshots",
-      "url": "https://interblah.net/self-updating-screenshots",
-      "score": 240,
-      "comments": 34,
-      "source": "interblah.net"
     },
     {
       "title": "AI should elevate your thinking, not replace it",
       "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-      "score": 426,
-      "comments": 317,
+      "score": 583,
+      "comments": 430,
       "source": "koshyjohn.com"
     },
     {
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "score": 171,
-      "comments": 28,
-      "source": "jordanlord.co.uk"
-    },
-    {
-      "title": "When the cheap one is the cool one",
-      "url": "https://arun.is/blog/cheap-cool/",
-      "score": 95,
-      "comments": 33,
-      "source": "arun.is"
-    },
-    {
-      "title": "A Guide to CubeSat Mission and Bus Design",
-      "url": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
-      "score": 14,
-      "comments": 0,
-      "source": "pressbooks-dev.oer.hawaii.edu"
-    },
-    {
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "score": 224,
-      "comments": 49,
-      "source": "sentinelone.com"
-    },
-    {
-      "title": "Box to save memory in Rust",
-      "url": "https://dystroy.org/blog/box-to-save-memory/",
-      "score": 110,
-      "comments": 22,
-      "source": "dystroy.org"
+      "title": "Self-updating screenshots",
+      "url": "https://interblah.net/self-updating-screenshots",
+      "score": 353,
+      "comments": 57,
+      "source": "interblah.net"
     },
     {
       "title": "The Prompt API",
       "url": "https://developer.chrome.com/docs/ai/prompt-api",
-      "score": 81,
-      "comments": 58,
+      "score": 174,
+      "comments": 90,
       "source": "developer.chrome.com"
     },
     {
-      "title": "FreeBSD Device Drivers Book",
-      "url": "https://github.com/ebrandi/FDD-book",
-      "score": 70,
-      "comments": 12,
-      "source": "github.com"
+      "title": "Branimir Lambov from IBM on Cassandra",
+      "url": "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html",
+      "score": 13,
+      "comments": 0,
+      "source": "theconsensus.dev"
     },
     {
-      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-      "score": 354,
-      "comments": 240,
-      "source": "bbc.com"
+      "title": "It's OK to abandon your side-project (2024)",
+      "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+      "score": 111,
+      "comments": 55,
+      "source": "robbowen.digital"
     },
     {
-      "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
-      "url": "https://github.com/evanklem/evanflow",
-      "score": 55,
-      "comments": 23,
-      "source": "github.com"
+      "title": "Rust Memory Management: Ownership vs. Reference Counting",
+      "url": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+      "score": 37,
+      "comments": 19,
+      "source": "slicker.me"
+    },
+    {
+      "title": "Quarkdown \u2013 Markdown with Superpowers",
+      "url": "https://quarkdown.com/",
+      "score": 16,
+      "comments": 3,
+      "source": "quarkdown.com"
+    },
+    {
+      "title": "Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "score": 246,
+      "comments": 42,
+      "source": "jordanlord.co.uk"
+    },
+    {
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "score": 280,
+      "comments": 57,
+      "source": "sentinelone.com"
+    },
+    {
+      "title": "France's Mistral Built a $14B AI Empire by Not Being American",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+      "score": 44,
+      "comments": 15,
+      "source": "forbes.com"
+    },
+    {
+      "title": "A Guide to CubeSat Mission and Bus Design",
+      "url": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
+      "score": 44,
+      "comments": 3,
+      "source": "pressbooks-dev.oer.hawaii.edu"
+    },
+    {
+      "title": "Getting my daily news from a dot matrix printer 2024",
+      "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
+      "score": 4,
+      "comments": 1,
+      "source": "aschmelyun.com"
+    },
+    {
+      "title": "Electrostatics and High Voltage Links",
+      "url": "http://amasci.com/static/electrostatic1.html",
+      "score": 14,
+      "comments": 1,
+      "source": "amasci.com"
+    },
+    {
+      "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "url": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+      "score": 91,
+      "comments": 85,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Box to save memory in Rust",
+      "url": "https://dystroy.org/blog/box-to-save-memory/",
+      "score": 149,
+      "comments": 42,
+      "source": "dystroy.org"
     },
     {
       "title": "SWE-bench Verified no longer measures frontier coding capabilities",
       "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "score": 289,
-      "comments": 160,
+      "score": 322,
+      "comments": 171,
       "source": "openai.com"
     },
     {
-      "title": "Revocation of X.509 Certificates",
-      "url": "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/",
-      "score": 26,
-      "comments": 4,
-      "source": "blog.apnic.net"
+      "title": "When the cheap one is the cool one",
+      "url": "https://arun.is/blog/cheap-cool/",
+      "score": 145,
+      "comments": 82,
+      "source": "arun.is"
     },
     {
-      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-      "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-      "score": 193,
-      "comments": 57,
-      "source": "smithsonianmag.com"
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+      "score": 431,
+      "comments": 277,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Mystery Cpuid Bit",
+      "url": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
+      "score": 23,
+      "comments": 2,
+      "source": "os2museum.com"
+    },
+    {
+      "title": "FreeBSD Device Drivers Book",
+      "url": "https://github.com/ebrandi/FDD-book",
+      "score": 101,
+      "comments": 21,
+      "source": "github.com"
+    },
+    {
+      "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
+      "url": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
+      "score": 74,
+      "comments": 51,
+      "source": "vice.com"
+    },
+    {
+      "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
+      "url": "https://github.com/evanklem/evanflow",
+      "score": 82,
+      "comments": 41,
+      "source": "github.com"
     },
     {
       "title": "Quirks of Human Anatomy",
       "url": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
-      "score": 125,
-      "comments": 67,
+      "score": 142,
+      "comments": 83,
       "source": "sdbonline.org"
     },
     {
       "title": "Magic: The Gathering took me from N2 to Japanese fluency",
       "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
-      "score": 123,
-      "comments": 47,
+      "score": 150,
+      "comments": 66,
       "source": "tokyodev.com"
-    },
-    {
-      "title": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
-      "url": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
-      "score": 63,
-      "comments": 10,
-      "source": "tingouw.com"
-    },
-    {
-      "title": "Chernobyl wildlife forty years on",
-      "url": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
-      "score": 85,
-      "comments": 14,
-      "source": "bbc.com"
-    },
-    {
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "score": 623,
-      "comments": 784,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Mystery Cpuid Bit",
-      "url": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
-      "score": 5,
-      "comments": 0,
-      "source": "os2museum.com"
-    },
-    {
-      "title": "Clay PCB Tutorial",
-      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "score": 217,
-      "comments": 128,
-      "source": "feministhackerspaces.cargo.site"
-    },
-    {
-      "title": "MoQ Boy",
-      "url": "https://moq.dev/blog/moq-boy/",
-      "score": 55,
-      "comments": 5,
-      "source": "moq.dev"
-    },
-    {
-      "title": "Lessons from building multiplayer browsers",
-      "url": "https://www.alejandro.pe/writing/sail-muddy-lessons",
-      "score": 27,
-      "comments": 10,
-      "source": "alejandro.pe"
-    },
-    {
-      "title": "The Visible Zorker: Zork 1",
-      "url": "https://eblong.com/infocom/visi/zork1/",
-      "score": 125,
-      "comments": 23,
-      "source": "eblong.com"
-    },
-    {
-      "title": "Show HN: Free textbook on engineering thermodynamics",
-      "url": "https://thermodynamicsbook.com/",
-      "score": 132,
-      "comments": 34,
-      "source": "thermodynamicsbook.com"
-    },
-    {
-      "title": "The cost math behind routing Claude Code through Ollama (~90% cut)",
-      "url": "https://github.com/Coherence-Daddy/use-ollama-to-enhance-claude",
-      "score": 5,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Dear friend, you have built a Kubernetes (2024)",
-      "url": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
-      "score": 101,
-      "comments": 136,
-      "source": "macchaffee.com"
     }
   ],
   "security": [
