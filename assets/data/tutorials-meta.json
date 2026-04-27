@@ -1,5 +1,152 @@
 [
   {
+    "slug": "minikube-series-10-production-readiness",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (10/10): Production Readiness",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Add health checks (probes), resource limits, and observability to your services — the features that separate a demo from a production-ready system.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-09-ingress-http-routing",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (9/10): Ingress and HTTP Routing",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Set up an Ingress controller for path-based and host-based HTTP routing, replacing random NodePort numbers with clean URLs.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "Networking",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-08-service-to-service-communication",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (8/10): Service-to-Service Communication",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Configure services to talk to each other using Kubernetes DNS, ConfigMaps, and NGINX reverse proxying.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "DNS",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-07-multi-service-architecture",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (7/10): Multi-Service Architecture",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Deploy a second application alongside the first and learn how Kubernetes isolates services using labels, selectors, and independent scaling.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "Microservices",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-06-scaling-and-self-healing",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (6/10): Scaling and Self-Healing",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Scale your app to multiple replicas, watch Kubernetes automatically replace crashed pods, and see load balancing in action.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-05-yaml-declarative-config",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (5/10): YAML and Declarative Configuration",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Transition from CLI commands to YAML manifests — the critical shift to infrastructure as code and the real way to work with Kubernetes.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "YAML",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-04-exposing-your-app",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (4/10): Exposing Your App",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Learn about Services, NodePort, and port-forwarding to make your application accessible from outside the cluster.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "Networking",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-03-first-deployment",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (3/10): Your First Deployment",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Deploy your first application and learn about Pods and Deployments — the core building blocks of everything you run on Kubernetes.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-02-setting-up-minikube",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (2/10): Setting Up Your Local Cluster",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Install Minikube and kubectl on macOS, start your first Kubernetes cluster, and explore what's already running inside it.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "macOS",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
+    "slug": "minikube-series-01-what-is-kubernetes",
+    "folder": "tutorials",
+    "title": "Kubernetes with Minikube (1/10): What is Kubernetes?",
+    "category": "Kubernetes",
+    "date": "2026-04-27",
+    "summary": "Build a mental model of containers, orchestration, and Kubernetes architecture before touching any tools — the foundation for the entire series.",
+    "tags": [
+      "Kubernetes",
+      "Minikube",
+      "Concepts",
+      "Tutorial",
+      "Series: Kubernetes with Minikube"
+    ]
+  },
+  {
     "slug": "setup-local-kubernetes-kind",
     "folder": "tutorials",
     "title": "Hands-on: Setting up a Local Cluster with KinD",
