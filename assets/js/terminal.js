@@ -212,7 +212,7 @@
 
     line.appendChild(input);
     terminalContainer.appendChild(line);
-    input.focus();
+    input.focus({ preventScroll: true });
 
     input.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
@@ -239,7 +239,7 @@
 
     line.appendChild(input);
     terminalContainer.appendChild(line);
-    input.focus();
+    input.focus({ preventScroll: true });
 
     input.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
