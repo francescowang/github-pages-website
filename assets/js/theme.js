@@ -9,7 +9,7 @@
 
   function syncButton(btn, theme) {
     var isDark = theme === 'dark';
-    btn.textContent = isDark ? '☀' : '🌙';
+    btn.textContent = isDark ? '🔆' : '🌙';
     btn.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
     btn.setAttribute('title',      isDark ? 'Switch to light mode' : 'Switch to dark mode');
   }
