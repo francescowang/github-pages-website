@@ -1,46 +1,130 @@
 {
   "tech": [
     {
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "score": 937,
+      "comments": 314,
+      "source": "zed.dev"
+    },
+    {
+      "title": "We need a federation of forges",
+      "url": "https://blog.tangled.org/federation/",
+      "score": 395,
+      "comments": 206,
+      "source": "blog.tangled.org"
+    },
+    {
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "score": 92,
+      "comments": 15,
+      "source": "agwa.name"
+    },
+    {
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+      "score": 22,
+      "comments": 1,
+      "source": "promptarmor.com"
+    },
+    {
+      "title": "Copy Fail \u2013 CVE-2026-31431",
+      "url": "https://copy.fail/",
+      "score": 15,
+      "comments": 3,
+      "source": "copy.fail"
+    },
+    {
+      "title": "Online age verification is the hill to die on",
+      "url": "https://x.com/GlennMeder/status/2049088498163216560",
+      "score": 343,
+      "comments": 218,
+      "source": "x.com"
+    },
+    {
       "title": "Soft launch of open-source code platform for government",
       "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 213,
-      "comments": 74,
+      "score": 447,
+      "comments": 110,
       "source": "nldigitalgovernment.nl"
     },
     {
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2804,
-      "comments": 831,
-      "source": "mitchellh.com"
+      "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
+      "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
+      "score": 78,
+      "comments": 27,
+      "source": "chrisbrunet.com"
     },
     {
-      "title": "Bugs Rust won't catch",
-      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 384,
-      "comments": 189,
-      "source": "corrode.dev"
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "score": 96,
+      "comments": 13,
+      "source": "neal.fun"
     },
     {
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "score": 68,
-      "comments": 14,
-      "source": "theregister.com"
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "url": "https://github.com/GliaX/Stethoscope",
+      "score": 69,
+      "comments": 34,
+      "source": "github.com"
     },
     {
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 389,
-      "comments": 257,
-      "source": "buchodi.com"
+      "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+      "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+      "score": 90,
+      "comments": 34,
+      "source": "read.thecoder.cafe"
     },
     {
-      "title": "Before GitHub",
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 521,
-      "comments": 159,
-      "source": "lucumr.pocoo.org"
+      "title": "How to Build the Future: Demis Hassabis [video]",
+      "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
+      "score": 20,
+      "comments": 6,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Laws of UX",
+      "url": "https://lawsofux.com/",
+      "score": 16,
+      "comments": 2,
+      "source": "lawsofux.com"
+    },
+    {
+      "title": "Rise of the Forward Deployed Engineer",
+      "url": "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/",
+      "score": 14,
+      "comments": 7,
+      "source": "hfsresearch.com"
+    },
+    {
+      "title": "Mistral Medium 3.5",
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "score": 243,
+      "comments": 142,
+      "source": "mistral.ai"
+    },
+    {
+      "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+      "score": 49,
+      "comments": 35,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+      "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+      "score": 24,
+      "comments": 8,
+      "source": "interfaze.ai"
+    },
+    {
+      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
+      "score": 65,
+      "comments": 23,
+      "source": "theguardian.com"
     },
     {
       "title": "Stardex Is Hiring a Founding Customer Success Lead",
@@ -50,158 +134,81 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "score": 93,
-      "comments": 22,
-      "source": "hardenedbsd.org"
-    },
-    {
-      "title": "Why Law Is Law-Shaped",
-      "url": "https://lawvm.org/why-law-is-law-shaped/",
-      "score": 53,
-      "comments": 23,
-      "source": "lawvm.org"
-    },
-    {
-      "title": "Show HN: Rocky \u2013 Rust SQL engine with branches, replay, column lineage",
-      "url": "https://github.com/rocky-data/rocky",
-      "score": 72,
-      "comments": 11,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-      "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-      "score": 180,
-      "comments": 43,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
-      "url": "https://rip.so",
-      "score": 87,
-      "comments": 65,
-      "source": "rip.so"
-    },
-    {
-      "title": "Withnail's Coat and I",
-      "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-      "score": 98,
-      "comments": 11,
-      "source": "ontherow.substack.com"
-    },
-    {
-      "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
-      "url": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
-      "score": 39,
-      "comments": 0,
-      "source": "dl.acm.org"
-    },
-    {
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "score": 286,
-      "comments": 94,
-      "source": "stratechery.com"
-    },
-    {
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "score": 389,
-      "comments": 83,
-      "source": "wiz.io"
-    },
-    {
-      "title": "I won a championship that doesn't exist",
-      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-      "score": 184,
-      "comments": 104,
-      "source": "ron.stoner.com"
-    },
-    {
-      "title": "Gallium oxide electronics withstand extreme cold",
-      "url": "https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/",
-      "score": 54,
+      "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+      "url": "https://github.com/DOS-History/Paterson-Listings",
+      "score": 81,
       "comments": 4,
-      "source": "discovery.kaust.edu.sa"
+      "source": "github.com"
     },
     {
-      "title": "Who owns the code Claude Code wrote?",
-      "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "score": 440,
-      "comments": 404,
-      "source": "legallayer.substack.com"
+      "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "score": 90,
+      "comments": 18,
+      "source": "blog.jeffschomay.com"
     },
     {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 715,
-      "comments": 296,
-      "source": "talkie-lm.com"
+      "title": "Bugs Rust won't catch",
+      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "score": 558,
+      "comments": 312,
+      "source": "corrode.dev"
     },
     {
-      "title": "Coffee with a splash of physics: how to make the most out of your brew",
-      "url": "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/",
-      "score": 4,
+      "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+      "url": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
+      "score": 44,
+      "comments": 43,
+      "source": "healthmanagement.org"
+    },
+    {
+      "title": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "score": 3233,
+      "comments": 958,
+      "source": "mitchellh.com"
+    },
+    {
+      "title": "Before GitHub",
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "score": 617,
+      "comments": 203,
+      "source": "lucumr.pocoo.org"
+    },
+    {
+      "title": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "score": 463,
+      "comments": 320,
+      "source": "buchodi.com"
+    },
+    {
+      "title": "Show HN: Adblock-rust Manager \u2013 Firefox extension to enable the Brave ad blocker",
+      "url": "https://github.com/electricant/adblock-rust-manager",
+      "score": 72,
+      "comments": 33,
+      "source": "github.com"
+    },
+    {
+      "title": "Why Software Needs a Third Loop [audio]",
+      "url": "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop",
+      "score": 5,
       "comments": 0,
-      "source": "physicsworld.com"
+      "source": "heavybit.com"
     },
     {
-      "title": "Warp is now open-source",
-      "url": "https://www.warp.dev/blog/warp-is-now-open-source",
-      "score": 298,
-      "comments": 84,
-      "source": "warp.dev"
+      "title": "At Protocol: Building the Social Internet",
+      "url": "https://atproto.com/",
+      "score": 7,
+      "comments": 0,
+      "source": "atproto.com"
     },
     {
-      "title": "Your phone is about to stop being yours",
-      "url": "https://keepandroidopen.org/en/",
-      "score": 1459,
-      "comments": 693,
-      "source": "keepandroidopen.org"
-    },
-    {
-      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-      "score": 130,
-      "comments": 6,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Intel Arc Pro B70 Review",
-      "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
-      "score": 178,
-      "comments": 108,
-      "source": "pugetsystems.com"
-    },
-    {
-      "title": "When the Internet Was a Place",
-      "url": "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/",
-      "score": 74,
-      "comments": 31,
-      "source": "frontporchrepublic.com"
-    },
-    {
-      "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
-      "url": "https://github.com/trycua/cua",
-      "score": 148,
-      "comments": 34,
-      "source": "github.com"
-    },
-    {
-      "title": "Regression: malware reminder on every read still causes subagent refusals",
-      "url": "https://github.com/anthropics/claude-code/issues/49363",
-      "score": 233,
-      "comments": 125,
-      "source": "github.com"
-    },
-    {
-      "title": "Apple CMF (Color-Matching Functions) 2026",
-      "url": "https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results",
-      "score": 78,
-      "comments": 3,
-      "source": "lttlabs.com"
+      "title": "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
+      "url": "https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/",
+      "score": 71,
+      "comments": 38,
+      "source": "cowboystatedaily.com"
     }
   ],
   "security": [
