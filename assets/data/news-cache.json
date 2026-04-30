@@ -3,215 +3,221 @@
     {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 937,
-      "comments": 314,
+      "score": 1474,
+      "comments": 478,
       "source": "zed.dev"
-    },
-    {
-      "title": "We need a federation of forges",
-      "url": "https://blog.tangled.org/federation/",
-      "score": 395,
-      "comments": 206,
-      "source": "blog.tangled.org"
-    },
-    {
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 92,
-      "comments": 15,
-      "source": "agwa.name"
-    },
-    {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "score": 22,
-      "comments": 1,
-      "source": "promptarmor.com"
     },
     {
       "title": "Copy Fail \u2013 CVE-2026-31431",
       "url": "https://copy.fail/",
-      "score": 15,
-      "comments": 3,
+      "score": 506,
+      "comments": 240,
       "source": "copy.fail"
     },
     {
-      "title": "Online age verification is the hill to die on",
-      "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 343,
-      "comments": 218,
-      "source": "x.com"
-    },
-    {
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 447,
-      "comments": 110,
-      "source": "nldigitalgovernment.nl"
-    },
-    {
-      "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
-      "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
-      "score": 78,
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "score": 133,
       "comments": 27,
-      "source": "chrisbrunet.com"
+      "source": "opentrafficmap.org"
+    },
+    {
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "score": 960,
+      "comments": 391,
+      "source": "github.com"
+    },
+    {
+      "title": "> Be Alexandra Elbakyan",
+      "url": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
+      "score": 46,
+      "comments": 5,
+      "source": "nitter.space"
     },
     {
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
-      "score": 96,
-      "comments": 13,
+      "score": 554,
+      "comments": 99,
       "source": "neal.fun"
     },
     {
-      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
-      "url": "https://github.com/GliaX/Stethoscope",
-      "score": 69,
-      "comments": 34,
-      "source": "github.com"
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "score": 233,
+      "comments": 55,
+      "source": "agwa.name"
     },
     {
-      "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
-      "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
-      "score": 90,
-      "comments": 34,
-      "source": "read.thecoder.cafe"
+      "title": "DRAM Crunch: Lessons for System Design",
+      "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
+      "score": 25,
+      "comments": 1,
+      "source": "eetimes.com"
     },
     {
-      "title": "How to Build the Future: Demis Hassabis [video]",
-      "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-      "score": 20,
-      "comments": 6,
-      "source": "youtube.com"
+      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
+      "score": 157,
+      "comments": 46,
+      "source": "jointhefreeworld.org"
     },
     {
       "title": "Laws of UX",
       "url": "https://lawsofux.com/",
-      "score": 16,
-      "comments": 2,
+      "score": 172,
+      "comments": 30,
       "source": "lawsofux.com"
     },
     {
-      "title": "Rise of the Forward Deployed Engineer",
-      "url": "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/",
-      "score": 14,
-      "comments": 7,
-      "source": "hfsresearch.com"
+      "title": "Vera: a programming language designed for machines to write",
+      "url": "https://github.com/aallan/vera",
+      "score": 32,
+      "comments": 16,
+      "source": "github.com"
     },
     {
-      "title": "Mistral Medium 3.5",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "score": 243,
-      "comments": 142,
-      "source": "mistral.ai"
-    },
-    {
-      "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-      "score": 49,
-      "comments": 35,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
-      "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
-      "score": 24,
-      "comments": 8,
-      "source": "interfaze.ai"
-    },
-    {
-      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
-      "score": 65,
-      "comments": 23,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Stardex Is Hiring a Founding Customer Success Lead",
-      "url": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
-      "url": "https://github.com/DOS-History/Paterson-Listings",
-      "score": 81,
-      "comments": 4,
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "url": "https://github.com/GliaX/Stethoscope",
+      "score": 183,
+      "comments": 75,
       "source": "github.com"
     },
     {
-      "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
-      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-      "score": 90,
-      "comments": 18,
-      "source": "blog.jeffschomay.com"
+      "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
+      "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
+      "score": 235,
+      "comments": 76,
+      "source": "chrisbrunet.com"
     },
     {
-      "title": "Bugs Rust won't catch",
-      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 558,
-      "comments": 312,
-      "source": "corrode.dev"
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+      "score": 96,
+      "comments": 32,
+      "source": "promptarmor.com"
     },
     {
-      "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
-      "url": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
-      "score": 44,
-      "comments": 43,
-      "source": "healthmanagement.org"
+      "title": "Soft launch of open-source code platform for government",
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "score": 520,
+      "comments": 118,
+      "source": "nldigitalgovernment.nl"
+    },
+    {
+      "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+      "url": "https://jivx.com/kyoto-bloom",
+      "score": 222,
+      "comments": 59,
+      "source": "jivx.com"
+    },
+    {
+      "title": "We need a federation of forges",
+      "url": "https://blog.tangled.org/federation/",
+      "score": 513,
+      "comments": 323,
+      "source": "blog.tangled.org"
+    },
+    {
+      "title": "Online age verification is the hill to die on",
+      "url": "https://x.com/GlennMeder/status/2049088498163216560",
+      "score": 713,
+      "comments": 446,
+      "source": "x.com"
+    },
+    {
+      "title": "How to Build the Future: Demis Hassabis [video]",
+      "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
+      "score": 79,
+      "comments": 39,
+      "source": "youtube.com"
+    },
+    {
+      "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+      "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+      "score": 25,
+      "comments": 11,
+      "source": "maxtaylor.me"
+    },
+    {
+      "title": "What can we gain by losing infinity?",
+      "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+      "score": 6,
+      "comments": 0,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "The Lingua Franca of LaTeX",
+      "url": "https://increment.com/open-source/the-lingua-franca-of-latex/",
+      "score": 6,
+      "comments": 1,
+      "source": "increment.com"
+    },
+    {
+      "title": "Postgres's lateral joins allow for quite the good eDSL",
+      "url": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
+      "score": 46,
+      "comments": 3,
+      "source": "bensimms.moe"
     },
     {
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3233,
-      "comments": 958,
+      "score": 3337,
+      "comments": 990,
       "source": "mitchellh.com"
     },
     {
-      "title": "Before GitHub",
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 617,
-      "comments": 203,
-      "source": "lucumr.pocoo.org"
+      "title": "Virtualisation on Apple Silicon Macs is different",
+      "url": "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/",
+      "score": 67,
+      "comments": 17,
+      "source": "eclecticlight.co"
     },
     {
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 463,
-      "comments": 320,
-      "source": "buchodi.com"
+      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
+      "score": 232,
+      "comments": 163,
+      "source": "theguardian.com"
     },
     {
-      "title": "Show HN: Adblock-rust Manager \u2013 Firefox extension to enable the Brave ad blocker",
-      "url": "https://github.com/electricant/adblock-rust-manager",
-      "score": 72,
-      "comments": 33,
+      "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+      "url": "https://github.com/DOS-History/Paterson-Listings",
+      "score": 121,
+      "comments": 6,
       "source": "github.com"
     },
     {
-      "title": "Why Software Needs a Third Loop [audio]",
-      "url": "https://www.heavybit.com/library/podcasts/third-loop/ep-3-give-it-a-name-why-software-needs-a-third-loop",
-      "score": 5,
-      "comments": 0,
-      "source": "heavybit.com"
+      "title": "Mistral Medium 3.5",
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "score": 418,
+      "comments": 195,
+      "source": "mistral.ai"
     },
     {
       "title": "At Protocol: Building the Social Internet",
       "url": "https://atproto.com/",
-      "score": 7,
-      "comments": 0,
+      "score": 59,
+      "comments": 31,
       "source": "atproto.com"
-    },
-    {
-      "title": "Court Rules 2nd Amendment Covers Firearms Parts Good News Those Who Build Guns",
-      "url": "https://cowboystatedaily.com/2026/04/28/court-rules-2nd-amendment-covers-firearms-parts-good-news-for-those-who-build-guns/",
-      "score": 71,
-      "comments": 38,
-      "source": "cowboystatedaily.com"
     }
   ],
   "security": [
+    {
+      "title": "Designing trust and safety into Amazon Bedrock powered applications",
+      "url": "https://aws.amazon.com/blogs/security/designing-trust-and-safety-into-amazon-bedrock-powered-applications/",
+      "date": "2026-04-29 19:27:33",
+      "author": "Victor Lungu"
+    },
     {
       "title": "What the March 2026 Threat Technique Catalog update means for your AWS environment",
       "url": "https://aws.amazon.com/blogs/security/what-the-march-2026-threat-technique-catalog-update-means-for-your-aws-environment/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/transform-security-logs-into-ocsf-format-using-a-configuration-driven-etl-solution/",
       "date": "2026-04-17 16:30:57",
       "author": "Vivek Gautam"
-    },
-    {
-      "title": "Secure AI agent access patterns to AWS resources using Model Context Protocol",
-      "url": "https://aws.amazon.com/blogs/security/secure-ai-agent-access-patterns-to-aws-resources-using-model-context-protocol/",
-      "date": "2026-04-14 22:52:51",
-      "author": "Riggs Goodman III"
     }
   ]
 }
