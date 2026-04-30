@@ -1,80 +1,164 @@
 {
   "tech": [
     {
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "score": 392,
+      "comments": 192,
+      "source": "openai.com"
+    },
+    {
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "score": 198,
+      "comments": 35,
+      "source": "jcvi.org"
+    },
+    {
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1474,
-      "comments": 478,
+      "score": 1739,
+      "comments": 560,
       "source": "zed.dev"
     },
     {
-      "title": "Copy Fail \u2013 CVE-2026-31431",
-      "url": "https://copy.fail/",
-      "score": 506,
-      "comments": 240,
-      "source": "copy.fail"
-    },
-    {
-      "title": "OpenTrafficMap",
-      "url": "https://opentrafficmap.org/",
-      "score": 133,
-      "comments": 27,
-      "source": "opentrafficmap.org"
-    },
-    {
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 960,
-      "comments": 391,
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "score": 96,
+      "comments": 55,
       "source": "github.com"
     },
     {
-      "title": "> Be Alexandra Elbakyan",
-      "url": "https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m",
-      "score": 46,
-      "comments": 5,
-      "source": "nitter.space"
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "score": 110,
+      "comments": 19,
+      "source": "noctua.at"
+    },
+    {
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "score": 148,
+      "comments": 59,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "Copy Fail",
+      "url": "https://copy.fail/",
+      "score": 838,
+      "comments": 317,
+      "source": "copy.fail"
+    },
+    {
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "score": 64,
+      "comments": 9,
+      "source": "burrito.bio"
+    },
+    {
+      "title": "Functional programmers need to take a look at Zig",
+      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+      "score": 71,
+      "comments": 45,
+      "source": "pure-systems.org"
     },
     {
       "title": "Cursor Camp",
       "url": "https://neal.fun/cursor-camp/",
-      "score": 554,
-      "comments": 99,
+      "score": 841,
+      "comments": 136,
       "source": "neal.fun"
+    },
+    {
+      "title": "London to Calcutta by Bus (2022)",
+      "url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
+      "score": 30,
+      "comments": 7,
+      "source": "amusingplanet.com"
     },
     {
       "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
       "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "score": 233,
-      "comments": 55,
+      "score": 315,
+      "comments": 73,
       "source": "agwa.name"
     },
     {
-      "title": "DRAM Crunch: Lessons for System Design",
-      "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
-      "score": 25,
-      "comments": 1,
-      "source": "eetimes.com"
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "score": 218,
+      "comments": 50,
+      "source": "opentrafficmap.org"
+    },
+    {
+      "title": "Who Is That Knocking at My (SSH) Door?",
+      "url": "https://sheep.horse/2026/4/who_is_that_knocking_at_my_%28ssh%29_door.html",
+      "score": 15,
+      "comments": 0,
+      "source": "sheep.horse"
+    },
+    {
+      "title": "Mike: open-source legal AI",
+      "url": "https://mikeoss.com/",
+      "score": 67,
+      "comments": 22,
+      "source": "mikeoss.com"
+    },
+    {
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "score": 1085,
+      "comments": 459,
+      "source": "github.com"
+    },
+    {
+      "title": "Monad Tutorials Timeline",
+      "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
+      "score": 13,
+      "comments": 2,
+      "source": "wiki.haskell.org"
+    },
+    {
+      "title": "Creating a Color Palette from an Image",
+      "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
+      "score": 53,
+      "comments": 8,
+      "source": "amandahinton.com"
     },
     {
       "title": "Why I still reach for Lisp and Scheme instead of Haskell",
       "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
-      "score": 157,
-      "comments": 46,
+      "score": 206,
+      "comments": 98,
       "source": "jointhefreeworld.org"
+    },
+    {
+      "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "score": 39,
+      "comments": 89,
+      "source": "flyingmag.com"
     },
     {
       "title": "Laws of UX",
       "url": "https://lawsofux.com/",
-      "score": 172,
-      "comments": 30,
+      "score": 240,
+      "comments": 35,
       "source": "lawsofux.com"
     },
     {
-      "title": "Vera: a programming language designed for machines to write",
-      "url": "https://github.com/aallan/vera",
-      "score": 32,
-      "comments": 16,
+      "title": "Consequences of passing too few register parameters to a C function",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
+      "score": 50,
+      "comments": 22,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "url": "https://github.com/GliaX/Stethoscope",
+      "score": 237,
+      "comments": 104,
       "source": "github.com"
     },
     {
@@ -85,130 +169,46 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
-      "url": "https://github.com/GliaX/Stethoscope",
-      "score": 183,
-      "comments": 75,
-      "source": "github.com"
-    },
-    {
-      "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
-      "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
-      "score": 235,
-      "comments": 76,
-      "source": "chrisbrunet.com"
-    },
-    {
-      "title": "Ramp's Sheets AI Exfiltrates Financials",
-      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-      "score": 96,
-      "comments": 32,
-      "source": "promptarmor.com"
-    },
-    {
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "score": 520,
-      "comments": 118,
-      "source": "nldigitalgovernment.nl"
-    },
-    {
-      "title": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
-      "url": "https://jivx.com/kyoto-bloom",
-      "score": 222,
-      "comments": 59,
-      "source": "jivx.com"
+      "title": "A grounded conceptual model for ownership types in Rust",
+      "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+      "score": 27,
+      "comments": 1,
+      "source": "cacm.acm.org"
     },
     {
       "title": "We need a federation of forges",
       "url": "https://blog.tangled.org/federation/",
-      "score": 513,
-      "comments": 323,
+      "score": 555,
+      "comments": 343,
       "source": "blog.tangled.org"
-    },
-    {
-      "title": "Online age verification is the hill to die on",
-      "url": "https://x.com/GlennMeder/status/2049088498163216560",
-      "score": 713,
-      "comments": 446,
-      "source": "x.com"
     },
     {
       "title": "How to Build the Future: Demis Hassabis [video]",
       "url": "https://www.youtube.com/watch?v=JNyuX1zoOgU",
-      "score": 79,
-      "comments": 39,
+      "score": 109,
+      "comments": 53,
       "source": "youtube.com"
     },
     {
-      "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
-      "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-      "score": 25,
-      "comments": 11,
-      "source": "maxtaylor.me"
-    },
-    {
-      "title": "What can we gain by losing infinity?",
-      "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-      "score": 6,
-      "comments": 0,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "The Lingua Franca of LaTeX",
-      "url": "https://increment.com/open-source/the-lingua-franca-of-latex/",
-      "score": 6,
-      "comments": 1,
-      "source": "increment.com"
-    },
-    {
-      "title": "Postgres's lateral joins allow for quite the good eDSL",
-      "url": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
-      "score": 46,
-      "comments": 3,
-      "source": "bensimms.moe"
-    },
-    {
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 3337,
-      "comments": 990,
-      "source": "mitchellh.com"
-    },
-    {
-      "title": "Virtualisation on Apple Silicon Macs is different",
-      "url": "https://eclecticlight.co/2026/04/29/virtualisation-on-apple-silicon-macs-is-different/",
-      "score": 67,
-      "comments": 17,
-      "source": "eclecticlight.co"
-    },
-    {
-      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
-      "score": 232,
-      "comments": 163,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "GitHub \u2013 DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
-      "url": "https://github.com/DOS-History/Paterson-Listings",
-      "score": 121,
-      "comments": 6,
+      "title": "Vera: a programming language designed for machines to write",
+      "url": "https://github.com/aallan/vera",
+      "score": 78,
+      "comments": 64,
       "source": "github.com"
     },
     {
-      "title": "Mistral Medium 3.5",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "score": 418,
-      "comments": 195,
-      "source": "mistral.ai"
+      "title": "DRAM Crunch: Lessons for System Design",
+      "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
+      "score": 50,
+      "comments": 3,
+      "source": "eetimes.com"
     },
     {
-      "title": "At Protocol: Building the Social Internet",
-      "url": "https://atproto.com/",
-      "score": 59,
-      "comments": 31,
-      "source": "atproto.com"
+      "title": "Ramp's Sheets AI Exfiltrates Financials",
+      "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+      "score": 126,
+      "comments": 39,
+      "source": "promptarmor.com"
     }
   ],
   "security": [
