@@ -1,207 +1,186 @@
 {
   "tech": [
     {
-      "title": "Your Website Is Not for You",
-      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
-      "score": 36,
-      "comments": 20,
-      "source": "websmith.studio"
+      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "score": 269,
+      "comments": 276,
+      "source": "briefs.co"
+    },
+    {
+      "title": "whohas \u2013 Command-line utility for cross-distro, cross-repository package search",
+      "url": "https://github.com/whohas/whohas",
+      "score": 65,
+      "comments": 16,
+      "source": "github.com"
+    },
+    {
+      "title": "Flock cameras keep telling police a man who doesn't have a warrant has a warrant",
+      "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
+      "score": 87,
+      "comments": 54,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Sally McKee, who coined the term \"the memory wall\", has died",
+      "url": "https://www.online-tribute.com/SallyMcKee",
+      "score": 72,
+      "comments": 8,
+      "source": "online-tribute.com"
+    },
+    {
+      "title": "Show HN: My Private GitHub on Postgres",
+      "url": "https://github.com/calebwin/gitgres",
+      "score": 9,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "Understand Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "score": 11,
+      "comments": 2,
+      "source": "github.com"
     },
     {
       "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
       "url": "https://www.pagetable.com/?p=1854",
-      "score": 7,
-      "comments": 1,
+      "score": 96,
+      "comments": 19,
       "source": "pagetable.com"
     },
     {
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "score": 158,
-      "comments": 50,
+      "title": "Your Website Is Not for You",
+      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "score": 219,
+      "comments": 153,
+      "source": "websmith.studio"
+    },
+    {
+      "title": "An open letter asking NHS England to keep its code open",
+      "url": "https://keepthingsopen.com",
+      "score": 123,
+      "comments": 7,
+      "source": "keepthingsopen.com"
+    },
+    {
+      "title": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
+      "url": "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
+      "score": 22,
+      "comments": 3,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "AI Uses Less Water Than the Public Thinks",
+      "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+      "score": 6,
+      "comments": 2,
+      "source": "californiawaterblog.com"
+    },
+    {
+      "title": "Advanced Quantization Algorithm for LLMs",
+      "url": "https://github.com/intel/auto-round",
+      "score": 90,
+      "comments": 13,
       "source": "github.com"
-    },
-    {
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 623,
-      "comments": 209,
-      "source": "thereader.mitpress.mit.edu"
-    },
-    {
-      "title": "Grok 4.3",
-      "url": "https://docs.x.ai/developers/models/grok-4.3",
-      "score": 143,
-      "comments": 187,
-      "source": "docs.x.ai"
     },
     {
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
       "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "score": 92,
-      "comments": 58,
+      "score": 179,
+      "comments": 108,
       "source": "tcd.ie"
     },
     {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 528,
-      "comments": 422,
-      "source": "openwall.com"
+      "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+      "url": "https://github.com/leox255/loopsy",
+      "score": 27,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Engineering tough blood clots for rapid haemostasis and enhanced regeneration",
+      "url": "https://www.nature.com/articles/s41586-026-10412-y",
+      "score": 5,
+      "comments": 1,
+      "source": "nature.com"
     },
     {
       "title": "OpenWarp",
       "url": "https://openwarp.zerx.dev",
-      "score": 112,
-      "comments": 97,
+      "score": 175,
+      "comments": 129,
       "source": "openwarp.zerx.dev"
-    },
-    {
-      "title": "Apple accidentally left Claude.md files Apple Support app",
-      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
-      "score": 35,
-      "comments": 10,
-      "source": "xcancel.com"
-    },
-    {
-      "title": "If I could make my own GitHub",
-      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
-      "score": 26,
-      "comments": 59,
-      "source": "matduggan.com"
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 407,
-      "comments": 147,
+      "score": 449,
+      "comments": 171,
       "source": "semgrep.dev"
     },
     {
       "title": "Opus 4.7 knows the real Kelsey",
       "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 372,
-      "comments": 195,
+      "score": 441,
+      "comments": 238,
       "source": "theargumentmag.com"
     },
     {
-      "title": "Softmax, can you derive the Jacobian? And should you care?",
-      "url": "https://idlemachines.co.uk/essays/softmax",
-      "score": 64,
-      "comments": 8,
-      "source": "idlemachines.co.uk"
-    },
-    {
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "score": 64,
-      "comments": 35,
-      "source": "techcrunch.com"
+      "title": "Grok 4.3",
+      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "score": 342,
+      "comments": 452,
+      "source": "docs.x.ai"
     },
     {
       "title": "Maladaptive Frugality",
       "url": "https://herbertlui.net/maladaptive-frugality/",
-      "score": 124,
-      "comments": 96,
+      "score": 193,
+      "comments": 210,
       "source": "herbertlui.net"
     },
     {
-      "title": "The Rotary Un-Smartphone (2023)",
-      "url": "https://skysedge.com/telecom/RUSP/index.html",
-      "score": 36,
-      "comments": 5,
-      "source": "skysedge.com"
-    },
-    {
-      "title": "A beginner's guide to Sourcehut (2025)",
-      "url": "https://btxx.org/posts/beginners-guide-sourcehut/",
-      "score": 25,
-      "comments": 6,
-      "source": "btxx.org"
+      "title": "Softmax, can you derive the Jacobian? And should you care?",
+      "url": "https://idlemachines.co.uk/essays/softmax",
+      "score": 107,
+      "comments": 41,
+      "source": "idlemachines.co.uk"
     },
     {
       "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 445,
-      "comments": 138,
+      "score": 503,
+      "comments": 173,
       "source": "construction-physics.com"
+    },
+    {
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "score": 293,
+      "comments": 110,
+      "source": "github.com"
+    },
+    {
+      "title": "If I could make my own GitHub",
+      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "score": 115,
+      "comments": 132,
+      "source": "matduggan.com"
     },
     {
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 1198,
-      "comments": 660,
+      "score": 1292,
+      "comments": 696,
       "source": "twitter.com"
     },
     {
-      "title": "CPanel and WHM Authentication Bypass \u2013 CVE-2026-41940",
-      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-      "score": 119,
-      "comments": 48,
-      "source": "labs.watchtowr.com"
-    },
-    {
-      "title": "Auto Polo",
-      "url": "https://en.wikipedia.org/wiki/Auto_polo",
-      "score": 75,
-      "comments": 19,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "I built a Game Boy emulator in F#",
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 291,
-      "comments": 67,
-      "source": "nickkossolapov.github.io"
-    },
-    {
-      "title": "Can I disable all data collection from my vehicle?",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 645,
-      "comments": 270,
-      "source": "rivian.com"
-    },
-    {
-      "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
-      "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
-      "score": 26,
-      "comments": 1,
-      "source": "lovable.dev"
-    },
-    {
-      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "score": 37,
-      "comments": 8,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "You can beat the binary search",
-      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 334,
-      "comments": 144,
-      "source": "lemire.me"
-    },
-    {
-      "title": "New mechanical panoramic film camera from Jeff Bridges",
-      "url": "https://wideluxx.com",
-      "score": 161,
-      "comments": 75,
-      "source": "wideluxx.com"
-    },
-    {
-      "title": "Reverse Engineering SimTower",
-      "url": "https://phulin.me/blog/simtower",
-      "score": 213,
-      "comments": 50,
-      "source": "phulin.me"
-    },
-    {
-      "title": "The Hearts of the Super Nintendo (2024)",
-      "url": "https://fabiensanglard.net/snes_hearts/",
-      "score": 36,
-      "comments": 5,
-      "source": "fabiensanglard.net"
+      "title": "A Letter from Dijkstra on APL (1982)",
+      "url": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
+      "score": 38,
+      "comments": 32,
+      "source": "jsoftware.com"
     }
   ],
   "security": [
