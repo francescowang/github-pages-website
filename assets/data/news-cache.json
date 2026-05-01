@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Rivian allows you to disable all internet connectivity",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "score": 424,
+      "comments": 169,
+      "source": "rivian.com"
+    },
+    {
+      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+      "score": 398,
+      "comments": 172,
+      "source": "404privacy.com"
+    },
+    {
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 153,
-      "comments": 26,
+      "score": 403,
+      "comments": 118,
       "source": "thereader.mitpress.mit.edu"
+    },
+    {
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "score": 117,
+      "comments": 59,
+      "source": "theargumentmag.com"
+    },
+    {
+      "title": "CopyFail was not disclosed to distro developers?",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 350,
+      "comments": 283,
+      "source": "openwall.com"
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 138,
-      "comments": 31,
+      "score": 315,
+      "comments": 103,
       "source": "semgrep.dev"
-    },
-    {
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "score": 592,
-      "comments": 480,
-      "source": "dpa-international.com"
     },
     {
       "title": "I built a Game Boy emulator in F#",
       "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "score": 55,
-      "comments": 12,
+      "score": 196,
+      "comments": 47,
       "source": "nickkossolapov.github.io"
-    },
-    {
-      "title": "CopyFail Was Not Disclosed to Distros",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 82,
-      "comments": 25,
-      "source": "openwall.com"
     },
     {
       "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
       "url": "https://twitter.com/theo/status/2049645973350363168",
-      "score": 462,
-      "comments": 308,
+      "score": 923,
+      "comments": 520,
       "source": "twitter.com"
     },
     {
-      "title": "How an Oil Refinery Works",
+      "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
+      "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
+      "score": 28,
+      "comments": 3,
+      "source": "sciencex.com"
+    },
+    {
+      "title": "How an oil refinery works",
       "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-      "score": 195,
-      "comments": 40,
+      "score": 306,
+      "comments": 92,
       "source": "construction-physics.com"
     },
     {
-      "title": "Durable queues, streams, pub/sub, and a cron scheduler \u2013 inside your SQLite file",
-      "url": "https://honker.dev/",
-      "score": 84,
-      "comments": 17,
-      "source": "honker.dev"
+      "title": "Reverse Engineering SimTower",
+      "url": "https://phulin.me/blog/simtower",
+      "score": 97,
+      "comments": 15,
+      "source": "phulin.me"
+    },
+    {
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "score": 735,
+      "comments": 682,
+      "source": "dpa-international.com"
+    },
+    {
+      "title": "ClawIRC \u2013 IRC Chat for Agents",
+      "url": "https://clawirc.com/",
+      "score": 3,
+      "comments": 0,
+      "source": "clawirc.com"
+    },
+    {
+      "title": "The upsell game \u2013 Vercel upselling tactics revealed",
+      "url": "https://theupsellgame.com/",
+      "score": 73,
+      "comments": 12,
+      "source": "theupsellgame.com"
+    },
+    {
+      "title": "New mechanical panoramic film camera from Jeff Bridges",
+      "url": "https://wideluxx.com",
+      "score": 61,
+      "comments": 24,
+      "source": "wideluxx.com"
     },
     {
       "title": "You can beat the binary search",
       "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-      "score": 146,
-      "comments": 70,
+      "score": 241,
+      "comments": 115,
       "source": "lemire.me"
     },
     {
-      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-      "score": 242,
-      "comments": 90,
-      "source": "democrata.es"
+      "title": "Durable queues, streams, pub/sub, and a cron scheduler \u2013 inside your SQLite file",
+      "url": "https://honker.dev/",
+      "score": 168,
+      "comments": 49,
+      "source": "honker.dev"
+    },
+    {
+      "title": "The Accidental Ancestor \u2013 How Verifying Numbers Shaped Modern Hashing",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html",
+      "score": 6,
+      "comments": 0,
+      "source": "0xkrt26.github.io"
+    },
+    {
+      "title": "Full-Text Search with DuckDB",
+      "url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+      "score": 82,
+      "comments": 19,
+      "source": "peterdohertys.website"
+    },
+    {
+      "title": "AI discovery reveals DNA isn\u2019t locked away in cells after all",
+      "url": "https://gladstone.org/news/ai-discovery-reveals-dna-isnt-locked-away-cells-after-all",
+      "score": 11,
+      "comments": 2,
+      "source": "gladstone.org"
+    },
+    {
+      "title": "The Church Rock Uranium Mill Spill",
+      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+      "score": 51,
+      "comments": 4,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",
+      "url": "https://simplex.chat/blog/20260430-simplex-channels-v6-5-consortium-crowdfunding-freedom-of-speech.html",
+      "score": 16,
+      "comments": 1,
+      "source": "simplex.chat"
+    },
+    {
+      "title": "Does Postgres Scale?",
+      "url": "https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres",
+      "score": 73,
+      "comments": 30,
+      "source": "dbos.dev"
     },
     {
       "title": "I aggregated 28 US Government auction sites into one search",
       "url": "https://bidprowl.com",
-      "score": 173,
-      "comments": 52,
+      "score": 232,
+      "comments": 71,
       "source": "bidprowl.com"
+    },
+    {
+      "title": "A Milestone in Formalization: The Sphere Packing Problem in Dimension 8",
+      "url": "https://www.alphaxiv.org/abs/2604.23468",
+      "score": 8,
+      "comments": 0,
+      "source": "alphaxiv.org"
+    },
+    {
+      "title": "Compositing and Blending \u2013 Exploring the math and intuition behind blend modes",
+      "url": "https://nik.digital/posts/compositing-blending",
+      "score": 11,
+      "comments": 1,
+      "source": "nik.digital"
+    },
+    {
+      "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
+      "url": "https://pu.dev/",
+      "score": 62,
+      "comments": 18,
+      "source": "pu.dev"
     },
     {
       "title": "10Gb/s Ethernet: what I did to get it working in my home",
       "url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did",
-      "score": 45,
-      "comments": 22,
+      "score": 136,
+      "comments": 99,
       "source": "gilesthomas.com"
+    },
+    {
+      "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "score": 395,
+      "comments": 167,
+      "source": "democrata.es"
     },
     {
       "title": "Recovering files from beyond the grave using PhotoRec",
       "url": "https://lost-number.bearblog.dev/recovering-files-from-beyond-the-grave-using-photorec/",
-      "score": 7,
-      "comments": 0,
+      "score": 49,
+      "comments": 10,
       "source": "lost-number.bearblog.dev"
-    },
-    {
-      "title": "Mozilla's opposition to Chrome's Prompt API",
-      "url": "https://github.com/mozilla/standards-positions/issues/1213",
-      "score": 446,
-      "comments": 182,
-      "source": "github.com"
-    },
-    {
-      "title": "A 1960s art school experiment that redefined creativity",
-      "url": "https://thereader.mitpress.mit.edu/the-1960s-art-school-experiment-that-redefined-creativity/",
-      "score": 38,
-      "comments": 7,
-      "source": "thereader.mitpress.mit.edu"
-    },
-    {
-      "title": "Show HN: TRiP \u2013 a complete transformer engine in C built from scratch just by me",
-      "url": "https://github.com/carlovalenti/TRiP",
-      "score": 13,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "score": 235,
-      "comments": 147,
-      "source": "firethering.com"
-    },
-    {
-      "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "score": 579,
-      "comments": 359,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "url": "https://www.noctua.at/en/3d-cad-models",
-      "score": 447,
-      "comments": 98,
-      "source": "noctua.at"
-    },
-    {
-      "title": "How Semiconductors Were Made in America",
-      "url": "https://www.siliconimist.com/p/semiconductors-made-in-america",
-      "score": 6,
-      "comments": 1,
-      "source": "siliconimist.com"
-    },
-    {
-      "title": "Where the goblins came from",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "score": 971,
-      "comments": 580,
-      "source": "openai.com"
-    },
-    {
-      "title": "Kubereboot/Kured: Kubernetes Reboot Daemon",
-      "url": "https://github.com/kubereboot/kured",
-      "score": 8,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "The Science Behind Honey's Eternal Shelf Life (2013)",
-      "url": "https://www.smithsonianmag.com/science-nature/the-science-behind-honeys-eternal-shelf-life-1218690/",
-      "score": 45,
-      "comments": 25,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "A Primer on B\u00e9zier Curves \u2013 So What Makes a B\u00e9zier Curve?",
-      "url": "https://pomax.github.io/bezierinfo/",
-      "score": 94,
-      "comments": 19,
-      "source": "pomax.github.io"
-    },
-    {
-      "title": "What can we gain by losing infinity?",
-      "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-      "score": 77,
-      "comments": 84,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 316,
-      "comments": 75,
-      "source": "jcvi.org"
-    },
-    {
-      "title": "My Stratum-0 Atomic Clock",
-      "url": "https://coverclock.blogspot.com/2017/05/my-stratum-0-atomic-clock_9.html",
-      "score": 56,
-      "comments": 14,
-      "source": "coverclock.blogspot.com"
-    },
-    {
-      "title": "Largest Digital Human Rights Conference Suddenly Canceled",
-      "url": "https://www.404media.co/rightscon-human-rights-conference-suddenly-postponed/",
-      "score": 40,
-      "comments": 7,
-      "source": "404media.co"
-    },
-    {
-      "title": "I scraped 1.94M Airbnb photos for opium dens, pet cameos, and messy kitchens",
-      "url": "https://burla-cloud.github.io/examples/airbnb-burla-demo/",
-      "score": 48,
-      "comments": 23,
-      "source": "burla-cloud.github.io"
-    },
-    {
-      "title": "GCC 16 has been released",
-      "url": "https://gcc.gnu.org/gcc-16/changes.html",
-      "score": 260,
-      "comments": 47,
-      "source": "gcc.gnu.org"
     }
   ],
   "security": [
