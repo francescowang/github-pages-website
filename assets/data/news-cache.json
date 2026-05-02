@@ -1,193 +1,200 @@
 {
   "tech": [
     {
+      "title": "Why does it take so long to release black fan versions?",
+      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "score": 43,
+      "comments": 13,
+      "source": "noctua.at"
+    },
+    {
+      "title": "Ask.com has closed",
+      "url": "https://www.ask.com/",
+      "score": 190,
+      "comments": 98,
+      "source": "ask.com"
+    },
+    {
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 241,
-      "comments": 249,
+      "score": 409,
+      "comments": 366,
       "source": "education.ti.com"
+    },
+    {
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "score": 117,
+      "comments": 52,
+      "source": "citadelsecurities.com"
+    },
+    {
+      "title": "Artemis II Photo Timeline",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "score": 157,
+      "comments": 12,
+      "source": "artemistimeline.com"
     },
     {
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 213,
-      "comments": 119,
+      "score": 307,
+      "comments": 173,
       "source": "newyorker.com"
     },
     {
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 77,
-      "comments": 30,
-      "source": "worksinprogress.news"
+      "title": "LFM2-24B-A2B: Scaling Up the LFM2 Architecture",
+      "url": "https://www.liquid.ai/blog/lfm2-24b-a2b",
+      "score": 19,
+      "comments": 3,
+      "source": "liquid.ai"
     },
     {
-      "title": "What did you love about VB6?",
-      "url": "https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question",
-      "score": 6,
-      "comments": 1,
-      "source": "evilgeniuslabs.ca"
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "score": 43,
+      "comments": 4,
+      "source": "e360.yale.edu"
+    },
+    {
+      "title": "K3k: Kubernetes in Kubernetes",
+      "url": "https://github.com/rancher/k3k",
+      "score": 19,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "I built the Playwright for desktop apps. 80% token savings",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "score": 42,
+      "comments": 12,
+      "source": "github.com"
     },
     {
       "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
       "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "score": 81,
-      "comments": 92,
+      "score": 124,
+      "comments": 158,
       "source": "wired.com"
     },
     {
       "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
       "url": "https://github.com/microsoft/lib0xc",
-      "score": 58,
-      "comments": 19,
+      "score": 130,
+      "comments": 49,
       "source": "github.com"
     },
     {
-      "title": "Artemis II Photo Timeline",
-      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 12,
+      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "score": 42,
+      "comments": 12,
+      "source": "nature.com"
+    },
+    {
+      "title": "Integer Overflow Checking Cost",
+      "url": "https://danluu.com/integer-overflow/",
+      "score": 9,
       "comments": 2,
-      "source": "artemistimeline.com"
+      "source": "danluu.com"
     },
     {
-      "title": "Whimsical Animations Course Open House",
-      "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
-      "score": 54,
-      "comments": 8,
-      "source": "courses.joshwcomeau.com"
-    },
-    {
-      "title": "Whohas \u2013 Command-line utility for cross-distro, cross-repository package search",
-      "url": "https://github.com/whohas/whohas",
-      "score": 121,
-      "comments": 27,
-      "source": "github.com"
-    },
-    {
-      "title": "SpaceX rocket set for unintentional moon landing \u2013 well, a piece of it anyway",
-      "url": "https://www.theregister.com/2026/05/01/spacex_debris_landing/",
-      "score": 43,
-      "comments": 24,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Credit cards are vulnerable to brute force kind attacks",
-      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-      "score": 181,
-      "comments": 149,
-      "source": "metin.nextc.org"
-    },
-    {
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "score": 280,
-      "comments": 83,
-      "source": "404media.co"
+      "title": "Sourcefeed \u2013 a pop-up RSS service",
+      "url": "https://www.sourcefeed.app/",
+      "score": 18,
+      "comments": 3,
+      "source": "sourcefeed.app"
     },
     {
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
       "url": "https://github.com/darrylmorley/whatcable",
-      "score": 395,
-      "comments": 128,
+      "score": 479,
+      "comments": 137,
       "source": "github.com"
-    },
-    {
-      "title": "Show HN: AI CAD Harness",
-      "url": "https://fusion.adam.new/install",
-      "score": 58,
-      "comments": 61,
-      "source": "fusion.adam.new"
-    },
-    {
-      "title": "Apocalypse Early Warning System",
-      "url": "https://ews.kylemcdonald.net/",
-      "score": 104,
-      "comments": 57,
-      "source": "ews.kylemcdonald.net"
-    },
-    {
-      "title": "The gay jailbreak technique",
-      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "score": 355,
-      "comments": 130,
-      "source": "github.com"
-    },
-    {
-      "title": "Understand Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "score": 96,
-      "comments": 27,
-      "source": "github.com"
-    },
-    {
-      "title": "AI uses less water than the public thinks",
-      "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-      "score": 323,
-      "comments": 287,
-      "source": "californiawaterblog.com"
     },
     {
       "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
       "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-      "score": 5,
-      "comments": 0,
+      "score": 57,
+      "comments": 12,
       "source": "mirandaheath.website"
     },
     {
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-      "score": 193,
-      "comments": 210,
-      "source": "bbc.com"
+      "title": "The smelly baby problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "score": 159,
+      "comments": 100,
+      "source": "worksinprogress.news"
     },
     {
-      "title": "Artemis II fault tolerance",
-      "url": "https://alearningaday.blog/2026/05/01/artemis-ii-fault-tolerance/",
-      "score": 56,
-      "comments": 30,
-      "source": "alearningaday.blog"
+      "title": "Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity",
+      "url": "https://topaz.thecloudtheory.com/blog/debugging-table-entity-auth/",
+      "score": 10,
+      "comments": 4,
+      "source": "topaz.thecloudtheory.com"
     },
     {
-      "title": "U.S. to Withdraw 5k Troops from Germany, Pentagon Says",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
-      "score": 16,
-      "comments": 1,
-      "source": "nytimes.com"
+      "title": "Whohas \u2013 Command-line utility for cross-distro, cross-repository package search",
+      "url": "https://github.com/whohas/whohas",
+      "score": 135,
+      "comments": 32,
+      "source": "github.com"
     },
     {
-      "title": "Sally McKee, who coined the term \"the memory wall\", has died",
-      "url": "https://www.online-tribute.com/SallyMcKee",
-      "score": 103,
-      "comments": 21,
-      "source": "online-tribute.com"
+      "title": "Create an MP4 video of a web page scrolling at a steady speed",
+      "url": "https://github.com/upenn/web-scroll-video",
+      "score": 14,
+      "comments": 4,
+      "source": "github.com"
     },
     {
-      "title": "Historic Tennessee hotel is also home to the greatest duck tradition (2016)",
-      "url": "https://www.audubon.org/magazine/tennessees-most-historic-hotel-also-home-greatest-duck-tradition",
-      "score": 23,
-      "comments": 1,
-      "source": "audubon.org"
+      "title": "Apocalypse Early Warning System",
+      "url": "https://ews.kylemcdonald.net/",
+      "score": 154,
+      "comments": 82,
+      "source": "ews.kylemcdonald.net"
     },
     {
-      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
-      "url": "https://www.pagetable.com/?p=1854",
-      "score": 121,
-      "comments": 27,
-      "source": "pagetable.com"
+      "title": "Tvheadend: Self-Hosted IPTV Server",
+      "url": "https://tvheadend.org",
+      "score": 26,
+      "comments": 9,
+      "source": "tvheadend.org"
     },
     {
-      "title": "Ubuntu servers taken offline by \"sustained, cross-border attack\"",
-      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
-      "score": 97,
-      "comments": 19,
-      "source": "arstechnica.com"
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "score": 377,
+      "comments": 102,
+      "source": "404media.co"
     },
     {
-      "title": "A Letter from Dijkstra on APL (1982)",
-      "url": "https://www.jsoftware.com/papers/Dijkstra_Letter.htm",
-      "score": 52,
-      "comments": 50,
-      "source": "jsoftware.com"
+      "title": "The gay jailbreak technique (2025)",
+      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+      "score": 479,
+      "comments": 191,
+      "source": "github.com"
+    },
+    {
+      "title": "Whimsical Animations Course Open House",
+      "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+      "score": 86,
+      "comments": 9,
+      "source": "courses.joshwcomeau.com"
+    },
+    {
+      "title": "Show HN: AI CAD Harness",
+      "url": "https://fusion.adam.new/install",
+      "score": 82,
+      "comments": 83,
+      "source": "fusion.adam.new"
     }
   ],
   "security": [
