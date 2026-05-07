@@ -1,46 +1,130 @@
 {
   "tech": [
     {
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1526,
-      "comments": 500,
-      "source": "digitalfoundry.net"
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 364,
+      "comments": 160,
+      "source": "not-ship.com"
     },
     {
-      "title": "Indian matchbox labels as a visual archive",
-      "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-      "score": 26,
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "score": 160,
+      "comments": 54,
+      "source": "deepmind.google"
+    },
+    {
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "score": 74,
+      "comments": 34,
+      "source": "bsuh.bearblog.dev"
+    },
+    {
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "score": 92,
+      "comments": 31,
+      "source": "github.com"
+    },
+    {
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "score": 13,
       "comments": 2,
-      "source": "itsnicethat.com"
+      "source": "anthropic.com"
     },
     {
-      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 56,
-      "comments": 20,
-      "source": "ticalc.org"
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "url": "https://www.nature.com/articles/d41586-026-00720-8",
+      "score": 244,
+      "comments": 156,
+      "source": "nature.com"
     },
     {
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1302,
-      "comments": 515,
-      "source": "nooneshappy.com"
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "score": 185,
+      "comments": 51,
+      "source": "old.reddit.com"
+    },
+    {
+      "title": "PySimpleGUI 6",
+      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+      "score": 42,
+      "comments": 13,
+      "source": "github.com"
+    },
+    {
+      "title": "The Self-Cancelling Subscription",
+      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "score": 98,
+      "comments": 41,
+      "source": "predr.ag"
+    },
+    {
+      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+      "score": 30,
+      "comments": 4,
+      "source": "miod.online.fr"
+    },
+    {
+      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "url": "https://ratex.lites.dev/",
+      "score": 120,
+      "comments": 73,
+      "source": "ratex.lites.dev"
+    },
+    {
+      "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+      "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+      "score": 36,
+      "comments": 10,
+      "source": "ietf.org"
+    },
+    {
+      "title": "I switched from Mac to a Lenovo Chromebook",
+      "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
+      "score": 61,
+      "comments": 84,
+      "source": "blog.johnozbay.com"
+    },
+    {
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "score": 142,
+      "comments": 127,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "I want to live like Costco people",
+      "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+      "score": 50,
+      "comments": 115,
+      "source": "tastecooking.com"
     },
     {
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
       "url": "https://sqlite.org/locrsf.html",
-      "score": 356,
-      "comments": 95,
+      "score": 548,
+      "comments": 167,
       "source": "sqlite.org"
     },
     {
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "url": "https://ahk.cardor.dev",
-      "score": 20,
-      "comments": 4,
-      "source": "ahk.cardor.dev"
+      "title": "How Cloudflare responded to the \u201cCopy Fail\u201d Linux vulnerability",
+      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+      "score": 54,
+      "comments": 53,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Appearing productive in the workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "score": 1494,
+      "comments": 602,
+      "source": "nooneshappy.com"
     },
     {
       "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
@@ -50,168 +134,90 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+      "title": "Show HN: Stage CLI \u2013 an easier way of reading your AI generated changes locally",
+      "url": "https://github.com/ReviewStage/stage-cli",
+      "score": 9,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "Speedup in Lattice Boltzmann Cylinder Flow",
+      "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
+      "score": 39,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "score": 153,
+      "comments": 67,
+      "source": "ticalc.org"
+    },
+    {
+      "title": "ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters",
       "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-      "score": 41,
-      "comments": 36,
+      "score": 59,
+      "comments": 49,
       "source": "firethering.com"
     },
     {
-      "title": "Permacomputing Principles",
-      "url": "https://permacomputing.net/principles/",
-      "score": 179,
-      "comments": 85,
-      "source": "permacomputing.net"
+      "title": "Indian matchbox labels as a visual archive",
+      "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
+      "score": 130,
+      "comments": 31,
+      "source": "itsnicethat.com"
     },
     {
-      "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-      "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-      "score": 36,
-      "comments": 21,
-      "source": "paulkrugman.substack.com"
+      "title": "Printing Blogs",
+      "url": "https://fi-le.net/print/",
+      "score": 11,
+      "comments": 1,
+      "source": "fi-le.net"
+    },
+    {
+      "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+      "score": 20,
+      "comments": 3,
+      "source": "elciudadano.com"
+    },
+    {
+      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "url": "https://ahk.cardor.dev",
+      "score": 61,
+      "comments": 18,
+      "source": "ahk.cardor.dev"
     },
     {
       "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
       "url": "https://aniket.foo/posts/20260505-netboot/",
-      "score": 119,
-      "comments": 64,
+      "score": 175,
+      "comments": 92,
       "source": "aniket.foo"
-    },
-    {
-      "title": "Photoshop's challenges with focus, pt. 2",
-      "url": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
-      "score": 75,
-      "comments": 22,
-      "source": "unsung.aresluna.org"
-    },
-    {
-      "title": "Chevrolet Performance eCrate package (400v/200hp)",
-      "url": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate",
-      "score": 74,
-      "comments": 45,
-      "source": "chevrolet.com"
-    },
-    {
-      "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
-      "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
-      "score": 38,
-      "comments": 13,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 641,
-      "comments": 704,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
-      "url": "https://singleride.nyc/",
-      "score": 35,
-      "comments": 13,
-      "source": "singleride.nyc"
     },
     {
       "title": "RSS feeds send me more traffic than Google",
       "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-      "score": 150,
-      "comments": 35,
+      "score": 238,
+      "comments": 56,
       "source": "shkspr.mobi"
     },
     {
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "score": 81,
-      "comments": 42,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "The brave souls who bought a used, 340k-mile rental camper van",
-      "url": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
-      "score": 19,
-      "comments": 5,
-      "source": "thedrive.com"
-    },
-    {
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "url": "https://ratex.lites.dev/",
-      "score": 4,
-      "comments": 1,
-      "source": "ratex.lites.dev"
-    },
-    {
-      "title": "Show HN: Agent-skills-eval \u2013 Test whether Agent Skills improve outputs",
-      "url": "https://github.com/darkrishabh/agent-skills-eval",
-      "score": 36,
-      "comments": 15,
-      "source": "github.com"
-    },
-    {
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "url": "https://unsloth.ai/blog/nvidia-collab",
-      "score": 72,
-      "comments": 10,
-      "source": "unsloth.ai"
-    },
-    {
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 333,
-      "comments": 345,
-      "source": "cloud.google.com"
-    },
-    {
-      "title": "Show HN: Trust \u2013 Coding Rust like it's 1989",
-      "url": "https://github.com/wojtczyk/trust",
-      "score": 53,
-      "comments": 16,
-      "source": "github.com"
-    },
-    {
-      "title": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "score": 267,
-      "comments": 194,
-      "source": "blog.val.town"
-    },
-    {
-      "title": "Pen pal programs endure in a digital age",
-      "url": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca",
-      "score": 58,
-      "comments": 13,
-      "source": "apnews.com"
-    },
-    {
-      "title": "Show HN: Hallucinopedia",
-      "url": "http://halupedia.com/",
-      "score": 249,
-      "comments": 221,
-      "source": "halupedia.com"
-    },
-    {
-      "title": "Community firmware for the Xteink X4 e-paper reader",
-      "url": "https://github.com/crosspoint-reader/crosspoint-reader",
-      "score": 117,
-      "comments": 38,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Tilde.run \u2013 Agent sandbox with a transactional, versioned filesystem",
-      "url": "https://tilde.run/",
-      "score": 178,
-      "comments": 120,
-      "source": "tilde.run"
-    },
-    {
-      "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
-      "url": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
-      "score": 63,
-      "comments": 105,
-      "source": "harpers.org"
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "score": 1667,
+      "comments": 564,
+      "source": "digitalfoundry.net"
     }
   ],
   "security": [
+    {
+      "title": "AWS achieves SNI 27017, SNI 27018, and SNI 9001 certifications for the AWS Asia Pacific (Jakarta) Region",
+      "url": "https://aws.amazon.com/blogs/security/aws-achieves-sni-27017-sni-27018-and-sni-9001-certifications-for-the-aws-asia-pacific-jakarta-region/",
+      "date": "2026-05-07 16:03:47",
+      "author": "Ignatius Lee"
+    },
     {
       "title": "New compliance guide available: ISO/IEC 42001:2023 on AWS",
       "url": "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-420012023-on-aws/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/access-control-with-iam-identity-center-session-tags/",
       "date": "2026-04-28 16:33:06",
       "author": "Rashmi Iyer"
-    },
-    {
-      "title": "Optimize security operations through an AWS Security Hub POC",
-      "url": "https://aws.amazon.com/blogs/security/how-to-develop-an-aws-security-hub-poc/",
-      "date": "2026-04-27 18:55:44",
-      "author": "Kyle Shields"
     }
   ]
 }
