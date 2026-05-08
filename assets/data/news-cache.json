@@ -1,130 +1,193 @@
 {
   "tech": [
     {
-      "title": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 364,
-      "comments": 160,
-      "source": "not-ship.com"
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "score": 121,
+      "comments": 13,
+      "source": "theverge.com"
     },
     {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 160,
-      "comments": 54,
-      "source": "deepmind.google"
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 371,
+      "comments": 171,
+      "source": "openwall.com"
+    },
+    {
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 61,
+      "comments": 14,
+      "source": "xeiaso.net"
+    },
+    {
+      "title": "The Burning Man MOOP Map",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 519,
+      "comments": 275,
+      "source": "not-ship.com"
     },
     {
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 74,
-      "comments": 34,
+      "score": 304,
+      "comments": 166,
       "source": "bsuh.bearblog.dev"
     },
     {
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "url": "https://github.com/antirez/ds4",
-      "score": 92,
-      "comments": 31,
-      "source": "github.com"
+      "title": "Researchers discover advanced language processing in the unconscious human brain",
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "score": 17,
+      "comments": 0,
+      "source": "bcm.edu"
+    },
+    {
+      "title": "Building for the Future",
+      "url": "https://blog.cloudflare.com/building-for-the-future/",
+      "score": 215,
+      "comments": 130,
+      "source": "blog.cloudflare.com"
     },
     {
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 13,
-      "comments": 2,
+      "score": 175,
+      "comments": 57,
       "source": "anthropic.com"
     },
     {
-      "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "url": "https://www.nature.com/articles/d41586-026-00720-8",
-      "score": 244,
-      "comments": 156,
-      "source": "nature.com"
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "score": 238,
+      "comments": 91,
+      "source": "deepmind.google"
     },
     {
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "score": 185,
-      "comments": 51,
-      "source": "old.reddit.com"
-    },
-    {
-      "title": "PySimpleGUI 6",
-      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
-      "score": 42,
-      "comments": 13,
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "score": 271,
+      "comments": 84,
       "source": "github.com"
     },
     {
-      "title": "The Self-Cancelling Subscription",
-      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-      "score": 98,
-      "comments": 41,
-      "source": "predr.ag"
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "score": 407,
+      "comments": 398,
+      "source": "rmoff.net"
     },
     {
-      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
-      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+      "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+      "score": 14,
+      "comments": 5,
+      "source": "uchicagomedicine.org"
+    },
+    {
+      "title": "OpenClaw Had a Rough Week",
+      "url": "https://openclaw.ai/blog/openclaw-rough-week",
       "score": 30,
-      "comments": 4,
-      "source": "miod.online.fr"
+      "comments": 38,
+      "source": "openclaw.ai"
     },
     {
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "url": "https://ratex.lites.dev/",
-      "score": 120,
-      "comments": 73,
-      "source": "ratex.lites.dev"
-    },
-    {
-      "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
-      "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
-      "score": 36,
-      "comments": 10,
-      "source": "ietf.org"
-    },
-    {
-      "title": "I switched from Mac to a Lenovo Chromebook",
-      "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
-      "score": 61,
-      "comments": 84,
-      "source": "blog.johnozbay.com"
-    },
-    {
-      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-      "score": 142,
-      "comments": 127,
-      "source": "tomshardware.com"
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "score": 47,
+      "comments": 12,
+      "source": "citizen.co.za"
     },
     {
       "title": "I want to live like Costco people",
       "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-      "score": 50,
-      "comments": 115,
+      "score": 212,
+      "comments": 454,
       "source": "tastecooking.com"
     },
     {
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "url": "https://sqlite.org/locrsf.html",
-      "score": 548,
-      "comments": 167,
-      "source": "sqlite.org"
+      "title": "Rolling the Root Key",
+      "url": "https://blog.apnic.net/2026/05/05/rolling-the-root-key/",
+      "score": 13,
+      "comments": 2,
+      "source": "blog.apnic.net"
     },
     {
-      "title": "How Cloudflare responded to the \u201cCopy Fail\u201d Linux vulnerability",
-      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-      "score": 54,
-      "comments": 53,
-      "source": "blog.cloudflare.com"
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "score": 445,
+      "comments": 168,
+      "source": "old.reddit.com"
     },
     {
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1494,
-      "comments": 602,
-      "source": "nooneshappy.com"
+      "title": "Hackers deface school login pages after claiming another Instructure hack",
+      "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+      "score": 12,
+      "comments": 1,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Tools in the Grass: Raising the next generation of crafts person",
+      "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
+      "score": 23,
+      "comments": 2,
+      "source": "popularwoodworking.com"
+    },
+    {
+      "title": "Principles for agent-native CLIs",
+      "url": "https://twitter.com/trevin/status/2051316002730991795",
+      "score": 53,
+      "comments": 29,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Colored Shadow Penumbra",
+      "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+      "score": 30,
+      "comments": 12,
+      "source": "chosker.github.io"
+    },
+    {
+      "title": "PySimpleGUI 6",
+      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+      "score": 85,
+      "comments": 42,
+      "source": "github.com"
+    },
+    {
+      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "url": "https://ratex.lites.dev/",
+      "score": 157,
+      "comments": 87,
+      "source": "ratex.lites.dev"
+    },
+    {
+      "title": "The Self-Cancelling Subscription",
+      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "score": 141,
+      "comments": 60,
+      "source": "predr.ag"
+    },
+    {
+      "title": "Show HN: TRUST \u2013 Coding Rust like it's 1989",
+      "url": "https://github.com/wojtczyk/trust",
+      "score": 116,
+      "comments": 72,
+      "source": "github.com"
+    },
+    {
+      "title": "Creating for a niche",
+      "url": "https://www.davesnider.com/posts/working-in-a-niche",
+      "score": 24,
+      "comments": 2,
+      "source": "davesnider.com"
+    },
+    {
+      "title": "Easy Random Trees",
+      "url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html",
+      "score": 18,
+      "comments": 2,
+      "source": "blog.wilsonb.com"
     },
     {
       "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
@@ -134,84 +197,27 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Show HN: Stage CLI \u2013 an easier way of reading your AI generated changes locally",
-      "url": "https://github.com/ReviewStage/stage-cli",
-      "score": 9,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "Speedup in Lattice Boltzmann Cylinder Flow",
-      "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
-      "score": 39,
-      "comments": 3,
-      "source": "github.com"
+      "title": "OurCar: What I learned making an app for my family",
+      "url": "https://mendelgreenberg.com/posts/ourcar/",
+      "score": 98,
+      "comments": 71,
+      "source": "mendelgreenberg.com"
     },
     {
       "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
       "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 153,
-      "comments": 67,
+      "score": 186,
+      "comments": 83,
       "source": "ticalc.org"
-    },
-    {
-      "title": "ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters",
-      "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-      "score": 59,
-      "comments": 49,
-      "source": "firethering.com"
-    },
-    {
-      "title": "Indian matchbox labels as a visual archive",
-      "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-      "score": 130,
-      "comments": 31,
-      "source": "itsnicethat.com"
-    },
-    {
-      "title": "Printing Blogs",
-      "url": "https://fi-le.net/print/",
-      "score": 11,
-      "comments": 1,
-      "source": "fi-le.net"
-    },
-    {
-      "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
-      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "score": 20,
-      "comments": 3,
-      "source": "elciudadano.com"
-    },
-    {
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "url": "https://ahk.cardor.dev",
-      "score": 61,
-      "comments": 18,
-      "source": "ahk.cardor.dev"
-    },
-    {
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "url": "https://aniket.foo/posts/20260505-netboot/",
-      "score": 175,
-      "comments": 92,
-      "source": "aniket.foo"
-    },
-    {
-      "title": "RSS feeds send me more traffic than Google",
-      "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-      "score": 238,
-      "comments": 56,
-      "source": "shkspr.mobi"
-    },
-    {
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1667,
-      "comments": 564,
-      "source": "digitalfoundry.net"
     }
   ],
   "security": [
+    {
+      "title": "ICYMI: April 2026 @AWS Security",
+      "url": "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security/",
+      "date": "2026-05-07 18:52:59",
+      "author": "Rodolfo Brenes"
+    },
     {
       "title": "AWS achieves SNI 27017, SNI 27018, and SNI 9001 certifications for the AWS Asia Pacific (Jakarta) Region",
       "url": "https://aws.amazon.com/blogs/security/aws-achieves-sni-27017-sni-27018-and-sni-9001-certifications-for-the-aws-asia-pacific-jakarta-region/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/what-the-march-2026-threat-technique-catalog-update-means-for-your-aws-environment/",
       "date": "2026-04-28 19:01:37",
       "author": "Shannon Brazil"
-    },
-    {
-      "title": "Access control with IAM Identity Center session tags",
-      "url": "https://aws.amazon.com/blogs/security/access-control-with-iam-identity-center-session-tags/",
-      "date": "2026-04-28 16:33:06",
-      "author": "Rashmi Iyer"
     }
   ]
 }
