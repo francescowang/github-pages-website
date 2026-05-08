@@ -1,207 +1,200 @@
 {
   "tech": [
     {
-      "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "score": 374,
+      "comments": 173,
+      "source": "privatecaptcha.com"
+    },
+    {
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 105,
+      "comments": 40,
+      "source": "webdesignmuseum.org"
+    },
+    {
+      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "url": "https://btxx.org/posts/memory/",
+      "score": 118,
+      "comments": 46,
+      "source": "btxx.org"
+    },
+    {
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "score": 272,
+      "comments": 108,
+      "source": "meshtastic.org"
+    },
+    {
+      "title": "A web page that shows you everything the browser told it without asking",
+      "url": "https://sinceyouarrived.world/taken",
+      "score": 296,
+      "comments": 158,
+      "source": "sinceyouarrived.world"
+    },
+    {
+      "title": "PC Engine CPU",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "score": 81,
+      "comments": 26,
+      "source": "jsgroth.dev"
+    },
+    {
+      "title": "Apple, Intel have reached preliminary chip-making deal",
+      "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
+      "score": 68,
+      "comments": 23,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Poland is now among the 20 largest economies",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "score": 721,
+      "comments": 618,
+      "source": "apnews.com"
+    },
+    {
+      "title": "Show HN: Git for AI Agents",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "score": 58,
+      "comments": 31,
+      "source": "github.com"
+    },
+    {
+      "title": "Cloudflare to cut about 20% of its workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 1179,
+      "comments": 821,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Mojo 1.0 Beta",
+      "url": "https://mojolang.org/",
+      "score": 156,
+      "comments": 121,
+      "source": "mojolang.org"
+    },
+    {
+      "title": "Bjarne Stroustrup: How do I deal with memory leaks?",
+      "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+      "score": 21,
+      "comments": 6,
+      "source": "stroustrup.com"
+    },
+    {
+      "title": "Canvas online again as ShinyHunters threatens to leak schools\u2019 data",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 736,
-      "comments": 447,
+      "score": 871,
+      "comments": 578,
       "source": "theverge.com"
     },
     {
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "score": 94,
-      "comments": 78,
-      "source": "nintendo.co.jp"
+      "title": "US Government releases first batch of UAP documents and videos",
+      "url": "https://www.war.gov/UFO/",
+      "score": 132,
+      "comments": 225,
+      "source": "war.gov"
     },
     {
-      "title": "Cloudflare to cut about 20% workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "score": 876,
-      "comments": 592,
-      "source": "reuters.com"
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "score": 79,
+      "comments": 14,
+      "source": "garrido.io"
+    },
+    {
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 90,
+      "comments": 6,
+      "source": "bbc.com"
     },
     {
       "title": "Maybe you shouldn't install new software for a bit",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 601,
-      "comments": 327,
+      "score": 763,
+      "comments": 403,
       "source": "xeiaso.net"
-    },
-    {
-      "title": "ClojureScript Gets Async/Await",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "score": 111,
-      "comments": 31,
-      "source": "clojurescript.org"
     },
     {
       "title": "GeoJSON",
       "url": "https://geojson.org/",
-      "score": 24,
-      "comments": 7,
+      "score": 121,
+      "comments": 57,
       "source": "geojson.org"
     },
     {
       "title": "Dirtyfrag: Universal Linux LPE",
       "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 681,
-      "comments": 277,
+      "score": 756,
+      "comments": 305,
       "source": "openwall.com"
-    },
-    {
-      "title": "Dithering with CSS",
-      "url": "https://ikesau.co/blog/dithering-with-css/",
-      "score": 43,
-      "comments": 15,
-      "source": "ikesau.co"
-    },
-    {
-      "title": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 674,
-      "comments": 323,
-      "source": "not-ship.com"
-    },
-    {
-      "title": "Pinocchio is weirder than you remembered",
-      "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "score": 196,
-      "comments": 84,
-      "source": "storica.club"
-    },
-    {
-      "title": "Floats Don't Agree with Themselves",
-      "url": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
-      "score": 33,
-      "comments": 22,
-      "source": "docs.merca.earth"
     },
     {
       "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
       "url": "https://sdocs.dev/blogs/journey-to-pdf-generation",
-      "score": 35,
-      "comments": 30,
+      "score": 58,
+      "comments": 51,
       "source": "sdocs.dev"
+    },
+    {
+      "title": "ClojureScript Gets Async/Await",
+      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "score": 244,
+      "comments": 59,
+      "source": "clojurescript.org"
+    },
+    {
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 739,
+      "comments": 339,
+      "source": "not-ship.com"
+    },
+    {
+      "title": "The Disappearance of the Public Bench",
+      "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
+      "score": 100,
+      "comments": 113,
+      "source": "placesjournal.org"
+    },
+    {
+      "title": "Pinocchio is weirder than you remembered",
+      "url": "https://storica.club/blog/pinocchio-in-italian/",
+      "score": 267,
+      "comments": 111,
+      "source": "storica.club"
+    },
+    {
+      "title": "Inventing Cyrillic (2024)",
+      "url": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
+      "score": 37,
+      "comments": 75,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "QBE \u2013 Compiler Back End",
+      "url": "https://c9x.me/compile/",
+      "score": 73,
+      "comments": 21,
+      "source": "c9x.me"
+    },
+    {
+      "title": "Dithering with CSS",
+      "url": "https://ikesau.co/blog/dithering-with-css/",
+      "score": 104,
+      "comments": 29,
+      "source": "ikesau.co"
     },
     {
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "score": 497,
-      "comments": 245,
+      "score": 560,
+      "comments": 274,
       "source": "bsuh.bearblog.dev"
-    },
-    {
-      "title": "An Introduction to Meshtastic",
-      "url": "https://meshtastic.org/docs/introduction/",
-      "score": 4,
-      "comments": 1,
-      "source": "meshtastic.org"
-    },
-    {
-      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-      "score": 56,
-      "comments": 15,
-      "source": "ivanpleshkov.dev"
-    },
-    {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "score": 305,
-      "comments": 99,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "url": "https://github.com/antirez/ds4",
-      "score": 421,
-      "comments": 119,
-      "source": "github.com"
-    },
-    {
-      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
-      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "score": 244,
-      "comments": 212,
-      "source": "elciudadano.com"
-    },
-    {
-      "title": "Singapore introduces caning for boys who bully others at school",
-      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
-      "score": 224,
-      "comments": 321,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "url": "https://github.com/graemeg/blaise",
-      "score": 59,
-      "comments": 19,
-      "source": "github.com"
-    },
-    {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "score": 302,
-      "comments": 128,
-      "source": "deepmind.google"
-    },
-    {
-      "title": "Plasticity and language in the anaesthetized human hippocampus",
-      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "score": 122,
-      "comments": 43,
-      "source": "bcm.edu"
-    },
-    {
-      "title": "Hardening Firefox with Claude Mythos Preview",
-      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-      "score": 235,
-      "comments": 105,
-      "source": "hacks.mozilla.org"
-    },
-    {
-      "title": "Hackers breach JDownloader website to serve malware-laced downloads",
-      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
-      "score": 4,
-      "comments": 0,
-      "source": "neowin.net"
-    },
-    {
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "score": 97,
-      "comments": 44,
-      "source": "github.com"
-    },
-    {
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "score": 82,
-      "comments": 19,
-      "source": "openrouter.ai"
-    },
-    {
-      "title": "AI slop is killing online communities",
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "score": 708,
-      "comments": 607,
-      "source": "rmoff.net"
-    },
-    {
-      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-      "score": 114,
-      "comments": 25,
-      "source": "citizen.co.za"
-    },
-    {
-      "title": "How to make SSE token streams resumable, cancellable, and multi-device",
-      "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
-      "score": 42,
-      "comments": 9,
-      "source": "zknill.io"
     }
   ],
   "security": [
