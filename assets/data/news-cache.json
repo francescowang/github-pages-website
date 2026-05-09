@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 148,
-      "comments": 56,
-      "source": "gowers.wordpress.com"
+      "title": "Internet Archive Switzerland",
+      "url": "https://internetarchive.ch/",
+      "score": 10,
+      "comments": 2,
+      "source": "internetarchive.ch"
     },
     {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 66,
-      "comments": 23,
-      "source": "twitter.com"
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 384,
+      "comments": 224,
+      "source": "gowers.wordpress.com"
     },
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 878,
-      "comments": 292,
+      "score": 1133,
+      "comments": 393,
       "source": "reclaimthenet.org"
     },
     {
-      "title": "I Will Never Use AI to Code",
-      "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
-      "score": 16,
-      "comments": 1,
-      "source": "antman-does-software.com"
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "score": 197,
+      "comments": 108,
+      "source": "twitter.com"
     },
     {
-      "title": "OpenAI's WebRTC problem",
+      "title": "OpenAI\u2019s WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 245,
-      "comments": 63,
+      "score": 350,
+      "comments": 87,
       "source": "moq.dev"
+    },
+    {
+      "title": "Making Julia as Fast as C++ (2019)",
+      "url": "https://flow.byu.edu/posts/julia-c++",
+      "score": 17,
+      "comments": 8,
+      "source": "flow.byu.edu"
     },
     {
       "title": "Mythical Man Month",
       "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 109,
-      "comments": 82,
+      "score": 194,
+      "comments": 134,
       "source": "martinfowler.com"
-    },
-    {
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 310,
-      "comments": 128,
-      "source": "jefftk.com"
-    },
-    {
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "score": 116,
-      "comments": 5,
-      "source": "lachlan.nz"
     },
     {
       "title": "David Attenborough's 100th Birthday",
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 568,
-      "comments": 109,
+      "score": 697,
+      "comments": 139,
       "source": "bbc.com"
     },
     {
-      "title": "AWS North Virginia data center outage \u2013 recovery to take hours",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "score": 198,
-      "comments": 130,
-      "source": "cnbc.com"
+      "title": "America's carpet capital: an empire and its toxic legacy",
+      "url": "https://apnews.com/projects/pfas-forever-stained/",
+      "score": 35,
+      "comments": 15,
+      "source": "apnews.com"
+    },
+    {
+      "title": "What causes lightning? The answer keeps getting more interesting",
+      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+      "score": 86,
+      "comments": 18,
+      "source": "quantamagazine.org"
     },
     {
       "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
       "url": "https://www.wiisfi.com/",
-      "score": 169,
-      "comments": 49,
+      "score": 271,
+      "comments": 67,
       "source": "wiisfi.com"
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 353,
+      "comments": 140,
+      "source": "jefftk.com"
+    },
+    {
+      "title": "AWS North Virginia data center outage \u2013 resolved",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "score": 231,
+      "comments": 156,
+      "source": "cnbc.com"
     },
     {
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 322,
-      "comments": 103,
+      "score": 353,
+      "comments": 108,
       "source": "webdesignmuseum.org"
     },
     {
-      "title": "Bitter Lessons from the ISSpresso",
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
-      "score": 79,
-      "comments": 20,
-      "source": "mceglowski.substack.com"
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "score": 159,
+      "comments": 11,
+      "source": "lachlan.nz"
     },
     {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 172,
-      "comments": 96,
-      "source": "ze3tar.github.io"
+      "title": "Reviving the IBM Selectric Composer Fonts (2023)",
+      "url": "https://www.kutilek.de/selectric/",
+      "score": 7,
+      "comments": 0,
+      "source": "kutilek.de"
     },
     {
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
-      "score": 410,
-      "comments": 155,
+      "score": 463,
+      "comments": 162,
       "source": "meshtastic.org"
     },
     {
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
-      "score": 52,
-      "comments": 17,
-      "source": "colorado.edu"
-    },
-    {
-      "title": "What Causes Lightning? The Answer Keeps Getting More Interesting",
-      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-      "score": 11,
-      "comments": 0,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-      "score": 69,
-      "comments": 10,
-      "source": "sigops.org"
-    },
-    {
-      "title": "PortalVR Motion \u2013 use any VR content in 2D with 3D tracked Joy-Cons",
-      "url": "https://portalvr.io/motion",
-      "score": 10,
-      "comments": 1,
-      "source": "portalvr.io"
-    },
-    {
-      "title": "The Soul of Maintaining a New Machine",
-      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-      "score": 38,
-      "comments": 4,
-      "source": "books.worksinprogress.co"
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "score": 193,
+      "comments": 111,
+      "source": "ze3tar.github.io"
     },
     {
       "title": "Teaching Claude Why",
       "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "score": 139,
-      "comments": 68,
+      "score": 182,
+      "comments": 87,
       "source": "anthropic.com"
+    },
+    {
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "score": 95,
+      "comments": 24,
+      "source": "sigops.org"
     },
     {
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
-      "score": 209,
-      "comments": 89,
+      "score": 227,
+      "comments": 92,
       "source": "btxx.org"
     },
     {
-      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "score": 30,
-      "comments": 13,
-      "source": "cyberinsider.com"
+      "title": "Killswitch: Per-function short-circuit mitigation primitive",
+      "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+      "score": 9,
+      "comments": 1,
+      "source": "lwn.net"
     },
     {
-      "title": "Mux (YC W16) Is Hiring",
-      "url": "https://www.mux.com/jobs",
-      "score": 1,
-      "comments": 0,
-      "source": "mux.com"
+      "title": "Light without electricity? Glowing algae could make it possible",
+      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "score": 80,
+      "comments": 25,
+      "source": "colorado.edu"
     },
     {
-      "title": "All means are fair except solving the problem",
-      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-      "score": 45,
-      "comments": 43,
-      "source": "yosefk.com"
-    },
-    {
-      "title": "Mojo 1.0 Beta",
-      "url": "https://mojolang.org/",
-      "score": 330,
-      "comments": 210,
-      "source": "mojolang.org"
-    },
-    {
-      "title": "When is your birthday? The math behind hash collisions",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
-      "score": 39,
-      "comments": 7,
-      "source": "0xkrt26.github.io"
-    },
-    {
-      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
-      "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
-      "score": 83,
-      "comments": 36,
-      "source": "techrights.org"
+      "title": "The soul of maintaining a new machine",
+      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+      "score": 62,
+      "comments": 5,
+      "source": "books.worksinprogress.co"
     },
     {
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
-      "score": 270,
-      "comments": 429,
+      "score": 306,
+      "comments": 446,
       "source": "war.gov"
     },
     {
-      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-      "score": 237,
-      "comments": 146,
-      "source": "pcmag.com"
+      "title": "PortalVR Motion \u2013 use any VR content in 2D with 3D tracked Joy-Cons",
+      "url": "https://portalvr.io/motion",
+      "score": 26,
+      "comments": 2,
+      "source": "portalvr.io"
+    },
+    {
+      "title": "Roadside Attraction",
+      "url": "https://theoffingmag.com/essay/roadside-attraction/",
+      "score": 24,
+      "comments": 3,
+      "source": "theoffingmag.com"
+    },
+    {
+      "title": "All means are fair except solving the problem",
+      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+      "score": 64,
+      "comments": 47,
+      "source": "yosefk.com"
+    },
+    {
+      "title": "When is your birthday? The math behind hash collisions",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+      "score": 52,
+      "comments": 12,
+      "source": "0xkrt26.github.io"
+    },
+    {
+      "title": "Bitter Lessons from the ISSpresso",
+      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+      "score": 106,
+      "comments": 29,
+      "source": "mceglowski.substack.com"
     }
   ],
   "security": [
