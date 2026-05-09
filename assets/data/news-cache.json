@@ -1,88 +1,165 @@
 {
   "tech": [
     {
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 148,
+      "comments": 56,
+      "source": "gowers.wordpress.com"
+    },
+    {
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "score": 66,
+      "comments": 23,
+      "source": "twitter.com"
+    },
+    {
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 527,
-      "comments": 174,
+      "score": 878,
+      "comments": 292,
       "source": "reclaimthenet.org"
     },
     {
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 212,
-      "comments": 93,
-      "source": "jefftk.com"
-    },
-    {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 119,
-      "comments": 76,
-      "source": "ze3tar.github.io"
-    },
-    {
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 266,
-      "comments": 94,
-      "source": "webdesignmuseum.org"
+      "title": "I Will Never Use AI to Code",
+      "url": "https://antman-does-software.com/i-will-never-use-ai-to-code-or-write",
+      "score": 16,
+      "comments": 1,
+      "source": "antman-does-software.com"
     },
     {
       "title": "OpenAI's WebRTC problem",
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 27,
-      "comments": 1,
+      "score": 245,
+      "comments": 63,
       "source": "moq.dev"
     },
     {
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com/",
-      "score": 48,
-      "comments": 23,
-      "source": "wiisfi.com"
+      "title": "Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "score": 109,
+      "comments": 82,
+      "source": "martinfowler.com"
     },
     {
-      "title": "AWS North Virginia data center outage \u2013 recovery to take hours",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "score": 102,
-      "comments": 62,
-      "source": "cnbc.com"
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 310,
+      "comments": 128,
+      "source": "jefftk.com"
+    },
+    {
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "score": 116,
+      "comments": 5,
+      "source": "lachlan.nz"
     },
     {
       "title": "David Attenborough's 100th Birthday",
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 418,
-      "comments": 81,
+      "score": 568,
+      "comments": 109,
       "source": "bbc.com"
+    },
+    {
+      "title": "AWS North Virginia data center outage \u2013 recovery to take hours",
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "score": 198,
+      "comments": 130,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "url": "https://www.wiisfi.com/",
+      "score": 169,
+      "comments": 49,
+      "source": "wiisfi.com"
+    },
+    {
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "score": 322,
+      "comments": 103,
+      "source": "webdesignmuseum.org"
+    },
+    {
+      "title": "Bitter Lessons from the ISSpresso",
+      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+      "score": 79,
+      "comments": 20,
+      "source": "mceglowski.substack.com"
+    },
+    {
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "score": 172,
+      "comments": 96,
+      "source": "ze3tar.github.io"
+    },
+    {
+      "title": "An Introduction to Meshtastic",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "score": 410,
+      "comments": 155,
+      "source": "meshtastic.org"
+    },
+    {
+      "title": "Light without electricity? Glowing algae could make it possible",
+      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "score": 52,
+      "comments": 17,
+      "source": "colorado.edu"
+    },
+    {
+      "title": "What Causes Lightning? The Answer Keeps Getting More Interesting",
+      "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+      "score": 11,
+      "comments": 0,
+      "source": "quantamagazine.org"
     },
     {
       "title": "Can LLMs model real-world systems in TLA+?",
       "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-      "score": 10,
-      "comments": 0,
+      "score": 69,
+      "comments": 10,
       "source": "sigops.org"
     },
     {
-      "title": "When is your birthday? The math behind hash collisions",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
-      "score": 7,
-      "comments": 0,
-      "source": "0xkrt26.github.io"
+      "title": "PortalVR Motion \u2013 use any VR content in 2D with 3D tracked Joy-Cons",
+      "url": "https://portalvr.io/motion",
+      "score": 10,
+      "comments": 1,
+      "source": "portalvr.io"
     },
     {
-      "title": "Looking at the data behind prediction markets",
-      "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-      "score": 48,
-      "comments": 21,
-      "source": "asteriskmag.com"
+      "title": "The Soul of Maintaining a New Machine",
+      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+      "score": 38,
+      "comments": 4,
+      "source": "books.worksinprogress.co"
+    },
+    {
+      "title": "Teaching Claude Why",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "score": 139,
+      "comments": 68,
+      "source": "anthropic.com"
     },
     {
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
       "url": "https://btxx.org/posts/memory/",
-      "score": 187,
-      "comments": 76,
+      "score": 209,
+      "comments": 89,
       "source": "btxx.org"
+    },
+    {
+      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "score": 30,
+      "comments": 13,
+      "source": "cyberinsider.com"
     },
     {
       "title": "Mux (YC W16) Is Hiring",
@@ -92,116 +169,46 @@
       "source": "mux.com"
     },
     {
-      "title": "An Introduction to Meshtastic",
-      "url": "https://meshtastic.org/docs/introduction/",
-      "score": 365,
-      "comments": 138,
-      "source": "meshtastic.org"
-    },
-    {
-      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-      "score": 109,
-      "comments": 80,
-      "source": "pcmag.com"
-    },
-    {
-      "title": "Teaching Claude Why",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "score": 72,
-      "comments": 16,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-      "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
-      "score": 23,
-      "comments": 18,
-      "source": "nhtsa.gov"
-    },
-    {
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "score": 5,
-      "comments": 0,
-      "source": "lachlan.nz"
-    },
-    {
-      "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166",
-      "score": 16,
-      "comments": 0,
-      "source": "science.org"
-    },
-    {
-      "title": "Non-determinism is an issue with patching CVEs",
-      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-      "score": 32,
-      "comments": 11,
-      "source": "flox.dev"
-    },
-    {
       "title": "All means are fair except solving the problem",
       "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-      "score": 29,
-      "comments": 35,
+      "score": 45,
+      "comments": 43,
       "source": "yosefk.com"
     },
     {
       "title": "Mojo 1.0 Beta",
       "url": "https://mojolang.org/",
-      "score": 275,
-      "comments": 177,
+      "score": 330,
+      "comments": 210,
       "source": "mojolang.org"
+    },
+    {
+      "title": "When is your birthday? The math behind hash collisions",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+      "score": 39,
+      "comments": 7,
+      "source": "0xkrt26.github.io"
+    },
+    {
+      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+      "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+      "score": 83,
+      "comments": 36,
+      "source": "techrights.org"
     },
     {
       "title": "US Government releases first batch of UAP documents and videos",
       "url": "https://www.war.gov/UFO/",
-      "score": 224,
-      "comments": 333,
+      "score": 270,
+      "comments": 429,
       "source": "war.gov"
     },
     {
-      "title": "How do I deal with memory leaks? (2022)",
-      "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
-      "score": 75,
-      "comments": 63,
-      "source": "stroustrup.com"
-    },
-    {
-      "title": "Hosting a Site on a Raspberry Pi",
-      "url": "https://m4rt.nl/blog/hosting-on-a-pi",
-      "score": 8,
-      "comments": 0,
-      "source": "m4rt.nl"
-    },
-    {
-      "title": "Poland is now among the 20 largest economies",
-      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "score": 886,
-      "comments": 729,
-      "source": "apnews.com"
-    },
-    {
-      "title": "Human typing habits and token counts",
-      "url": "https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/",
-      "score": 4,
-      "comments": 0,
-      "source": "pankajpipada.com"
-    },
-    {
-      "title": "PC Engine CPU",
-      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-      "score": 116,
-      "comments": 52,
-      "source": "jsgroth.dev"
-    },
-    {
-      "title": "My first in-prod corrupted hard drive problem",
-      "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
-      "score": 34,
-      "comments": 27,
-      "source": "blog.pavementlink.ch"
+      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+      "score": 237,
+      "comments": 146,
+      "source": "pcmag.com"
     }
   ],
   "security": [
