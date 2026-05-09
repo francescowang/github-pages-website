@@ -3,212 +3,212 @@
     {
       "title": "Internet Archive Switzerland",
       "url": "https://internetarchive.ch/",
-      "score": 10,
-      "comments": 2,
+      "score": 347,
+      "comments": 51,
       "source": "internetarchive.ch"
     },
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 384,
-      "comments": 224,
-      "source": "gowers.wordpress.com"
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "score": 24,
+      "comments": 12,
+      "source": "copahost.com"
+    },
+    {
+      "title": "PipeDream on the Acorn Archimedes",
+      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "score": 52,
+      "comments": 15,
+      "source": "stonetools.ghost.io"
+    },
+    {
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "score": 227,
+      "comments": 85,
+      "source": "arxiv.org"
     },
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1133,
-      "comments": 393,
+      "score": 1357,
+      "comments": 491,
       "source": "reclaimthenet.org"
+    },
+    {
+      "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "score": 133,
+      "comments": 80,
+      "source": "matduggan.com"
+    },
+    {
+      "title": "How LEDs are made (2014)",
+      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+      "score": 94,
+      "comments": 12,
+      "source": "learn.sparkfun.com"
     },
     {
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 197,
-      "comments": 108,
+      "score": 350,
+      "comments": 210,
       "source": "twitter.com"
     },
     {
-      "title": "OpenAI\u2019s WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 350,
-      "comments": 87,
-      "source": "moq.dev"
+      "title": "I Will Not Add Query Strings to Your URLs",
+      "url": "https://susam.net/no-query-strings.html",
+      "score": 17,
+      "comments": 1,
+      "source": "susam.net"
     },
     {
-      "title": "Making Julia as Fast as C++ (2019)",
-      "url": "https://flow.byu.edu/posts/julia-c++",
-      "score": 17,
-      "comments": 8,
-      "source": "flow.byu.edu"
+      "title": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "score": 11,
+      "comments": 2,
+      "source": "zed.dev"
+    },
+    {
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 518,
+      "comments": 375,
+      "source": "gowers.wordpress.com"
     },
     {
       "title": "Mythical Man Month",
       "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 194,
-      "comments": 134,
+      "score": 296,
+      "comments": 174,
       "source": "martinfowler.com"
-    },
-    {
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "score": 697,
-      "comments": 139,
-      "source": "bbc.com"
     },
     {
       "title": "America's carpet capital: an empire and its toxic legacy",
       "url": "https://apnews.com/projects/pfas-forever-stained/",
-      "score": 35,
-      "comments": 15,
+      "score": 129,
+      "comments": 76,
       "source": "apnews.com"
+    },
+    {
+      "title": "OpenAI\u2019s WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "score": 421,
+      "comments": 131,
+      "source": "moq.dev"
+    },
+    {
+      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+      "score": 131,
+      "comments": 37,
+      "source": "cyberinsider.com"
+    },
+    {
+      "title": "Introduction to Beaver Triples",
+      "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
+      "score": 8,
+      "comments": 3,
+      "source": "stoffelmpc.com"
+    },
+    {
+      "title": "Show HN: I wrote a flight simulator in my own programming language",
+      "url": "https://github.com/navid-m/flightsim",
+      "score": 16,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "score": 789,
+      "comments": 153,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Apple is increasing my cortisol levels",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "score": 10,
+      "comments": 1,
+      "source": "blog.kronis.dev"
+    },
+    {
+      "title": "Reviving the IBM Selectric Composer Fonts (2023)",
+      "url": "https://www.kutilek.de/selectric/",
+      "score": 48,
+      "comments": 5,
+      "source": "kutilek.de"
+    },
+    {
+      "title": "Building the TD4 4-Bit CPU",
+      "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
+      "score": 33,
+      "comments": 11,
+      "source": "jayakody2000lk.blogspot.com"
     },
     {
       "title": "What causes lightning? The answer keeps getting more interesting",
       "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
-      "score": 86,
-      "comments": 18,
+      "score": 149,
+      "comments": 37,
       "source": "quantamagazine.org"
+    },
+    {
+      "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
+      "url": "https://mochijs.com/",
+      "score": 12,
+      "comments": 4,
+      "source": "mochijs.com"
+    },
+    {
+      "title": "Killswitch: Per-function short-circuit mitigation primitive",
+      "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+      "score": 64,
+      "comments": 14,
+      "source": "lwn.net"
     },
     {
       "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
       "url": "https://www.wiisfi.com/",
-      "score": 271,
-      "comments": 67,
+      "score": 324,
+      "comments": 88,
       "source": "wiisfi.com"
     },
     {
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 353,
-      "comments": 140,
+      "score": 392,
+      "comments": 157,
       "source": "jefftk.com"
     },
     {
-      "title": "AWS North Virginia data center outage \u2013 resolved",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "score": 231,
-      "comments": 156,
-      "source": "cnbc.com"
+      "title": "Making Julia as Fast as C++ (2019)",
+      "url": "https://flow.byu.edu/posts/julia-c++",
+      "score": 66,
+      "comments": 51,
+      "source": "flow.byu.edu"
+    },
+    {
+      "title": "Show HN: Free tool to mark points and polygon regions",
+      "url": "https://tack.pics",
+      "score": 16,
+      "comments": 3,
+      "source": "tack.pics"
     },
     {
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 353,
-      "comments": 108,
+      "score": 393,
+      "comments": 120,
       "source": "webdesignmuseum.org"
-    },
-    {
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "score": 159,
-      "comments": 11,
-      "source": "lachlan.nz"
-    },
-    {
-      "title": "Reviving the IBM Selectric Composer Fonts (2023)",
-      "url": "https://www.kutilek.de/selectric/",
-      "score": 7,
-      "comments": 0,
-      "source": "kutilek.de"
     },
     {
       "title": "An Introduction to Meshtastic",
       "url": "https://meshtastic.org/docs/introduction/",
-      "score": 463,
-      "comments": 162,
+      "score": 483,
+      "comments": 177,
       "source": "meshtastic.org"
-    },
-    {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 193,
-      "comments": 111,
-      "source": "ze3tar.github.io"
-    },
-    {
-      "title": "Teaching Claude Why",
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "score": 182,
-      "comments": 87,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Can LLMs model real-world systems in TLA+?",
-      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-      "score": 95,
-      "comments": 24,
-      "source": "sigops.org"
-    },
-    {
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "url": "https://btxx.org/posts/memory/",
-      "score": 227,
-      "comments": 92,
-      "source": "btxx.org"
-    },
-    {
-      "title": "Killswitch: Per-function short-circuit mitigation primitive",
-      "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
-      "score": 9,
-      "comments": 1,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
-      "score": 80,
-      "comments": 25,
-      "source": "colorado.edu"
-    },
-    {
-      "title": "The soul of maintaining a new machine",
-      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-      "score": 62,
-      "comments": 5,
-      "source": "books.worksinprogress.co"
-    },
-    {
-      "title": "US Government releases first batch of UAP documents and videos",
-      "url": "https://www.war.gov/UFO/",
-      "score": 306,
-      "comments": 446,
-      "source": "war.gov"
-    },
-    {
-      "title": "PortalVR Motion \u2013 use any VR content in 2D with 3D tracked Joy-Cons",
-      "url": "https://portalvr.io/motion",
-      "score": 26,
-      "comments": 2,
-      "source": "portalvr.io"
-    },
-    {
-      "title": "Roadside Attraction",
-      "url": "https://theoffingmag.com/essay/roadside-attraction/",
-      "score": 24,
-      "comments": 3,
-      "source": "theoffingmag.com"
-    },
-    {
-      "title": "All means are fair except solving the problem",
-      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-      "score": 64,
-      "comments": 47,
-      "source": "yosefk.com"
-    },
-    {
-      "title": "When is your birthday? The math behind hash collisions",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
-      "score": 52,
-      "comments": 12,
-      "source": "0xkrt26.github.io"
-    },
-    {
-      "title": "Bitter Lessons from the ISSpresso",
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
-      "score": 106,
-      "comments": 29,
-      "source": "mceglowski.substack.com"
     }
   ],
   "security": [
