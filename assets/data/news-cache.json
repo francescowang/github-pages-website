@@ -1,46 +1,130 @@
 {
   "tech": [
     {
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "score": 69,
+      "comments": 4,
+      "source": "grapheneos.social"
+    },
+    {
+      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "score": 31,
+      "comments": 6,
+      "source": "tracesofhumanity.org"
+    },
+    {
+      "title": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
+      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "score": 37,
+      "comments": 26,
+      "source": "wsj.com"
+    },
+    {
+      "title": "Incident CVE-2024-Yikes",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 15,
+      "comments": 3,
+      "source": "nesbitt.io"
+    },
+    {
+      "title": "I returned to AWS, and was reminded why I left",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "score": 461,
+      "comments": 362,
+      "source": "fourlightyears.blogspot.com"
+    },
+    {
+      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "score": 223,
+      "comments": 161,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "What's a Mathematician to Do?",
+      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+      "score": 106,
+      "comments": 53,
+      "source": "mathoverflow.net"
+    },
+    {
       "title": "Space Cadet Pinball on Linux",
       "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "score": 38,
-      "comments": 7,
+      "score": 246,
+      "comments": 81,
       "source": "brennan.io"
     },
     {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 112,
-      "comments": 55,
-      "source": "blog.dochia.dev"
+      "title": "Shunting-Yard Animation",
+      "url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
+      "score": 25,
+      "comments": 6,
+      "source": "somethingorotherwhatever.com"
     },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 600,
-      "comments": 580,
+      "score": 673,
+      "comments": 640,
       "source": "twitter.com"
     },
     {
       "title": "The One Dollar Counterfeiter",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 177,
-      "comments": 54,
+      "score": 274,
+      "comments": 119,
       "source": "amusingplanet.com"
     },
     {
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "url": "https://github.com/imtomt/ymawky",
-      "score": 310,
-      "comments": 147,
+      "title": "Spain just became one of Europe's cheapest power markets. Here is how",
+      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+      "score": 33,
+      "comments": 9,
+      "source": "janrosenow.substack.com"
+    },
+    {
+      "title": "Think Linear Algebra (2023)",
+      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+      "score": 100,
+      "comments": 10,
+      "source": "allendowney.github.io"
+    },
+    {
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "url": "https://blog.dochia.dev/blog/idempotency/",
+      "score": 230,
+      "comments": 136,
+      "source": "blog.dochia.dev"
+    },
+    {
+      "title": "5x perf increase on writes with FPW disabled in Postgres",
+      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+      "score": 23,
+      "comments": 3,
+      "source": "databricks.com"
+    },
+    {
+      "title": "Academic Research Skills for Claude Code",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "score": 57,
+      "comments": 19,
       "source": "github.com"
     },
     {
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 171,
-      "comments": 73,
-      "source": "casio.com"
+      "title": "The Locals Don't Know",
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "score": 7,
+      "comments": 2,
+      "source": "quarter--mile.com"
+    },
+    {
+      "title": "The River Otter's Remarkable Comeback",
+      "url": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/",
+      "score": 61,
+      "comments": 12,
+      "source": "rewildingmag.com"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring",
@@ -50,165 +134,81 @@
       "source": "jobs.ashbyhq.com"
     },
     {
-      "title": "Task Paralysis and AI",
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "score": 39,
-      "comments": 33,
-      "source": "g5t.de"
-    },
-    {
-      "title": "We see something that works, and then we understand it",
-      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "score": 123,
-      "comments": 42,
-      "source": "lemire.me"
+      "title": "Show HN: An index of indie web/blog indexes",
+      "url": "https://theindex.fyi",
+      "score": 29,
+      "comments": 12,
+      "source": "theindex.fyi"
     },
     {
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 631,
-      "comments": 103,
+      "score": 669,
+      "comments": 108,
       "source": "blog.archive.org"
     },
     {
-      "title": "Gemini API File Search is now multimodal",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "score": 113,
-      "comments": 19,
-      "source": "blog.google"
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "score": 265,
+      "comments": 120,
+      "source": "casio.com"
     },
     {
-      "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
-      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
-      "score": 34,
-      "comments": 2,
-      "source": "til.andrew-quinn.me"
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "score": 4,
+      "comments": 0,
+      "source": "joachimschipper.nl"
+    },
+    {
+      "title": "GitHub Is Sinking",
+      "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
+      "score": 86,
+      "comments": 59,
+      "source": "dbushell.com"
     },
     {
       "title": "I\u2019ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "score": 445,
-      "comments": 236,
+      "score": 509,
+      "comments": 267,
       "source": "chrismorgan.info"
     },
     {
-      "title": "I returned to AWS, and was reminded why I left",
-      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 10,
-      "comments": 2,
-      "source": "fourlightyears.blogspot.com"
+      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "score": 51,
+      "comments": 25,
+      "source": "theverge.com"
     },
     {
-      "title": "Debian must ship reproducible packages",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
-      "score": 202,
-      "comments": 75,
-      "source": "lists.debian.org"
-    },
-    {
-      "title": "Think Linear Algebra (2023)",
-      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "score": 7,
-      "comments": 0,
-      "source": "allendowney.github.io"
-    },
-    {
-      "title": "Local privilege escalation via execve()",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "title": "We see something that works, and then we understand it",
+      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
       "score": 168,
-      "comments": 81,
-      "source": "freebsd.org"
+      "comments": 66,
+      "source": "lemire.me"
     },
     {
-      "title": "Zed Editor Theme-Builder",
-      "url": "https://zed.dev/theme-builder",
-      "score": 237,
-      "comments": 71,
-      "source": "zed.dev"
+      "title": "Rotten Dot Com",
+      "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+      "score": 85,
+      "comments": 94,
+      "source": "theparisreview.org"
     },
     {
-      "title": "Distributing Mac software is increasing my cortisol levels",
-      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 322,
-      "comments": 221,
-      "source": "blog.kronis.dev"
+      "title": "Task Paralysis and AI",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "score": 124,
+      "comments": 77,
+      "source": "g5t.de"
     },
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 647,
-      "comments": 471,
-      "source": "gowers.wordpress.com"
-    },
-    {
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "url": "https://github.com/nooga/let-go",
-      "score": 189,
-      "comments": 54,
-      "source": "github.com"
-    },
-    {
-      "title": "LLMs corrupt your documents when you delegate",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "score": 427,
-      "comments": 168,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "From Buffon's Needle to Buffon's Noodle",
-      "url": "https://mbmccoy.dev/posts/buffons-noodle/",
-      "score": 8,
-      "comments": 2,
-      "source": "mbmccoy.dev"
-    },
-    {
-      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
-      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-      "score": 119,
-      "comments": 42,
-      "source": "evilgeniuslabs.ca"
-    },
-    {
-      "title": "Making your own programming language is easier than you think (but also harder)",
-      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-      "score": 111,
-      "comments": 57,
-      "source": "lisyarus.github.io"
-    },
-    {
-      "title": "LLMorphism: When humans come to see themselves as language models",
-      "url": "https://arxiv.org/abs/2605.05419",
-      "score": 24,
-      "comments": 11,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Show HN: Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "score": 144,
-      "comments": 68,
-      "source": "github.com"
-    },
-    {
-      "title": "The hypocrisy of cyberlibertarianism",
-      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "score": 353,
-      "comments": 309,
-      "source": "matduggan.com"
-    },
-    {
-      "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
-      "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-      "score": 64,
-      "comments": 3,
-      "source": "righto.com"
-    },
-    {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 476,
-      "comments": 262,
-      "source": "twitter.com"
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "score": 138,
+      "comments": 35,
+      "source": "blog.google"
     }
   ],
   "security": [
