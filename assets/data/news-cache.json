@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "score": 180,
+      "comments": 70,
+      "source": "github.com"
+    },
+    {
+      "title": "The One Dollar Counterfeiter",
+      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+      "score": 62,
+      "comments": 17,
+      "source": "amusingplanet.com"
+    },
+    {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 376,
-      "comments": 364,
+      "score": 506,
+      "comments": 469,
       "source": "twitter.com"
+    },
+    {
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "score": 86,
+      "comments": 28,
+      "source": "casio.com"
+    },
+    {
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "score": 55,
+      "comments": 5,
+      "source": "blog.google"
+    },
+    {
+      "title": "We see something that works, and then we understand it",
+      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+      "score": 39,
+      "comments": 6,
+      "source": "lemire.me"
     },
     {
       "title": "Internet Archive Switzerland",
       "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 520,
-      "comments": 76,
+      "score": 590,
+      "comments": 89,
       "source": "blog.archive.org"
     },
     {
-      "title": "The Serial TTL connector we deserve",
-      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "score": 26,
-      "comments": 24,
-      "source": "kohlschuetter.github.io"
-    },
-    {
-      "title": "Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "score": 49,
-      "comments": 23,
-      "source": "github.com"
+      "title": "Debian must ship reproducible packages",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "score": 41,
+      "comments": 9,
+      "source": "lists.debian.org"
     },
     {
       "title": "I\u2019ve banned query strings",
       "url": "https://chrismorgan.info/no-query-strings",
-      "score": 247,
-      "comments": 133,
+      "score": 350,
+      "comments": 196,
       "source": "chrismorgan.info"
-    },
-    {
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "url": "https://github.com/nooga/let-go",
-      "score": 79,
-      "comments": 20,
-      "source": "github.com"
-    },
-    {
-      "title": "Zed Editor Theme-Builder",
-      "url": "https://zed.dev/theme-builder",
-      "score": 147,
-      "comments": 43,
-      "source": "zed.dev"
     },
     {
       "title": "Local privilege escalation via execve()",
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "score": 69,
-      "comments": 54,
+      "score": 129,
+      "comments": 71,
       "source": "freebsd.org"
+    },
+    {
+      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
+      "score": 84,
+      "comments": 24,
+      "source": "evilgeniuslabs.ca"
+    },
+    {
+      "title": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "score": 197,
+      "comments": 57,
+      "source": "zed.dev"
+    },
+    {
+      "title": "The Serial TTL connector we deserve",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "score": 80,
+      "comments": 55,
+      "source": "kohlschuetter.github.io"
+    },
+    {
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "score": 139,
+      "comments": 39,
+      "source": "github.com"
     },
     {
       "title": "Making your own programming language is easier than you think (but also harder)",
       "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-      "score": 33,
-      "comments": 8,
+      "score": 84,
+      "comments": 36,
       "source": "lisyarus.github.io"
     },
     {
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "score": 103,
-      "comments": 55,
-      "source": "copahost.com"
-    },
-    {
-      "title": "Production engineering when trading billions of dollars a day [video]",
-      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
-      "score": 83,
-      "comments": 20,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Distributing Mac software is increasing my cortisol levels",
-      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "score": 186,
-      "comments": 120,
-      "source": "blog.kronis.dev"
-    },
-    {
-      "title": "LLMs corrupt your documents when you delegate",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "score": 339,
-      "comments": 130,
-      "source": "arxiv.org"
+      "title": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "score": 118,
+      "comments": 63,
+      "source": "github.com"
     },
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 593,
-      "comments": 420,
+      "score": 624,
+      "comments": 452,
       "source": "gowers.wordpress.com"
+    },
+    {
+      "title": "LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "score": 391,
+      "comments": 148,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "score": 263,
+      "comments": 177,
+      "source": "blog.kronis.dev"
     },
     {
       "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
       "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-      "score": 10,
-      "comments": 0,
+      "score": 50,
+      "comments": 1,
       "source": "righto.com"
     },
     {
-      "title": "Meta's embrace of A.I. is making its employees miserable",
-      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-      "score": 257,
-      "comments": 227,
-      "source": "nytimes.com"
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "score": 6,
+      "comments": 1,
+      "source": "untendedfire.org"
     },
     {
-      "title": "The hypocrisy of cyberlibertarianism",
-      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "score": 249,
-      "comments": 204,
-      "source": "matduggan.com"
-    },
-    {
-      "title": "France Moves to Break Encrypted Messaging",
-      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
-      "score": 43,
-      "comments": 14,
-      "source": "reclaimthenet.org"
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "score": 120,
+      "comments": 66,
+      "source": "copahost.com"
     },
     {
       "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
       "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "score": 374,
-      "comments": 269,
+      "score": 499,
+      "comments": 332,
       "source": "cyberinsider.com"
-    },
-    {
-      "title": "I caught the car",
-      "url": "https://undecidability.net/senior/",
-      "score": 37,
-      "comments": 31,
-      "source": "undecidability.net"
-    },
-    {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 409,
-      "comments": 235,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Getting arrested in Japan",
-      "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-      "score": 115,
-      "comments": 113,
-      "source": "sundaicity.com"
     },
     {
       "title": "Surfel-based global illumination on the web",
       "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-      "score": 7,
-      "comments": 0,
+      "score": 46,
+      "comments": 4,
       "source": "juretriglav.si"
     },
     {
-      "title": "Random tie knots (2014)",
-      "url": "https://tieknots.how/",
-      "score": 10,
+      "title": "Sparse Cholesky Elimination Tree",
+      "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+      "score": 20,
+      "comments": 0,
+      "source": "reidatcheson.com"
+    },
+    {
+      "title": "The hypocrisy of cyberlibertarianism",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "score": 305,
+      "comments": 270,
+      "source": "matduggan.com"
+    },
+    {
+      "title": "Production engineering when trading billions of dollars a day [video]",
+      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+      "score": 113,
+      "comments": 32,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "score": 447,
+      "comments": 250,
+      "source": "twitter.com"
+    },
+    {
+      "title": "A construction of the Hat tilings by a Markov partition",
+      "url": "https://www.mathstat.dal.ca/~selinger/hat-partition/",
+      "score": 4,
       "comments": 1,
-      "source": "tieknots.how"
+      "source": "mathstat.dal.ca"
     },
     {
-      "title": "PipeDream on the Acorn Archimedes",
-      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "score": 74,
-      "comments": 36,
-      "source": "stonetools.ghost.io"
-    },
-    {
-      "title": "OpenAI\u2019s WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 469,
-      "comments": 140,
-      "source": "moq.dev"
-    },
-    {
-      "title": "Mythical Man Month",
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 344,
-      "comments": 190,
-      "source": "martinfowler.com"
-    },
-    {
-      "title": "Forking the Web",
-      "url": "https://dillo-browser.org/lab/web-fork/",
-      "score": 105,
-      "comments": 111,
-      "source": "dillo-browser.org"
-    },
-    {
-      "title": "All my clients wanted a carousel, now it's an AI chatbot",
-      "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-      "score": 173,
-      "comments": 69,
-      "source": "adele.pages.casa"
-    },
-    {
-      "title": "America's carpet capital: an empire and its toxic legacy",
-      "url": "https://apnews.com/projects/pfas-forever-stained/",
-      "score": 155,
-      "comments": 98,
-      "source": "apnews.com"
+      "title": "Meta's embrace of AI is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "score": 369,
+      "comments": 394,
+      "source": "nytimes.com"
     }
   ],
   "security": [
