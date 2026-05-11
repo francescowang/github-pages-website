@@ -3,128 +3,184 @@
     {
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 69,
-      "comments": 4,
+      "score": 797,
+      "comments": 301,
       "source": "grapheneos.social"
     },
     {
-      "title": "Tracesofhumanity.org by Joanna Rutkowska",
-      "url": "https://tracesofhumanity.org/hello-world/",
-      "score": 31,
-      "comments": 6,
-      "source": "tracesofhumanity.org"
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "score": 486,
+      "comments": 239,
+      "source": "unix.foo"
     },
     {
-      "title": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
-      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-      "score": 37,
-      "comments": 26,
-      "source": "wsj.com"
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "score": 46,
+      "comments": 29,
+      "source": "jola.dev"
     },
     {
-      "title": "Incident CVE-2024-Yikes",
+      "title": "Incident Report: CVE-2024-YIKES",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 15,
-      "comments": 3,
+      "score": 364,
+      "comments": 90,
       "source": "nesbitt.io"
     },
     {
-      "title": "I returned to AWS, and was reminded why I left",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "score": 47,
+      "comments": 19,
+      "source": "cyber.netsecops.io"
+    },
+    {
+      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+      "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
+      "score": 33,
+      "comments": 8,
+      "source": "arup.com"
+    },
+    {
+      "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+      "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+      "score": 34,
+      "comments": 8,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "score": 37,
+      "comments": 9,
+      "source": "kotaku.com"
+    },
+    {
+      "title": "Traces Of Humanity",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "score": 124,
+      "comments": 19,
+      "source": "tracesofhumanity.org"
+    },
+    {
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "score": 115,
+      "comments": 41,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 461,
-      "comments": 362,
+      "score": 644,
+      "comments": 469,
       "source": "fourlightyears.blogspot.com"
+    },
+    {
+      "title": "The people preserving the scientific practice of bird banding",
+      "url": "https://thenarwhal.ca/bird-banding-ontario/",
+      "score": 26,
+      "comments": 0,
+      "source": "thenarwhal.ca"
+    },
+    {
+      "title": "Eight More 8-bit Era Microprocessors (2024)",
+      "url": "https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors",
+      "score": 45,
+      "comments": 12,
+      "source": "thechipletter.substack.com"
+    },
+    {
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "score": 70,
+      "comments": 43,
+      "source": "joachimschipper.nl"
+    },
+    {
+      "title": "Why modern parents feel more sleep deprived than our ancestors did",
+      "url": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+      "score": 70,
+      "comments": 58,
+      "source": "bbc.com"
+    },
+    {
+      "title": "The locals don't know",
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "score": 90,
+      "comments": 63,
+      "source": "quarter--mile.com"
+    },
+    {
+      "title": "Lakebase architecture delivers faster Postgres writes",
+      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+      "score": 89,
+      "comments": 25,
+      "source": "databricks.com"
+    },
+    {
+      "title": "James Schuyler's Genius",
+      "url": "https://yalereview.org/article/james-schuylers-genius",
+      "score": 5,
+      "comments": 0,
+      "source": "yalereview.org"
+    },
+    {
+      "title": "What's a mathematician to do? (2010)",
+      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+      "score": 148,
+      "comments": 72,
+      "source": "mathoverflow.net"
+    },
+    {
+      "title": "Idempotency is easy until the second request is different",
+      "url": "https://blog.dochia.dev/blog/idempotency/",
+      "score": 275,
+      "comments": 174,
+      "source": "blog.dochia.dev"
     },
     {
       "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
       "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "score": 223,
-      "comments": 161,
+      "score": 456,
+      "comments": 245,
       "source": "tomshardware.com"
-    },
-    {
-      "title": "What's a Mathematician to Do?",
-      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "score": 106,
-      "comments": 53,
-      "source": "mathoverflow.net"
-    },
-    {
-      "title": "Space Cadet Pinball on Linux",
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "score": 246,
-      "comments": 81,
-      "source": "brennan.io"
-    },
-    {
-      "title": "Shunting-Yard Animation",
-      "url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
-      "score": 25,
-      "comments": 6,
-      "source": "somethingorotherwhatever.com"
-    },
-    {
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 673,
-      "comments": 640,
-      "source": "twitter.com"
-    },
-    {
-      "title": "The One Dollar Counterfeiter",
-      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 274,
-      "comments": 119,
-      "source": "amusingplanet.com"
-    },
-    {
-      "title": "Spain just became one of Europe's cheapest power markets. Here is how",
-      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
-      "score": 33,
-      "comments": 9,
-      "source": "janrosenow.substack.com"
     },
     {
       "title": "Think Linear Algebra (2023)",
       "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "score": 100,
-      "comments": 10,
+      "score": 158,
+      "comments": 17,
       "source": "allendowney.github.io"
     },
     {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 230,
-      "comments": 136,
-      "source": "blog.dochia.dev"
+      "title": "Show HN: An index of indie web/blog indexes",
+      "url": "https://theindex.fyi",
+      "score": 92,
+      "comments": 29,
+      "source": "theindex.fyi"
     },
     {
-      "title": "5x perf increase on writes with FPW disabled in Postgres",
-      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
-      "score": 23,
-      "comments": 3,
-      "source": "databricks.com"
+      "title": "Task Paralysis and AI",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "score": 190,
+      "comments": 105,
+      "source": "g5t.de"
     },
     {
-      "title": "Academic Research Skills for Claude Code",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "score": 57,
-      "comments": 19,
-      "source": "github.com"
+      "title": "Space Cadet Pinball on Linux",
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "score": 310,
+      "comments": 103,
+      "source": "brennan.io"
     },
     {
-      "title": "The Locals Don't Know",
-      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
-      "score": 7,
-      "comments": 2,
-      "source": "quarter--mile.com"
-    },
-    {
-      "title": "The River Otter's Remarkable Comeback",
-      "url": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/",
-      "score": 61,
-      "comments": 12,
-      "source": "rewildingmag.com"
+      "title": "Walking slower? Your ears, not your knees, might be the problem",
+      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "score": 81,
+      "comments": 61,
+      "source": "wsj.com"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring",
@@ -134,81 +190,18 @@
       "source": "jobs.ashbyhq.com"
     },
     {
-      "title": "Show HN: An index of indie web/blog indexes",
-      "url": "https://theindex.fyi",
-      "score": 29,
-      "comments": 12,
-      "source": "theindex.fyi"
+      "title": "Spain has become one of Europe\u2019s cheapest power markets",
+      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+      "score": 140,
+      "comments": 113,
+      "source": "janrosenow.substack.com"
     },
     {
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 669,
-      "comments": 108,
-      "source": "blog.archive.org"
-    },
-    {
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 265,
-      "comments": 120,
-      "source": "casio.com"
-    },
-    {
-      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
-      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
-      "score": 4,
-      "comments": 0,
-      "source": "joachimschipper.nl"
-    },
-    {
-      "title": "GitHub Is Sinking",
-      "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
-      "score": 86,
-      "comments": 59,
-      "source": "dbushell.com"
-    },
-    {
-      "title": "I\u2019ve banned query strings",
-      "url": "https://chrismorgan.info/no-query-strings",
-      "score": 509,
-      "comments": 267,
-      "source": "chrismorgan.info"
-    },
-    {
-      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "score": 51,
-      "comments": 25,
-      "source": "theverge.com"
-    },
-    {
-      "title": "We see something that works, and then we understand it",
-      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "score": 168,
-      "comments": 66,
-      "source": "lemire.me"
-    },
-    {
-      "title": "Rotten Dot Com",
-      "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
-      "score": 85,
-      "comments": 94,
-      "source": "theparisreview.org"
-    },
-    {
-      "title": "Task Paralysis and AI",
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "score": 124,
-      "comments": 77,
-      "source": "g5t.de"
-    },
-    {
-      "title": "Gemini API File Search is now multimodal",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "score": 138,
-      "comments": 35,
-      "source": "blog.google"
+      "title": "Shunting-Yard Animation",
+      "url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
+      "score": 56,
+      "comments": 16,
+      "source": "somethingorotherwhatever.com"
     }
   ],
   "security": [
