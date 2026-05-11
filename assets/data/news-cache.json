@@ -1,207 +1,207 @@
 {
   "tech": [
     {
+      "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
+      "url": "https://ratty-term.org/",
+      "score": 165,
+      "comments": 51,
+      "source": "ratty-term.org"
+    },
+    {
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1322,
-      "comments": 442,
+      "score": 1753,
+      "comments": 580,
       "source": "grapheneos.social"
     },
     {
       "title": "Local AI needs to be the norm",
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 951,
-      "comments": 416,
+      "score": 1352,
+      "comments": 542,
       "source": "unix.foo"
     },
     {
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "score": 534,
+      "comments": 254,
+      "source": "blog.k10s.dev"
+    },
+    {
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 119,
-      "comments": 40,
+      "score": 225,
+      "comments": 104,
       "source": "openculture.com"
     },
     {
       "title": "Running local models on an M4 with 24GB memory",
       "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 254,
-      "comments": 79,
+      "score": 382,
+      "comments": 124,
       "source": "jola.dev"
     },
     {
-      "title": "I'm going back to writing code by hand",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 259,
-      "comments": 108,
-      "source": "blog.k10s.dev"
+      "title": "Guitar tuner that uses phone accelerometer",
+      "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+      "score": 62,
+      "comments": 25,
+      "source": "tautme.github.io"
     },
     {
-      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-      "score": 33,
-      "comments": 6,
-      "source": "matt.might.net"
+      "title": "Classification of Amino Acids",
+      "url": "https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/v/classification-amino-acids",
+      "score": 11,
+      "comments": 0,
+      "source": "khanacademy.org"
+    },
+    {
+      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+      "score": 22,
+      "comments": 1,
+      "source": "wired.com"
     },
     {
       "title": "Obsidian plugin was abused to deploy a remote access trojan",
       "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 172,
-      "comments": 82,
+      "score": 259,
+      "comments": 145,
       "source": "cyber.netsecops.io"
     },
     {
       "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
       "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "score": 123,
-      "comments": 31,
+      "score": 221,
+      "comments": 55,
       "source": "jamesshore.com"
     },
     {
       "title": "Incident Report: CVE-2024-YIKES",
       "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 487,
-      "comments": 126,
+      "score": 584,
+      "comments": 148,
       "source": "nesbitt.io"
+    },
+    {
+      "title": "Mythos Finds a Curl Vulnerability",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "score": 290,
+      "comments": 112,
+      "source": "daniel.haxx.se"
+    },
+    {
+      "title": "The Adventure Family Tree",
+      "url": "https://mipmip.org/advfamily/advfamily.html",
+      "score": 20,
+      "comments": 2,
+      "source": "mipmip.org"
+    },
+    {
+      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "score": 47,
+      "comments": 22,
+      "source": "wired.com"
+    },
+    {
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "score": 48,
+      "comments": 26,
+      "source": "discuss.privacyguides.net"
+    },
+    {
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+      "score": 65,
+      "comments": 19,
+      "source": "matt.might.net"
+    },
+    {
+      "title": "Bliss (Photograph)",
+      "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
+      "score": 33,
+      "comments": 17,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "OP's script shuts down every single computer in the company",
+      "url": "https://www.reddit.com/r/sysadmin/s/7kD2rPS6yV",
+      "score": 16,
+      "comments": 5,
+      "source": "reddit.com"
+    },
+    {
+      "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "score": 45,
+      "comments": 29,
+      "source": "nytimes.com"
     },
     {
       "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
       "url": "https://github.com/adamjgmiller/adamsreview",
-      "score": 21,
-      "comments": 4,
+      "score": 48,
+      "comments": 16,
       "source": "github.com"
     },
     {
       "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
       "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-      "score": 60,
-      "comments": 15,
+      "score": 106,
+      "comments": 37,
       "source": "dunkels.com"
     },
     {
       "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
       "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
-      "score": 82,
-      "comments": 17,
+      "score": 116,
+      "comments": 53,
       "source": "arup.com"
-    },
-    {
-      "title": "dBase: 1979-2026",
-      "url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
-      "score": 60,
-      "comments": 16,
-      "source": "delphinightmares.substack.com"
-    },
-    {
-      "title": "Seeing Birdsong",
-      "url": "https://www.lucioarese.net/seeing-birdsong/",
-      "score": 14,
-      "comments": 0,
-      "source": "lucioarese.net"
     },
     {
       "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
       "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
-      "score": 99,
-      "comments": 21,
+      "score": 139,
+      "comments": 33,
       "source": "nytimes.com"
+    },
+    {
+      "title": "Phel v0.36.0 \u2013 Lisp on PHP, now with numeric tower and first-class Vars",
+      "url": "https://github.com/phel-lang/phel-lang/releases/tag/v0.36.0",
+      "score": 39,
+      "comments": 11,
+      "source": "github.com"
     },
     {
       "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 733,
-      "comments": 521,
+      "score": 797,
+      "comments": 564,
       "source": "fourlightyears.blogspot.com"
     },
     {
-      "title": "Traces Of Humanity",
-      "url": "https://tracesofhumanity.org/hello-world/",
-      "score": 150,
-      "comments": 20,
-      "source": "tracesofhumanity.org"
+      "title": "dBase: 1979-2026",
+      "url": "https://delphinightmares.substack.com/p/dbase-1979-2026",
+      "score": 86,
+      "comments": 37,
+      "source": "delphinightmares.substack.com"
     },
     {
-      "title": "The people preserving the scientific practice of bird banding",
-      "url": "https://thenarwhal.ca/bird-banding-ontario/",
-      "score": 49,
-      "comments": 0,
-      "source": "thenarwhal.ca"
-    },
-    {
-      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
-      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
-      "score": 108,
-      "comments": 61,
-      "source": "joachimschipper.nl"
-    },
-    {
-      "title": "Eight More '8-Bit Era' Microprocessors",
-      "url": "https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors",
-      "score": 69,
-      "comments": 21,
-      "source": "thechipletter.substack.com"
-    },
-    {
-      "title": "Gode Cookery \u2013 Authentic Medieval Recipes",
-      "url": "http://www.godecookery.com/godeboke/godeboke.htm",
-      "score": 10,
-      "comments": 0,
-      "source": "godecookery.com"
-    },
-    {
-      "title": "Shelf Source: Tom MacWright",
-      "url": "https://roadlessread.com/views/ss-macwright",
+      "title": "Using AI for just 10 minutes might make you lazy and dumb",
+      "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
       "score": 12,
-      "comments": 0,
-      "source": "roadlessread.com"
+      "comments": 13,
+      "source": "wired.com"
     },
     {
-      "title": "The locals don't know",
-      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
-      "score": 140,
-      "comments": 103,
-      "source": "quarter--mile.com"
-    },
-    {
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-      "score": 225,
-      "comments": 123,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "Idempotency is easy until the second request is different",
-      "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 301,
-      "comments": 181,
-      "source": "blog.dochia.dev"
-    },
-    {
-      "title": "Walking slower? Your ears, not your knees, might be the problem",
-      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-      "score": 111,
-      "comments": 70,
-      "source": "wsj.com"
-    },
-    {
-      "title": "Task Paralysis and AI",
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "score": 226,
-      "comments": 113,
-      "source": "g5t.de"
-    },
-    {
-      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-      "score": 156,
-      "comments": 105,
-      "source": "kotaku.com"
-    },
-    {
-      "title": "Think Linear Algebra (2023)",
-      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "score": 197,
-      "comments": 24,
-      "source": "allendowney.github.io"
+      "title": "Seeing Birdsong",
+      "url": "https://www.lucioarese.net/seeing-birdsong/",
+      "score": 35,
+      "comments": 3,
+      "source": "lucioarese.net"
     }
   ],
   "security": [
