@@ -1,53 +1,130 @@
 {
   "tech": [
     {
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 187,
-      "comments": 50,
-      "source": "nvlabs.github.io"
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 466,
+      "comments": 148,
+      "source": "tanstack.com"
+    },
+    {
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "score": 191,
+      "comments": 35,
+      "source": "stemcell.ucla.edu"
+    },
+    {
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "score": 76,
+      "comments": 77,
+      "source": "medium.com"
+    },
+    {
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "score": 99,
+      "comments": 23,
+      "source": "github.com"
+    },
+    {
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "score": 267,
+      "comments": 254,
+      "source": "about.gitlab.com"
+    },
+    {
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "score": 105,
+      "comments": 79,
+      "source": "nytimes.com"
     },
     {
       "title": "Nullsoft, 1997-2004 (2004)",
       "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 98,
-      "comments": 31,
+      "score": 212,
+      "comments": 70,
       "source": "slate.com"
     },
     {
       "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
-      "score": 500,
-      "comments": 167,
+      "score": 604,
+      "comments": 194,
       "source": "ratty-term.org"
-    },
-    {
-      "title": "Show HN: TikTok but for Scientific Papers",
-      "url": "https://andreaturchet.github.io/website/index.html",
-      "score": 42,
-      "comments": 29,
-      "source": "andreaturchet.github.io"
-    },
-    {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 154,
-      "comments": 8,
-      "source": "cocoawithlove.com"
     },
     {
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 369,
-      "comments": 229,
+      "score": 549,
+      "comments": 393,
       "source": "discuss.privacyguides.net"
     },
     {
-      "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
-      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "score": 74,
-      "comments": 30,
-      "source": "duarteocarmo.com"
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "score": 52,
+      "comments": 51,
+      "source": "martin.sh"
+    },
+    {
+      "title": "Griffin PowerMate driver for modern macOS",
+      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+      "score": 21,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Can we code our way out of gentrification?",
+      "url": "https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification",
+      "score": 5,
+      "comments": 0,
+      "source": "freerange.city"
+    },
+    {
+      "title": "Silverback Imfura took a chance, and ended up alone",
+      "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+      "score": 24,
+      "comments": 9,
+      "source": "gorillafund.org"
+    },
+    {
+      "title": "Abstract Machines for Logic Programs",
+      "url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+      "score": 5,
+      "comments": 0,
+      "source": "chrisistyping.bearblog.dev"
+    },
+    {
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "score": 103,
+      "comments": 27,
+      "source": "interfaze.ai"
+    },
+    {
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "score": 210,
+      "comments": 11,
+      "source": "cocoawithlove.com"
+    },
+    {
+      "title": "The rise and fall of snake oil",
+      "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+      "score": 24,
+      "comments": 12,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "Show HN: OpenGravity \u2013 A zero-install, BYOK vanilla JS clone of Antigravity",
+      "url": "https://github.com/ab-613/opengravity",
+      "score": 38,
+      "comments": 16,
+      "source": "github.com"
     },
     {
       "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
@@ -57,161 +134,90 @@
       "source": "bild.ai"
     },
     {
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 23,
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "score": 72,
+      "comments": 8,
+      "source": "thinkingmachines.ai"
+    },
+    {
+      "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
+      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+      "score": 115,
+      "comments": 57,
+      "source": "duarteocarmo.com"
+    },
+    {
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "score": 352,
+      "comments": 107,
+      "source": "nvlabs.github.io"
+    },
+    {
+      "title": "Show HN: E2a \u2013 Open-source email gateway for AI agents",
+      "url": "https://github.com/Mnexa-AI/e2a",
+      "score": 17,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "The Boston library where you still can borrow a giant puppet",
+      "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
+      "score": 45,
+      "comments": 7,
+      "source": "binj.news"
+    },
+    {
+      "title": "Counting Fast in Erlang with:counters and:atomics",
+      "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
+      "score": 68,
       "comments": 3,
-      "source": "interfaze.ai"
-    },
-    {
-      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-      "score": 127,
-      "comments": 42,
-      "source": "wired.com"
-    },
-    {
-      "title": "I'm going back to writing code by hand",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 812,
-      "comments": 486,
-      "source": "blog.k10s.dev"
-    },
-    {
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "score": 5,
-      "comments": 0,
-      "source": "flyingpenguin.com"
+      "source": "andrealeopardi.com"
     },
     {
       "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
       "url": "https://imtomt.github.io/ymawky/",
-      "score": 61,
-      "comments": 23,
+      "score": 97,
+      "comments": 32,
       "source": "imtomt.github.io"
     },
     {
-      "title": "Microsoft Israel chief leaves amid ethical controversy",
-      "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
-      "score": 54,
-      "comments": 29,
-      "source": "en.globes.co.il"
-    },
-    {
-      "title": "Software engineering may no longer be a lifetime career",
-      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-      "score": 164,
-      "comments": 299,
-      "source": "seangoedecke.com"
-    },
-    {
-      "title": "Holding Community Space",
-      "url": "https://supernuclear.substack.com/p/building-a-space-people-never-want",
-      "score": 14,
-      "comments": 6,
-      "source": "supernuclear.substack.com"
-    },
-    {
-      "title": "Should you leave red herrings about yourself online?",
-      "url": "https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online",
-      "score": 27,
-      "comments": 25,
-      "source": "blog.alcazarsec.com"
-    },
-    {
-      "title": "Running local models on an M4 with 24GB memory",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "score": 498,
-      "comments": 151,
-      "source": "jola.dev"
-    },
-    {
-      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "score": 300,
-      "comments": 175,
-      "source": "openculture.com"
-    },
-    {
-      "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-      "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-      "score": 83,
-      "comments": 54,
-      "source": "404media.co"
-    },
-    {
-      "title": "Guitar tuner that uses phone accelerometer",
-      "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
-      "score": 124,
-      "comments": 70,
-      "source": "tautme.github.io"
+      "title": "Linux Terminal Memory Usage",
+      "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
+      "score": 40,
+      "comments": 36,
+      "source": "gilesorr.com"
     },
     {
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 2004,
-      "comments": 674,
+      "score": 2072,
+      "comments": 701,
       "source": "grapheneos.social"
     },
     {
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "score": 316,
-      "comments": 92,
-      "source": "jamesshore.com"
+      "title": "Software engineering may no longer be a lifetime career",
+      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "score": 345,
+      "comments": 586,
+      "source": "seangoedecke.com"
     },
     {
-      "title": "The Boston Library Where You Still Can Borrow a Giant Puppet",
-      "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-      "score": 4,
-      "comments": 0,
-      "source": "binj.news"
-    },
-    {
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "score": 325,
-      "comments": 196,
-      "source": "cyber.netsecops.io"
-    },
-    {
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 1668,
-      "comments": 656,
-      "source": "unix.foo"
-    },
-    {
-      "title": "Scaffold a 1990s Geocities-themed static website",
-      "url": "https://pypi.org/project/create-geocities-app/",
-      "score": 38,
-      "comments": 17,
-      "source": "pypi.org"
-    },
-    {
-      "title": "Mythos Finds a Curl Vulnerability",
-      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-      "score": 518,
-      "comments": 218,
-      "source": "daniel.haxx.se"
-    },
-    {
-      "title": "Bliss (Photograph)",
-      "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
-      "score": 92,
-      "comments": 41,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "A.I. note takers are making lawyers nervous",
-      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
-      "score": 172,
-      "comments": 131,
-      "source": "nytimes.com"
+      "title": "From Buffon's Needle to Buffon's Noodle",
+      "url": "https://mbmccoy.dev/posts/buffons-noodle/",
+      "score": 23,
+      "comments": 7,
+      "source": "mbmccoy.dev"
     }
   ],
   "security": [
+    {
+      "title": "Complimentary virtual training: Get hands-on with AWS Security Services",
+      "url": "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services/",
+      "date": "2026-05-11 17:58:02",
+      "author": "Ashley Nelson"
+    },
     {
       "title": "ICYMI: April 2026 @AWS Security",
       "url": "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/designing-trust-and-safety-into-amazon-bedrock-powered-applications/",
       "date": "2026-04-29 19:27:33",
       "author": "Victor Lungu"
-    },
-    {
-      "title": "What the March 2026 Threat Technique Catalog update means for your AWS environment",
-      "url": "https://aws.amazon.com/blogs/security/what-the-march-2026-threat-technique-catalog-update-means-for-your-aws-environment/",
-      "date": "2026-04-28 19:01:37",
-      "author": "Shannon Brazil"
     }
   ]
 }
