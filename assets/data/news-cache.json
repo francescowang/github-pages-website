@@ -1,46 +1,130 @@
 {
   "tech": [
     {
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 107,
+      "comments": 114,
+      "source": "googlebook.google"
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 297,
+      "comments": 24,
+      "source": "blog.maximeheckel.com"
+    },
+    {
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "score": 97,
+      "comments": 36,
+      "source": "nair.sh"
+    },
+    {
+      "title": "Instructure pays ransom to Canvas hackers",
+      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+      "score": 125,
+      "comments": 93,
+      "source": "insidehighered.com"
+    },
+    {
+      "title": "When life gives you lemons, write better error messages",
+      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "score": 34,
+      "comments": 8,
+      "source": "wix-ux.com"
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 721,
+      "comments": 245,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "score": 15,
+      "comments": 4,
+      "source": "xbow.com"
+    },
+    {
       "title": "Learning Software Architecture",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 179,
-      "comments": 25,
+      "score": 436,
+      "comments": 81,
       "source": "matklad.github.io"
+    },
+    {
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "score": 119,
+      "comments": 61,
+      "source": "obsidian.md"
+    },
+    {
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "score": 21,
+      "comments": 7,
+      "source": "deepmind.google"
+    },
+    {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "score": 21,
+      "comments": 4,
+      "source": "hypercubic.ai"
+    },
+    {
+      "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "score": 27,
+      "comments": 12,
+      "source": "voker.ai"
     },
     {
       "title": "Screenshots of Old Desktop OSes",
       "url": "http://www.typewritten.org/Media/",
-      "score": 303,
-      "comments": 134,
+      "score": 568,
+      "comments": 290,
       "source": "typewritten.org"
+    },
+    {
+      "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
+      "url": "https://github.com/statewright/statewright",
+      "score": 13,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 905,
-      "comments": 376,
+      "score": 1024,
+      "comments": 433,
       "source": "tanstack.com"
     },
     {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "score": 97,
-      "comments": 42,
-      "source": "cnbc.com"
+      "title": "The Real Story of Troy",
+      "url": "https://storica.club/blog/troy-was-real/",
+      "score": 23,
+      "comments": 10,
+      "source": "storica.club"
     },
     {
-      "title": "A HN post with negative points \u2013 how?",
-      "url": "https://news.ycombinator.com/item?id=48104663",
-      "score": 32,
-      "comments": 17,
-      "source": "news.ycombinator.com"
+      "title": "Dnsmasq-Discuss: Security \u2013 Important",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "score": 4,
+      "comments": 0,
+      "source": "lists.thekelleys.org.uk"
     },
     {
-      "title": "Docker images are MB; a full game engine compiles to 35MB WASM",
-      "url": "https://bogomolov.work/blog/posts/wasm-vs-docker/",
-      "score": 25,
-      "comments": 21,
-      "source": "bogomolov.work"
+      "title": "Canada's Bill C-22 Is a Repackaged Version of Last Year's Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "score": 38,
+      "comments": 9,
+      "source": "eff.org"
     },
     {
       "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
@@ -50,168 +134,83 @@
       "source": "ycombinator.com"
     },
     {
+      "title": "Profiling.sampling \u2013 Statistical Profiler",
+      "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
+      "score": 73,
+      "comments": 20,
+      "source": "docs.python.org"
+    },
+    {
+      "title": "The Surprisingly Long Life of the Vacuum Tube",
+      "url": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
+      "score": 44,
+      "comments": 25,
+      "source": "construction-physics.com"
+    },
+    {
+      "title": "Testing UPS Output Waveforms",
+      "url": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
+      "score": 11,
+      "comments": 3,
+      "source": "lttlabs.com"
+    },
+    {
       "title": "They Live (1988) inspired Adblocker",
       "url": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 329,
-      "comments": 104,
+      "score": 493,
+      "comments": 158,
       "source": "github.com"
+    },
+    {
+      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
+      "score": 163,
+      "comments": 145,
+      "source": "bloomberg.com"
     },
     {
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 591,
-      "comments": 629,
+      "score": 800,
+      "comments": 837,
       "source": "medium.com"
     },
     {
-      "title": "Coursera and Udemy are now one company",
-      "url": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
-      "score": 53,
-      "comments": 14,
-      "source": "blog.coursera.org"
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+      "score": 417,
+      "comments": 371,
+      "source": "cnbc.com"
     },
     {
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 374,
-      "comments": 72,
+      "score": 421,
+      "comments": 85,
       "source": "stemcell.ucla.edu"
-    },
-    {
-      "title": "Optimize for change not application performance",
-      "url": "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature",
-      "score": 20,
-      "comments": 6,
-      "source": "echooff.dev"
-    },
-    {
-      "title": "Rtwatch: Watch videos with friends using WebRTC",
-      "url": "https://github.com/pion/rtwatch",
-      "score": 43,
-      "comments": 6,
-      "source": "github.com"
-    },
-    {
-      "title": "Claude Platform on AWS",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "score": 162,
-      "comments": 71,
-      "source": "claude.com"
-    },
-    {
-      "title": "Music has scales / raagas. What about storytelling in movies and prestige shows?",
-      "url": "https://arc.quanten.co/archetype",
-      "score": 24,
-      "comments": 29,
-      "source": "arc.quanten.co"
-    },
-    {
-      "title": "Extremely Low Frequencies",
-      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "score": 108,
-      "comments": 8,
-      "source": "computer.rip"
     },
     {
       "title": "Chasing Chicago's movable bridges (2014)",
       "url": "https://aresluna.org/seesaws-for-giants/",
-      "score": 5,
-      "comments": 0,
+      "score": 65,
+      "comments": 9,
       "source": "aresluna.org"
     },
     {
-      "title": "Toxicity on Social Media \u2013 The Noisy Room",
-      "url": "https://thenoisyroom.com",
-      "score": 99,
-      "comments": 67,
-      "source": "thenoisyroom.com"
-    },
-    {
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "score": 202,
-      "comments": 147,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "score": 204,
-      "comments": 215,
-      "source": "martin.sh"
-    },
-    {
-      "title": "Unitree GD01: China's $537k rideable transformer robot is now in production",
-      "url": "https://gagadget.com/en/709729-unitree-gd01-chinas-537k-rideable-transformer-robot-is-now-in-production/",
-      "score": 50,
-      "comments": 34,
-      "source": "gagadget.com"
-    },
-    {
-      "title": "Software Internals Book Club",
-      "url": "https://eatonphil.com/bookclub.html",
-      "score": 118,
-      "comments": 20,
-      "source": "eatonphil.com"
-    },
-    {
-      "title": "I hate soldering",
-      "url": "https://user8.bearblog.dev/rant/",
-      "score": 142,
-      "comments": 132,
-      "source": "user8.bearblog.dev"
-    },
-    {
-      "title": "Remembering Planet Source Code: Sharing Code Before GitHub Made It Easy",
-      "url": "https://www.pietschsoft.com/post/2026/05/05/remembering-planet-source-code-sharing-code-before-github-made-it-easy",
-      "score": 26,
-      "comments": 3,
-      "source": "pietschsoft.com"
-    },
-    {
-      "title": "Boriel BASIC",
-      "url": "https://zxbasic.readthedocs.io/en/docs/",
-      "score": 54,
-      "comments": 19,
-      "source": "zxbasic.readthedocs.io"
-    },
-    {
-      "title": "Don't hijack my mouse pointer",
-      "url": "https://ruky.me/dont-hijack-my-pointer/",
-      "score": 9,
-      "comments": 3,
-      "source": "ruky.me"
-    },
-    {
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 296,
-      "comments": 83,
-      "source": "slate.com"
-    },
-    {
-      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-      "url": "https://github.com/tsirysndr/rockbox-zig",
-      "score": 92,
-      "comments": 22,
-      "source": "github.com"
-    },
-    {
-      "title": "Interaction Models",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "score": 247,
-      "comments": 30,
-      "source": "thinkingmachines.ai"
-    },
-    {
-      "title": "Show HN: TikTok but for scientific papers",
-      "url": "https://andreaturchet.github.io/website/index.html",
-      "score": 142,
-      "comments": 64,
-      "source": "andreaturchet.github.io"
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "score": 149,
+      "comments": 139,
+      "source": "arstechnica.com"
     }
   ],
   "security": [
+    {
+      "title": "Enabling AI sovereignty on AWS",
+      "url": "https://aws.amazon.com/blogs/security/enabling-ai-sovereignty-on-aws/",
+      "date": "2026-05-12 15:18:28",
+      "author": "St\u00e9phane Isra\u00ebl"
+    },
     {
       "title": "Complimentary virtual training: Get hands-on with AWS Security Services",
       "url": "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/announcing-the-iso-310002018-risk-management-on-aws-compliance-guide/",
       "date": "2026-05-01 20:01:40",
       "author": "Jesse McMahan"
-    },
-    {
-      "title": "Designing trust and safety into Amazon Bedrock powered applications",
-      "url": "https://aws.amazon.com/blogs/security/designing-trust-and-safety-into-amazon-bedrock-powered-applications/",
-      "date": "2026-04-29 19:27:33",
-      "author": "Victor Lungu"
     }
   ]
 }
