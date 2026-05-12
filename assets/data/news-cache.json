@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 466,
-      "comments": 148,
+      "score": 749,
+      "comments": 276,
       "source": "tanstack.com"
     },
     {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 191,
-      "comments": 35,
-      "source": "stemcell.ucla.edu"
+      "title": "Screenshots of Old Desktop OSes",
+      "url": "http://www.typewritten.org/Media/",
+      "score": 27,
+      "comments": 5,
+      "source": "typewritten.org"
+    },
+    {
+      "title": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "score": 148,
+      "comments": 33,
+      "source": "github.com"
     },
     {
       "title": "If AI writes your code, why use Python?",
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 76,
-      "comments": 77,
+      "score": 394,
+      "comments": 401,
       "source": "medium.com"
     },
     {
-      "title": "Library for fast mapping of Java records to native memory",
-      "url": "https://github.com/mamba-studio/TypedMemory",
-      "score": 99,
-      "comments": 23,
-      "source": "github.com"
+      "title": "Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "score": 112,
+      "comments": 51,
+      "source": "claude.com"
     },
     {
-      "title": "GitLab announces workforce reduction and end of their CREDIT values",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "score": 267,
-      "comments": 254,
-      "source": "about.gitlab.com"
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "score": 306,
+      "comments": 63,
+      "source": "stemcell.ucla.edu"
+    },
+    {
+      "title": "Extremely Low Frequencies",
+      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+      "score": 29,
+      "comments": 0,
+      "source": "computer.rip"
+    },
+    {
+      "title": "Software Internals Book Club",
+      "url": "https://eatonphil.com/bookclub.html",
+      "score": 66,
+      "comments": 13,
+      "source": "eatonphil.com"
     },
     {
       "title": "Google says criminal hackers used AI to find a major software flaw",
       "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "score": 105,
-      "comments": 79,
+      "score": 162,
+      "comments": 123,
       "source": "nytimes.com"
     },
     {
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 212,
-      "comments": 70,
-      "source": "slate.com"
-    },
-    {
-      "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
-      "url": "https://ratty-term.org/",
-      "score": 604,
-      "comments": 194,
-      "source": "ratty-term.org"
-    },
-    {
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 549,
-      "comments": 393,
-      "source": "discuss.privacyguides.net"
+      "title": "Boriel BASIC",
+      "url": "https://zxbasic.readthedocs.io/en/docs/",
+      "score": 20,
+      "comments": 4,
+      "source": "zxbasic.readthedocs.io"
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
       "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "score": 52,
-      "comments": 51,
+      "score": 142,
+      "comments": 150,
       "source": "martin.sh"
+    },
+    {
+      "title": "A lost ancient script reveals how writing as we know it began",
+      "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
+      "score": 46,
+      "comments": 12,
+      "source": "newscientist.com"
+    },
+    {
+      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "url": "https://github.com/tsirysndr/rockbox-zig",
+      "score": 65,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "I hate soldering",
+      "url": "https://user8.bearblog.dev/rant/",
+      "score": 77,
+      "comments": 60,
+      "source": "user8.bearblog.dev"
+    },
+    {
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "score": 266,
+      "comments": 77,
+      "source": "slate.com"
+    },
+    {
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "score": 134,
+      "comments": 27,
+      "source": "github.com"
+    },
+    {
+      "title": "VGA Memory Access Is Complicated",
+      "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xxi-vga-memory-access-is-complicated/",
+      "score": 48,
+      "comments": 6,
+      "source": "os2museum.com"
+    },
+    {
+      "title": "Interaction Models",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "score": 186,
+      "comments": 22,
+      "source": "thinkingmachines.ai"
+    },
+    {
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "score": 454,
+      "comments": 465,
+      "source": "about.gitlab.com"
+    },
+    {
+      "title": "High-precision HDC reference instrument for the Sol Star System",
+      "url": "https://pypi.org/project/ephemerides-spectral/",
+      "score": 8,
+      "comments": 0,
+      "source": "pypi.org"
+    },
+    {
+      "title": "Show HN: TikTok but for scientific papers",
+      "url": "https://andreaturchet.github.io/website/index.html",
+      "score": 104,
+      "comments": 52,
+      "source": "andreaturchet.github.io"
+    },
+    {
+      "title": "When semiconductor materials misbehave",
+      "url": "https://semiengineering.com/when-semiconductor-materials-misbehave/",
+      "score": 5,
+      "comments": 0,
+      "source": "semiengineering.com"
     },
     {
       "title": "Griffin PowerMate driver for modern macOS",
       "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-      "score": 21,
-      "comments": 8,
+      "score": 67,
+      "comments": 23,
       "source": "github.com"
     },
     {
-      "title": "Can we code our way out of gentrification?",
-      "url": "https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification",
-      "score": 5,
-      "comments": 0,
-      "source": "freerange.city"
-    },
-    {
-      "title": "Silverback Imfura took a chance, and ended up alone",
-      "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
-      "score": 24,
-      "comments": 9,
-      "source": "gorillafund.org"
-    },
-    {
-      "title": "Abstract Machines for Logic Programs",
-      "url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
-      "score": 5,
-      "comments": 0,
-      "source": "chrisistyping.bearblog.dev"
+      "title": "The rise and fall of snake oil",
+      "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
+      "score": 59,
+      "comments": 29,
+      "source": "historytoday.com"
     },
     {
       "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "score": 103,
-      "comments": 27,
+      "score": 134,
+      "comments": 32,
       "source": "interfaze.ai"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 210,
-      "comments": 11,
+      "score": 232,
+      "comments": 12,
       "source": "cocoawithlove.com"
     },
     {
-      "title": "The rise and fall of snake oil",
-      "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
-      "score": 24,
-      "comments": 12,
-      "source": "historytoday.com"
+      "title": "Silverback Imfura took a chance, and ended up alone",
+      "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+      "score": 56,
+      "comments": 17,
+      "source": "gorillafund.org"
     },
     {
-      "title": "Show HN: OpenGravity \u2013 A zero-install, BYOK vanilla JS clone of Antigravity",
-      "url": "https://github.com/ab-613/opengravity",
-      "score": 38,
-      "comments": 16,
-      "source": "github.com"
-    },
-    {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "url": "https://bild.ai/jobs",
-      "score": 1,
+      "title": "Supercomputer networking to accelerate large scale AI training",
+      "url": "https://openai.com/index/mrc-supercomputer-networking/",
+      "score": 5,
       "comments": 0,
-      "source": "bild.ai"
+      "source": "openai.com"
     },
     {
-      "title": "Interaction Models",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "score": 72,
-      "comments": 8,
-      "source": "thinkingmachines.ai"
+      "title": "Abstract Machines for Logic Programs",
+      "url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+      "score": 35,
+      "comments": 1,
+      "source": "chrisistyping.bearblog.dev"
     },
     {
       "title": "AM\u00c1LIA and the future of European Portuguese LLMs",
       "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "score": 115,
-      "comments": 57,
+      "score": 130,
+      "comments": 60,
       "source": "duarteocarmo.com"
-    },
-    {
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 352,
-      "comments": 107,
-      "source": "nvlabs.github.io"
-    },
-    {
-      "title": "Show HN: E2a \u2013 Open-source email gateway for AI agents",
-      "url": "https://github.com/Mnexa-AI/e2a",
-      "score": 17,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "The Boston library where you still can borrow a giant puppet",
-      "url": "https://binj.news/2026/05/06/the-boston-library-where-you-still-can-borrow-a-giant-puppet/",
-      "score": 45,
-      "comments": 7,
-      "source": "binj.news"
-    },
-    {
-      "title": "Counting Fast in Erlang with:counters and:atomics",
-      "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
-      "score": 68,
-      "comments": 3,
-      "source": "andrealeopardi.com"
-    },
-    {
-      "title": "Building a web server in aarch64 assembly to give my life (a lack of) meaning",
-      "url": "https://imtomt.github.io/ymawky/",
-      "score": 97,
-      "comments": 32,
-      "source": "imtomt.github.io"
-    },
-    {
-      "title": "Linux Terminal Memory Usage",
-      "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
-      "score": 40,
-      "comments": 36,
-      "source": "gilesorr.com"
-    },
-    {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 2072,
-      "comments": 701,
-      "source": "grapheneos.social"
-    },
-    {
-      "title": "Software engineering may no longer be a lifetime career",
-      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-      "score": 345,
-      "comments": 586,
-      "source": "seangoedecke.com"
-    },
-    {
-      "title": "From Buffon's Needle to Buffon's Noodle",
-      "url": "https://mbmccoy.dev/posts/buffons-noodle/",
-      "score": 23,
-      "comments": 7,
-      "source": "mbmccoy.dev"
     }
   ],
   "security": [
