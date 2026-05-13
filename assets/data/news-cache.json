@@ -1,53 +1,130 @@
 {
   "tech": [
     {
-      "title": "I Moved My Digital Stack to Europe",
+      "title": "Setting up a free *.city.state.us locality domain",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 316,
+      "comments": 87,
+      "source": "fredchan.org"
+    },
+    {
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "url": "https://ossresistance.com/",
+      "score": 160,
+      "comments": 57,
+      "source": "ossresistance.com"
+    },
+    {
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "score": 57,
+      "comments": 31,
+      "source": "xda-developers.com"
+    },
+    {
+      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+      "url": "https://www.tryardent.com/",
+      "score": 32,
+      "comments": 16,
+      "source": "tryardent.com"
+    },
+    {
+      "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
+      "url": "https://github.com/nooga/xsofy",
+      "score": 78,
+      "comments": 34,
+      "source": "github.com"
+    },
+    {
+      "title": "S-100 Virtual Workbench",
+      "url": "https://grantmestrength.github.io/S100/",
+      "score": 52,
+      "comments": 11,
+      "source": "grantmestrength.github.io"
+    },
+    {
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 78,
+      "comments": 52,
+      "source": "laurent.le-brun.eu"
+    },
+    {
+      "title": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "score": 63,
+      "comments": 20,
+      "source": "sockpuppet.org"
+    },
+    {
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "score": 142,
+      "comments": 44,
+      "source": "discuss.python.org"
+    },
+    {
+      "title": "Leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "score": 423,
+      "comments": 227,
+      "source": "jorijn.com"
+    },
+    {
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "score": 72,
+      "comments": 196,
+      "source": "avkcode.github.io"
+    },
+    {
+      "title": "An idiot's guide to lead optimisation for proteins",
+      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+      "score": 106,
+      "comments": 9,
+      "source": "magnusross.github.io"
+    },
+    {
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "score": 247,
+      "comments": 110,
+      "source": "sciencedaily.com"
+    },
+    {
+      "title": "Heritability of human life span is ~50% when heritability is redefined",
+      "url": "https://dynomight.net/lifespan/",
+      "score": 54,
+      "comments": 33,
+      "source": "dynomight.net"
+    },
+    {
+      "title": "I moved my digital stack to Europe",
       "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 175,
-      "comments": 83,
+      "score": 718,
+      "comments": 468,
       "source": "monokai.com"
     },
     {
       "title": "Preserving Fisher-Price Pixter",
       "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 51,
-      "comments": 1,
+      "score": 171,
+      "comments": 39,
       "source": "dmitry.gr"
     },
     {
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 509,
-      "comments": 224,
+      "score": 625,
+      "comments": 280,
       "source": "github.com"
     },
     {
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "url": "https://arxiv.org/abs/2605.08419",
-      "score": 227,
-      "comments": 53,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 112,
-      "comments": 36,
-      "source": "sciencedaily.com"
-    },
-    {
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "score": 824,
-      "comments": 1358,
-      "source": "googlebook.google"
-    },
-    {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 516,
-      "comments": 156,
-      "source": "github.com"
+      "title": "Twin brothers wipe 96 government databases minutes after being fired",
+      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "score": 83,
+      "comments": 33,
+      "source": "arstechnica.com"
     },
     {
       "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
@@ -57,161 +134,90 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "The Boring Part of Bell Labs (2025)",
-      "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
-      "score": 46,
-      "comments": 5,
-      "source": "acesounderglass.com"
+      "title": "Haiku",
+      "url": "https://www.haiku-os.org",
+      "score": 117,
+      "comments": 54,
+      "source": "haiku-os.org"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 595,
+      "comments": 172,
+      "source": "github.com"
+    },
+    {
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "score": 275,
+      "comments": 65,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Nailing jelly to a wall: is it possible? (2005)",
+      "url": "https://greem.co.uk/otherbits/jelly.html",
+      "score": 53,
+      "comments": 19,
+      "source": "greem.co.uk"
     },
     {
       "title": "Web Server on a Nintendo Wii",
       "url": "http://wii.sjmulder.nl/",
-      "score": 24,
-      "comments": 1,
+      "score": 83,
+      "comments": 31,
       "source": "wii.sjmulder.nl"
     },
     {
-      "title": "Using OR-Tools CP-SAT for Scheduling Problems",
-      "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
-      "score": 12,
-      "comments": 1,
-      "source": "atalaykutlay.com"
-    },
-    {
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 402,
-      "comments": 52,
-      "source": "typesetinthefuture.com"
-    },
-    {
-      "title": "Why senior developers fail to communicate their expertise",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 643,
-      "comments": 281,
-      "source": "nair.sh"
-    },
-    {
-      "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
-      "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
-      "score": 18,
-      "comments": 6,
-      "source": "vittorioromeo.com"
-    },
-    {
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 337,
-      "comments": 175,
-      "source": "lists.thekelleys.org.uk"
-    },
-    {
-      "title": "Scrcpy v4.0",
-      "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-      "score": 246,
-      "comments": 39,
-      "source": "github.com"
-    },
-    {
-      "title": "When \u201cidle\u201d isn't idle: how a Linux kernel optimization became a QUIC bug",
-      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "score": 117,
-      "comments": 15,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "SecurityBaseline.eu",
-      "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-      "score": 187,
-      "comments": 94,
-      "source": "internetcleanup.foundation"
-    },
-    {
-      "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
-      "url": "https://github.com/tracewayapp/traceway",
-      "score": 127,
-      "comments": 20,
-      "source": "github.com"
-    },
-    {
-      "title": "The vi family",
-      "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "score": 208,
-      "comments": 132,
-      "source": "lpar.ATH0.com"
-    },
-    {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 496,
-      "comments": 39,
-      "source": "blog.maximeheckel.com"
-    },
-    {
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "score": 315,
-      "comments": 66,
-      "source": "duckdb.org"
+      "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
+      "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
+      "score": 97,
+      "comments": 90,
+      "source": "fortune.com"
     },
     {
       "title": "Kraftwerk's radical 1976 track",
       "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 184,
-      "comments": 151,
+      "score": 221,
+      "comments": 193,
       "source": "bbc.com"
     },
     {
-      "title": "My graduation cap runs Rust",
-      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 173,
-      "comments": 66,
-      "source": "ericswpark.com"
-    },
-    {
-      "title": "The Future of Obsidian Plugins",
-      "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 401,
-      "comments": 148,
-      "source": "obsidian.md"
-    },
-    {
-      "title": "What if there was no BASIC in EndBASIC?",
-      "url": "https://blogsystem5.substack.com/p/no-basic-in-endbasic",
-      "score": 31,
-      "comments": 10,
-      "source": "blogsystem5.substack.com"
-    },
-    {
-      "title": "Reimagining the mouse pointer for the AI era",
-      "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 223,
-      "comments": 187,
-      "source": "deepmind.google"
-    },
-    {
-      "title": "As researchers age, they produce less disruptive work",
-      "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
-      "score": 95,
-      "comments": 92,
-      "source": "nautil.us"
-    },
-    {
-      "title": "Up in Smoke",
-      "url": "https://thebaffler.com/odds-and-ends/the-profession-that-does-not-exist-symposium",
-      "score": 37,
-      "comments": 18,
-      "source": "thebaffler.com"
-    },
-    {
-      "title": "Fc, a lossless compressor for floating-point streams",
-      "url": "https://github.com/xtellect/fc",
-      "score": 79,
+      "title": "Using OR-Tools CP-SAT for Scheduling Problems",
+      "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
+      "score": 65,
       "comments": 24,
-      "source": "github.com"
+      "source": "atalaykutlay.com"
+    },
+    {
+      "title": "Kickstarter is forced to ban adult content by payment processors",
+      "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+      "score": 243,
+      "comments": 188,
+      "source": "kotaku.com"
+    },
+    {
+      "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
+      "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
+      "score": 55,
+      "comments": 54,
+      "source": "vittorioromeo.com"
+    },
+    {
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "score": 463,
+      "comments": 59,
+      "source": "typesetinthefuture.com"
     }
   ],
   "security": [
+    {
+      "title": "PCI PIN and P2PE compliance packages for AWS Payment Cryptography are now available",
+      "url": "https://aws.amazon.com/blogs/security/pci-pin-and-p2pe-compliance-packages-for-aws-payment-cryptography-are-now-available/",
+      "date": "2026-05-13 16:16:38",
+      "author": "Will Black"
+    },
     {
       "title": "AWS Security Agent full repository code scanning feature now available in preview",
       "url": "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment/",
       "date": "2026-05-04 18:16:39",
       "author": "Dodd Mitchell"
-    },
-    {
-      "title": "Security posture improvement in the AI era",
-      "url": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era/",
-      "date": "2026-05-01 20:58:39",
-      "author": "Celeste Bishop"
     }
   ]
 }
