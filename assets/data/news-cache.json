@@ -3,128 +3,191 @@
     {
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 107,
-      "comments": 114,
+      "score": 585,
+      "comments": 952,
       "source": "googlebook.google"
     },
     {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "score": 297,
-      "comments": 24,
-      "source": "blog.maximeheckel.com"
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 105,
+      "comments": 40,
+      "source": "github.com"
+    },
+    {
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 45,
+      "comments": 9,
+      "source": "bbc.com"
+    },
+    {
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "score": 185,
+      "comments": 22,
+      "source": "typesetinthefuture.com"
+    },
+    {
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "score": 221,
+      "comments": 108,
+      "source": "lists.thekelleys.org.uk"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 258,
+      "comments": 94,
+      "source": "github.com"
+    },
+    {
+      "title": "Tell NYT, Atlantic, USA Today to Keep Wayback Machine",
+      "url": "https://www.savethearchive.com/newsleaders/",
+      "score": 18,
+      "comments": 1,
+      "source": "savethearchive.com"
+    },
+    {
+      "title": "My graduation cap runs Rust",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "score": 13,
+      "comments": 3,
+      "source": "ericswpark.com"
     },
     {
       "title": "Why senior developers fail to communicate their expertise",
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 97,
-      "comments": 36,
+      "score": 354,
+      "comments": 169,
       "source": "nair.sh"
     },
     {
-      "title": "Instructure pays ransom to Canvas hackers",
-      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
-      "score": 125,
-      "comments": 93,
-      "source": "insidehighered.com"
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 403,
+      "comments": 34,
+      "source": "blog.maximeheckel.com"
     },
     {
-      "title": "When life gives you lemons, write better error messages",
-      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
-      "score": 34,
-      "comments": 8,
-      "source": "wix-ux.com"
-    },
-    {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "score": 721,
-      "comments": 245,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
-      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "score": 15,
-      "comments": 4,
-      "source": "xbow.com"
-    },
-    {
-      "title": "Learning Software Architecture",
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 436,
-      "comments": 81,
-      "source": "matklad.github.io"
-    },
-    {
-      "title": "The Future of Obsidian Plugins",
-      "url": "https://obsidian.md/blog/future-of-plugins/",
-      "score": 119,
-      "comments": 61,
-      "source": "obsidian.md"
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "score": 169,
+      "comments": 34,
+      "source": "duckdb.org"
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
-      "score": 21,
-      "comments": 7,
+      "score": 123,
+      "comments": 106,
       "source": "deepmind.google"
     },
     {
-      "title": "Show HN: Agentic interface for mainframes and COBOL",
-      "url": "https://www.hypercubic.ai/hopper",
-      "score": 21,
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "score": 290,
+      "comments": 118,
+      "source": "obsidian.md"
+    },
+    {
+      "title": "Lanzaboote \u2013 NixOS Secure Boot",
+      "url": "https://x86.lol/generic/2022/11/26/lanzaboote.html",
+      "score": 36,
       "comments": 4,
-      "source": "hypercubic.ai"
+      "source": "x86.lol"
     },
     {
-      "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
-      "url": "https://voker.ai",
-      "score": 27,
-      "comments": 12,
-      "source": "voker.ai"
+      "title": "Learning Software Architecture",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "score": 520,
+      "comments": 105,
+      "source": "matklad.github.io"
     },
     {
-      "title": "Screenshots of Old Desktop OSes",
-      "url": "http://www.typewritten.org/Media/",
-      "score": 568,
-      "comments": 290,
-      "source": "typewritten.org"
+      "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "score": 9,
+      "comments": 0,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 1065,
+      "comments": 355,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "Dead.Letter (CVE-2026-45185) \u2013 How XBOW found an unauthenticated RCE on Exim",
+      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "score": 58,
+      "comments": 28,
+      "source": "xbow.com"
     },
     {
       "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
       "url": "https://github.com/statewright/statewright",
-      "score": 13,
-      "comments": 1,
+      "score": 67,
+      "comments": 24,
       "source": "github.com"
     },
     {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 1024,
-      "comments": 433,
-      "source": "tanstack.com"
+      "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "score": 37,
+      "comments": 19,
+      "source": "voker.ai"
     },
     {
-      "title": "The Real Story of Troy",
-      "url": "https://storica.club/blog/troy-was-real/",
-      "score": 23,
-      "comments": 10,
-      "source": "storica.club"
-    },
-    {
-      "title": "Dnsmasq-Discuss: Security \u2013 Important",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 4,
-      "comments": 0,
-      "source": "lists.thekelleys.org.uk"
-    },
-    {
-      "title": "Canada's Bill C-22 Is a Repackaged Version of Last Year's Surveillance Nightmare",
-      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "title": "Beyond Semantic Similarity",
+      "url": "https://arxiv.org/abs/2605.05242",
       "score": 38,
-      "comments": 9,
+      "comments": 8,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant",
+      "url": "https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant",
+      "score": 54,
+      "comments": 7,
       "source": "eff.org"
+    },
+    {
+      "title": "When life gives you lemons, write better error messages",
+      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "score": 105,
+      "comments": 33,
+      "source": "wix-ux.com"
+    },
+    {
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "score": 49,
+      "comments": 30,
+      "source": "hypercubic.ai"
+    },
+    {
+      "title": "Canada\u2019s Bill C-22 Is a Repackaged Version of Last Year\u2019s Surveillance Nightmare",
+      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+      "score": 255,
+      "comments": 81,
+      "source": "eff.org"
+    },
+    {
+      "title": "Riding the D in Los Angeles: city hopes new subway stations will be game changer",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
+      "score": 54,
+      "comments": 27,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
+      "url": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
+      "score": 29,
+      "comments": 7,
+      "source": "thebuild.com"
     },
     {
       "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
@@ -134,77 +197,20 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Profiling.sampling \u2013 Statistical Profiler",
-      "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
-      "score": 73,
-      "comments": 20,
-      "source": "docs.python.org"
-    },
-    {
-      "title": "The Surprisingly Long Life of the Vacuum Tube",
-      "url": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
-      "score": 44,
-      "comments": 25,
-      "source": "construction-physics.com"
-    },
-    {
-      "title": "Testing UPS Output Waveforms",
-      "url": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
-      "score": 11,
-      "comments": 3,
-      "source": "lttlabs.com"
-    },
-    {
-      "title": "They Live (1988) inspired Adblocker",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 493,
-      "comments": 158,
-      "source": "github.com"
-    },
-    {
-      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
-      "score": 163,
-      "comments": 145,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "If AI writes your code, why use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 800,
-      "comments": 837,
-      "source": "medium.com"
-    },
-    {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "score": 417,
-      "comments": 371,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 421,
-      "comments": 85,
-      "source": "stemcell.ucla.edu"
-    },
-    {
-      "title": "Chasing Chicago's movable bridges (2014)",
-      "url": "https://aresluna.org/seesaws-for-giants/",
-      "score": 65,
-      "comments": 9,
-      "source": "aresluna.org"
-    },
-    {
-      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-      "score": 149,
-      "comments": 139,
-      "source": "arstechnica.com"
+      "title": "Instructure pays ransom to Canvas hackers",
+      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
+      "score": 226,
+      "comments": 210,
+      "source": "insidehighered.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS Security Agent full repository code scanning feature now available in preview",
+      "url": "https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/",
+      "date": "2026-05-12 21:34:16",
+      "author": "Ayush Singh"
+    },
     {
       "title": "Enabling AI sovereignty on AWS",
       "url": "https://aws.amazon.com/blogs/security/enabling-ai-sovereignty-on-aws/",
@@ -258,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/security-posture-improvement-in-the-ai-era/",
       "date": "2026-05-01 20:58:39",
       "author": "Celeste Bishop"
-    },
-    {
-      "title": "Announcing the ISO 31000:2018 Risk Management on AWS Compliance Guide",
-      "url": "https://aws.amazon.com/blogs/security/announcing-the-iso-310002018-risk-management-on-aws-compliance-guide/",
-      "date": "2026-05-01 20:01:40",
-      "author": "Jesse McMahan"
     }
   ]
 }
