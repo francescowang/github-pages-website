@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "Show HN: Running the second public ODoH relay",
-      "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-      "score": 38,
-      "comments": 16,
-      "source": "numa.rs"
+      "title": "Removing the modem and GPS from my 2024 rav4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 135,
+      "comments": 48,
+      "source": "arkadiyt.com"
+    },
+    {
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 261,
+      "comments": 75,
+      "source": "scottjg.com"
+    },
+    {
+      "title": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "score": 102,
+      "comments": 28,
+      "source": "github.com"
+    },
+    {
+      "title": "HDD Firmware Hacking",
+      "url": "https://icode4.coffee/?p=1465",
+      "score": 40,
+      "comments": 1,
+      "source": "icode4.coffee"
+    },
+    {
+      "title": "Computer Hobby Movement in Canada",
+      "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+      "score": 142,
+      "comments": 38,
+      "source": "museum.eecs.yorku.ca"
+    },
+    {
+      "title": "MIT: 20% drop in incoming graduate students",
+      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "score": 459,
+      "comments": 454,
+      "source": "president.mit.edu"
+    },
+    {
+      "title": "Fossils show millipede and centipede ancestors evolved legs underwater",
+      "url": "https://phys.org/news/2026-05-ancient-sea-fossils-millipede-centipede.html",
+      "score": 39,
+      "comments": 2,
+      "source": "phys.org"
+    },
+    {
+      "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
+      "url": "https://gynvael.coldwind.pl/?id=372",
+      "score": 15,
+      "comments": 18,
+      "source": "gynvael.coldwind.pl"
+    },
+    {
+      "title": "Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern",
+      "url": "https://www.workatastartup.com/companies/terranox-ai",
+      "score": 1,
+      "comments": 0,
+      "source": "workatastartup.com"
+    },
+    {
+      "title": "On The Conflation of Money and Things",
+      "url": "https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/",
+      "score": 39,
+      "comments": 11,
+      "source": "lithub.com"
+    },
+    {
+      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+      "score": 269,
+      "comments": 137,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
+      "url": "https://arxiv.org/abs/2510.03154",
+      "score": 17,
+      "comments": 0,
+      "source": "arxiv.org"
     },
     {
       "title": "Claude for Small Business",
       "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 341,
-      "comments": 278,
+      "score": 486,
+      "comments": 432,
       "source": "anthropic.com"
+    },
+    {
+      "title": "60fps Video on a CGA? \u2013 The GlyphBlaster",
+      "url": "https://martypc.blogspot.com/2026/05/60fps-video-on-cga-glyphblaster.html",
+      "score": 41,
+      "comments": 6,
+      "source": "martypc.blogspot.com"
+    },
+    {
+      "title": "Show HN: Running the second public ODoH relay",
+      "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+      "score": 101,
+      "comments": 32,
+      "source": "numa.rs"
+    },
+    {
+      "title": "Scorched Earth 2000 \u2013 Web",
+      "url": "http://www.scorch2000.com/web/",
+      "score": 360,
+      "comments": 141,
+      "source": "scorch2000.com"
     },
     {
       "title": "Myths about /dev/urandom (2014)",
       "url": "https://www.2uo.de/myths-about-urandom/",
-      "score": 14,
-      "comments": 5,
+      "score": 72,
+      "comments": 38,
       "source": "2uo.de"
     },
     {
       "title": "The Tree House: A voyage to the source of a backyard dream",
       "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
-      "score": 8,
-      "comments": 0,
+      "score": 57,
+      "comments": 6,
       "source": "laphamsquarterly.org"
-    },
-    {
-      "title": "Scorched Earth 2000 \u2013 Web",
-      "url": "http://www.scorch2000.com/web/",
-      "score": 299,
-      "comments": 108,
-      "source": "scorch2000.com"
-    },
-    {
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 802,
-      "comments": 512,
-      "source": "xda-developers.com"
-    },
-    {
-      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-      "url": "https://classic7.lol/",
-      "score": 102,
-      "comments": 87,
-      "source": "classic7.lol"
-    },
-    {
-      "title": "What happens when you post a real Monet and say it's AI?",
-      "url": "https://twitter.com/jediwolf/status/2054776716770320631",
-      "score": 21,
-      "comments": 1,
-      "source": "twitter.com"
     },
     {
       "title": "Leaving the Physical World",
       "url": "https://www.eff.org/pages/leaving-physical-world",
-      "score": 46,
-      "comments": 14,
+      "score": 156,
+      "comments": 66,
       "source": "eff.org"
     },
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 578,
-      "comments": 180,
-      "source": "fredchan.org"
+      "title": "Bun's Rust rewrite has been merged",
+      "url": "https://old.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/",
+      "score": 61,
+      "comments": 48,
+      "source": "old.reddit.com"
     },
     {
-      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "score": 255,
-      "comments": 297,
-      "source": "jdhodges.com"
+      "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
+      "url": "https://www.wsj.com/tech/ai/sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo-52c1cc4d",
+      "score": 170,
+      "comments": 115,
+      "source": "wsj.com"
     },
     {
-      "title": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 399,
-      "comments": 260,
-      "source": "laurent.le-brun.eu"
+      "title": "Apple-OpenAI Relationship Frays, Setting Up Possible Legal Fight",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight",
+      "score": 32,
+      "comments": 13,
+      "source": "bloomberg.com"
     },
     {
-      "title": "Technical Dimensions of Live Feedback in Programming Systems",
-      "url": "https://joshuahhh.com/dims-of-feedback/",
-      "score": 24,
-      "comments": 4,
-      "source": "joshuahhh.com"
+      "title": "Anthropic forms $200M partnership with the Gates Foundation",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "score": 99,
+      "comments": 73,
+      "source": "anthropic.com"
     },
     {
-      "title": "The Emacsification of Software",
-      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 331,
-      "comments": 210,
-      "source": "sockpuppet.org"
+      "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+      "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
+      "score": 208,
+      "comments": 135,
+      "source": "agweb.com"
+    },
+    {
+      "title": "Deal reached with hackers to delete data stolen from the Canvas platform",
+      "url": "https://www.nbcnews.com/tech/tech-news/deal-reached-hackers-delete-data-stolen-canvas-educational-platform-rcna344693",
+      "score": 19,
+      "comments": 11,
+      "source": "nbcnews.com"
     },
     {
       "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
       "url": "https://github.com/DrCatHicks/learning-opportunities",
-      "score": 83,
-      "comments": 17,
+      "score": 193,
+      "comments": 43,
       "source": "github.com"
     },
     {
       "title": "Saying Goodbye to one line of APL",
       "url": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1",
-      "score": 10,
-      "comments": 6,
+      "score": 66,
+      "comments": 19,
       "source": "homewithinnowhere.com"
     },
     {
-      "title": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
-      "score": 177,
-      "comments": 54,
-      "source": "ardoedo.it"
+      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "score": 319,
+      "comments": 373,
+      "source": "jdhodges.com"
     },
     {
-      "title": "Show HN: Nibble",
-      "url": "https://github.com/glouw/nibble",
-      "score": 68,
-      "comments": 14,
-      "source": "github.com"
+      "title": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "score": 394,
+      "comments": 247,
+      "source": "sockpuppet.org"
     },
     {
-      "title": "Extraordinary Ordinals",
-      "url": "https://text.marvinborner.de/2026-04-09-17.html",
-      "score": 31,
-      "comments": 12,
-      "source": "text.marvinborner.de"
-    },
-    {
-      "title": "New York, California pension leaders oppose 'extreme' SpaceX control structure",
-      "url": "https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/",
-      "score": 4,
-      "comments": 0,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
-      "score": 67,
-      "comments": 15,
-      "source": "pubs.rsc.org"
-    },
-    {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 691,
-      "comments": 197,
-      "source": "github.com"
-    },
-    {
-      "title": "Cisco workforce reductions",
-      "url": "https://blogs.cisco.com/news/our-path-forward",
-      "score": 230,
-      "comments": 235,
-      "source": "blogs.cisco.com"
-    },
-    {
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 213,
-      "comments": 583,
-      "source": "avkcode.github.io"
-    },
-    {
-      "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
-      "url": "https://github.com/nooga/xsofy",
-      "score": 196,
-      "comments": 84,
-      "source": "github.com"
-    },
-    {
-      "title": "Heritability of human life span is ~50% when heritability is redefined",
-      "url": "https://dynomight.net/lifespan/",
-      "score": 109,
-      "comments": 63,
-      "source": "dynomight.net"
-    },
-    {
-      "title": "The Deathbed Notes of Henry James (1968)",
-      "url": "https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm",
-      "score": 14,
-      "comments": 0,
-      "source": "theatlantic.com"
-    },
-    {
-      "title": "How can Apple deal with the memory shortage?",
-      "url": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
-      "score": 111,
-      "comments": 124,
-      "source": "asymco.com"
-    },
-    {
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 243,
-      "comments": 100,
-      "source": "discuss.python.org"
-    },
-    {
-      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
-      "url": "https://www.tryardent.com/",
-      "score": 93,
-      "comments": 38,
-      "source": "tryardent.com"
+      "title": "Pipes, Forks, and Zombies",
+      "url": "https://cs61.seas.harvard.edu/wiki/2017/Shell3/",
+      "score": 36,
+      "comments": 5,
+      "source": "cs61.seas.harvard.edu"
     }
   ],
   "security": [
+    {
+      "title": "Automating post-quantum cryptography readiness using AWS Config",
+      "url": "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config/",
+      "date": "2026-05-14 16:18:20",
+      "author": "Pravin Nair"
+    },
     {
       "title": "Detecting and preventing crypto mining in your AWS environment",
       "url": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/new-compliance-guide-available-iso-iec-420012023-on-aws/",
       "date": "2026-05-06 19:39:19",
       "author": "Abdul Javid"
-    },
-    {
-      "title": "Introducing AI traffic analysis dashboards for AWS WAF",
-      "url": "https://aws.amazon.com/blogs/security/introducing-ai-traffic-analysis-dashboards-for-aws-waf/",
-      "date": "2026-05-05 18:56:54",
-      "author": "Christopher Jen"
     }
   ]
 }
