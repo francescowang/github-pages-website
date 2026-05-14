@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "score": 156,
+      "comments": 94,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Scorched Earth 2000 \u2013 Web",
+      "url": "http://www.scorch2000.com/web/",
+      "score": 208,
+      "comments": 80,
+      "source": "scorch2000.com"
+    },
+    {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 486,
-      "comments": 317,
+      "score": 650,
+      "comments": 431,
       "source": "xda-developers.com"
     },
     {
-      "title": "Who Trusts Sam Altman?",
-      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-      "score": 13,
-      "comments": 4,
-      "source": "techcrunch.com"
+      "title": "Cisco workforce reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "score": 165,
+      "comments": 123,
+      "source": "blogs.cisco.com"
+    },
+    {
+      "title": "Arena AI Model ELO History",
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "score": 36,
+      "comments": 13,
+      "source": "mayerwin.github.io"
     },
     {
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 471,
-      "comments": 153,
+      "score": 547,
+      "comments": 172,
       "source": "fredchan.org"
-    },
-    {
-      "title": "The Other Half of AI Safety",
-      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "score": 6,
-      "comments": 2,
-      "source": "personalaisafety.com"
     },
     {
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 255,
-      "comments": 189,
+      "score": 345,
+      "comments": 235,
       "source": "laurent.le-brun.eu"
     },
     {
-      "title": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
-      "score": 67,
-      "comments": 23,
-      "source": "ardoedo.it"
+      "title": "Extraordinary Ordinals",
+      "url": "https://text.marvinborner.de/2026-04-09-17.html",
+      "score": 10,
+      "comments": 2,
+      "source": "text.marvinborner.de"
     },
     {
-      "title": "Marco Polo: Finding a friend with only distance and motion",
-      "url": "https://www.jackhogan.me/blog/marco-polo",
-      "score": 25,
-      "comments": 3,
-      "source": "jackhogan.me"
-    },
-    {
-      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "score": 223,
-      "comments": 306,
-      "source": "dailyprincetonian.com"
+      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "score": 183,
+      "comments": 193,
+      "source": "jdhodges.com"
     },
     {
       "title": "The Emacsification of Software",
       "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 178,
-      "comments": 114,
+      "score": 268,
+      "comments": 177,
       "source": "sockpuppet.org"
     },
     {
-      "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
-      "url": "https://github.com/nooga/xsofy",
-      "score": 151,
-      "comments": 64,
+      "title": "Show HN: Nibble",
+      "url": "https://github.com/glouw/nibble",
+      "score": 37,
+      "comments": 2,
       "source": "github.com"
     },
     {
-      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
-      "url": "https://www.tryardent.com/",
-      "score": 63,
-      "comments": 26,
-      "source": "tryardent.com"
+      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+      "score": 29,
+      "comments": 1,
+      "source": "pubs.rsc.org"
     },
     {
       "title": "Twin brothers wipe 96 government databases minutes after being fired",
       "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "score": 284,
-      "comments": 214,
+      "score": 392,
+      "comments": 289,
       "source": "arstechnica.com"
     },
     {
-      "title": "S-100 Virtual Workbench",
-      "url": "https://grantmestrength.github.io/S100/",
-      "score": 95,
-      "comments": 20,
-      "source": "grantmestrength.github.io"
+      "title": "Chess puzzle I found in my dad's old book",
+      "url": "https://ardoedo.it/kempelen/",
+      "score": 140,
+      "comments": 39,
+      "source": "ardoedo.it"
+    },
+    {
+      "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "url": "https://github.com/DrCatHicks/learning-opportunities",
+      "score": 17,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Microsoft BitLocker \u2013 YellowKey zero-day exploit",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+      "score": 116,
+      "comments": 63,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "delta time",
+      "url": "https://www.deltatime.life/",
+      "score": 30,
+      "comments": 11,
+      "source": "deltatime.life"
+    },
+    {
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+      "score": 312,
+      "comments": 446,
+      "source": "dailyprincetonian.com"
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 156,
-      "comments": 432,
+      "score": 192,
+      "comments": 517,
       "source": "avkcode.github.io"
     },
     {
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 193,
+      "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
+      "url": "https://github.com/nooga/xsofy",
+      "score": 176,
       "comments": 75,
-      "source": "discuss.python.org"
+      "source": "github.com"
     },
     {
-      "title": "A sentimental tour of late 1990s and early 2000s hacking tools",
-      "url": "https://andreafortuna.org/2026/05/13/amarcord/",
-      "score": 41,
-      "comments": 14,
-      "source": "andreafortuna.org"
+      "title": "Golden Testing a CAD Library",
+      "url": "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html",
+      "score": 14,
+      "comments": 1,
+      "source": "doscienceto.it"
     },
     {
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 292,
-      "comments": 137,
-      "source": "sciencedaily.com"
+      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+      "url": "https://www.tryardent.com/",
+      "score": 83,
+      "comments": 34,
+      "source": "tryardent.com"
     },
     {
-      "title": "Meta won't let you block its AI account on Threads",
-      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "score": 96,
-      "comments": 32,
-      "source": "theverge.com"
-    },
-    {
-      "title": "An idiot's guide to lead optimisation for proteins",
-      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 138,
-      "comments": 14,
-      "source": "magnusross.github.io"
+      "title": "Heritability of human life span is ~50% when heritability is redefined",
+      "url": "https://dynomight.net/lifespan/",
+      "score": 89,
+      "comments": 52,
+      "source": "dynomight.net"
     },
     {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 635,
-      "comments": 182,
+      "score": 667,
+      "comments": 187,
       "source": "github.com"
     },
     {
-      "title": "Leaving GitHub for Forgejo",
-      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 520,
-      "comments": 278,
-      "source": "jorijn.com"
-    },
-    {
-      "title": "Preserving Fisher-Price Pixter",
-      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 203,
-      "comments": 43,
-      "source": "dmitry.gr"
-    },
-    {
-      "title": "Making the news available at no cost is a victory",
-      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
-      "score": 102,
-      "comments": 107,
-      "source": "sltrib.com"
-    },
-    {
-      "title": "Intercom changes name to Fin",
-      "url": "https://www.intercom.com/blog/today-intercom-becomes-fin/",
-      "score": 16,
-      "comments": 20,
-      "source": "intercom.com"
-    },
-    {
-      "title": "After 3 decades of splendid scientific communication, this one's for you, Ned",
-      "url": "https://www.adn.com/alaska-news/science/2026/05/08/after-3-decades-of-splendid-scientific-communication-this-ones-for-you-ned/",
+      "title": "'A Four-Eyed World' Review: The Story of Spectacles",
+      "url": "https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac",
       "score": 7,
       "comments": 0,
-      "source": "adn.com"
+      "source": "wsj.com"
     },
     {
-      "title": "I moved my digital stack to Europe",
-      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 874,
-      "comments": 532,
-      "source": "monokai.com"
+      "title": "How can Apple deal with the memory shortage?",
+      "url": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
+      "score": 84,
+      "comments": 82,
+      "source": "asymco.com"
     },
     {
-      "title": "Comparing a 1980s memory map to the Raspi Pico",
-      "url": "https://medium.com/@noborutakahashi/a-40-year-old-memory-map-comparable-to-todays-raspberry-pi-pico-932c4309260d",
-      "score": 17,
-      "comments": 0,
-      "source": "medium.com"
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "score": 218,
+      "comments": 86,
+      "source": "discuss.python.org"
     },
     {
-      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "score": 42,
-      "comments": 27,
-      "source": "techcrunch.com"
+      "title": "S-100 Virtual Workbench",
+      "url": "https://grantmestrength.github.io/S100/",
+      "score": 116,
+      "comments": 25,
+      "source": "grantmestrength.github.io"
     },
     {
-      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
-      "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
+      "title": "The other half of AI safety",
+      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+      "score": 70,
+      "comments": 87,
+      "source": "personalaisafety.com"
+    },
+    {
+      "title": "Marco Polo: Finding a friend with only distance and motion",
+      "url": "https://www.jackhogan.me/blog/marco-polo",
+      "score": 55,
+      "comments": 7,
+      "source": "jackhogan.me"
     }
   ],
   "security": [
