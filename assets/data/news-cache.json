@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Show HN: Running the second public ODoH relay",
+      "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+      "score": 38,
+      "comments": 16,
+      "source": "numa.rs"
+    },
+    {
       "title": "Claude for Small Business",
       "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "score": 156,
-      "comments": 94,
+      "score": 341,
+      "comments": 278,
       "source": "anthropic.com"
+    },
+    {
+      "title": "Myths about /dev/urandom (2014)",
+      "url": "https://www.2uo.de/myths-about-urandom/",
+      "score": 14,
+      "comments": 5,
+      "source": "2uo.de"
+    },
+    {
+      "title": "The Tree House: A voyage to the source of a backyard dream",
+      "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
+      "score": 8,
+      "comments": 0,
+      "source": "laphamsquarterly.org"
     },
     {
       "title": "Scorched Earth 2000 \u2013 Web",
       "url": "http://www.scorch2000.com/web/",
-      "score": 208,
-      "comments": 80,
+      "score": 299,
+      "comments": 108,
       "source": "scorch2000.com"
     },
     {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 650,
-      "comments": 431,
+      "score": 802,
+      "comments": 512,
       "source": "xda-developers.com"
     },
     {
-      "title": "Cisco workforce reductions",
-      "url": "https://blogs.cisco.com/news/our-path-forward",
-      "score": 165,
-      "comments": 123,
-      "source": "blogs.cisco.com"
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "url": "https://classic7.lol/",
+      "score": 102,
+      "comments": 87,
+      "source": "classic7.lol"
     },
     {
-      "title": "Arena AI Model ELO History",
-      "url": "https://mayerwin.github.io/AI-Arena-History/",
-      "score": 36,
-      "comments": 13,
-      "source": "mayerwin.github.io"
+      "title": "What happens when you post a real Monet and say it's AI?",
+      "url": "https://twitter.com/jediwolf/status/2054776716770320631",
+      "score": 21,
+      "comments": 1,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Leaving the Physical World",
+      "url": "https://www.eff.org/pages/leaving-physical-world",
+      "score": 46,
+      "comments": 14,
+      "source": "eff.org"
     },
     {
       "title": "Setting up a free *.city.state.us locality domain (2025)",
       "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 547,
-      "comments": 172,
+      "score": 578,
+      "comments": 180,
       "source": "fredchan.org"
-    },
-    {
-      "title": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 345,
-      "comments": 235,
-      "source": "laurent.le-brun.eu"
-    },
-    {
-      "title": "Extraordinary Ordinals",
-      "url": "https://text.marvinborner.de/2026-04-09-17.html",
-      "score": 10,
-      "comments": 2,
-      "source": "text.marvinborner.de"
     },
     {
       "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
       "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "score": 183,
-      "comments": 193,
+      "score": 255,
+      "comments": 297,
       "source": "jdhodges.com"
+    },
+    {
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 399,
+      "comments": 260,
+      "source": "laurent.le-brun.eu"
+    },
+    {
+      "title": "Technical Dimensions of Live Feedback in Programming Systems",
+      "url": "https://joshuahhh.com/dims-of-feedback/",
+      "score": 24,
+      "comments": 4,
+      "source": "joshuahhh.com"
     },
     {
       "title": "The Emacsification of Software",
       "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 268,
-      "comments": 177,
+      "score": 331,
+      "comments": 210,
       "source": "sockpuppet.org"
-    },
-    {
-      "title": "Show HN: Nibble",
-      "url": "https://github.com/glouw/nibble",
-      "score": 37,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
-      "score": 29,
-      "comments": 1,
-      "source": "pubs.rsc.org"
-    },
-    {
-      "title": "Twin brothers wipe 96 government databases minutes after being fired",
-      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "score": 392,
-      "comments": 289,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
-      "score": 140,
-      "comments": 39,
-      "source": "ardoedo.it"
     },
     {
       "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
       "url": "https://github.com/DrCatHicks/learning-opportunities",
-      "score": 17,
-      "comments": 2,
+      "score": 83,
+      "comments": 17,
       "source": "github.com"
     },
     {
-      "title": "Microsoft BitLocker \u2013 YellowKey zero-day exploit",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-      "score": 116,
-      "comments": 63,
-      "source": "tomshardware.com"
+      "title": "Saying Goodbye to one line of APL",
+      "url": "https://homewithinnowhere.com/posts/2026-05-10-one-line.html#fnref1",
+      "score": 10,
+      "comments": 6,
+      "source": "homewithinnowhere.com"
     },
     {
-      "title": "delta time",
-      "url": "https://www.deltatime.life/",
-      "score": 30,
-      "comments": 11,
-      "source": "deltatime.life"
+      "title": "Chess puzzle I found in my dad's old book",
+      "url": "https://ardoedo.it/kempelen/",
+      "score": 177,
+      "comments": 54,
+      "source": "ardoedo.it"
     },
     {
-      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-      "score": 312,
-      "comments": 446,
-      "source": "dailyprincetonian.com"
+      "title": "Show HN: Nibble",
+      "url": "https://github.com/glouw/nibble",
+      "score": 68,
+      "comments": 14,
+      "source": "github.com"
+    },
+    {
+      "title": "Extraordinary Ordinals",
+      "url": "https://text.marvinborner.de/2026-04-09-17.html",
+      "score": 31,
+      "comments": 12,
+      "source": "text.marvinborner.de"
+    },
+    {
+      "title": "New York, California pension leaders oppose 'extreme' SpaceX control structure",
+      "url": "https://www.reuters.com/legal/government/new-york-california-pension-leaders-oppose-extreme-spacex-control-structure-2026-05-14/",
+      "score": 4,
+      "comments": 0,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+      "score": 67,
+      "comments": 15,
+      "source": "pubs.rsc.org"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 691,
+      "comments": 197,
+      "source": "github.com"
+    },
+    {
+      "title": "Cisco workforce reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "score": 230,
+      "comments": 235,
+      "source": "blogs.cisco.com"
     },
     {
       "title": "The US is winning the AI race where it matters most: commercialization",
       "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 192,
-      "comments": 517,
+      "score": 213,
+      "comments": 583,
       "source": "avkcode.github.io"
     },
     {
       "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
       "url": "https://github.com/nooga/xsofy",
-      "score": 176,
-      "comments": 75,
+      "score": 196,
+      "comments": 84,
       "source": "github.com"
-    },
-    {
-      "title": "Golden Testing a CAD Library",
-      "url": "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html",
-      "score": 14,
-      "comments": 1,
-      "source": "doscienceto.it"
-    },
-    {
-      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
-      "url": "https://www.tryardent.com/",
-      "score": 83,
-      "comments": 34,
-      "source": "tryardent.com"
     },
     {
       "title": "Heritability of human life span is ~50% when heritability is redefined",
       "url": "https://dynomight.net/lifespan/",
-      "score": 89,
-      "comments": 52,
+      "score": 109,
+      "comments": 63,
       "source": "dynomight.net"
     },
     {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 667,
-      "comments": 187,
-      "source": "github.com"
-    },
-    {
-      "title": "'A Four-Eyed World' Review: The Story of Spectacles",
-      "url": "https://www.wsj.com/arts-culture/books/a-four-eyed-world-review-the-story-of-spectacles-504334ac",
-      "score": 7,
+      "title": "The Deathbed Notes of Henry James (1968)",
+      "url": "https://www.theatlantic.com/past/docs/unbound/flashbks/james/jnote.htm",
+      "score": 14,
       "comments": 0,
-      "source": "wsj.com"
+      "source": "theatlantic.com"
     },
     {
       "title": "How can Apple deal with the memory shortage?",
       "url": "https://asymco.com/2026/05/11/the-great-memory-panic-of-2026/",
-      "score": 84,
-      "comments": 82,
+      "score": 111,
+      "comments": 124,
       "source": "asymco.com"
     },
     {
       "title": "Reverting the incremental GC in Python 3.14 and 3.15",
       "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 218,
-      "comments": 86,
+      "score": 243,
+      "comments": 100,
       "source": "discuss.python.org"
     },
     {
-      "title": "S-100 Virtual Workbench",
-      "url": "https://grantmestrength.github.io/S100/",
-      "score": 116,
-      "comments": 25,
-      "source": "grantmestrength.github.io"
-    },
-    {
-      "title": "The other half of AI safety",
-      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-      "score": 70,
-      "comments": 87,
-      "source": "personalaisafety.com"
-    },
-    {
-      "title": "Marco Polo: Finding a friend with only distance and motion",
-      "url": "https://www.jackhogan.me/blog/marco-polo",
-      "score": 55,
-      "comments": 7,
-      "source": "jackhogan.me"
+      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+      "url": "https://www.tryardent.com/",
+      "score": 93,
+      "comments": 38,
+      "source": "tryardent.com"
     }
   ],
   "security": [
