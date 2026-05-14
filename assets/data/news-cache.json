@@ -1,130 +1,200 @@
 {
   "tech": [
     {
-      "title": "Setting up a free *.city.state.us locality domain",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 316,
-      "comments": 87,
-      "source": "fredchan.org"
-    },
-    {
-      "title": "Open Source Resistance: keep OSS alive on company time",
-      "url": "https://ossresistance.com/",
-      "score": 160,
-      "comments": 57,
-      "source": "ossresistance.com"
-    },
-    {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 57,
-      "comments": 31,
+      "score": 486,
+      "comments": 317,
       "source": "xda-developers.com"
     },
     {
-      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
-      "url": "https://www.tryardent.com/",
-      "score": 32,
-      "comments": 16,
-      "source": "tryardent.com"
+      "title": "Who Trusts Sam Altman?",
+      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "score": 13,
+      "comments": 4,
+      "source": "techcrunch.com"
     },
     {
-      "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
-      "url": "https://github.com/nooga/xsofy",
-      "score": 78,
-      "comments": 34,
-      "source": "github.com"
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 471,
+      "comments": 153,
+      "source": "fredchan.org"
     },
     {
-      "title": "S-100 Virtual Workbench",
-      "url": "https://grantmestrength.github.io/S100/",
-      "score": 52,
-      "comments": 11,
-      "source": "grantmestrength.github.io"
+      "title": "The Other Half of AI Safety",
+      "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+      "score": 6,
+      "comments": 2,
+      "source": "personalaisafety.com"
     },
     {
       "title": "A History of IDEs at Google",
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 78,
-      "comments": 52,
+      "score": 255,
+      "comments": 189,
       "source": "laurent.le-brun.eu"
+    },
+    {
+      "title": "Chess puzzle I found in my dad's old book",
+      "url": "https://ardoedo.it/kempelen/",
+      "score": 67,
+      "comments": 23,
+      "source": "ardoedo.it"
+    },
+    {
+      "title": "Marco Polo: Finding a friend with only distance and motion",
+      "url": "https://www.jackhogan.me/blog/marco-polo",
+      "score": 25,
+      "comments": 3,
+      "source": "jackhogan.me"
+    },
+    {
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+      "score": 223,
+      "comments": 306,
+      "source": "dailyprincetonian.com"
     },
     {
       "title": "The Emacsification of Software",
       "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "score": 63,
-      "comments": 20,
+      "score": 178,
+      "comments": 114,
       "source": "sockpuppet.org"
     },
     {
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "score": 142,
-      "comments": 44,
-      "source": "discuss.python.org"
-    },
-    {
-      "title": "Leaving GitHub for Forgejo",
-      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
-      "score": 423,
-      "comments": 227,
-      "source": "jorijn.com"
-    },
-    {
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "score": 72,
-      "comments": 196,
-      "source": "avkcode.github.io"
-    },
-    {
-      "title": "An idiot's guide to lead optimisation for proteins",
-      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
-      "score": 106,
-      "comments": 9,
-      "source": "magnusross.github.io"
-    },
-    {
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "score": 247,
-      "comments": 110,
-      "source": "sciencedaily.com"
-    },
-    {
-      "title": "Heritability of human life span is ~50% when heritability is redefined",
-      "url": "https://dynomight.net/lifespan/",
-      "score": 54,
-      "comments": 33,
-      "source": "dynomight.net"
-    },
-    {
-      "title": "I moved my digital stack to Europe",
-      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "score": 718,
-      "comments": 468,
-      "source": "monokai.com"
-    },
-    {
-      "title": "Preserving Fisher-Price Pixter",
-      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "score": 171,
-      "comments": 39,
-      "source": "dmitry.gr"
-    },
-    {
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 625,
-      "comments": 280,
+      "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
+      "url": "https://github.com/nooga/xsofy",
+      "score": 151,
+      "comments": 64,
       "source": "github.com"
+    },
+    {
+      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+      "url": "https://www.tryardent.com/",
+      "score": 63,
+      "comments": 26,
+      "source": "tryardent.com"
     },
     {
       "title": "Twin brothers wipe 96 government databases minutes after being fired",
       "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-      "score": 83,
-      "comments": 33,
+      "score": 284,
+      "comments": 214,
       "source": "arstechnica.com"
+    },
+    {
+      "title": "S-100 Virtual Workbench",
+      "url": "https://grantmestrength.github.io/S100/",
+      "score": 95,
+      "comments": 20,
+      "source": "grantmestrength.github.io"
+    },
+    {
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "score": 156,
+      "comments": 432,
+      "source": "avkcode.github.io"
+    },
+    {
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "score": 193,
+      "comments": 75,
+      "source": "discuss.python.org"
+    },
+    {
+      "title": "A sentimental tour of late 1990s and early 2000s hacking tools",
+      "url": "https://andreafortuna.org/2026/05/13/amarcord/",
+      "score": 41,
+      "comments": 14,
+      "source": "andreafortuna.org"
+    },
+    {
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "score": 292,
+      "comments": 137,
+      "source": "sciencedaily.com"
+    },
+    {
+      "title": "Meta won't let you block its AI account on Threads",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "score": 96,
+      "comments": 32,
+      "source": "theverge.com"
+    },
+    {
+      "title": "An idiot's guide to lead optimisation for proteins",
+      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+      "score": 138,
+      "comments": 14,
+      "source": "magnusross.github.io"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 635,
+      "comments": 182,
+      "source": "github.com"
+    },
+    {
+      "title": "Leaving GitHub for Forgejo",
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "score": 520,
+      "comments": 278,
+      "source": "jorijn.com"
+    },
+    {
+      "title": "Preserving Fisher-Price Pixter",
+      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "score": 203,
+      "comments": 43,
+      "source": "dmitry.gr"
+    },
+    {
+      "title": "Making the news available at no cost is a victory",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "score": 102,
+      "comments": 107,
+      "source": "sltrib.com"
+    },
+    {
+      "title": "Intercom changes name to Fin",
+      "url": "https://www.intercom.com/blog/today-intercom-becomes-fin/",
+      "score": 16,
+      "comments": 20,
+      "source": "intercom.com"
+    },
+    {
+      "title": "After 3 decades of splendid scientific communication, this one's for you, Ned",
+      "url": "https://www.adn.com/alaska-news/science/2026/05/08/after-3-decades-of-splendid-scientific-communication-this-ones-for-you-ned/",
+      "score": 7,
+      "comments": 0,
+      "source": "adn.com"
+    },
+    {
+      "title": "I moved my digital stack to Europe",
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "score": 874,
+      "comments": 532,
+      "source": "monokai.com"
+    },
+    {
+      "title": "Comparing a 1980s memory map to the Raspi Pico",
+      "url": "https://medium.com/@noborutakahashi/a-40-year-old-memory-map-comparable-to-todays-raspberry-pi-pico-932c4309260d",
+      "score": 17,
+      "comments": 0,
+      "source": "medium.com"
+    },
+    {
+      "title": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "score": 42,
+      "comments": 27,
+      "source": "techcrunch.com"
     },
     {
       "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
@@ -132,86 +202,21 @@
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
-    },
-    {
-      "title": "Haiku",
-      "url": "https://www.haiku-os.org",
-      "score": 117,
-      "comments": 54,
-      "source": "haiku-os.org"
-    },
-    {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 595,
-      "comments": 172,
-      "source": "github.com"
-    },
-    {
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "url": "https://arxiv.org/abs/2605.08419",
-      "score": 275,
-      "comments": 65,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Nailing jelly to a wall: is it possible? (2005)",
-      "url": "https://greem.co.uk/otherbits/jelly.html",
-      "score": 53,
-      "comments": 19,
-      "source": "greem.co.uk"
-    },
-    {
-      "title": "Web Server on a Nintendo Wii",
-      "url": "http://wii.sjmulder.nl/",
-      "score": 83,
-      "comments": 31,
-      "source": "wii.sjmulder.nl"
-    },
-    {
-      "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
-      "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
-      "score": 97,
-      "comments": 90,
-      "source": "fortune.com"
-    },
-    {
-      "title": "Kraftwerk's radical 1976 track",
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 221,
-      "comments": 193,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Using OR-Tools CP-SAT for Scheduling Problems",
-      "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
-      "score": 65,
-      "comments": 24,
-      "source": "atalaykutlay.com"
-    },
-    {
-      "title": "Kickstarter is forced to ban adult content by payment processors",
-      "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
-      "score": 243,
-      "comments": 188,
-      "source": "kotaku.com"
-    },
-    {
-      "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
-      "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
-      "score": 55,
-      "comments": 54,
-      "source": "vittorioromeo.com"
-    },
-    {
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 463,
-      "comments": 59,
-      "source": "typesetinthefuture.com"
     }
   ],
   "security": [
+    {
+      "title": "Detecting and preventing crypto mining in your AWS environment",
+      "url": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment/",
+      "date": "2026-05-13 21:47:27",
+      "author": "Jason Palmer"
+    },
+    {
+      "title": "Introducing the updated AWS User Guide to Governance, Risk, and Compliance for Responsible AI Adoption",
+      "url": "https://aws.amazon.com/blogs/security/introducing-the-updated-aws-user-guide-to-governance-risk-and-compliance-for-responsible-ai-adoption/",
+      "date": "2026-05-13 19:07:42",
+      "author": "Krish De"
+    },
     {
       "title": "PCI PIN and P2PE compliance packages for AWS Payment Cryptography are now available",
       "url": "https://aws.amazon.com/blogs/security/pci-pin-and-p2pe-compliance-packages-for-aws-payment-cryptography-are-now-available/",
@@ -259,18 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/introducing-ai-traffic-analysis-dashboards-for-aws-waf/",
       "date": "2026-05-05 18:56:54",
       "author": "Christopher Jen"
-    },
-    {
-      "title": "Five ways to use Kiro and Amazon Q to strengthen your security posture",
-      "url": "https://aws.amazon.com/blogs/security/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture/",
-      "date": "2026-05-05 15:00:07",
-      "author": "Roger Nem"
-    },
-    {
-      "title": "Securing open proxies in your AWS environment",
-      "url": "https://aws.amazon.com/blogs/security/securing-open-proxies-in-your-aws-environment/",
-      "date": "2026-05-04 18:16:39",
-      "author": "Dodd Mitchell"
     }
   ]
 }
