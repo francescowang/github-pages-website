@@ -1,217 +1,216 @@
 {
   "tech": [
     {
+      "title": "Project Gutenberg \u2013 keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "score": 290,
+      "comments": 96,
+      "source": "gutenberg.org"
+    },
+    {
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "score": 72,
+      "comments": 17,
+      "source": "github.com"
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "score": 223,
+      "comments": 90,
+      "source": "projectzero.google"
+    },
+    {
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "score": 28,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "score": 43,
+      "comments": 9,
+      "source": "github.com"
+    },
+    {
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "score": 83,
+      "comments": 36,
+      "source": "macdailynews.com"
+    },
+    {
       "title": "O(x)Caml in Space",
       "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "score": 80,
-      "comments": 2,
+      "score": 197,
+      "comments": 43,
       "source": "gazagnaire.org"
     },
     {
-      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "score": 158,
-      "comments": 15,
-      "source": "github.com"
+      "title": "Show HN: Watch a neural net learn to play Snake",
+      "url": "https://ppo.gradexp.xyz/",
+      "score": 53,
+      "comments": 11,
+      "source": "ppo.gradexp.xyz"
+    },
+    {
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers",
+      "score": 1,
+      "comments": 0,
+      "source": "hightouch.com"
+    },
+    {
+      "title": "ASCII by Jason Scott",
+      "url": "https://ascii.textfiles.com/",
+      "score": 92,
+      "comments": 18,
+      "source": "ascii.textfiles.com"
     },
     {
       "title": "Explore Wikipedia Like a Windows XP Desktop",
       "url": "https://explorer.samismith.com/",
-      "score": 209,
-      "comments": 52,
+      "score": 398,
+      "comments": 104,
       "source": "explorer.samismith.com"
     },
     {
-      "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
-      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
-      "score": 44,
-      "comments": 36,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Welcome to the Strip Mining Era of OSS Security",
-      "url": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
-      "score": 19,
-      "comments": 13,
-      "source": "metabase.com"
-    },
-    {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 929,
-      "comments": 479,
-      "source": "arkadiyt.com"
-    },
-    {
-      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
-      "url": "https://signoz.io/careers",
-      "score": 1,
-      "comments": 0,
-      "source": "signoz.io"
-    },
-    {
-      "title": "UK government replaces Palantir software with internally-built refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "score": 329,
-      "comments": 109,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
-      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-      "score": 50,
-      "comments": 34,
-      "source": "github.com"
+      "title": "I built Zenith: a live local-first fixed viewport planetarium",
+      "url": "https://smorgasb.org/zenith-tech/",
+      "score": 40,
+      "comments": 6,
+      "source": "smorgasb.org"
     },
     {
       "title": "Radicle: Sovereign {code forge} built on Git",
       "url": "https://radicle.dev/",
-      "score": 11,
-      "comments": 0,
+      "score": 165,
+      "comments": 43,
       "source": "radicle.dev"
+    },
+    {
+      "title": "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
+      "url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
+      "score": 62,
+      "comments": 21,
+      "source": "ams.org"
+    },
+    {
+      "title": "Aperio Lang",
+      "url": "https://aperio-lang.github.io/aperio/introduction.html",
+      "score": 20,
+      "comments": 7,
+      "source": "aperio-lang.github.io"
+    },
+    {
+      "title": "Feedr v0.8.0 \u2013 a TUI RSS reader, now read the full article from your terminal",
+      "url": "https://github.com/bahdotsh/feedr",
+      "score": 7,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "A new book on Steve Jobs at NeXT",
+      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+      "score": 125,
+      "comments": 108,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Show HN: Sx \u2013 an open-source package manager for AI skills, MCPs, and commands",
+      "url": "https://github.com/sleuth-io/sx",
+      "score": 11,
+      "comments": 4,
+      "source": "github.com"
+    },
+    {
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+      "score": 218,
+      "comments": 214,
+      "source": "fastcompany.com"
     },
     {
       "title": "A few words on DS4",
       "url": "https://antirez.com/news/165",
-      "score": 351,
-      "comments": 144,
+      "score": 398,
+      "comments": 165,
       "source": "antirez.com"
     },
     {
-      "title": "Building ML framework with Rust and Category Theory",
-      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-      "score": 54,
-      "comments": 14,
-      "source": "hghalebi.github.io"
+      "title": "Show HN: Find local farms near you with raw dairy, pasture eggs, and more",
+      "url": "https://farm-to-door.com/",
+      "score": 11,
+      "comments": 7,
+      "source": "farm-to-door.com"
     },
     {
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "score": 181,
-      "comments": 62,
-      "source": "tristandc.com"
+      "title": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
+      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+      "score": 12,
+      "comments": 1,
+      "source": "cnbc.com"
     },
     {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 626,
-      "comments": 146,
-      "source": "scottjg.com"
-    },
-    {
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 387,
-      "comments": 98,
-      "source": "blog.calif.io"
-    },
-    {
-      "title": "Gyroflow: Video stabilization using gyroscope data",
-      "url": "https://github.com/gyroflow/gyroflow",
-      "score": 109,
-      "comments": 18,
-      "source": "github.com"
-    },
-    {
-      "title": "New Nginx Exploit",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 399,
-      "comments": 88,
-      "source": "github.com"
-    },
-    {
-      "title": "Codex is now in the ChatGPT mobile app",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "score": 369,
-      "comments": 180,
-      "source": "openai.com"
+      "title": "Trade Dollars with other startups. Book it as revenue",
+      "url": "https://www.revswap.ai/",
+      "score": 158,
+      "comments": 115,
+      "source": "revswap.ai"
     },
     {
       "title": "NanoTDB \u2013 Golang Append-Only Time Series DB",
       "url": "https://github.com/aymanhs/nanotdb",
-      "score": 5,
-      "comments": 0,
+      "score": 43,
+      "comments": 6,
       "source": "github.com"
     },
     {
-      "title": "Where's Ed: Anthropic Told Court $5B but Public $19B",
-      "url": "https://www.flyingpenguin.com/wheres-ed-anthropic-told-court-5-billion-but-public-19-billion/",
-      "score": 27,
-      "comments": 28,
-      "source": "flyingpenguin.com"
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "score": 235,
+      "comments": 88,
+      "source": "tristandc.com"
     },
     {
-      "title": "Mullvad exit IPs are surprisingly identifying",
-      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "score": 445,
-      "comments": 257,
-      "source": "tmctmt.com"
+      "title": "Building ML framework with Rust and Category Theory",
+      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
+      "score": 85,
+      "comments": 19,
+      "source": "hghalebi.github.io"
     },
     {
-      "title": "UK sovereign LLM inference",
-      "url": "https://relax.ai/docs",
-      "score": 86,
-      "comments": 90,
-      "source": "relax.ai"
+      "title": "We don't know why Malawi is poor",
+      "url": "https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor",
+      "score": 52,
+      "comments": 62,
+      "source": "newsletter.deenamousa.com"
     },
     {
-      "title": "Solar-based sleep patterns compared to modern norms",
-      "url": "https://dylan.gr/1775146616",
-      "score": 87,
-      "comments": 74,
-      "source": "dylan.gr"
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 422,
+      "comments": 114,
+      "source": "blog.calif.io"
     },
     {
-      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-      "score": 107,
-      "comments": 49,
-      "source": "synacktiv.com"
-    },
-    {
-      "title": "Claude for Legal",
-      "url": "https://github.com/anthropics/claude-for-legal",
-      "score": 114,
-      "comments": 110,
-      "source": "github.com"
-    },
-    {
-      "title": "HDD Firmware Hacking",
-      "url": "https://icode4.coffee/?p=1465",
-      "score": 199,
-      "comments": 26,
-      "source": "icode4.coffee"
-    },
-    {
-      "title": "RISC-V Router",
-      "url": "https://router.start9.com/",
-      "score": 131,
-      "comments": 75,
-      "source": "router.start9.com"
-    },
-    {
-      "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "url": "https://writing.antonleicht.me/p/cut-off",
-      "score": 180,
-      "comments": 170,
-      "source": "writing.antonleicht.me"
-    },
-    {
-      "title": "What's in a GGUF, besides the weights \u2013 and what's still missing?",
-      "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
-      "score": 160,
-      "comments": 49,
-      "source": "nobodywho.ooo"
-    },
-    {
-      "title": "Porting 3D Movie Maker to Linux",
-      "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
-      "score": 139,
-      "comments": 32,
-      "source": "benstoneonline.com"
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "score": 447,
+      "comments": 223,
+      "source": "openai.com"
     }
   ],
   "security": [
+    {
+      "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
+      "url": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
+      "date": "2026-05-15 17:38:16",
+      "author": "Riggs Goodman III"
+    },
     {
       "title": "Regional routing for AWS access portals: Implementing custom vanity domains for IAM Identity Center",
       "url": "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security/",
       "date": "2026-05-07 18:52:59",
       "author": "Rodolfo Brenes"
-    },
-    {
-      "title": "AWS achieves SNI 27017, SNI 27018, and SNI 9001 certifications for the AWS Asia Pacific (Jakarta) Region",
-      "url": "https://aws.amazon.com/blogs/security/aws-achieves-sni-27017-sni-27018-and-sni-9001-certifications-for-the-aws-asia-pacific-jakarta-region/",
-      "date": "2026-05-07 16:03:47",
-      "author": "Ignatius Lee"
     }
   ]
 }
