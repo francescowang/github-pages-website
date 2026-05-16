@@ -1,46 +1,109 @@
 {
   "tech": [
     {
-      "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "score": 70,
-      "comments": 13,
-      "source": "arxiv.org"
+      "title": "You don't know HTML Lists",
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "score": 127,
+      "comments": 17,
+      "source": "blog.frankmtaylor.com"
+    },
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "score": 209,
+      "comments": 89,
+      "source": "nvlabs.github.io"
+    },
+    {
+      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
+      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "score": 71,
+      "comments": 23,
+      "source": "mag.openrockets.com"
+    },
+    {
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://codeberg.org/hails/wsl9x",
+      "score": 48,
+      "comments": 20,
+      "source": "codeberg.org"
     },
     {
       "title": "Accelerando (2005)",
       "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "score": 19,
-      "comments": 4,
+      "score": 158,
+      "comments": 85,
       "source": "antipope.org"
     },
     {
-      "title": "Futhark by Example",
-      "url": "https://futhark-lang.org/examples.html",
-      "score": 44,
-      "comments": 8,
-      "source": "futhark-lang.org"
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "score": 9,
+      "comments": 4,
+      "source": "blocksandfiles.com"
     },
     {
-      "title": "Fecal transplants for autism deliver success in clinical trials",
-      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-      "score": 26,
-      "comments": 5,
-      "source": "refractor.io"
+      "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "score": 153,
+      "comments": 37,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 250,
+      "comments": 166,
+      "source": "jvns.ca"
+    },
+    {
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+      "score": 61,
+      "comments": 33,
+      "source": "george.mand.is"
+    },
+    {
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "score": 115,
+      "comments": 45,
+      "source": "seangoedecke.com"
+    },
+    {
+      "title": "Accelerate",
+      "url": "https://github.com/AccelerateHS/accelerate",
+      "score": 53,
+      "comments": 14,
+      "source": "github.com"
     },
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 989,
-      "comments": 206,
+      "score": 1085,
+      "comments": 234,
       "source": "gutenberg.org"
     },
     {
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "score": 188,
-      "comments": 153,
-      "source": "kabir.au"
+      "title": "Greek Alphabet Cards",
+      "url": "https://labs.randomquark.com/alphabet_cards/",
+      "score": 64,
+      "comments": 25,
+      "source": "labs.randomquark.com"
+    },
+    {
+      "title": "Futhark by Example",
+      "url": "https://futhark-lang.org/examples.html",
+      "score": 87,
+      "comments": 23,
+      "source": "futhark-lang.org"
+    },
+    {
+      "title": "Clusters become personal (like PCs did)",
+      "url": "https://aranya.tech/blog/arrival-of-the-personal-cluster",
+      "score": 13,
+      "comments": 4,
+      "source": "aranya.tech"
     },
     {
       "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
@@ -50,165 +113,102 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
-      "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
-      "score": 28,
-      "comments": 6,
-      "source": "theregister.com"
+      "title": "Show HN: Rocksky \u2013 Music scrobbling and discovery on the AT Protocol",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "score": 3,
+      "comments": 3,
+      "source": "tangled.org"
     },
     {
       "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
       "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
-      "score": 19,
-      "comments": 14,
+      "score": 70,
+      "comments": 39,
       "source": "openculture.com"
+    },
+    {
+      "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
+      "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+      "score": 35,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1475,
-      "comments": 745,
+      "score": 1709,
+      "comments": 923,
       "source": "twitter.com"
-    },
-    {
-      "title": "Ploopy Bean: a trackpoint for every computer",
-      "url": "https://ploopy.co/shop/bean-pointing-stick/",
-      "score": 113,
-      "comments": 52,
-      "source": "ploopy.co"
-    },
-    {
-      "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-      "url": "https://twitter.com/steipete/status/2055346265869721905",
-      "score": 15,
-      "comments": 3,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Gaining control of every projector and camera on campus",
-      "url": "https://www.edna.land/blogs/posts/scanning/",
-      "score": 45,
-      "comments": 11,
-      "source": "edna.land"
-    },
-    {
-      "title": "The bird eye was pushed to an evolutionary extreme",
-      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-      "score": 140,
-      "comments": 53,
-      "source": "quantamagazine.org"
     },
     {
       "title": "Orthrus-Qwen3: up to 7.8\u00d7tokens/forward on Qwen3, identical output distribution",
       "url": "https://github.com/chiennv2000/orthrus",
-      "score": 127,
-      "comments": 18,
+      "score": 190,
+      "comments": 33,
       "source": "github.com"
     },
     {
-      "title": "Additive Blending on the Nintendo 64",
-      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-      "score": 135,
-      "comments": 13,
-      "source": "phoboslab.org"
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "score": 190,
+      "comments": 62,
+      "source": "quantamagazine.org"
     },
     {
-      "title": "The main thing about P2P meth is that there's so much of it (2021)",
-      "url": "https://dynomight.net/p2p-meth/",
-      "score": 142,
-      "comments": 164,
-      "source": "dynomight.net"
+      "title": "Ploopy Bean: a trackpoint for every computer",
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "score": 151,
+      "comments": 70,
+      "source": "ploopy.co"
     },
     {
-      "title": "Where to buy a non-Apple, non-Google smartphone",
-      "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
-      "score": 59,
-      "comments": 36,
-      "source": "theregister.com"
+      "title": "Gaining control of every projector and camera on campus",
+      "url": "https://www.edna.land/blogs/posts/scanning/",
+      "score": 90,
+      "comments": 29,
+      "source": "edna.land"
     },
     {
-      "title": "England Runestones",
-      "url": "https://en.wikipedia.org/wiki/England_runestones",
-      "score": 61,
-      "comments": 22,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Naturally Occurring Quasicrystals",
-      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-      "score": 106,
-      "comments": 9,
-      "source": "johncarlosbaez.wordpress.com"
-    },
-    {
-      "title": "The sigmoids won't save you",
-      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "score": 224,
-      "comments": 215,
-      "source": "astralcodexten.com"
-    },
-    {
-      "title": "A Tiny E Reader",
-      "url": "https://nthp.me/blog/2026/a-tiny-e-reader/",
-      "score": 10,
-      "comments": 2,
-      "source": "nthp.me"
-    },
-    {
-      "title": "How to Write to SSDs [pdf]",
-      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "score": 135,
-      "comments": 16,
-      "source": "vldb.org"
+      "title": "What Were Ancient Greco-Roman Curse Tablets?",
+      "url": "https://www.history.com/articles/what-were-ancient-roman-curse-tablets",
+      "score": 9,
+      "comments": 7,
+      "source": "history.com"
     },
     {
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 392,
-      "comments": 213,
+      "score": 420,
+      "comments": 222,
       "source": "projectzero.google"
     },
     {
-      "title": "EMiX: Emulating Beyond Single-FPGA Limits",
-      "url": "https://arxiv.org/abs/2604.27012",
-      "score": 14,
-      "comments": 1,
-      "source": "arxiv.org"
+      "title": "The sigmoids won't save you",
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "score": 271,
+      "comments": 256,
+      "source": "astralcodexten.com"
     },
     {
-      "title": "SQL patterns I use to catch transaction fraud",
-      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-      "score": 266,
-      "comments": 95,
-      "source": "analytics.fixelsmith.com"
+      "title": "Impeaching Every Federal Judge and Justice Who Endorsed Unitary Executive Theory",
+      "url": "https://cmarmitage.substack.com/p/the-case-for-impeaching-and-removing",
+      "score": 25,
+      "comments": 5,
+      "source": "cmarmitage.substack.com"
     },
     {
-      "title": "Charity \u2013 Categorical programming language (1998)",
-      "url": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
-      "score": 10,
-      "comments": 0,
-      "source": "github.com"
+      "title": "Fecal transplants for autism deliver success in clinical trials",
+      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+      "score": 222,
+      "comments": 161,
+      "source": "refractor.io"
     },
     {
-      "title": "Bill to block publishers from killing online games advances in California",
-      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 504,
-      "comments": 329,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Show HN: Epiq \u2013 Distributed Git based issue tracker TUI",
-      "url": "https://ljtn.github.io/epiq/",
-      "score": 69,
-      "comments": 33,
-      "source": "ljtn.github.io"
-    },
-    {
-      "title": "ESP-EEG is an affordable 8-channel biosensing board",
-      "url": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
-      "score": 58,
-      "comments": 14,
-      "source": "autodidacts.io"
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 269,
+      "comments": 241,
+      "source": "kabir.au"
     }
   ],
   "security": [
