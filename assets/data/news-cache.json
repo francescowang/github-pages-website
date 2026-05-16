@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "score": 70,
+      "comments": 13,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "score": 19,
+      "comments": 4,
+      "source": "antipope.org"
+    },
+    {
+      "title": "Futhark by Example",
+      "url": "https://futhark-lang.org/examples.html",
+      "score": 44,
+      "comments": 8,
+      "source": "futhark-lang.org"
+    },
+    {
+      "title": "Fecal transplants for autism deliver success in clinical trials",
+      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+      "score": 26,
+      "comments": 5,
+      "source": "refractor.io"
+    },
+    {
       "title": "Project Gutenberg \u2013 keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 863,
-      "comments": 186,
+      "score": 989,
+      "comments": 206,
       "source": "gutenberg.org"
     },
     {
-      "title": "Ploopy Bean: a trackpoint for every computer",
-      "url": "https://ploopy.co/shop/bean-pointing-stick/",
-      "score": 70,
-      "comments": 28,
-      "source": "ploopy.co"
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 188,
+      "comments": 153,
+      "source": "kabir.au"
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
+      "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
+      "score": 28,
+      "comments": 6,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+      "score": 19,
+      "comments": 14,
+      "source": "openculture.com"
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1161,
-      "comments": 539,
+      "score": 1475,
+      "comments": 745,
       "source": "twitter.com"
     },
     {
-      "title": "SQL patterns I use to catch transaction fraud",
-      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-      "score": 107,
-      "comments": 24,
-      "source": "analytics.fixelsmith.com"
+      "title": "Ploopy Bean: a trackpoint for every computer",
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "score": 113,
+      "comments": 52,
+      "source": "ploopy.co"
+    },
+    {
+      "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+      "url": "https://twitter.com/steipete/status/2055346265869721905",
+      "score": 15,
+      "comments": 3,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Gaining control of every projector and camera on campus",
+      "url": "https://www.edna.land/blogs/posts/scanning/",
+      "score": 45,
+      "comments": 11,
+      "source": "edna.land"
     },
     {
       "title": "The bird eye was pushed to an evolutionary extreme",
       "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-      "score": 78,
-      "comments": 19,
+      "score": 140,
+      "comments": 53,
       "source": "quantamagazine.org"
+    },
+    {
+      "title": "Orthrus-Qwen3: up to 7.8\u00d7tokens/forward on Qwen3, identical output distribution",
+      "url": "https://github.com/chiennv2000/orthrus",
+      "score": 127,
+      "comments": 18,
+      "source": "github.com"
     },
     {
       "title": "Additive Blending on the Nintendo 64",
       "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
-      "score": 82,
-      "comments": 7,
+      "score": 135,
+      "comments": 13,
       "source": "phoboslab.org"
     },
     {
       "title": "The main thing about P2P meth is that there's so much of it (2021)",
       "url": "https://dynomight.net/p2p-meth/",
-      "score": 104,
-      "comments": 97,
+      "score": 142,
+      "comments": 164,
       "source": "dynomight.net"
     },
     {
-      "title": "Research on mildew contamination affecting the sound quality of analog tapes",
-      "url": "https://www.nature.com/articles/s40494-026-02592-7",
-      "score": 11,
-      "comments": 0,
-      "source": "nature.com"
-    },
-    {
-      "title": "Naturally Occurring Quasicrystals",
-      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-      "score": 87,
-      "comments": 8,
-      "source": "johncarlosbaez.wordpress.com"
+      "title": "Where to buy a non-Apple, non-Google smartphone",
+      "url": "https://www.theregister.com/on-prem/2026/05/01/where-to-buy-a-non-apple-non-google-smartphone/5219681",
+      "score": 59,
+      "comments": 36,
+      "source": "theregister.com"
     },
     {
       "title": "England Runestones",
       "url": "https://en.wikipedia.org/wiki/England_runestones",
-      "score": 26,
-      "comments": 5,
+      "score": 61,
+      "comments": 22,
       "source": "en.wikipedia.org"
     },
     {
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 359,
-      "comments": 167,
-      "source": "projectzero.google"
-    },
-    {
-      "title": "How to Write to SSDs [pdf]",
-      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "score": 85,
-      "comments": 8,
-      "source": "vldb.org"
+      "title": "Naturally Occurring Quasicrystals",
+      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+      "score": 106,
+      "comments": 9,
+      "source": "johncarlosbaez.wordpress.com"
     },
     {
       "title": "The sigmoids won't save you",
       "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "score": 186,
-      "comments": 180,
+      "score": 224,
+      "comments": 215,
       "source": "astralcodexten.com"
     },
     {
-      "title": "ESP-EEG is an affordable 8-channel biosensing board",
-      "url": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
-      "score": 41,
-      "comments": 13,
-      "source": "autodidacts.io"
+      "title": "A Tiny E Reader",
+      "url": "https://nthp.me/blog/2026/a-tiny-e-reader/",
+      "score": 10,
+      "comments": 2,
+      "source": "nthp.me"
     },
     {
-      "title": "California bill would require patches or refunds when online games shut down",
-      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 429,
-      "comments": 277,
-      "source": "arstechnica.com"
+      "title": "How to Write to SSDs [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "score": 135,
+      "comments": 16,
+      "source": "vldb.org"
     },
     {
-      "title": "I Bought a \u201cJunk\u201d PSP From Japan",
-      "url": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
-      "score": 36,
-      "comments": 11,
-      "source": "gardinerbryant.com"
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "score": 392,
+      "comments": 213,
+      "source": "projectzero.google"
     },
     {
-      "title": "Orthrus-Qwen3: up to 7.8\u00d7tokens/forward on Qwen3, identical output distribution",
-      "url": "https://github.com/chiennv2000/orthrus",
-      "score": 49,
-      "comments": 3,
+      "title": "EMiX: Emulating Beyond Single-FPGA Limits",
+      "url": "https://arxiv.org/abs/2604.27012",
+      "score": 14,
+      "comments": 1,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "SQL patterns I use to catch transaction fraud",
+      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+      "score": 266,
+      "comments": 95,
+      "source": "analytics.fixelsmith.com"
+    },
+    {
+      "title": "Charity \u2013 Categorical programming language (1998)",
+      "url": "https://github.com/mietek/charity-lang/blob/master/doc/README.md",
+      "score": 10,
+      "comments": 0,
       "source": "github.com"
+    },
+    {
+      "title": "Bill to block publishers from killing online games advances in California",
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "score": 504,
+      "comments": 329,
+      "source": "arstechnica.com"
     },
     {
       "title": "Show HN: Epiq \u2013 Distributed Git based issue tracker TUI",
       "url": "https://ljtn.github.io/epiq/",
-      "score": 44,
-      "comments": 13,
+      "score": 69,
+      "comments": 33,
       "source": "ljtn.github.io"
     },
     {
-      "title": "NYT and vaping: How to lie by saying only true things (2022)",
-      "url": "https://gwern.net/vaping",
-      "score": 77,
-      "comments": 32,
-      "source": "gwern.net"
-    },
-    {
-      "title": "Erlang/OTP 29.0",
-      "url": "https://www.erlang.org/news/188",
-      "score": 170,
-      "comments": 26,
-      "source": "erlang.org"
-    },
-    {
-      "title": "Gaining control of every projector and camera on campus",
-      "url": "https://www.edna.land/blogs/posts/scanning/",
-      "score": 6,
-      "comments": 1,
-      "source": "edna.land"
-    },
-    {
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "url": "https://github.com/gdevic/FPGA-Calculator",
-      "score": 99,
-      "comments": 33,
-      "source": "github.com"
-    },
-    {
-      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "url": "https://github.com/neilsonnn/image-blaster",
-      "score": 149,
-      "comments": 28,
-      "source": "github.com"
-    },
-    {
-      "title": "The Zulip Foundation",
-      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 253,
-      "comments": 65,
-      "source": "blog.zulip.com"
-    },
-    {
-      "title": "Show HN: Watch a neural net learn to play Snake",
-      "url": "https://ppo.gradexp.xyz/",
-      "score": 143,
-      "comments": 34,
-      "source": "ppo.gradexp.xyz"
-    },
-    {
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "score": 405,
-      "comments": 277,
-      "source": "macdailynews.com"
-    },
-    {
-      "title": "ASCII by Jason Scott",
-      "url": "https://ascii.textfiles.com/",
-      "score": 179,
-      "comments": 22,
-      "source": "ascii.textfiles.com"
-    },
-    {
-      "title": "'No way to prevent this,' says only package manager where this regularly happens",
-      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
-      "score": 301,
-      "comments": 141,
-      "source": "kevinpatel.xyz"
-    },
-    {
-      "title": "Radicle: Sovereign {code forge} built on Git",
-      "url": "https://radicle.dev/",
-      "score": 232,
-      "comments": 79,
-      "source": "radicle.dev"
-    },
-    {
-      "title": "ABC News has taken all FiveThirtyEight articles offline",
-      "url": "https://twitter.com/baseballot/status/2055309076209492208",
-      "score": 314,
-      "comments": 147,
-      "source": "twitter.com"
+      "title": "ESP-EEG is an affordable 8-channel biosensing board",
+      "url": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
+      "score": 58,
+      "comments": 14,
+      "source": "autodidacts.io"
     }
   ],
   "security": [
