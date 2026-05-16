@@ -3,212 +3,212 @@
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 684,
-      "comments": 172,
+      "score": 863,
+      "comments": 186,
       "source": "gutenberg.org"
+    },
+    {
+      "title": "Ploopy Bean: a trackpoint for every computer",
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "score": 70,
+      "comments": 28,
+      "source": "ploopy.co"
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 690,
-      "comments": 307,
+      "score": 1161,
+      "comments": 539,
       "source": "twitter.com"
     },
     {
-      "title": "Erlang/OTP 29.0",
-      "url": "https://www.erlang.org/news/188",
-      "score": 26,
-      "comments": 0,
-      "source": "erlang.org"
+      "title": "SQL patterns I use to catch transaction fraud",
+      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+      "score": 107,
+      "comments": 24,
+      "source": "analytics.fixelsmith.com"
     },
     {
-      "title": "The Zulip Foundation",
-      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 199,
-      "comments": 50,
-      "source": "blog.zulip.com"
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "score": 78,
+      "comments": 19,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Additive Blending on the Nintendo 64",
+      "url": "https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "score": 82,
+      "comments": 7,
+      "source": "phoboslab.org"
+    },
+    {
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "score": 104,
+      "comments": 97,
+      "source": "dynomight.net"
+    },
+    {
+      "title": "Research on mildew contamination affecting the sound quality of analog tapes",
+      "url": "https://www.nature.com/articles/s40494-026-02592-7",
+      "score": 11,
+      "comments": 0,
+      "source": "nature.com"
     },
     {
       "title": "Naturally Occurring Quasicrystals",
       "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-      "score": 43,
-      "comments": 4,
+      "score": 87,
+      "comments": 8,
       "source": "johncarlosbaez.wordpress.com"
     },
     {
-      "title": "How to Write to SSDs [pdf]",
-      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-      "score": 33,
-      "comments": 3,
-      "source": "vldb.org"
-    },
-    {
-      "title": "The main thing about P2P meth is that there's so much of it (2022)",
-      "url": "https://dynomight.net/p2p-meth/",
-      "score": 14,
-      "comments": 3,
-      "source": "dynomight.net"
+      "title": "England Runestones",
+      "url": "https://en.wikipedia.org/wiki/England_runestones",
+      "score": 26,
+      "comments": 5,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 330,
-      "comments": 151,
+      "score": 359,
+      "comments": 167,
       "source": "projectzero.google"
     },
     {
-      "title": "California bill would require patches or refunds when online games shut down",
-      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
-      "score": 286,
-      "comments": 169,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Spectre Programming Language",
-      "url": "https://spectre-docs.pages.dev",
-      "score": 8,
-      "comments": 0,
-      "source": "spectre-docs.pages.dev"
+      "title": "How to Write to SSDs [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "score": 85,
+      "comments": 8,
+      "source": "vldb.org"
     },
     {
       "title": "The sigmoids won't save you",
       "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "score": 138,
-      "comments": 158,
+      "score": 186,
+      "comments": 180,
       "source": "astralcodexten.com"
-    },
-    {
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "url": "https://github.com/gdevic/FPGA-Calculator",
-      "score": 81,
-      "comments": 25,
-      "source": "github.com"
-    },
-    {
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
-      "score": 341,
-      "comments": 231,
-      "source": "macdailynews.com"
-    },
-    {
-      "title": "Microscale Thermite Reaction",
-      "url": "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction",
-      "score": 49,
-      "comments": 19,
-      "source": "sciencedemonstrations.fas.harvard.edu"
     },
     {
       "title": "ESP-EEG is an affordable 8-channel biosensing board",
       "url": "https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/",
-      "score": 6,
-      "comments": 0,
+      "score": 41,
+      "comments": 13,
       "source": "autodidacts.io"
     },
     {
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "url": "https://explorer.samismith.com/",
-      "score": 482,
-      "comments": 111,
-      "source": "explorer.samismith.com"
+      "title": "California bill would require patches or refunds when online games shut down",
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "score": 429,
+      "comments": 277,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "I Bought a \u201cJunk\u201d PSP From Japan",
+      "url": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
+      "score": 36,
+      "comments": 11,
+      "source": "gardinerbryant.com"
+    },
+    {
+      "title": "Orthrus-Qwen3: up to 7.8\u00d7tokens/forward on Qwen3, identical output distribution",
+      "url": "https://github.com/chiennv2000/orthrus",
+      "score": 49,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Epiq \u2013 Distributed Git based issue tracker TUI",
+      "url": "https://ljtn.github.io/epiq/",
+      "score": 44,
+      "comments": 13,
+      "source": "ljtn.github.io"
+    },
+    {
+      "title": "NYT and vaping: How to lie by saying only true things (2022)",
+      "url": "https://gwern.net/vaping",
+      "score": 77,
+      "comments": 32,
+      "source": "gwern.net"
+    },
+    {
+      "title": "Erlang/OTP 29.0",
+      "url": "https://www.erlang.org/news/188",
+      "score": 170,
+      "comments": 26,
+      "source": "erlang.org"
+    },
+    {
+      "title": "Gaining control of every projector and camera on campus",
+      "url": "https://www.edna.land/blogs/posts/scanning/",
+      "score": 6,
+      "comments": 1,
+      "source": "edna.land"
+    },
+    {
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "score": 99,
+      "comments": 33,
+      "source": "github.com"
     },
     {
       "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
       "url": "https://github.com/neilsonnn/image-blaster",
-      "score": 125,
-      "comments": 25,
+      "score": 149,
+      "comments": 28,
       "source": "github.com"
     },
     {
-      "title": "ABC News has taken all FiveThirtyEight articles offline",
-      "url": "https://twitter.com/baseballot/status/2055309076209492208",
-      "score": 221,
-      "comments": 103,
-      "source": "twitter.com"
-    },
-    {
-      "title": "O(x)Caml in Space",
-      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "score": 226,
-      "comments": 51,
-      "source": "gazagnaire.org"
+      "title": "The Zulip Foundation",
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "score": 253,
+      "comments": 65,
+      "source": "blog.zulip.com"
     },
     {
       "title": "Show HN: Watch a neural net learn to play Snake",
       "url": "https://ppo.gradexp.xyz/",
-      "score": 114,
-      "comments": 29,
+      "score": 143,
+      "comments": 34,
       "source": "ppo.gradexp.xyz"
     },
     {
-      "title": "Hightouch (YC S19) Is Hiring",
-      "url": "https://hightouch.com/careers",
-      "score": 1,
-      "comments": 0,
-      "source": "hightouch.com"
-    },
-    {
-      "title": "Waymo updates 3,800 robotaxis after they 'drive into standing water'",
-      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
-      "score": 148,
-      "comments": 139,
-      "source": "cnbc.com"
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "score": 405,
+      "comments": 277,
+      "source": "macdailynews.com"
     },
     {
       "title": "ASCII by Jason Scott",
       "url": "https://ascii.textfiles.com/",
-      "score": 146,
-      "comments": 21,
+      "score": 179,
+      "comments": 22,
       "source": "ascii.textfiles.com"
     },
     {
-      "title": "A SQL-Inspired Query Language Designed for Event Sourcing (2025)",
-      "url": "https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html",
-      "score": 12,
-      "comments": 2,
-      "source": "yoeight.github.io"
+      "title": "'No way to prevent this,' says only package manager where this regularly happens",
+      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "score": 301,
+      "comments": 141,
+      "source": "kevinpatel.xyz"
     },
     {
-      "title": "The nuclear-physics infrastructure behind PET scans",
-      "url": "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health",
-      "score": 37,
-      "comments": 2,
-      "source": "lanl.gov"
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "url": "https://radicle.dev/",
+      "score": 232,
+      "comments": 79,
+      "source": "radicle.dev"
     },
     {
-      "title": "London Police Deploy Facial Recognition at Protest for First Time",
-      "url": "https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time",
-      "score": 99,
-      "comments": 66,
-      "source": "reclaimthenet.org"
-    },
-    {
-      "title": "Feedr v0.8.0 \u2013 a TUI RSS reader, now read the full article from your terminal",
-      "url": "https://github.com/bahdotsh/feedr",
-      "score": 42,
-      "comments": 15,
-      "source": "github.com"
-    },
-    {
-      "title": "Building a UMatrix Replacement",
-      "url": "https://lock.cmpxchg8b.com/umatrix.html",
-      "score": 40,
-      "comments": 12,
-      "source": "lock.cmpxchg8b.com"
-    },
-    {
-      "title": "Steve Jobs in Exile \u2013 New book on Steve Jobs\u2019s years at NeXT Computer",
-      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
-      "score": 177,
-      "comments": 146,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "The day the Pintupi Nine entered the modern world (2014)",
-      "url": "https://www.bbc.com/news/magazine-30500591",
-      "score": 19,
-      "comments": 2,
-      "source": "bbc.com"
+      "title": "ABC News has taken all FiveThirtyEight articles offline",
+      "url": "https://twitter.com/baseballot/status/2055309076209492208",
+      "score": 314,
+      "comments": 147,
+      "source": "twitter.com"
     }
   ],
   "security": [
