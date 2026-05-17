@@ -1,109 +1,207 @@
 {
   "tech": [
     {
-      "title": "You don't know HTML Lists",
-      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-      "score": 127,
-      "comments": 17,
-      "source": "blog.frankmtaylor.com"
+      "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "score": 113,
+      "comments": 38,
+      "source": "crates.io"
+    },
+    {
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "score": 42,
+      "comments": 15,
+      "source": "hybridlogic.co.uk"
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "score": 32,
+      "comments": 5,
+      "source": "lcamtuf.substack.com"
+    },
+    {
+      "title": "A molecule with half-M\u00f6bius topology",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "score": 57,
+      "comments": 0,
+      "source": "science.org"
     },
     {
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
-      "score": 209,
-      "comments": 89,
+      "score": 287,
+      "comments": 121,
       "source": "nvlabs.github.io"
-    },
-    {
-      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
-      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
-      "score": 71,
-      "comments": 23,
-      "source": "mag.openrockets.com"
-    },
-    {
-      "title": "Windows 9x Subsystem for Linux",
-      "url": "https://codeberg.org/hails/wsl9x",
-      "score": 48,
-      "comments": 20,
-      "source": "codeberg.org"
-    },
-    {
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "score": 158,
-      "comments": 85,
-      "source": "antipope.org"
-    },
-    {
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "score": 9,
-      "comments": 4,
-      "source": "blocksandfiles.com"
-    },
-    {
-      "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "score": 153,
-      "comments": 37,
-      "source": "arxiv.org"
     },
     {
       "title": "Moving away from Tailwind, and learning to structure my CSS",
       "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 250,
-      "comments": 166,
+      "score": 416,
+      "comments": 267,
       "source": "jvns.ca"
     },
     {
-      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
-      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
-      "score": 61,
-      "comments": 33,
-      "source": "george.mand.is"
+      "title": "The Third Hard Problem",
+      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+      "score": 18,
+      "comments": 6,
+      "source": "mmapped.blog"
     },
     {
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "score": 115,
-      "comments": 45,
-      "source": "seangoedecke.com"
+      "title": "Content-defined chunking added to Bazel",
+      "url": "https://www.buildbuddy.io/blog/content-defined-chunking/",
+      "score": 17,
+      "comments": 2,
+      "source": "buildbuddy.io"
     },
     {
-      "title": "Accelerate",
-      "url": "https://github.com/AccelerateHS/accelerate",
-      "score": 53,
-      "comments": 14,
-      "source": "github.com"
+      "title": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "score": 71,
+      "comments": 46,
+      "source": "unstack.io"
+    },
+    {
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "score": 235,
+      "comments": 137,
+      "source": "antipope.org"
+    },
+    {
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 334,
+      "comments": 315,
+      "source": "kabir.au"
+    },
+    {
+      "title": "\u03b4-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "score": 190,
+      "comments": 51,
+      "source": "arxiv.org"
     },
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 1085,
-      "comments": 234,
+      "score": 1157,
+      "comments": 272,
       "source": "gutenberg.org"
+    },
+    {
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "score": 173,
+      "comments": 172,
+      "source": "user8.bearblog.dev"
+    },
+    {
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "score": 107,
+      "comments": 72,
+      "source": "blocksandfiles.com"
+    },
+    {
+      "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
+      "url": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
+      "score": 39,
+      "comments": 7,
+      "source": "lareviewofbooks.org"
+    },
+    {
+      "title": "PART Telescopes \u2013 Bringing radio astronomy within reach of rural schools",
+      "url": "https://parttelescopes.web.app/",
+      "score": 102,
+      "comments": 28,
+      "source": "parttelescopes.web.app"
+    },
+    {
+      "title": "Show HN: Rocksky \u2013 Music scrobbling and discovery on the AT Protocol",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "score": 53,
+      "comments": 19,
+      "source": "tangled.org"
+    },
+    {
+      "title": "Stochastic Parrots: Frequently Unasked Questions",
+      "url": "https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11",
+      "score": 8,
+      "comments": 1,
+      "source": "medium.com"
+    },
+    {
+      "title": "3D Gaussian Splatting in a Weekend",
+      "url": "https://bfeldman.me/3dgs-weekend/",
+      "score": 41,
+      "comments": 6,
+      "source": "bfeldman.me"
+    },
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "score": 45,
+      "comments": 61,
+      "source": "openai.com"
     },
     {
       "title": "Greek Alphabet Cards",
       "url": "https://labs.randomquark.com/alphabet_cards/",
-      "score": 64,
-      "comments": 25,
+      "score": 94,
+      "comments": 46,
       "source": "labs.randomquark.com"
     },
     {
-      "title": "Futhark by Example",
+      "title": "Futhark by example (2020)",
       "url": "https://futhark-lang.org/examples.html",
-      "score": 87,
-      "comments": 23,
+      "score": 108,
+      "comments": 26,
       "source": "futhark-lang.org"
     },
     {
-      "title": "Clusters become personal (like PCs did)",
-      "url": "https://aranya.tech/blog/arrival-of-the-personal-cluster",
-      "score": 13,
-      "comments": 4,
-      "source": "aranya.tech"
+      "title": "Japan\u2019s robot wolf sells out as record bear attacks drive demand",
+      "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
+      "score": 82,
+      "comments": 44,
+      "source": "independent.co.uk"
+    },
+    {
+      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
+      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
+      "score": 99,
+      "comments": 63,
+      "source": "openculture.com"
+    },
+    {
+      "title": "Accelerate \u2013 Embedded language for high-performance array computations",
+      "url": "https://github.com/AccelerateHS/accelerate",
+      "score": 74,
+      "comments": 17,
+      "source": "github.com"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "score": 1867,
+      "comments": 1052,
+      "source": "twitter.com"
+    },
+    {
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "score": 202,
+      "comments": 67,
+      "source": "seangoedecke.com"
+    },
+    {
+      "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
+      "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+      "score": 72,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
@@ -111,104 +209,6 @@
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
-    },
-    {
-      "title": "Show HN: Rocksky \u2013 Music scrobbling and discovery on the AT Protocol",
-      "url": "https://tangled.org/rocksky.app/rocksky",
-      "score": 3,
-      "comments": 3,
-      "source": "tangled.org"
-    },
-    {
-      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
-      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
-      "score": 70,
-      "comments": 39,
-      "source": "openculture.com"
-    },
-    {
-      "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
-      "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
-      "score": 35,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1709,
-      "comments": 923,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Orthrus-Qwen3: up to 7.8\u00d7tokens/forward on Qwen3, identical output distribution",
-      "url": "https://github.com/chiennv2000/orthrus",
-      "score": 190,
-      "comments": 33,
-      "source": "github.com"
-    },
-    {
-      "title": "The bird eye was pushed to an evolutionary extreme",
-      "url": "https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
-      "score": 190,
-      "comments": 62,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Ploopy Bean: a trackpoint for every computer",
-      "url": "https://ploopy.co/shop/bean-pointing-stick/",
-      "score": 151,
-      "comments": 70,
-      "source": "ploopy.co"
-    },
-    {
-      "title": "Gaining control of every projector and camera on campus",
-      "url": "https://www.edna.land/blogs/posts/scanning/",
-      "score": 90,
-      "comments": 29,
-      "source": "edna.land"
-    },
-    {
-      "title": "What Were Ancient Greco-Roman Curse Tablets?",
-      "url": "https://www.history.com/articles/what-were-ancient-roman-curse-tablets",
-      "score": 9,
-      "comments": 7,
-      "source": "history.com"
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 420,
-      "comments": 222,
-      "source": "projectzero.google"
-    },
-    {
-      "title": "The sigmoids won't save you",
-      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "score": 271,
-      "comments": 256,
-      "source": "astralcodexten.com"
-    },
-    {
-      "title": "Impeaching Every Federal Judge and Justice Who Endorsed Unitary Executive Theory",
-      "url": "https://cmarmitage.substack.com/p/the-case-for-impeaching-and-removing",
-      "score": 25,
-      "comments": 5,
-      "source": "cmarmitage.substack.com"
-    },
-    {
-      "title": "Fecal transplants for autism deliver success in clinical trials",
-      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-      "score": 222,
-      "comments": 161,
-      "source": "refractor.io"
-    },
-    {
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "score": 269,
-      "comments": 241,
-      "source": "kabir.au"
     }
   ],
   "security": [
