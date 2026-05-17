@@ -3,212 +3,212 @@
     {
       "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 113,
-      "comments": 38,
+      "score": 313,
+      "comments": 125,
       "source": "crates.io"
     },
     {
-      "title": "MCP Hello Page",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "score": 42,
-      "comments": 15,
-      "source": "hybridlogic.co.uk"
+      "title": "Colossus: The Forbin Project",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "score": 73,
+      "comments": 8,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "score": 99,
+      "comments": 5,
+      "source": "maurycyz.com"
     },
     {
       "title": "A nicer voltmeter clock",
       "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 32,
-      "comments": 5,
+      "score": 138,
+      "comments": 21,
       "source": "lcamtuf.substack.com"
     },
     {
-      "title": "A molecule with half-M\u00f6bius topology",
-      "url": "https://www.science.org/doi/10.1126/science.aea3321",
-      "score": 57,
-      "comments": 0,
-      "source": "science.org"
+      "title": "Show HN: Codiff, a local diff review tool",
+      "url": "https://github.com/nkzw-tech/codiff/releases",
+      "score": 13,
+      "comments": 4,
+      "source": "github.com"
     },
     {
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "url": "https://nvlabs.github.io/Sana/WM/",
-      "score": 287,
-      "comments": 121,
-      "source": "nvlabs.github.io"
-    },
-    {
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 416,
-      "comments": 267,
-      "source": "jvns.ca"
-    },
-    {
-      "title": "The Third Hard Problem",
-      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
-      "score": 18,
-      "comments": 6,
-      "source": "mmapped.blog"
-    },
-    {
-      "title": "Content-defined chunking added to Bazel",
-      "url": "https://www.buildbuddy.io/blog/content-defined-chunking/",
-      "score": 17,
-      "comments": 2,
-      "source": "buildbuddy.io"
-    },
-    {
-      "title": "Halt and Catch Fire",
-      "url": "https://unstack.io/halt-and-catch-fire",
-      "score": 71,
+      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+      "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+      "score": 89,
       "comments": 46,
-      "source": "unstack.io"
-    },
-    {
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "score": 235,
-      "comments": 137,
-      "source": "antipope.org"
-    },
-    {
-      "title": "Frontier AI has broken the open CTF format",
-      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-      "score": 334,
-      "comments": 315,
-      "source": "kabir.au"
-    },
-    {
-      "title": "\u03b4-mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "score": 190,
-      "comments": 51,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Project Gutenberg \u2013 keeps getting better",
-      "url": "https://www.gutenberg.org/",
-      "score": 1157,
-      "comments": 272,
-      "source": "gutenberg.org"
-    },
-    {
-      "title": "We've made the world too complicated",
-      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-      "score": 173,
-      "comments": 172,
-      "source": "user8.bearblog.dev"
-    },
-    {
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "score": 107,
-      "comments": 72,
-      "source": "blocksandfiles.com"
-    },
-    {
-      "title": "Fame! A Misunderstanding: A new translation of Albert Camus's complete notebooks",
-      "url": "https://lareviewofbooks.org/article/albert-camus-complete-notebooks-ryan-bloom-existentialism-absurd/",
-      "score": 39,
-      "comments": 7,
-      "source": "lareviewofbooks.org"
-    },
-    {
-      "title": "PART Telescopes \u2013 Bringing radio astronomy within reach of rural schools",
-      "url": "https://parttelescopes.web.app/",
-      "score": 102,
-      "comments": 28,
-      "source": "parttelescopes.web.app"
-    },
-    {
-      "title": "Show HN: Rocksky \u2013 Music scrobbling and discovery on the AT Protocol",
-      "url": "https://tangled.org/rocksky.app/rocksky",
-      "score": 53,
-      "comments": 19,
-      "source": "tangled.org"
-    },
-    {
-      "title": "Stochastic Parrots: Frequently Unasked Questions",
-      "url": "https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11",
-      "score": 8,
-      "comments": 1,
-      "source": "medium.com"
-    },
-    {
-      "title": "3D Gaussian Splatting in a Weekend",
-      "url": "https://bfeldman.me/3dgs-weekend/",
-      "score": 41,
-      "comments": 6,
-      "source": "bfeldman.me"
+      "source": "lucisqr.substack.com"
     },
     {
       "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "score": 45,
-      "comments": 61,
+      "score": 145,
+      "comments": 149,
       "source": "openai.com"
     },
     {
-      "title": "Greek Alphabet Cards",
-      "url": "https://labs.randomquark.com/alphabet_cards/",
-      "score": 94,
-      "comments": 46,
-      "source": "labs.randomquark.com"
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "score": 43,
+      "comments": 13,
+      "source": "arxiv.org"
     },
     {
-      "title": "Futhark by example (2020)",
-      "url": "https://futhark-lang.org/examples.html",
-      "score": 108,
-      "comments": 26,
-      "source": "futhark-lang.org"
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 497,
+      "comments": 306,
+      "source": "jvns.ca"
     },
     {
-      "title": "Japan\u2019s robot wolf sells out as record bear attacks drive demand",
-      "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
-      "score": 82,
-      "comments": 44,
-      "source": "independent.co.uk"
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "score": 324,
+      "comments": 133,
+      "source": "nvlabs.github.io"
     },
     {
-      "title": "Nearly 50 Years Later, WKRP in Cincinnati Becomes a Real Radio Station",
-      "url": "https://www.openculture.com/2026/05/nearly-50-years-later-wkrp-in-cincinnati-becomes-a-real-radio-station.html",
-      "score": 99,
-      "comments": 63,
-      "source": "openculture.com"
+      "title": "Citro\u00ebn metropolis concept car (2010)",
+      "url": "https://www.citroenet.org.uk/prototypes/metropolis/metropolis1.html",
+      "score": 6,
+      "comments": 1,
+      "source": "citroenet.org.uk"
     },
     {
-      "title": "Accelerate \u2013 Embedded language for high-performance array computations",
-      "url": "https://github.com/AccelerateHS/accelerate",
-      "score": 74,
-      "comments": 17,
-      "source": "github.com"
+      "title": "Illusions of Understanding in the Sciences",
+      "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
+      "score": 25,
+      "comments": 7,
+      "source": "link.springer.com"
     },
     {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 1867,
-      "comments": 1052,
+      "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
+      "url": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
+      "score": 14,
+      "comments": 5,
+      "source": "phys.org"
+    },
+    {
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "score": 50,
+      "comments": 31,
+      "source": "electrek.co"
+    },
+    {
+      "title": "The Third Hard Problem",
+      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+      "score": 58,
+      "comments": 37,
+      "source": "mmapped.blog"
+    },
+    {
+      "title": "A molecule with half-M\u00f6bius topology",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "score": 84,
+      "comments": 5,
+      "source": "science.org"
+    },
+    {
+      "title": "Unknowable Math Can Help Hide Secrets",
+      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+      "score": 44,
+      "comments": 8,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "score": 77,
+      "comments": 27,
+      "source": "hybridlogic.co.uk"
+    },
+    {
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "score": 273,
+      "comments": 154,
+      "source": "antipope.org"
+    },
+    {
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "score": 257,
+      "comments": 235,
+      "source": "user8.bearblog.dev"
+    },
+    {
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 362,
+      "comments": 365,
+      "source": "kabir.au"
+    },
+    {
+      "title": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "score": 116,
+      "comments": 62,
+      "source": "unstack.io"
+    },
+    {
+      "title": "\u03b4-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "score": 205,
+      "comments": 55,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Content-defined chunking added to Bazel",
+      "url": "https://www.buildbuddy.io/blog/content-defined-chunking/",
+      "score": 42,
+      "comments": 3,
+      "source": "buildbuddy.io"
+    },
+    {
+      "title": "Grafana Labs internal source code accessed",
+      "url": "https://twitter.com/grafana/status/2055827123236171827",
+      "score": 34,
+      "comments": 9,
       "source": "twitter.com"
     },
     {
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "score": 202,
-      "comments": 67,
-      "source": "seangoedecke.com"
+      "title": "PART Telescopes \u2013 Bringing radio astronomy within reach of rural schools",
+      "url": "https://parttelescopes.web.app/",
+      "score": 121,
+      "comments": 30,
+      "source": "parttelescopes.web.app"
     },
     {
-      "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
-      "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
-      "score": 72,
-      "comments": 1,
-      "source": "github.com"
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "score": 111,
+      "comments": 44,
+      "source": "electrek.co"
     },
     {
-      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
+      "title": "Show HN: Rocksky \u2013 Music scrobbling and discovery on the AT Protocol",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "score": 67,
+      "comments": 31,
+      "source": "tangled.org"
+    },
+    {
+      "title": "3D Gaussian Splatting in a Weekend",
+      "url": "https://bfeldman.me/3dgs-weekend/",
+      "score": 74,
+      "comments": 8,
+      "source": "bfeldman.me"
+    },
+    {
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "score": 125,
+      "comments": 85,
+      "source": "blocksandfiles.com"
     }
   ],
   "security": [
