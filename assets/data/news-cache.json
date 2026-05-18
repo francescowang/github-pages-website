@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "I automated opt-outs for 500 data broker sites (open source)",
-      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "title": "Anthropic Acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "score": 138,
-      "comments": 46,
-      "source": "github.com"
+      "comments": 82,
+      "source": "anthropic.com"
     },
     {
-      "title": "WHO declares major outbreak of Ebola virus species an international emergency",
-      "url": "https://www.science.org/content/article/major-outbreak-rare-ebola-virus-species-northern-congo-alarms-scientists",
-      "score": 28,
-      "comments": 3,
-      "source": "science.org"
+      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "score": 259,
+      "comments": 119,
+      "source": "archestra.ai"
     },
     {
-      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
-      "score": 61,
-      "comments": 29,
-      "source": "csl.sri.com"
-    },
-    {
-      "title": "Dogme 25 \u2013 Vow of Chastity",
-      "url": "https://dogma25.dk/",
-      "score": 33,
-      "comments": 39,
-      "source": "dogma25.dk"
-    },
-    {
-      "title": "GenCAD",
-      "url": "https://gencad.github.io/",
-      "score": 371,
-      "comments": 93,
-      "source": "gencad.github.io"
-    },
-    {
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "score": 163,
-      "comments": 388,
-      "source": "noemamag.com"
-    },
-    {
-      "title": "Writing Z80 assembly, 4 decades later:-)",
-      "url": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
-      "score": 14,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Math Jokes in Alice in Wonderland",
-      "url": "https://storica.club/blog/alice-is-math-jokes/",
-      "score": 22,
-      "comments": 8,
-      "source": "storica.club"
-    },
-    {
-      "title": "Linux security mailing list 'almost unmanageable'",
-      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-      "score": 25,
-      "comments": 6,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Benedict Evans: AI eats the world (Spring 26) [pdf]",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-      "score": 15,
-      "comments": 0,
-      "source": "static1.squarespace.com"
-    },
-    {
-      "title": "Crystals found inside wreckage from the first nuclear bomb test",
-      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
-      "score": 116,
-      "comments": 45,
-      "source": "scientificamerican.com"
-    },
-    {
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 398,
+      "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "score": 358,
       "comments": 195,
       "source": "github.com"
     },
     {
-      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "url": "https://askanastronaut.issinrealtime.org/",
-      "score": 167,
-      "comments": 22,
-      "source": "askanastronaut.issinrealtime.org"
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "score": 215,
+      "comments": 116,
+      "source": "techcrunch.com"
     },
     {
-      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-      "score": 11,
+      "title": "The Quiet Renovation at Bitwarden",
+      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+      "score": 282,
+      "comments": 135,
+      "source": "blog.ppb1701.com"
+    },
+    {
+      "title": "Two computers, one monitor, zero fiddling (2025)",
+      "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
+      "score": 64,
+      "comments": 42,
+      "source": "alexplescan.com"
+    },
+    {
+      "title": "At least 100 deaths reported in Ebola outbreak in DR Congo",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o",
+      "score": 7,
       "comments": 3,
-      "source": "theregister.com"
+      "source": "bbc.com"
     },
     {
-      "title": "Eric Schmidt speech about AI booed during graduation",
-      "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
-      "score": 185,
-      "comments": 156,
-      "source": "nbcnews.com"
+      "title": "What Is Date:Italy?",
+      "url": "http://aesthetikx.info/blog/date_italy.html",
+      "score": 66,
+      "comments": 21,
+      "source": "aesthetikx.info"
+    },
+    {
+      "title": "Project Glasswing: what Mythos showed us",
+      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "score": 172,
+      "comments": 71,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "The Fil-C Optimized Calling Convention",
+      "url": "https://fil-c.org/calling_convention",
+      "score": 22,
+      "comments": 1,
+      "source": "fil-c.org"
+    },
+    {
+      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+      "url": "https://modal.com/blog/truly-serverless-gpus",
+      "score": 13,
+      "comments": 0,
+      "source": "modal.com"
+    },
+    {
+      "title": "Iran will impose fees on subsea internet cables in Strait of Hormuz",
+      "url": "https://www.cnn.com/2026/05/17/middleeast/iran-hormuz-undersea-cables-intl",
+      "score": 25,
+      "comments": 2,
+      "source": "cnn.com"
+    },
+    {
+      "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+      "score": 71,
+      "comments": 21,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Qwen 3.7 Preview",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+      "score": 85,
+      "comments": 28,
+      "source": "twitter.com"
+    },
+    {
+      "title": "The Aperiodic Table",
+      "url": "https://blog.jgc.org/2026/05/the-aperiodic-table.html",
+      "score": 62,
+      "comments": 28,
+      "source": "blog.jgc.org"
+    },
+    {
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "url": "https://github.com/2b2tplace/1m_release",
+      "score": 101,
+      "comments": 58,
+      "source": "github.com"
+    },
+    {
+      "title": "Learn Harness Engineering",
+      "url": "https://walkinglabs.github.io/learn-harness-engineering/en/",
+      "score": 55,
+      "comments": 2,
+      "source": "walkinglabs.github.io"
+    },
+    {
+      "title": "Show HN: InsForge \u2013 Open-source Heroku for coding agents",
+      "url": "https://github.com/InsForge/InsForge",
+      "score": 16,
+      "comments": 2,
+      "source": "github.com"
     },
     {
       "title": "'We mould trees to grow into the shape of chairs'",
       "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
-      "score": 5,
-      "comments": 1,
+      "score": 167,
+      "comments": 42,
       "source": "bbc.co.uk"
     },
     {
-      "title": "Jank now has its own custom IR",
-      "url": "https://jank-lang.org/blog/2026-05-08-optimization/",
-      "score": 175,
-      "comments": 35,
-      "source": "jank-lang.org"
+      "title": "It is time to give up the dualism introduced by the debate on consciousness",
+      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+      "score": 239,
+      "comments": 604,
+      "source": "noemamag.com"
     },
     {
-      "title": "Utah lawmakers form united front in push to ban prediction markets",
-      "url": "https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets",
-      "score": 20,
-      "comments": 1,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
-      "url": "https://github.com/MinishLab/semble",
-      "score": 368,
-      "comments": 127,
-      "source": "github.com"
-    },
-    {
-      "title": "Graphing Scientific Calculator Based on the ESP32",
-      "url": "https://github.com/El-EnderJ/NeoCalculator",
-      "score": 17,
-      "comments": 6,
-      "source": "github.com"
-    },
-    {
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "score": 165,
-      "comments": 31,
-      "source": "hellmood.111mb.de"
-    },
-    {
-      "title": "Prolog Coding Horror",
-      "url": "https://www.metalevel.at/prolog/horror",
-      "score": 162,
-      "comments": 65,
-      "source": "metalevel.at"
-    },
-    {
-      "title": "Don't Answer the First Question",
-      "url": "https://lalitm.com/post/dont-answer-the-first-question/",
-      "score": 9,
-      "comments": 4,
-      "source": "lalitm.com"
-    },
-    {
-      "title": "Profunctor Equipment in Haskell",
-      "url": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/",
-      "score": 31,
-      "comments": 7,
-      "source": "bartoszmilewski.com"
-    },
-    {
-      "title": "Build a Radio Wave Detector with Balls of Aluminum Foil",
-      "url": "https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/",
-      "score": 24,
-      "comments": 8,
-      "source": "wired.com"
-    },
-    {
-      "title": "Should I take my car to the carwash 50M away or walk?",
-      "url": "https://twitter.com/openservai/status/2055663644944576846",
-      "score": 7,
-      "comments": 1,
+      "title": "Cursor Introduces Composer 2.5",
+      "url": "https://twitter.com/cursor_ai/status/2056415413077233983",
+      "score": 49,
+      "comments": 14,
       "source": "twitter.com"
     },
     {
-      "title": "Why is Google Maps back to showing old satellite images of Altadena?",
-      "url": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
-      "score": 55,
-      "comments": 26,
-      "source": "reddit.com"
+      "title": "Actually, democracy dies in H.R.",
+      "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+      "score": 209,
+      "comments": 143,
+      "source": "nytimes.com"
     },
     {
-      "title": "Magical Realism: \u201cNorthern Exposure\u201d 25 Years Later (2015)",
-      "url": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
-      "score": 126,
-      "comments": 60,
-      "source": "rogerebert.com"
+      "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
+      "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
+      "score": 130,
+      "comments": 8,
+      "source": "radleybalko.substack.com"
     },
     {
-      "title": "Where Are the Vibecoded Photoshops?",
-      "url": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
-      "score": 171,
-      "comments": 213,
-      "source": "indiepixel.de"
+      "title": "Linux security mailing list 'almost unmanageable'",
+      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "score": 165,
+      "comments": 81,
+      "source": "theregister.com"
     },
     {
-      "title": "Hershey Bets on Agentic AI to Rethink $2B in Marketing Spend",
-      "url": "https://www.adweek.com/brand-marketing/exclusive-hershey-bets-on-ai-agents-to-fix-its-2-billion-marketing-blind-spot/",
-      "score": 3,
-      "comments": 2,
-      "source": "adweek.com"
+      "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "score": 69,
+      "comments": 82,
+      "source": "bloomberg.com"
+    },
+    {
+      "title": "When Kierkegaard Got Cancelled",
+      "url": "https://www.plough.com/en/topics/faith/discipleship/when-kierkegaard-got-cancelled",
+      "score": 57,
+      "comments": 22,
+      "source": "plough.com"
+    },
+    {
+      "title": "Porting my 3D points renderer on a ZX Spectrum 48K",
+      "url": "https://github.com/ttsiodras/3D-on-a-ZX-Spectrum-48K/",
+      "score": 68,
+      "comments": 9,
+      "source": "github.com"
+    },
+    {
+      "title": "Crystals found inside wreckage from the first nuclear bomb test",
+      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+      "score": 158,
+      "comments": 71,
+      "source": "scientificamerican.com"
+    },
+    {
+      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+      "score": 129,
+      "comments": 68,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Don't answer the first question",
+      "url": "https://lalitm.com/post/dont-answer-the-first-question/",
+      "score": 68,
+      "comments": 36,
+      "source": "lalitm.com"
     }
   ],
   "security": [
