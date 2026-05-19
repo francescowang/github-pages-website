@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "New accessibility features powered by Apple Intelligence",
+      "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "score": 289,
+      "comments": 60,
+      "source": "virtualosmuseum.org"
+    },
+    {
+      "title": "Apple unveils new accessibility features",
       "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 96,
-      "comments": 24,
+      "score": 444,
+      "comments": 236,
       "source": "apple.com"
+    },
+    {
+      "title": "I\u2019ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "score": 768,
+      "comments": 295,
+      "source": "twitter.com"
     },
     {
       "title": "Gaussian Splat of a Strawberry",
       "url": "https://superspl.at/scene/84df8849",
-      "score": 178,
-      "comments": 69,
+      "score": 387,
+      "comments": 149,
       "source": "superspl.at"
+    },
+    {
+      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "score": 60,
+      "comments": 14,
+      "source": "gentoo.org"
+    },
+    {
+      "title": "KV Cache Is Becoming the Memory Hierarchy of Inference",
+      "url": "https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html",
+      "score": 14,
+      "comments": 0,
+      "source": "touchdown-labs.com"
+    },
+    {
+      "title": "Gemini 3.5 Flash: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 107,
+      "comments": 49,
+      "source": "blog.google"
+    },
+    {
+      "title": "Show HN: Superlog (YC P26) \u2013 Observability that installs itself and fixes bugs",
+      "url": "https://superlog.sh/",
+      "score": 29,
+      "comments": 26,
+      "source": "superlog.sh"
+    },
+    {
+      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "score": 67,
+      "comments": 17,
+      "source": "emptysqua.re"
+    },
+    {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "score": 276,
+      "comments": 126,
+      "source": "krebsonsecurity.com"
+    },
+    {
+      "title": "Hanoi\u2019s humble beer glass and the memory of a nation",
+      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+      "score": 84,
+      "comments": 13,
+      "source": "sundaylongread.com"
     },
     {
       "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
       "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-      "score": 124,
-      "comments": 32,
+      "score": 220,
+      "comments": 84,
       "source": "medium.com"
-    },
-    {
-      "title": "Photo GIMP \u2013 A Patch for GIMP 3 for Photoshop Users",
-      "url": "https://github.com/Diolinux/PhotoGIMP",
-      "score": 89,
-      "comments": 52,
-      "source": "github.com"
-    },
-    {
-      "title": "Polypad",
-      "url": "https://polypad.amplify.com/",
-      "score": 116,
-      "comments": 9,
-      "source": "polypad.amplify.com"
-    },
-    {
-      "title": "Peter Neumann has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "score": 194,
-      "comments": 17,
-      "source": "tuhs.org"
-    },
-    {
-      "title": "Nim-Presto \u2013 REST API Framework for Nim Language",
-      "url": "https://github.com/status-im/nim-presto",
-      "score": 15,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "score": 329,
-      "comments": 82,
-      "source": "clickclickclick.click"
-    },
-    {
-      "title": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-      "url": "https://www.kv4p.com/",
-      "score": 114,
-      "comments": 42,
-      "source": "kv4p.com"
-    },
-    {
-      "title": "Colonization of Venus",
-      "url": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
-      "score": 14,
-      "comments": 2,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Cursor Introduces Composer 2.5",
-      "url": "https://cursor.com/blog/composer-2-5",
-      "score": 183,
-      "comments": 143,
-      "source": "cursor.com"
-    },
-    {
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 481,
-      "comments": 337,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "The lasting influence of Netscape Time",
-      "url": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
-      "score": 56,
-      "comments": 12,
-      "source": "thehistoryoftheweb.com"
     },
     {
       "title": "The last six months in LLMs in five minutes",
       "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 529,
-      "comments": 428,
+      "score": 658,
+      "comments": 524,
       "source": "simonwillison.net"
     },
     {
-      "title": "PyTorch Landscape",
-      "url": "https://pytorch.landscape2.io",
-      "score": 57,
-      "comments": 14,
-      "source": "pytorch.landscape2.io"
-    },
-    {
-      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "url": "https://github.com/2b2tplace/1m_release",
-      "score": 155,
-      "comments": 93,
-      "source": "github.com"
-    },
-    {
-      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-      "score": 148,
-      "comments": 37,
-      "source": "nicholas.carlini.com"
-    },
-    {
-      "title": "We let AIs run radio stations",
-      "url": "https://andonlabs.com/blog/andon-fm",
-      "score": 296,
-      "comments": 223,
-      "source": "andonlabs.com"
+      "title": "Cursor Cloud Agents Down",
+      "url": "https://forum.cursor.com/t/cloud-agents-broken-ii/161036",
+      "score": 9,
+      "comments": 1,
+      "source": "forum.cursor.com"
     },
     {
       "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
       "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "score": 154,
-      "comments": 91,
+      "score": 307,
+      "comments": 230,
       "source": "safedep.io"
     },
     {
-      "title": "Energy return in running shoes explained (2025)",
-      "url": "https://runrepeat.com/guides/energy-return-in-running-shoes",
-      "score": 24,
+      "title": "KV Sharing, MHC, and Compressed Attention",
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "score": 9,
+      "comments": 0,
+      "source": "magazine.sebastianraschka.com"
+    },
+    {
+      "title": "Google I/O",
+      "url": "https://io.google/2026/",
+      "score": 138,
+      "comments": 166,
+      "source": "io.google"
+    },
+    {
+      "title": "Peter Neumann has died",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "score": 280,
       "comments": 23,
-      "source": "runrepeat.com"
-    },
-    {
-      "title": "Make ZIP files smaller with ZIP Shrinker",
-      "url": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
-      "score": 42,
-      "comments": 30,
-      "source": "evanhahn.com"
-    },
-    {
-      "title": "Pope Leo XIV\u2019s first encyclical Magnifica humanitas to be published May 25",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "score": 250,
-      "comments": 165,
-      "source": "vaticannews.va"
-    },
-    {
-      "title": "Show HN: Number Gacha, a gacha game distilled to its essence",
-      "url": "https://isabisabel.com/gacha/",
-      "score": 183,
-      "comments": 78,
-      "source": "isabisabel.com"
-    },
-    {
-      "title": "Show HN: Hsrs \u2013 Type-Safe Haskell Bindings Generator for Rust",
-      "url": "https://github.com/harmont-dev/hsrs",
-      "score": 41,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "url": "https://hyperpolyglot.org/lisp",
-      "score": 168,
-      "comments": 41,
-      "source": "hyperpolyglot.org"
-    },
-    {
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
-      "score": 262,
-      "comments": 141,
-      "source": "static1.squarespace.com"
-    },
-    {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 1003,
-      "comments": 508,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Two computers, one monitor, zero fiddling (2025)",
-      "url": "https://alexplescan.com/posts/2025/08/16/kvm/",
-      "score": 241,
-      "comments": 137,
-      "source": "alexplescan.com"
-    },
-    {
-      "title": "Peter Salus has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
-      "score": 151,
-      "comments": 12,
       "source": "tuhs.org"
     },
     {
-      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-      "url": "https://arxiv.org/abs/2601.10160",
-      "score": 66,
-      "comments": 25,
-      "source": "arxiv.org"
+      "title": "Google Search as you know it is over",
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "score": 8,
+      "comments": 0,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Show HN: I made a 3D pose maker for artists",
+      "url": "https://setpose.com/",
+      "score": 53,
+      "comments": 26,
+      "source": "setpose.com"
+    },
+    {
+      "title": "An Apple (II) for Teacher",
+      "url": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
+      "score": 44,
+      "comments": 12,
+      "source": "technicshistory.com"
+    },
+    {
+      "title": "Show HN: Haystack \u2013 Review the PRs that need human attention",
+      "url": "https://haystackeditor.com/",
+      "score": 10,
+      "comments": 5,
+      "source": "haystackeditor.com"
+    },
+    {
+      "title": "Polypad",
+      "url": "https://polypad.amplify.com/",
+      "score": 191,
+      "comments": 22,
+      "source": "polypad.amplify.com"
+    },
+    {
+      "title": "OpenBSD 7.9",
+      "url": "https://www.openbsd.org/79.html",
+      "score": 281,
+      "comments": 199,
+      "source": "openbsd.org"
+    },
+    {
+      "title": "Gemini Omni",
+      "url": "https://deepmind.google/models/gemini-omni/",
+      "score": 21,
+      "comments": 5,
+      "source": "deepmind.google"
+    },
+    {
+      "title": "Cursor Introduces Composer 2.5",
+      "url": "https://cursor.com/blog/composer-2-5",
+      "score": 263,
+      "comments": 195,
+      "source": "cursor.com"
+    },
+    {
+      "title": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+      "url": "https://www.kv4p.com/",
+      "score": 154,
+      "comments": 66,
+      "source": "kv4p.com"
+    },
+    {
+      "title": "Click (2016)",
+      "url": "https://clickclickclick.click/",
+      "score": 357,
+      "comments": 91,
+      "source": "clickclickclick.click"
+    },
+    {
+      "title": "Nim-Presto \u2013 REST API Framework for Nim Language (2024)",
+      "url": "https://github.com/status-im/nim-presto",
+      "score": 52,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "score": 518,
+      "comments": 362,
+      "source": "anthropic.com"
     }
   ],
   "security": [
+    {
+      "title": "Governing infrastructure as code using pattern-based policy as code",
+      "url": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/",
+      "date": "2026-05-19 16:15:31",
+      "author": "Guptaji Teegela"
+    },
     {
       "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
       "url": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services/",
       "date": "2026-05-11 17:58:02",
       "author": "Ashley Nelson"
-    },
-    {
-      "title": "ICYMI: April 2026 @AWS Security",
-      "url": "https://aws.amazon.com/blogs/security/icymi-april-2026-aws-security/",
-      "date": "2026-05-07 18:52:59",
-      "author": "Rodolfo Brenes"
     }
   ]
 }
