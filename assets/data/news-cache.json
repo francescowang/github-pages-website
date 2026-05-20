@@ -1,217 +1,223 @@
 {
   "tech": [
     {
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 520,
+      "comments": 409,
+      "source": "blog.google"
+    },
+    {
       "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
-      "score": 289,
-      "comments": 60,
+      "score": 565,
+      "comments": 130,
       "source": "virtualosmuseum.org"
+    },
+    {
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "score": 347,
+      "comments": 514,
+      "source": "blog.google"
+    },
+    {
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "score": 170,
+      "comments": 88,
+      "source": "openai.com"
+    },
+    {
+      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "score": 234,
+      "comments": 81,
+      "source": "github.com"
+    },
+    {
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "score": 154,
+      "comments": 36,
+      "source": "emmi.ai"
+    },
+    {
+      "title": "Dumb Ways for an Open Source Project to Die",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "score": 135,
+      "comments": 70,
+      "source": "nesbitt.io"
     },
     {
       "title": "Apple unveils new accessibility features",
       "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 444,
-      "comments": 236,
+      "score": 581,
+      "comments": 295,
       "source": "apple.com"
+    },
+    {
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+      "score": 381,
+      "comments": 128,
+      "source": "npr.org"
+    },
+    {
+      "title": "Growing Neural Cellular Automata",
+      "url": "https://distill.pub/2020/growing-ca/",
+      "score": 60,
+      "comments": 6,
+      "source": "distill.pub"
     },
     {
       "title": "I\u2019ve joined Anthropic",
       "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 768,
-      "comments": 295,
+      "score": 1138,
+      "comments": 480,
       "source": "twitter.com"
     },
     {
-      "title": "Gaussian Splat of a Strawberry",
+      "title": "Show HN: Gaussian Splat of a Strawberry",
       "url": "https://superspl.at/scene/84df8849",
-      "score": 387,
-      "comments": 149,
+      "score": 464,
+      "comments": 183,
       "source": "superspl.at"
     },
     {
-      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
-      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-      "score": 60,
-      "comments": 14,
-      "source": "gentoo.org"
+      "title": "Lisp in Web-Based Applications (2001)",
+      "url": "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt",
+      "score": 33,
+      "comments": 3,
+      "source": "sep.turbifycdn.com"
     },
     {
-      "title": "KV Cache Is Becoming the Memory Hierarchy of Inference",
-      "url": "https://touchdown-labs.com/blog/kv-cache-memory-hierarchy-inference.html",
-      "score": 14,
+      "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
+      "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
+      "score": 19,
+      "comments": 1,
+      "source": "leonardo-boquillon.com"
+    },
+    {
+      "title": "The two oldest printing presses",
+      "url": "https://museumplantinmoretus.be/en/worlds-two-oldest-printing-presses",
+      "score": 13,
       "comments": 0,
-      "source": "touchdown-labs.com"
+      "source": "museumplantinmoretus.be"
     },
     {
-      "title": "Gemini 3.5 Flash: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 107,
-      "comments": 49,
-      "source": "blog.google"
-    },
-    {
-      "title": "Show HN: Superlog (YC P26) \u2013 Observability that installs itself and fixes bugs",
-      "url": "https://superlog.sh/",
-      "score": 29,
-      "comments": 26,
-      "source": "superlog.sh"
-    },
-    {
-      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-      "score": 67,
-      "comments": 17,
-      "source": "emptysqua.re"
+      "title": "GitHub is investigating unauthorized access to their internal repositories",
+      "url": "https://twitter.com/github/status/2056884788179726685",
+      "score": 30,
+      "comments": 10,
+      "source": "twitter.com"
     },
     {
       "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
       "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "score": 276,
-      "comments": 126,
+      "score": 388,
+      "comments": 161,
       "source": "krebsonsecurity.com"
     },
     {
-      "title": "Hanoi\u2019s humble beer glass and the memory of a nation",
-      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
-      "score": 84,
-      "comments": 13,
-      "source": "sundaylongread.com"
+      "title": "Unusual uses of OEIS sequences on GitHub",
+      "url": "https://www.jeremykun.com/shortform/2026-04-13-0700/",
+      "score": 7,
+      "comments": 1,
+      "source": "jeremykun.com"
     },
     {
-      "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "score": 109,
+      "comments": 38,
+      "source": "gentoo.org"
+    },
+    {
+      "title": "Tesla's lithium refinery discharges 231,000 gallons of polluted wastewater a day",
+      "url": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
+      "score": 423,
+      "comments": 207,
+      "source": "autonocion.com"
+    },
+    {
+      "title": "I found ultra-pure quantum crystals in an abandoned mine in the Atacama desert",
       "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-      "score": 220,
-      "comments": 84,
+      "score": 269,
+      "comments": 105,
       "source": "medium.com"
     },
     {
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 658,
-      "comments": 524,
-      "source": "simonwillison.net"
+      "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
+      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+      "score": 83,
+      "comments": 133,
+      "source": "ox.ac.uk"
     },
     {
-      "title": "Cursor Cloud Agents Down",
-      "url": "https://forum.cursor.com/t/cloud-agents-broken-ii/161036",
-      "score": 9,
-      "comments": 1,
-      "source": "forum.cursor.com"
+      "title": "Disney erased FiveThirtyEight",
+      "url": "https://www.natesilver.net/p/disney-erased-fivethirtyeight",
+      "score": 286,
+      "comments": 177,
+      "source": "natesilver.net"
     },
     {
-      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-      "score": 307,
-      "comments": 230,
-      "source": "safedep.io"
-    },
-    {
-      "title": "KV Sharing, MHC, and Compressed Attention",
-      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-      "score": 9,
-      "comments": 0,
-      "source": "magazine.sebastianraschka.com"
-    },
-    {
-      "title": "Google I/O",
-      "url": "https://io.google/2026/",
-      "score": 138,
-      "comments": 166,
-      "source": "io.google"
-    },
-    {
-      "title": "Peter Neumann has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "score": 280,
-      "comments": 23,
-      "source": "tuhs.org"
-    },
-    {
-      "title": "Google Search as you know it is over",
-      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "score": 8,
-      "comments": 0,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Show HN: I made a 3D pose maker for artists",
-      "url": "https://setpose.com/",
-      "score": 53,
-      "comments": 26,
-      "source": "setpose.com"
-    },
-    {
-      "title": "An Apple (II) for Teacher",
-      "url": "https://technicshistory.com/2026/05/19/an-apple-ii-for-teacher/",
-      "score": 44,
-      "comments": 12,
-      "source": "technicshistory.com"
-    },
-    {
-      "title": "Show HN: Haystack \u2013 Review the PRs that need human attention",
-      "url": "https://haystackeditor.com/",
-      "score": 10,
-      "comments": 5,
-      "source": "haystackeditor.com"
-    },
-    {
-      "title": "Polypad",
-      "url": "https://polypad.amplify.com/",
-      "score": 191,
-      "comments": 22,
-      "source": "polypad.amplify.com"
-    },
-    {
-      "title": "OpenBSD 7.9",
-      "url": "https://www.openbsd.org/79.html",
-      "score": 281,
-      "comments": 199,
-      "source": "openbsd.org"
+      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+      "score": 120,
+      "comments": 82,
+      "source": "csl.sri.com"
     },
     {
       "title": "Gemini Omni",
       "url": "https://deepmind.google/models/gemini-omni/",
-      "score": 21,
-      "comments": 5,
+      "score": 249,
+      "comments": 104,
       "source": "deepmind.google"
     },
     {
-      "title": "Cursor Introduces Composer 2.5",
-      "url": "https://cursor.com/blog/composer-2-5",
-      "score": 263,
-      "comments": 195,
-      "source": "cursor.com"
+      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "score": 105,
+      "comments": 25,
+      "source": "emptysqua.re"
     },
     {
-      "title": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-      "url": "https://www.kv4p.com/",
-      "score": 154,
-      "comments": 66,
-      "source": "kv4p.com"
+      "title": "The TTY Demystified (2008)",
+      "url": "https://www.linusakesson.net/programming/tty/index.php",
+      "score": 33,
+      "comments": 8,
+      "source": "linusakesson.net"
     },
     {
-      "title": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "score": 357,
-      "comments": 91,
-      "source": "clickclickclick.click"
+      "title": "Hanoi\u2019s humble beer glass and the memory of a nation",
+      "url": "https://sundaylongread.com/2026/05/15/hanois-humble-beer-glass-and-the-memory-of-a-nation/",
+      "score": 117,
+      "comments": 36,
+      "source": "sundaylongread.com"
     },
     {
-      "title": "Nim-Presto \u2013 REST API Framework for Nim Language (2024)",
-      "url": "https://github.com/status-im/nim-presto",
-      "score": 52,
-      "comments": 10,
-      "source": "github.com"
+      "title": "The Silver Swan",
+      "url": "https://thebowesmuseum.org.uk/collections/the-silver-swan/",
+      "score": 26,
+      "comments": 4,
+      "source": "thebowesmuseum.org.uk"
     },
     {
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 518,
-      "comments": 362,
-      "source": "anthropic.com"
+      "title": "Era: From Nature publication to catalyzing Computational Discovery",
+      "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+      "score": 24,
+      "comments": 0,
+      "source": "research.google"
     }
   ],
   "security": [
+    {
+      "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
+      "url": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/",
+      "date": "2026-05-19 21:34:25",
+      "author": "Shannon Brazil"
+    },
     {
       "title": "Governing infrastructure as code using pattern-based policy as code",
       "url": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/enabling-ai-sovereignty-on-aws/",
       "date": "2026-05-12 15:18:28",
       "author": "St\u00e9phane Isra\u00ebl"
-    },
-    {
-      "title": "Complimentary virtual training: Get hands-on with AWS Security Services",
-      "url": "https://aws.amazon.com/blogs/security/complimentary-virtual-training-get-hands-on-with-aws-security-services/",
-      "date": "2026-05-11 17:58:02",
-      "author": "Ashley Nelson"
     }
   ]
 }
