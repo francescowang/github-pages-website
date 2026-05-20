@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Map of Metal",
+      "url": "https://mapofmetal.com/",
+      "score": 88,
+      "comments": 24,
+      "source": "mapofmetal.com"
+    },
+    {
       "title": "Everything in C is undefined behavior",
       "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-      "score": 84,
-      "comments": 35,
+      "score": 296,
+      "comments": 412,
       "source": "blog.habets.se"
     },
     {
-      "title": "Railway Blocked by Google Cloud",
-      "url": "https://status.railway.com/?date=20260519",
-      "score": 427,
-      "comments": 206,
-      "source": "status.railway.com"
+      "title": "College students drown out AI-praising commencement speeches with boos",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+      "score": 60,
+      "comments": 26,
+      "source": "tomshardware.com"
     },
     {
-      "title": "FiveThirtyEight articles on the Internet Archive",
-      "url": "https://fivethirtyeightindex.com/",
-      "score": 151,
-      "comments": 38,
-      "source": "fivethirtyeightindex.com"
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "score": 58,
+      "comments": 20,
+      "source": "qwen.ai"
+    },
+    {
+      "title": "Nobody understands the point of hybrid cars [video]",
+      "url": "https://www.youtube.com/watch?v=KnUFH5GX_fI",
+      "score": 37,
+      "comments": 9,
+      "source": "youtube.com"
     },
     {
       "title": "Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 730,
-      "comments": 517,
+      "score": 858,
+      "comments": 586,
       "source": "blog.google"
+    },
+    {
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "url": "https://fivethirtyeightindex.com/",
+      "score": 255,
+      "comments": 62,
+      "source": "fivethirtyeightindex.com"
     },
     {
       "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
       "url": "https://virtualosmuseum.org/",
-      "score": 725,
-      "comments": 163,
+      "score": 846,
+      "comments": 178,
       "source": "virtualosmuseum.org"
     },
     {
-      "title": "GitHub Compromised",
-      "url": "https://twitter.com/github/status/2056949168208552080",
-      "score": 202,
-      "comments": 72,
-      "source": "twitter.com"
+      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
+      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
+      "score": 181,
+      "comments": 81,
+      "source": "bbc.com"
     },
     {
-      "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
-      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "score": 245,
-      "comments": 134,
-      "source": "github.com"
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "score": 79,
+      "comments": 79,
+      "source": "zfhuang99.github.io"
+    },
+    {
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+      "score": 110,
+      "comments": 33,
+      "source": "news.infomaniak.com"
     },
     {
       "title": "Google changes its search box",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "score": 489,
-      "comments": 676,
+      "score": 598,
+      "comments": 812,
       "source": "blog.google"
     },
     {
       "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
       "url": "https://github.com/antoinezambelli/forge",
-      "score": 423,
-      "comments": 163,
+      "score": 547,
+      "comments": 190,
       "source": "github.com"
     },
     {
-      "title": "Nostalgic Electronics Kits Central",
-      "url": "https://www.nostalgickitscentral.com/",
-      "score": 14,
-      "comments": 5,
-      "source": "nostalgickitscentral.com"
-    },
-    {
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "score": 260,
-      "comments": 134,
-      "source": "openai.com"
-    },
-    {
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 658,
-      "comments": 338,
-      "source": "apple.com"
-    },
-    {
-      "title": "Mistral AI acquires Emmi AI",
-      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "score": 236,
-      "comments": 65,
-      "source": "emmi.ai"
-    },
-    {
-      "title": "In 1979 engineer Hugh Padgham discovered \"gated reverb\" \u2013 by accident",
-      "url": "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/",
-      "score": 27,
-      "comments": 1,
-      "source": "producelikeapro.com"
-    },
-    {
-      "title": "Skills in Web, iOS, and Android",
-      "url": "https://x.ai/news/grok-skills",
-      "score": 18,
-      "comments": 1,
-      "source": "x.ai"
-    },
-    {
-      "title": "Gemini CLI will stop working from June 18, 2026",
-      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-      "score": 170,
-      "comments": 75,
-      "source": "developers.googleblog.com"
-    },
-    {
-      "title": "GitHub is investigating unauthorized access to their internal repositories",
-      "url": "https://twitter.com/github/status/2056884788179726685",
-      "score": 370,
-      "comments": 115,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
-      "url": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
-      "score": 25,
+      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "score": 5,
       "comments": 0,
       "source": "bbc.com"
     },
     {
-      "title": "The Mercury logic programming system",
-      "url": "https://github.com/Mercury-Language/mercury",
-      "score": 58,
-      "comments": 11,
+      "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
+      "url": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
+      "score": 13,
+      "comments": 1,
+      "source": "torrentfreak.com"
+    },
+    {
+      "title": "Remove-AI-Watermarks \u2013 CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "score": 320,
+      "comments": 191,
       "source": "github.com"
+    },
+    {
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "score": 692,
+      "comments": 363,
+      "source": "apple.com"
+    },
+    {
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "score": 302,
+      "comments": 163,
+      "source": "openai.com"
+    },
+    {
+      "title": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "score": 287,
+      "comments": 84,
+      "source": "emmi.ai"
+    },
+    {
+      "title": "The Invention of Buses",
+      "url": "https://worksinprogress.co/issue/the-invention-of-buses/",
+      "score": 19,
+      "comments": 5,
+      "source": "worksinprogress.co"
+    },
+    {
+      "title": "Gemini CLI will stop working from June 18, 2026",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "score": 276,
+      "comments": 142,
+      "source": "developers.googleblog.com"
+    },
+    {
+      "title": "CopyFail: From Pod to Host",
+      "url": "https://xint.io/blog/copy-fail-pod-to-host",
+      "score": 33,
+      "comments": 6,
+      "source": "xint.io"
+    },
+    {
+      "title": "Simulated Evolution on the PICO-8",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/16/simulated-evolution-on-the-pico-8/",
+      "score": 24,
+      "comments": 1,
+      "source": "bumbershootsoft.wordpress.com"
+    },
+    {
+      "title": "RISC-V and Floating-Point",
+      "url": "https://fprox.substack.com/p/risc-v-and-floating-point",
+      "score": 35,
+      "comments": 27,
+      "source": "fprox.substack.com"
+    },
+    {
+      "title": "No way to parse integers in C (2022)",
+      "url": "https://blog.habets.se/2022/10/No-way-to-parse-integers-in-C.html",
+      "score": 13,
+      "comments": 2,
+      "source": "blog.habets.se"
+    },
+    {
+      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "score": 503,
+      "comments": 319,
+      "source": "blog.railway.com"
+    },
+    {
+      "title": "In 1979 engineer Hugh Padgham discovered \"gated reverb\" \u2013 by accident",
+      "url": "https://producelikeapro.com/blog/how-one-recording-mistake-created-a-musical-phenomenon-in-the-80s/",
+      "score": 67,
+      "comments": 23,
+      "source": "producelikeapro.com"
+    },
+    {
+      "title": "GitHub is investigating unauthorized access to their internal repositories",
+      "url": "https://twitter.com/github/status/2056884788179726685",
+      "score": 519,
+      "comments": 283,
+      "source": "twitter.com"
     },
     {
       "title": "Minnesota becomes first state to ban prediction markets",
       "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "score": 619,
-      "comments": 190,
+      "score": 707,
+      "comments": 218,
       "source": "npr.org"
     },
     {
-      "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
-      "url": "https://andlukyane.com//blog/minimax-m27-workflows",
-      "score": 11,
-      "comments": 0,
-      "source": "andlukyane.com"
-    },
-    {
-      "title": "Growing Neural Cellular Automata",
-      "url": "https://distill.pub/2020/growing-ca/",
-      "score": 100,
-      "comments": 11,
-      "source": "distill.pub"
-    },
-    {
-      "title": "Lisp in Web-Based Applications (2001)",
-      "url": "https://sep.turbifycdn.com/ty/cdn/paulgraham/bbnexcerpts.txt",
-      "score": 73,
-      "comments": 5,
-      "source": "sep.turbifycdn.com"
-    },
-    {
-      "title": "I\u2019ve joined Anthropic",
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 1279,
-      "comments": 525,
-      "source": "twitter.com"
-    },
-    {
-      "title": "India's hottest district shuts at 10 am as mercury breaches 48 C mark",
-      "url": "https://www.hindustantimes.com/india-news/indias-hottest-district-banda-shuts-at-10-am-as-mercury-breaches-48-degrees-celsius-mark-101779240653594.html",
-      "score": 69,
-      "comments": 51,
-      "source": "hindustantimes.com"
-    },
-    {
-      "title": "Ex-Apple engineer says Apple deliberately slows older phones via updates",
-      "url": "https://www.macobserver.com/news/ex-apple-software-engineer-claims-apple-deliberately-slows-down-old-iphone-models/",
-      "score": 40,
-      "comments": 9,
-      "source": "macobserver.com"
-    },
-    {
-      "title": "HTML-in-Canvas Demos",
-      "url": "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md",
-      "score": 30,
-      "comments": 9,
-      "source": "github.com"
-    },
-    {
-      "title": "Museum of Imaginary Musical Instruments",
-      "url": "https://imaginaryinstruments.org/",
-      "score": 26,
-      "comments": 5,
-      "source": "imaginaryinstruments.org"
-    },
-    {
-      "title": "The two oldest printing presses",
-      "url": "https://museumplantinmoretus.be/en/worlds-two-oldest-printing-presses",
-      "score": 41,
+      "title": "The Mercury logic programming system",
+      "url": "https://github.com/Mercury-Language/mercury",
+      "score": 76,
       "comments": 17,
-      "source": "museumplantinmoretus.be"
-    },
-    {
-      "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
-      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
-      "score": 119,
-      "comments": 188,
-      "source": "ox.ac.uk"
+      "source": "github.com"
     }
   ],
   "security": [
