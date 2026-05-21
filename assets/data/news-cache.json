@@ -3,212 +3,212 @@
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 673,
-      "comments": 477,
+      "score": 1041,
+      "comments": 760,
       "source": "openai.com"
     },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 482,
-      "comments": 162,
+      "score": 755,
+      "comments": 291,
       "source": "bleepingcomputer.com"
+    },
+    {
+      "title": "Haskell Foundation 2026 Update",
+      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "score": 85,
+      "comments": 14,
+      "source": "discourse.haskell.org"
+    },
+    {
+      "title": "Show HN: I reverse engineered Apple's video wallpapers",
+      "url": "https://github.com/kageroumado/phosphene",
+      "score": 232,
+      "comments": 42,
+      "source": "github.com"
+    },
+    {
+      "title": "New features in GCC 16: Improved error messages and SARIF output",
+      "url": "https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output",
+      "score": 58,
+      "comments": 7,
+      "source": "developers.redhat.com"
     },
     {
       "title": "DOS Zone",
       "url": "https://dos.zone/",
-      "score": 62,
-      "comments": 15,
+      "score": 217,
+      "comments": 39,
       "source": "dos.zone"
     },
     {
-      "title": "Anthropic is expanding to Colossus2. Will use GB200",
-      "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
-      "score": 42,
-      "comments": 25,
-      "source": "xcancel.com"
+      "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+      "score": 133,
+      "comments": 14,
+      "source": "gwern.net"
     },
     {
       "title": "Flipper One Tech Specs",
       "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 231,
-      "comments": 83,
+      "score": 344,
+      "comments": 122,
       "source": "docs.flipper.net"
     },
     {
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "score": 84,
-      "comments": 25,
-      "source": "legiscan.com"
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "score": 154,
+      "comments": 137,
+      "source": "twitter.com"
     },
     {
-      "title": "How fast is N tokens per second really?",
-      "url": "https://mikeveerman.github.io/tokenspeed/",
-      "score": 287,
-      "comments": 70,
-      "source": "mikeveerman.github.io"
-    },
-    {
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "url": "https://qwen.ai/blog?id=qwen3.7",
-      "score": 599,
-      "comments": 241,
-      "source": "qwen.ai"
-    },
-    {
-      "title": "Google Declaring War on the Web",
-      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-      "score": 294,
-      "comments": 169,
-      "source": "tante.cc"
-    },
-    {
-      "title": "I reverse engineered Apple's video wallpapers",
-      "url": "https://github.com/kageroumado/phosphene",
-      "score": 20,
+      "title": "Simulating Infinity in Conway's Game of Life with Modern C++",
+      "url": "https://ryanjk5.github.io/posts/GOLDE/",
+      "score": 19,
       "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-      "score": 105,
-      "comments": 59,
-      "source": "usni.org"
-    },
-    {
-      "title": "Why is Inkwell stuck in review",
-      "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
-      "score": 99,
-      "comments": 32,
-      "source": "manton.org"
-    },
-    {
-      "title": "Saying goodbye to asm.js",
-      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
-      "score": 307,
-      "comments": 131,
-      "source": "spidermonkey.dev"
+      "source": "ryanjk5.github.io"
     },
     {
       "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
       "url": "https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html",
-      "score": 37,
-      "comments": 9,
+      "score": 115,
+      "comments": 77,
       "source": "openculture.com"
     },
     {
-      "title": "Your Most Improbable Life",
-      "url": "https://kevinkelly.substack.com/p/your-most-improbable-life",
-      "score": 7,
-      "comments": 0,
-      "source": "kevinkelly.substack.com"
-    },
-    {
-      "title": "SpaceX S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
-      "score": 198,
-      "comments": 147,
-      "source": "sec.gov"
-    },
-    {
-      "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
-      "url": "https://github.com/kouhxp/yapsnap",
-      "score": 21,
-      "comments": 4,
-      "source": "github.com"
-    },
-    {
-      "title": "Map of Metal",
-      "url": "https://mapofmetal.com/",
-      "score": 394,
-      "comments": 142,
-      "source": "mapofmetal.com"
-    },
-    {
-      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
-      "score": 32,
-      "comments": 6,
-      "source": "vmax.ai"
-    },
-    {
-      "title": "Incident Report: May 19, 2026 \u2013 GCP Account Suspension",
-      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "title": "How fast is N tokens per second really?",
+      "url": "https://mikeveerman.github.io/tokenspeed/",
       "score": 381,
-      "comments": 221,
-      "source": "blog.railway.com"
+      "comments": 77,
+      "source": "mikeveerman.github.io"
+    },
+    {
+      "title": "Saying goodbye to asm.js",
+      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+      "score": 363,
+      "comments": 140,
+      "source": "spidermonkey.dev"
+    },
+    {
+      "title": "OpenAI to confidentially file for IPO as soon as Friday",
+      "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+      "score": 120,
+      "comments": 60,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "score": 170,
+      "comments": 111,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
+      "url": "https://yes-we-scan.app/details",
+      "score": 52,
+      "comments": 17,
+      "source": "yes-we-scan.app"
+    },
+    {
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "score": 160,
+      "comments": 85,
+      "source": "usni.org"
     },
     {
       "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
       "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-      "score": 249,
-      "comments": 171,
+      "score": 300,
+      "comments": 186,
       "source": "bbc.com"
     },
     {
-      "title": "Sharla Boehm, the programmer whose code underpins the Internet",
-      "url": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
-      "score": 90,
-      "comments": 24,
-      "source": "scientificamerican.com"
+      "title": "Why is Inkwell stuck in review",
+      "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+      "score": 135,
+      "comments": 42,
+      "source": "manton.org"
+    },
+    {
+      "title": "A Markdown-based test suite",
+      "url": "https://blogsystem5.substack.com/p/markdown-based-test-suite",
+      "score": 29,
+      "comments": 7,
+      "source": "blogsystem5.substack.com"
+    },
+    {
+      "title": "Recreate famous water profiles using supermarket bottled water",
+      "url": "https://www.waterdictionary.net",
+      "score": 28,
+      "comments": 13,
+      "source": "waterdictionary.net"
+    },
+    {
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "score": 143,
+      "comments": 149,
+      "source": "zfhuang99.github.io"
+    },
+    {
+      "title": "SpaceX S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+      "score": 350,
+      "comments": 267,
+      "source": "sec.gov"
+    },
+    {
+      "title": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
+      "url": "https://silentshark.app/alpha/",
+      "score": 13,
+      "comments": 10,
+      "source": "silentshark.app"
     },
     {
       "title": "SBCL: the ultimate assembly code breadboard (2014)",
       "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-      "score": 120,
+      "score": 142,
       "comments": 7,
       "source": "pvk.ca"
     },
     {
-      "title": "Starship's Twelfth Flight Test",
-      "url": "https://www.spacex.com/launches/starship-flight-12",
-      "score": 83,
-      "comments": 71,
-      "source": "spacex.com"
+      "title": "Incident Report: May 19, 2026 \u2013 GCP Account Suspension",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "score": 426,
+      "comments": 244,
+      "source": "blog.railway.com"
     },
     {
-      "title": "Deep \u2013 CLI/REPL for generating and iterating on codebases using DeepSeek",
-      "url": "https://github.com/cynchro/deepseekCLI",
-      "score": 6,
-      "comments": 0,
+      "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+      "url": "https://github.com/kouhxp/yapsnap",
+      "score": 57,
+      "comments": 21,
       "source": "github.com"
     },
     {
-      "title": "GitHub's take on age assurance for developers",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
-      "score": 22,
-      "comments": 11,
-      "source": "github.blog"
+      "title": "Sharla Boehm, the programmer whose code underpins the Internet",
+      "url": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
+      "score": 122,
+      "comments": 28,
+      "source": "scientificamerican.com"
     },
     {
-      "title": "The OEIS meta sequence and subway stations",
-      "url": "https://www.jeremykun.com/shortform/2026-04-09-0556/",
-      "score": 6,
-      "comments": 1,
-      "source": "jeremykun.com"
-    },
-    {
-      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
-      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
-      "score": 140,
-      "comments": 116,
-      "source": "science.org"
+      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "score": 200,
+      "comments": 64,
+      "source": "legiscan.com"
     },
     {
       "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
       "url": "https://www.alqst.org/ar/posts/1190",
-      "score": 912,
-      "comments": 387,
+      "score": 997,
+      "comments": 425,
       "source": "alqst.org"
-    },
-    {
-      "title": "Formal Verification Gates for AI Coding Loops",
-      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-      "score": 104,
-      "comments": 24,
-      "source": "reubenbrooks.dev"
     }
   ],
   "security": [
