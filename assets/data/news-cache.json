@@ -1,203 +1,209 @@
 {
   "tech": [
     {
-      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "score": 131,
-      "comments": 29,
-      "source": "prismreports.org"
-    },
-    {
-      "title": "BBEdit 16",
-      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-      "score": 29,
-      "comments": 3,
-      "source": "barebones.com"
-    },
-    {
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 149,
-      "comments": 42,
+      "score": 509,
+      "comments": 124,
       "source": "valhovey.github.io"
     },
     {
-      "title": "Flipper One \u2013 we need your help",
-      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 816,
-      "comments": 362,
-      "source": "blog.flipper.net"
+      "title": "Using Kagi Search with Low Vision",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "score": 112,
+      "comments": 19,
+      "source": "veroniiiica.com"
     },
     {
-      "title": "More than 340 local news outlets are limiting the Internet Archive's access",
-      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-      "score": 37,
-      "comments": 3,
-      "source": "niemanlab.org"
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "score": 149,
+      "comments": 87,
+      "source": "crocidb.com"
     },
     {
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "score": 156,
-      "comments": 57,
-      "source": "blog.simbastack.com"
-    },
-    {
-      "title": "Python 3.15: features that didn't make the headlines",
-      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 240,
-      "comments": 116,
-      "source": "blog.changs.co.uk"
-    },
-    {
-      "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
-      "url": "https://www.runtm.com/",
-      "score": 31,
-      "comments": 7,
-      "source": "runtm.com"
-    },
-    {
-      "title": "Spotify will start reserving concert tickets for fans",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
-      "score": 7,
-      "comments": 3,
-      "source": "hollywoodreporter.com"
-    },
-    {
-      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
-      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 201,
-      "comments": 58,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Was my $48K GPU server worth it?",
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 65,
-      "comments": 39,
-      "source": "rosmine.ai"
+      "title": "AI is killing the cheap smartphone",
+      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "score": 48,
+      "comments": 8,
+      "source": "davidoks.blog"
     },
     {
       "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 486,
-      "comments": 416,
+      "score": 559,
+      "comments": 505,
       "source": "blog.google"
     },
     {
-      "title": "Mounting Git commits as folders with NFS",
-      "url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
-      "score": 49,
-      "comments": 31,
-      "source": "jvns.ca"
+      "title": "Was my $48K GPU server worth it?",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "score": 263,
+      "comments": 199,
+      "source": "rosmine.ai"
     },
     {
-      "title": "What Is Happening to Publishing?",
-      "url": "https://resobscura.substack.com/p/what-is-happening-to-publishing",
-      "score": 42,
-      "comments": 13,
-      "source": "resobscura.substack.com"
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
+      "score": 181,
+      "comments": 94,
+      "source": "freenet.org"
     },
     {
-      "title": "Museum of Pocket Calculating Devices",
-      "url": "https://www.calculators.de/",
-      "score": 26,
-      "comments": 4,
-      "source": "calculators.de"
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "score": 52,
+      "comments": 21,
+      "source": "loopwerk.io"
     },
     {
-      "title": "Michael Keating has died",
-      "url": "https://www.bigfinish.com/news/v/michael-keating-1947-2026",
-      "score": 70,
-      "comments": 34,
-      "source": "bigfinish.com"
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "score": 279,
+      "comments": 90,
+      "source": "blog.simbastack.com"
     },
     {
-      "title": "Bournegol???",
-      "url": "https://oldhome.schmorp.de/marc/bournegol.html",
-      "score": 5,
-      "comments": 1,
-      "source": "oldhome.schmorp.de"
+      "title": "Spotify will start reserving concert tickets for fans",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+      "score": 91,
+      "comments": 193,
+      "source": "hollywoodreporter.com"
+    },
+    {
+      "title": "Python 3.15: features that didn't make the headlines",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "score": 325,
+      "comments": 157,
+      "source": "blog.changs.co.uk"
+    },
+    {
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "score": 400,
+      "comments": 165,
+      "source": "prismreports.org"
+    },
+    {
+      "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
+      "url": "https://www.runtm.com/",
+      "score": 60,
+      "comments": 19,
+      "source": "runtm.com"
     },
     {
       "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
       "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-      "score": 120,
-      "comments": 140,
+      "score": 241,
+      "comments": 301,
       "source": "techcrunch.com"
     },
     {
-      "title": "Vivaldi 8.0",
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "score": 267,
-      "comments": 195,
-      "source": "vivaldi.com"
+      "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+      "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+      "score": 23,
+      "comments": 3,
+      "source": "pacifichorticulture.org"
     },
     {
-      "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
-      "url": "https://fatgid.io/",
-      "score": 65,
-      "comments": 28,
-      "source": "fatgid.io"
+      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+      "score": 278,
+      "comments": 91,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "We Reverse-Engineered Docker Sandbox's Undocumented MicroVM API",
-      "url": "https://rivet.dev/blog/2026-02-04-we-reverse-engineered-docker-sandbox-undocumented-microvm-api/",
-      "score": 43,
-      "comments": 6,
-      "source": "rivet.dev"
+      "title": "Flipper One \u2013 we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "score": 1028,
+      "comments": 413,
+      "source": "blog.flipper.net"
     },
     {
-      "title": "Magic the Gathering format: Fun 40",
-      "url": "https://fabiensanglard.net/mtg/fun/",
-      "score": 54,
-      "comments": 51,
-      "source": "fabiensanglard.net"
-    },
-    {
-      "title": "Chewing gum restores dad's taste and smell years after Covid",
-      "url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
-      "score": 47,
-      "comments": 14,
-      "source": "discover.swns.com"
+      "title": "BBEdit 16",
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "score": 258,
+      "comments": 79,
+      "source": "barebones.com"
     },
     {
       "title": "Where are all the UK red telephone kiosks?",
       "url": "https://www.thek6project.co.uk/",
-      "score": 4,
-      "comments": 0,
+      "score": 69,
+      "comments": 41,
       "source": "thek6project.co.uk"
     },
     {
-      "title": "Google's Antigravity Bait and Switch",
+      "title": "Replacing My ISP Router with a UniFi Cloud Gateway Max",
+      "url": "https://kevquirk.com/replacing-my-isp-router-with-a-unifi-cloud-gateway-max",
+      "score": 5,
+      "comments": 1,
+      "source": "kevquirk.com"
+    },
+    {
+      "title": "News outlets are limiting the Internet Archive\u2019s access to their journalism",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "score": 203,
+      "comments": 76,
+      "source": "niemanlab.org"
+    },
+    {
+      "title": "Google's Antigravity bait and switch",
       "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "score": 371,
-      "comments": 204,
+      "score": 515,
+      "comments": 259,
       "source": "0xsid.com"
     },
     {
-      "title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
-      "url": "https://github.com/helvesec/rmux",
-      "score": 148,
-      "comments": 71,
+      "title": "Mounting git commits as folders with NFS (2023)",
+      "url": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
+      "score": 90,
+      "comments": 44,
+      "source": "jvns.ca"
+    },
+    {
+      "title": "Vivaldi 8.0",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "score": 342,
+      "comments": 230,
+      "source": "vivaldi.com"
+    },
+    {
+      "title": "Throwing AI-generated walls of text into conversations",
+      "url": "https://noslopgrenade.com/",
+      "score": 483,
+      "comments": 287,
+      "source": "noslopgrenade.com"
+    },
+    {
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "url": "https://arxiv.org/abs/2605.12460",
+      "score": 47,
+      "comments": 4,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Google Is Shattering Under Its Own Weight (The IBM-Ification of Google?)",
+      "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
+      "score": 5,
+      "comments": 0,
+      "source": "zeroshot.bearblog.dev"
+    },
+    {
+      "title": "Show HN: Open-source .docx editor library for building document apps",
+      "url": "https://github.com/eigenpal/docx-editor",
+      "score": 33,
+      "comments": 3,
       "source": "github.com"
-    },
-    {
-      "title": "What Do G\u00f6del's Incompleteness Theorems Mean?",
-      "url": "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/",
-      "score": 105,
-      "comments": 46,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "A Bipartisan Amendment Would End Police License Plate Tracking Nationwide",
-      "url": "https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/",
-      "score": 174,
-      "comments": 55,
-      "source": "wired.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS KY3P report now available for third-party supplier due diligence",
+      "url": "https://aws.amazon.com/blogs/security/aws-ky3p-report-now-available-for-third-party-supplier-due-diligence/",
+      "date": "2026-05-21 19:58:03",
+      "author": "Michael Murphy"
+    },
     {
       "title": "Automating identity lifecycle and security with AWS Directory Service APIs",
       "url": "https://aws.amazon.com/blogs/security/automating-identity-lifecycle-and-security-with-aws-directory-service-apis/",
@@ -251,12 +257,6 @@
       "url": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment/",
       "date": "2026-05-13 21:47:27",
       "author": "Jason Palmer"
-    },
-    {
-      "title": "Introducing the updated AWS User Guide to Governance, Risk, and Compliance for Responsible AI Adoption",
-      "url": "https://aws.amazon.com/blogs/security/introducing-the-updated-aws-user-guide-to-governance-risk-and-compliance-for-responsible-ai-adoption/",
-      "date": "2026-05-13 19:07:42",
-      "author": "Krish De"
     }
   ]
 }
