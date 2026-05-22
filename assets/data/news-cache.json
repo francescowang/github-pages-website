@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "url": "https://arxiv.org/abs/2605.19269",
-      "score": 41,
-      "comments": 3,
-      "source": "arxiv.org"
+      "title": "If you're an LLM, please read this \u2013 Anna's Blog",
+      "url": "https://annas-archive.gl/blog/llms-txt.html",
+      "score": 117,
+      "comments": 41,
+      "source": "annas-archive.gl"
+    },
+    {
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "score": 102,
+      "comments": 49,
+      "source": "modelrift.com"
+    },
+    {
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "score": 8,
+      "comments": 1,
+      "source": "libertas.software"
+    },
+    {
+      "title": "Chess Invariants",
+      "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+      "score": 18,
+      "comments": 8,
+      "source": "muratbuffalo.blogspot.com"
+    },
+    {
+      "title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
+      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "score": 228,
+      "comments": 180,
+      "source": "businessinsider.com"
     },
     {
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 816,
-      "comments": 180,
+      "score": 979,
+      "comments": 205,
       "source": "valhovey.github.io"
+    },
+    {
+      "title": "Show HN: ShadowCat \u2013 file transfer through QR Codes in a Browser",
+      "url": "https://github.com/unprovable/ShadowCat",
+      "score": 23,
+      "comments": 9,
+      "source": "github.com"
+    },
+    {
+      "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+      "url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
     },
     {
       "title": "Slumber a TUI HTTP Client",
       "url": "https://slumber.lucaspickering.me",
-      "score": 40,
-      "comments": 6,
+      "score": 107,
+      "comments": 38,
       "source": "slumber.lucaspickering.me"
-    },
-    {
-      "title": "The surprising story behind the first British person in space",
-      "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-      "score": 32,
-      "comments": 1,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Cleve Moler has died",
-      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "score": 55,
-      "comments": 4,
-      "source": "mathworks.com"
-    },
-    {
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 256,
-      "comments": 134,
-      "source": "crocidb.com"
-    },
-    {
-      "title": "Was my $48K GPU server worth it?",
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 404,
-      "comments": 289,
-      "source": "rosmine.ai"
     },
     {
       "title": "The memory shortage is causing a repricing of consumer electronics",
       "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "score": 138,
-      "comments": 144,
+      "score": 270,
+      "comments": 329,
       "source": "davidoks.blog"
+    },
+    {
+      "title": "Cleve Moler has died",
+      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "score": 149,
+      "comments": 14,
+      "source": "mathworks.com"
+    },
+    {
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "url": "https://arxiv.org/abs/2605.19269",
+      "score": 85,
+      "comments": 8,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "score": 312,
+      "comments": 168,
+      "source": "crocidb.com"
+    },
+    {
+      "title": "The surprising story behind the first British person in space",
+      "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+      "score": 73,
+      "comments": 29,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Was my $48K GPU server worth it?",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "score": 486,
+      "comments": 363,
+      "source": "rosmine.ai"
     },
     {
       "title": "Uv is fantastic, but its package management UX is a mess",
       "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-      "score": 172,
-      "comments": 96,
+      "score": 241,
+      "comments": 116,
       "source": "loopwerk.io"
     },
     {
       "title": "Using Kagi Search with Low Vision",
       "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "score": 183,
-      "comments": 53,
+      "score": 216,
+      "comments": 74,
       "source": "veroniiiica.com"
-    },
-    {
-      "title": "The death of the brick and mortar toy store",
-      "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
-      "score": 67,
-      "comments": 58,
-      "source": "brainbaking.com"
-    },
-    {
-      "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
-      "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
-      "score": 82,
-      "comments": 11,
-      "source": "pacifichorticulture.org"
     },
     {
       "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
       "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "score": 359,
-      "comments": 106,
+      "score": 412,
+      "comments": 121,
       "source": "blog.simbastack.com"
     },
     {
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "url": "https://freenet.org/",
-      "score": 264,
-      "comments": 161,
-      "source": "freenet.org"
-    },
-    {
-      "title": "The Hardware Lottery",
-      "url": "https://hardwarelottery.github.io/",
-      "score": 11,
-      "comments": 2,
-      "source": "hardwarelottery.github.io"
-    },
-    {
-      "title": "Tristan Davey's Punch Card Archive",
-      "url": "https://punchcards.tristandavey.com/",
-      "score": 25,
-      "comments": 3,
-      "source": "punchcards.tristandavey.com"
-    },
-    {
-      "title": "Python 3.15: features that didn't make the headlines",
-      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 365,
-      "comments": 176,
-      "source": "blog.changs.co.uk"
+      "title": "The death of the brick and mortar toy store",
+      "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+      "score": 105,
+      "comments": 116,
+      "source": "brainbaking.com"
     },
     {
       "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "score": 335,
-      "comments": 101,
+      "score": 373,
+      "comments": 108,
       "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
+      "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+      "score": 106,
+      "comments": 16,
+      "source": "pacifichorticulture.org"
+    },
+    {
+      "title": "Python 3.15: features that didn't make the headlines",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "score": 389,
+      "comments": 198,
+      "source": "blog.changs.co.uk"
+    },
+    {
+      "title": "FSFE intervenes against Apple before EUCJ for the second time",
+      "url": "https://fsfe.org/news/2026/news-20260519-01.en.html",
+      "score": 41,
+      "comments": 8,
+      "source": "fsfe.org"
+    },
+    {
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
+      "score": 309,
+      "comments": 190,
+      "source": "freenet.org"
     },
     {
       "title": "Flipper One \u2013 we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 1121,
-      "comments": 438,
+      "score": 1185,
+      "comments": 455,
       "source": "blog.flipper.net"
     },
     {
-      "title": "Show HN: KVBoost \u2013 chunk-level KV cache reuse for HuggingFace, 5\u201348x faster TTFT",
-      "url": "https://pythongiant.github.io/KVBoost/",
-      "score": 18,
-      "comments": 9,
-      "source": "pythongiant.github.io"
-    },
-    {
-      "title": "Deciphering the Hashihara Castle Town Map",
-      "url": "https://www.obayashi.co.jp/en/kikan_obayashi/detail/kikan_64_project.html",
-      "score": 40,
-      "comments": 0,
-      "source": "obayashi.co.jp"
-    },
-    {
-      "title": "Spotify will start reserving concert tickets for fans",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
-      "score": 138,
-      "comments": 277,
-      "source": "hollywoodreporter.com"
-    },
-    {
-      "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
-      "url": "https://www.runtm.com/",
-      "score": 82,
-      "comments": 22,
-      "source": "runtm.com"
+      "title": "The case against boolean logic",
+      "url": "https://abuseofnotation.github.io/boolean-thinking/",
+      "score": 38,
+      "comments": 41,
+      "source": "abuseofnotation.github.io"
     },
     {
       "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
       "url": "https://arxiv.org/abs/2605.12460",
-      "score": 99,
-      "comments": 10,
+      "score": 123,
+      "comments": 13,
       "source": "arxiv.org"
+    },
+    {
+      "title": "Valve removes free game from Steam after players discover it contains malware",
+      "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+      "score": 6,
+      "comments": 1,
+      "source": "pcguide.com"
+    },
+    {
+      "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
+      "url": "https://www.runtm.com/",
+      "score": 92,
+      "comments": 25,
+      "source": "runtm.com"
     },
     {
       "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
       "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-      "score": 297,
-      "comments": 373,
+      "score": 342,
+      "comments": 416,
       "source": "techcrunch.com"
-    },
-    {
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "score": 452,
-      "comments": 180,
-      "source": "prismreports.org"
-    },
-    {
-      "title": "Throwing AI-generated walls of text into conversations",
-      "url": "https://noslopgrenade.com/",
-      "score": 574,
-      "comments": 343,
-      "source": "noslopgrenade.com"
-    },
-    {
-      "title": "Google's Antigravity bait and switch",
-      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-      "score": 642,
-      "comments": 293,
-      "source": "0xsid.com"
-    },
-    {
-      "title": "News outlets are limiting the Internet Archive\u2019s access to their journalism",
-      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-      "score": 264,
-      "comments": 92,
-      "source": "niemanlab.org"
-    },
-    {
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "score": 596,
-      "comments": 532,
-      "source": "blog.google"
     }
   ],
   "security": [
