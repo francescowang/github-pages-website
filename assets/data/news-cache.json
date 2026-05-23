@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Don't just paste the AI at me",
-      "url": "https://dontquotetheai.com/",
-      "score": 75,
-      "comments": 42,
-      "source": "dontquotetheai.com"
-    },
-    {
-      "title": "Shipping a Laptop to a Refugee Camp in Uganda",
+      "title": "Shipping a laptop to a refugee camp in Uganda",
       "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 144,
-      "comments": 29,
+      "score": 347,
+      "comments": 109,
       "source": "notesbylex.com"
     },
     {
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 458,
-      "comments": 267,
+      "score": 614,
+      "comments": 303,
       "source": "davidoks.blog"
     },
     {
       "title": "Project Glasswing: An Initial Update",
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 283,
-      "comments": 187,
+      "score": 398,
+      "comments": 231,
       "source": "anthropic.com"
     },
     {
-      "title": "A Wayland Compositor in Minecraft",
-      "url": "https://modrinth.com/mod/waylandcraft",
-      "score": 107,
-      "comments": 23,
-      "source": "modrinth.com"
+      "title": "Blood Pumping Mechanism of the Hoof (2020)",
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "score": 67,
+      "comments": 11,
+      "source": "horses.extension.org"
     },
     {
       "title": "Sleep research led to a new sleep apnea drug",
       "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-      "score": 38,
-      "comments": 19,
+      "score": 130,
+      "comments": 81,
       "source": "temertymedicine.utoronto.ca"
     },
     {
-      "title": "Open source Kanban desktop app that runs parallel agents on every card",
-      "url": "https://www.kanbots.dev/",
-      "score": 153,
-      "comments": 89,
-      "source": "kanbots.dev"
+      "title": "Sp.h is the standard library that C deserves",
+      "url": "https://spader.zone/sp/",
+      "score": 76,
+      "comments": 50,
+      "source": "spader.zone"
     },
     {
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+      "score": 50,
+      "comments": 11,
+      "source": "phys.org"
+    },
+    {
+      "title": "White House ordering agencies to place its new app on all employees' govt phones",
+      "url": "https://www.govexec.com/management/2026/05/white-house-ordering-agencies-place-its-new-app-all-employees-government-phones/413738/",
+      "score": 8,
+      "comments": 2,
+      "source": "govexec.com"
+    },
+    {
+      "title": "What is the history of the ERROR_ARENA_TRASHED error code?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339",
+      "score": 15,
+      "comments": 4,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "score": 190,
+      "comments": 133,
+      "source": "theverge.com"
+    },
+    {
+      "title": "CISA tries to contain data leak",
       "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "score": 113,
-      "comments": 32,
+      "score": 183,
+      "comments": 46,
       "source": "krebsonsecurity.com"
     },
     {
-      "title": "Why We've Filed a Referendum",
-      "url": "https://www.stopstratos.org",
-      "score": 36,
-      "comments": 10,
-      "source": "stopstratos.org"
-    },
-    {
-      "title": "I\u2019m Writing Again",
-      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
-      "score": 87,
-      "comments": 23,
-      "source": "cringely.com"
-    },
-    {
-      "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
-      "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
-      "score": 18,
-      "comments": 0,
-      "source": "bumbershootsoft.wordpress.com"
-    },
-    {
-      "title": "SpaceX launches Starship v3 rocket",
-      "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-      "score": 48,
-      "comments": 14,
-      "source": "nbcnews.com"
+      "title": "A Wayland Compositor in Minecraft",
+      "url": "https://modrinth.com/mod/waylandcraft",
+      "score": 186,
+      "comments": 32,
+      "source": "modrinth.com"
     },
     {
       "title": "Deno 2.8",
       "url": "https://deno.com/blog/v2.8",
-      "score": 297,
-      "comments": 136,
+      "score": 345,
+      "comments": 146,
       "source": "deno.com"
     },
     {
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
       "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "score": 339,
-      "comments": 131,
+      "score": 375,
+      "comments": 147,
       "source": "modelrift.com"
     },
     {
-      "title": "Wi-Wi is wireless time sync at 1 nanosecond",
-      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
-      "score": 75,
-      "comments": 10,
-      "source": "jeffgeerling.com"
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
+      "score": 206,
+      "comments": 119,
+      "source": "kanbots.dev"
+    },
+    {
+      "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
+      "score": 55,
+      "comments": 2,
+      "source": "bumbershootsoft.wordpress.com"
     },
     {
       "title": "1940 Air Terminal Museum Begins Liquidation",
       "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "score": 78,
-      "comments": 25,
+      "score": 113,
+      "comments": 28,
       "source": "1940airterminal.org"
     },
     {
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "url": "https://github.com/anomalyco/models.dev",
-      "score": 94,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "Bun support is now limited and deprecated",
-      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-      "score": 343,
-      "comments": 359,
-      "source": "github.com"
-    },
-    {
-      "title": "Gaza flotilla activists allege sexual assault and rape in Israeli detention",
-      "url": "https://www.theguardian.com/world/2026/may/22/gaza-flotilla-activists-allege-sexual-assault-and-in-israeli-detention",
-      "score": 33,
-      "comments": 3,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "A blueprint for formal verification of Apple corecrypto",
-      "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
-      "score": 48,
-      "comments": 1,
-      "source": "security.apple.com"
-    },
-    {
-      "title": "Launch HN: Superset (YC P26) \u2013 IDE for the agents era",
-      "url": "https://github.com/superset-sh/superset",
-      "score": 76,
-      "comments": 94,
-      "source": "github.com"
+      "title": "Wi-Wi is wireless time sync at 1 nanosecond",
+      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+      "score": 111,
+      "comments": 21,
+      "source": "jeffgeerling.com"
     },
     {
       "title": "A Forth-inspired language for writing websites",
       "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-      "score": 97,
-      "comments": 13,
+      "score": 142,
+      "comments": 14,
       "source": "robida.net"
     },
     {
-      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
-      "score": 325,
-      "comments": 198,
-      "source": "science.org"
+      "title": "I\u2019m writing again",
+      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+      "score": 131,
+      "comments": 35,
+      "source": "cringely.com"
+    },
+    {
+      "title": "A blueprint for formal verification of Apple corecrypto",
+      "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
+      "score": 86,
+      "comments": 4,
+      "source": "security.apple.com"
+    },
+    {
+      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+      "score": 120,
+      "comments": 35,
+      "source": "pcmag.com"
+    },
+    {
+      "title": "\"Stick\" \u2013 A primitive/fun interactive demo of a tiny rig to animate layout",
+      "url": "https://cosmiciron.github.io/layoutmaster/exclusion-assembly.html",
+      "score": 33,
+      "comments": 5,
+      "source": "cosmiciron.github.io"
+    },
+    {
+      "title": "The Quadratic Sandwich",
+      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+      "score": 5,
+      "comments": 0,
+      "source": "fedemagnani.github.io"
+    },
+    {
+      "title": "Bun support is now limited and deprecated",
+      "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+      "score": 447,
+      "comments": 445,
+      "source": "github.com"
+    },
+    {
+      "title": "Launch HN: Superset (YC P26) \u2013 IDE for the agents era",
+      "url": "https://github.com/superset-sh/superset",
+      "score": 92,
+      "comments": 116,
+      "source": "github.com"
     },
     {
       "title": "If you\u2019re an LLM, please read this",
       "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "score": 719,
-      "comments": 401,
+      "score": 787,
+      "comments": 418,
       "source": "annas-archive.gl"
     },
     {
-      "title": "YAML? That's Norway Problem",
-      "url": "https://lab174.com/blog/202601-yaml-norway/",
-      "score": 10,
-      "comments": 2,
-      "source": "lab174.com"
+      "title": "Staged publishing and new install-time controls for npm",
+      "url": "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/",
+      "score": 39,
+      "comments": 3,
+      "source": "github.blog"
     },
     {
-      "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-      "url": "https://arxiv.org/abs/2605.22001",
-      "score": 31,
-      "comments": 4,
-      "source": "arxiv.org"
+      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "score": 384,
+      "comments": 236,
+      "source": "science.org"
     },
     {
-      "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 1136,
-      "comments": 228,
-      "source": "valhovey.github.io"
-    },
-    {
-      "title": "DeepSeek makes the V4 Pro price discount permanent",
-      "url": "https://api-docs.deepseek.com/quick_start/pricing",
-      "score": 292,
-      "comments": 169,
-      "source": "api-docs.deepseek.com"
-    },
-    {
-      "title": "Thinking in an array language (2022)",
-      "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-      "score": 42,
-      "comments": 7,
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "score": 128,
+      "comments": 22,
       "source": "github.com"
-    },
-    {
-      "title": "The memory shortage is causing a repricing of consumer electronics",
-      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "score": 464,
-      "comments": 560,
-      "source": "davidoks.blog"
     }
   ],
   "security": [
