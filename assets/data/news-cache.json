@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "On The <dl> (2021)",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "score": 249,
+      "comments": 71,
+      "source": "benmyers.dev"
+    },
+    {
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "score": 33,
+      "comments": 3,
+      "source": "righto.com"
+    },
+    {
+      "title": "My two-part desk setup",
+      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+      "score": 30,
+      "comments": 7,
+      "source": "arslan.io"
+    },
+    {
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
+      "score": 70,
+      "comments": 13,
+      "source": "nand2mario.github.io"
+    },
+    {
+      "title": "Hengefinder: Finding When the Sun Aligns with Your Street",
+      "url": "https://victoriaritvo.com/blog/hengefinder/",
+      "score": 19,
+      "comments": 3,
+      "source": "victoriaritvo.com"
+    },
+    {
       "title": "80386 Microcode Disassembled",
       "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 6,
-      "comments": 0,
+      "score": 165,
+      "comments": 26,
       "source": "reenigne.org"
     },
     {
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 528,
-      "comments": 183,
-      "source": "notesbylex.com"
+      "title": "The Art of Money Getting",
+      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "score": 90,
+      "comments": 51,
+      "source": "kk.org"
     },
     {
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "url": "https://github.com/amatsuda/rubish",
-      "score": 69,
-      "comments": 29,
-      "source": "github.com"
-    },
-    {
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "score": 58,
-      "comments": 24,
-      "source": "dutchnews.nl"
+      "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "score": 99,
+      "comments": 30,
+      "source": "euronews.com"
     },
     {
       "title": "Making Deep Learning Go Brrrr from First Principles",
       "url": "https://horace.io/brrr_intro.html",
-      "score": 8,
-      "comments": 0,
+      "score": 114,
+      "comments": 43,
       "source": "horace.io"
+    },
+    {
+      "title": "AI Engineering from Scratch",
+      "url": "https://aiengineeringfromscratch.com",
+      "score": 44,
+      "comments": 7,
+      "source": "aiengineeringfromscratch.com"
+    },
+    {
+      "title": "JWT is a scam and your app doesn't need it",
+      "url": "https://www.dusanmalusev.dev/blog/jwt-is-a-scam-and-your-app-doesnt-need-it",
+      "score": 40,
+      "comments": 8,
+      "source": "dusanmalusev.dev"
+    },
+    {
+      "title": "Oura says it gets government demands for user data",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "score": 195,
+      "comments": 115,
+      "source": "this.weekinsecurity.com"
+    },
+    {
+      "title": "Highest Random Weight in Elixir",
+      "url": "https://jola.dev/posts/highest-random-weight-in-elixir",
+      "score": 43,
+      "comments": 1,
+      "source": "jola.dev"
+    },
+    {
+      "title": "Evaluating Spec CPU2026",
+      "url": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
+      "score": 7,
+      "comments": 0,
+      "source": "chipsandcheese.com"
     },
     {
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 725,
-      "comments": 342,
+      "score": 810,
+      "comments": 379,
       "source": "davidoks.blog"
+    },
+    {
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "score": 625,
+      "comments": 217,
+      "source": "notesbylex.com"
+    },
+    {
+      "title": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
+      "url": "https://twitter.com/i/status/2058064720553222567",
+      "score": 70,
+      "comments": 69,
+      "source": "twitter.com"
+    },
+    {
+      "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
+      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+      "score": 130,
+      "comments": 67,
+      "source": "wired.com"
+    },
+    {
+      "title": "Lisp in Vim (2019)",
+      "url": "https://susam.net/lisp-in-vim.html",
+      "score": 30,
+      "comments": 5,
+      "source": "susam.net"
+    },
+    {
+      "title": "Rubish: A Unix shell written in pure Ruby",
+      "url": "https://github.com/amatsuda/rubish",
+      "score": 139,
+      "comments": 83,
+      "source": "github.com"
+    },
+    {
+      "title": "Solving the \u201cZork\u201d Mystery",
+      "url": "https://www.dpolakovic.space/blogs/zork-part2",
+      "score": 37,
+      "comments": 14,
+      "source": "dpolakovic.space"
+    },
+    {
+      "title": "Improving C# Memory Safety",
+      "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+      "score": 111,
+      "comments": 22,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "score": 13,
+      "comments": 1,
+      "source": "reclaimthenet.org"
+    },
+    {
+      "title": "PHP's Oddities",
+      "url": "https://flowtwo.io/post/php%27s-oddities",
+      "score": 46,
+      "comments": 49,
+      "source": "flowtwo.io"
+    },
+    {
+      "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
+      "url": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
+      "score": 41,
+      "comments": 3,
+      "source": "lanl.gov"
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "score": 426,
+      "comments": 403,
+      "source": "theverge.com"
     },
     {
       "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
       "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "score": 134,
-      "comments": 35,
+      "score": 349,
+      "comments": 131,
       "source": "xcancel.com"
     },
     {
       "title": "The quadratic sandwich",
       "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-      "score": 68,
-      "comments": 4,
+      "score": 111,
+      "comments": 10,
       "source": "fedemagnani.github.io"
     },
     {
-      "title": "Improving C# Memory Safety",
-      "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
-      "score": 21,
-      "comments": 2,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "score": 316,
-      "comments": 262,
-      "source": "theverge.com"
+      "title": "Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
+      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
+      "score": 71,
+      "comments": 63,
+      "source": "arstechnica.com"
     },
     {
       "title": "Project Glasswing: An Initial Update",
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 460,
-      "comments": 276,
+      "score": 499,
+      "comments": 294,
       "source": "anthropic.com"
-    },
-    {
-      "title": "ArcBrush \u2013 Node-based 2D image editor",
-      "url": "https://arcbrush.com/",
-      "score": 22,
-      "comments": 8,
-      "source": "arcbrush.com"
-    },
-    {
-      "title": "Yeunjoo Choi from Igalia on Chromium",
-      "url": "https://theconsensus.dev/p/2026/05/20/yeunjoo-choi-from-igalia-on-chromium.html",
-      "score": 29,
-      "comments": 3,
-      "source": "theconsensus.dev"
-    },
-    {
-      "title": "Blood Pumping Mechanism of the Hoof (2020)",
-      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
-      "score": 98,
-      "comments": 28,
-      "source": "horses.extension.org"
-    },
-    {
-      "title": "Sleep research led to a new sleep apnea drug",
-      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-      "score": 179,
-      "comments": 102,
-      "source": "temertymedicine.utoronto.ca"
-    },
-    {
-      "title": "CISA tries to contain data leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "score": 223,
-      "comments": 50,
-      "source": "krebsonsecurity.com"
-    },
-    {
-      "title": "Fast Factorial Algorithms",
-      "url": "http://www.luschny.de/math/factorial/FastFactorialFunctions.htm",
-      "score": 9,
-      "comments": 3,
-      "source": "luschny.de"
-    },
-    {
-      "title": "DHS Quits Granting Green Cards\u2013Almost",
-      "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
-      "score": 13,
-      "comments": 2,
-      "source": "cato.org"
-    },
-    {
-      "title": "Deno 2.8",
-      "url": "https://deno.com/blog/v2.8",
-      "score": 377,
-      "comments": 158,
-      "source": "deno.com"
-    },
-    {
-      "title": "What is the history of the ERROR_ARENA_TRASHED error code?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339",
-      "score": 41,
-      "comments": 12,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Experience: We found a baby on the subway \u2013 now he's our 26-year-old son",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-      "score": 127,
-      "comments": 35,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "A Wayland Compositor in Minecraft",
-      "url": "https://modrinth.com/mod/waylandcraft",
-      "score": 233,
-      "comments": 52,
-      "source": "modrinth.com"
-    },
-    {
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-      "score": 393,
-      "comments": 153,
-      "source": "modelrift.com"
-    },
-    {
-      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
-      "score": 77,
-      "comments": 27,
-      "source": "phys.org"
-    },
-    {
-      "title": "Open source Kanban desktop app that runs parallel agents on every card",
-      "url": "https://www.kanbots.dev/",
-      "score": 229,
-      "comments": 136,
-      "source": "kanbots.dev"
-    },
-    {
-      "title": "Comparing an LZ4 Decompressor on Four Legacy CPUs",
-      "url": "https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/",
-      "score": 79,
-      "comments": 5,
-      "source": "bumbershootsoft.wordpress.com"
-    },
-    {
-      "title": "A Forth-inspired language for writing websites",
-      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-      "score": 152,
-      "comments": 17,
-      "source": "robida.net"
-    },
-    {
-      "title": "I\u2019m writing again",
-      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
-      "score": 153,
-      "comments": 38,
-      "source": "cringely.com"
-    },
-    {
-      "title": "Wi-Wi is wireless time sync at 1 nanosecond",
-      "url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
-      "score": 127,
-      "comments": 32,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "1940 Air Terminal Museum Begins Liquidation",
-      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "score": 120,
-      "comments": 30,
-      "source": "1940airterminal.org"
     }
   ],
   "security": [
