@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "It's time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "score": 261,
+      "comments": 137,
+      "source": "veronicaexplains.net"
+    },
+    {
+      "title": "My I3-Emacs Integration",
+      "url": "https://khz.ac/software/i3-integration.html",
+      "score": 18,
+      "comments": 4,
+      "source": "khz.ac"
+    },
+    {
+      "title": "My two-part desk setup (2025)",
+      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+      "score": 205,
+      "comments": 124,
+      "source": "arslan.io"
+    },
+    {
+      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+      "url": "https://sales-and-dungeons.app/",
+      "score": 32,
+      "comments": 12,
+      "source": "sales-and-dungeons.app"
+    },
+    {
       "title": "On The <dl> (2021)",
       "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 249,
-      "comments": 71,
+      "score": 344,
+      "comments": 106,
       "source": "benmyers.dev"
+    },
+    {
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "score": 491,
+      "comments": 881,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Don't Roll Your Own",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "score": 63,
+      "comments": 44,
+      "source": "susam.net"
+    },
+    {
+      "title": ".NET (OK, C#) finally gets union types",
+      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+      "score": 129,
+      "comments": 107,
+      "source": "andrewlock.net"
+    },
+    {
+      "title": "Byrne's Euclid",
+      "url": "https://www.c82.net/euclid/",
+      "score": 8,
+      "comments": 3,
+      "source": "c82.net"
+    },
+    {
+      "title": "Hengefinder: Finding when the sun aligns with your street",
+      "url": "https://victoriaritvo.com/blog/hengefinder/",
+      "score": 104,
+      "comments": 24,
+      "source": "victoriaritvo.com"
+    },
+    {
+      "title": "New map reveals lost roads of the Roman Empire",
+      "url": "https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/",
+      "score": 35,
+      "comments": 5,
+      "source": "scientificamerican.com"
+    },
+    {
+      "title": "Toxic chemical leak at a manufacturing facility in Orange County",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
+      "score": 89,
+      "comments": 49,
+      "source": "bbc.com"
     },
     {
       "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
       "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "score": 33,
-      "comments": 3,
+      "score": 80,
+      "comments": 14,
       "source": "righto.com"
     },
     {
-      "title": "My two-part desk setup",
-      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "score": 30,
-      "comments": 7,
-      "source": "arslan.io"
+      "title": "SpaceX launches Starship v3 rocket",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight",
+      "score": 346,
+      "comments": 230,
+      "source": "space.com"
     },
     {
-      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
-      "url": "https://nand2mario.github.io/posts/2026/z386/",
-      "score": 70,
-      "comments": 13,
-      "source": "nand2mario.github.io"
+      "title": "Show HN: Anyone interested in a tool helps to explore C++ ASTs",
+      "url": "https://uvic-aurora.github.io/acav-manual/index.html",
+      "score": 9,
+      "comments": 1,
+      "source": "uvic-aurora.github.io"
     },
     {
-      "title": "Hengefinder: Finding When the Sun Aligns with Your Street",
-      "url": "https://victoriaritvo.com/blog/hengefinder/",
-      "score": 19,
-      "comments": 3,
-      "source": "victoriaritvo.com"
-    },
-    {
-      "title": "80386 Microcode Disassembled",
+      "title": "80386 microcode disassembled",
       "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 165,
-      "comments": 26,
+      "score": 217,
+      "comments": 43,
       "source": "reenigne.org"
     },
     {
       "title": "The Art of Money Getting",
       "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "score": 90,
-      "comments": 51,
+      "score": 185,
+      "comments": 122,
       "source": "kk.org"
     },
     {
-      "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
-      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-      "score": 99,
-      "comments": 30,
-      "source": "euronews.com"
-    },
-    {
-      "title": "Making Deep Learning Go Brrrr from First Principles",
-      "url": "https://horace.io/brrr_intro.html",
-      "score": 114,
-      "comments": 43,
-      "source": "horace.io"
-    },
-    {
-      "title": "AI Engineering from Scratch",
-      "url": "https://aiengineeringfromscratch.com",
-      "score": 44,
-      "comments": 7,
-      "source": "aiengineeringfromscratch.com"
-    },
-    {
-      "title": "JWT is a scam and your app doesn't need it",
-      "url": "https://www.dusanmalusev.dev/blog/jwt-is-a-scam-and-your-app-doesnt-need-it",
-      "score": 40,
-      "comments": 8,
-      "source": "dusanmalusev.dev"
-    },
-    {
-      "title": "Oura says it gets government demands for user data",
-      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "score": 195,
-      "comments": 115,
-      "source": "this.weekinsecurity.com"
-    },
-    {
-      "title": "Highest Random Weight in Elixir",
-      "url": "https://jola.dev/posts/highest-random-weight-in-elixir",
-      "score": 43,
+      "title": "Judson's Last Ride",
+      "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
+      "score": 9,
       "comments": 1,
-      "source": "jola.dev"
-    },
-    {
-      "title": "Evaluating Spec CPU2026",
-      "url": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
-      "score": 7,
-      "comments": 0,
-      "source": "chipsandcheese.com"
-    },
-    {
-      "title": "Why Japanese companies do so many different things",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 810,
-      "comments": 379,
-      "source": "davidoks.blog"
-    },
-    {
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 625,
-      "comments": 217,
-      "source": "notesbylex.com"
-    },
-    {
-      "title": "Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite",
-      "url": "https://twitter.com/i/status/2058064720553222567",
-      "score": 70,
-      "comments": 69,
-      "source": "twitter.com"
-    },
-    {
-      "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
-      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
-      "score": 130,
-      "comments": 67,
-      "source": "wired.com"
-    },
-    {
-      "title": "Lisp in Vim (2019)",
-      "url": "https://susam.net/lisp-in-vim.html",
-      "score": 30,
-      "comments": 5,
-      "source": "susam.net"
-    },
-    {
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "url": "https://github.com/amatsuda/rubish",
-      "score": 139,
-      "comments": 83,
-      "source": "github.com"
-    },
-    {
-      "title": "Solving the \u201cZork\u201d Mystery",
-      "url": "https://www.dpolakovic.space/blogs/zork-part2",
-      "score": 37,
-      "comments": 14,
-      "source": "dpolakovic.space"
-    },
-    {
-      "title": "Improving C# Memory Safety",
-      "url": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
-      "score": 111,
-      "comments": 22,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Texas woman arrested for Facebook post about town water quality",
-      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "score": 13,
-      "comments": 1,
-      "source": "reclaimthenet.org"
+      "source": "realclearpolitics.com"
     },
     {
       "title": "PHP's Oddities",
       "url": "https://flowtwo.io/post/php%27s-oddities",
-      "score": 46,
-      "comments": 49,
+      "score": 94,
+      "comments": 107,
       "source": "flowtwo.io"
     },
     {
-      "title": "A 1955 Los Alamos computer experiment changed our understanding of chaos",
-      "url": "https://www.lanl.gov/media/publications/1663/science-of-unpredictability",
-      "score": 41,
-      "comments": 3,
-      "source": "lanl.gov"
+      "title": "Making deep learning go brrrr from first principles (2022)",
+      "url": "https://horace.io/brrr_intro.html",
+      "score": 148,
+      "comments": 57,
+      "source": "horace.io"
     },
     {
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "score": 426,
-      "comments": 403,
-      "source": "theverge.com"
+      "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
+      "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
+      "score": 113,
+      "comments": 120,
+      "source": "reuters.com"
     },
     {
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "score": 349,
-      "comments": 131,
-      "source": "xcancel.com"
+      "title": "-\u200b-dangerously-skip-reading-code",
+      "url": "https://olano.dev/blog/dangerously-skip/",
+      "score": 86,
+      "comments": 106,
+      "source": "olano.dev"
     },
     {
-      "title": "The quadratic sandwich",
-      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-      "score": 111,
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "score": 606,
+      "comments": 264,
+      "source": "reclaimthenet.org"
+    },
+    {
+      "title": "Italy moves to Airbus A330 tankers",
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "score": 227,
+      "comments": 77,
+      "source": "euronews.com"
+    },
+    {
+      "title": "sp.h: Fixing C by giving it a high quality, ultra portable standard library",
+      "url": "https://spader.zone/sp/",
+      "score": 187,
+      "comments": 168,
+      "source": "spader.zone"
+    },
+    {
+      "title": "Bun.Image",
+      "url": "https://bun.com/docs/runtime/image",
+      "score": 31,
       "comments": 10,
-      "source": "fedemagnani.github.io"
+      "source": "bun.com"
     },
     {
-      "title": "Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
-      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
-      "score": 71,
-      "comments": 63,
-      "source": "arstechnica.com"
+      "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
+      "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
+      "score": 18,
+      "comments": 1,
+      "source": "projectsaltbox.com"
     },
     {
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 499,
-      "comments": 294,
-      "source": "anthropic.com"
+      "title": "A self-powered computer in actual credit-card size (~1mm thick)",
+      "url": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
+      "score": 48,
+      "comments": 4,
+      "source": "old.reddit.com"
+    },
+    {
+      "title": "Spanish court declines to fine NordVPN over LaLiga piracy blocking order",
+      "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
+      "score": 119,
+      "comments": 86,
+      "source": "torrentfreak.com"
+    },
+    {
+      "title": "Highest Random Weight in Elixir",
+      "url": "https://jola.dev/posts/highest-random-weight-in-elixir",
+      "score": 60,
+      "comments": 3,
+      "source": "jola.dev"
     }
   ],
   "security": [
