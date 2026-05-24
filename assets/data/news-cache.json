@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "score": 65,
-      "comments": 29,
-      "source": "fs.blog"
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "score": 84,
+      "comments": 83,
+      "source": "epoch.ai"
+    },
+    {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "score": 206,
+      "comments": 113,
+      "source": "esengine.github.io"
+    },
+    {
+      "title": "Ruby for Good",
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "score": 53,
+      "comments": 17,
+      "source": "ti.to"
+    },
+    {
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "score": 87,
+      "comments": 45,
+      "source": "arxiv.org"
     },
     {
       "title": "Mastering Dyalog APL",
       "url": "https://mastering.dyalog.com/README.html",
-      "score": 8,
-      "comments": 0,
+      "score": 89,
+      "comments": 18,
       "source": "mastering.dyalog.com"
-    },
-    {
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 308,
-      "comments": 93,
-      "source": "arstechnica.com"
     },
     {
       "title": "I spent 50 hours drawing a line graph",
       "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 91,
-      "comments": 13,
+      "score": 306,
+      "comments": 59,
       "source": "dougmacdowell.com"
     },
     {
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "score": 208,
-      "comments": 89,
-      "source": "adaptivesupport.amd.com"
+      "title": "Usborne 1980s Computer Books",
+      "url": "https://usborne.com/us/books/computer-and-coding-books",
+      "score": 96,
+      "comments": 30,
+      "source": "usborne.com"
     },
     {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 178,
-      "comments": 84,
-      "source": "techcrunch.com"
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "score": 114,
+      "comments": 57,
+      "source": "susam.net"
     },
     {
-      "title": "Silk: Open-source cooperative fiber scheduler",
-      "url": "https://github.com/ClickHouse/silk",
-      "score": 51,
+      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "score": 97,
+      "comments": 69,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "I keep bouncing off the Scheme language",
+      "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
+      "score": 88,
+      "comments": 32,
+      "source": "sicpers.info"
+    },
+    {
+      "title": "Noroboto: Lying Fonts and Mitigation in Rust",
+      "url": "https://tritium.legal/blog/noroboto",
+      "score": 13,
+      "comments": 4,
+      "source": "tritium.legal"
+    },
+    {
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "score": 377,
+      "comments": 123,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
+      "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+      "score": 39,
+      "comments": 34,
+      "source": "phoronix.com"
+    },
+    {
+      "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+      "url": "https://apple.github.io/ml-pico/",
+      "score": 49,
+      "comments": 18,
+      "source": "apple.github.io"
+    },
+    {
+      "title": "Build Adafruit projects right from Firefox",
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "score": 28,
+      "comments": 7,
+      "source": "firefox.com"
+    },
+    {
+      "title": "Curly braces: An evolution of Unix and C",
+      "url": "https://thalia.dev/blog/unix-braces/",
+      "score": 27,
       "comments": 5,
-      "source": "github.com"
+      "source": "thalia.dev"
     },
     {
       "title": "Wake up! 16b",
       "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 282,
-      "comments": 19,
+      "score": 367,
+      "comments": 25,
       "source": "hellmood.111mb.de"
+    },
+    {
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "score": 229,
+      "comments": 129,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Swap tables, flash-friendly swap, swap_ops, and more",
+      "url": "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/",
+      "score": 60,
+      "comments": 1,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Silk: Open-source cooperative fiber scheduler",
+      "url": "https://github.com/ClickHouse/silk",
+      "score": 91,
+      "comments": 13,
+      "source": "github.com"
     },
     {
       "title": "The C64 Dead Test Font",
       "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-      "score": 64,
-      "comments": 8,
+      "score": 111,
+      "comments": 19,
       "source": "masswerk.at"
     },
     {
       "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
       "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-      "score": 80,
-      "comments": 15,
+      "score": 115,
+      "comments": 23,
       "source": "quantamagazine.org"
     },
     {
-      "title": "All Lean Books and Where to Find Them",
-      "url": "https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ",
-      "score": 15,
-      "comments": 1,
-      "source": "lakesare.brick.do"
+      "title": "Predicting the 2026 Bristol Bay and Kodiak Salmon Runs",
+      "url": "https://www.salmonfinder.com/2026/05/13/bristol-bay-kodiak-predictions-2026",
+      "score": 8,
+      "comments": 4,
+      "source": "salmonfinder.com"
     },
     {
       "title": "Time to talk about my writerdeck",
       "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 392,
-      "comments": 233,
+      "score": 432,
+      "comments": 267,
       "source": "veronicaexplains.net"
-    },
-    {
-      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
-      "score": 55,
-      "comments": 21,
-      "source": "onlinelibrary.wiley.com"
-    },
-    {
-      "title": "Swap tables, flash-friendly swap, swap_ops, and more",
-      "url": "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/",
-      "score": 15,
-      "comments": 0,
-      "source": "lwn.net"
     },
     {
       "title": "On The <dl> (2021)",
       "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 406,
-      "comments": 118,
+      "score": 423,
+      "comments": 124,
       "source": "benmyers.dev"
     },
     {
-      "title": "My two-part desk setup (2025)",
-      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "score": 304,
-      "comments": 170,
-      "source": "arslan.io"
+      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/spe.70079",
+      "score": 95,
+      "comments": 50,
+      "source": "onlinelibrary.wiley.com"
     },
     {
-      "title": "Key, in sight \u2013 A guide, of sorts, to keyboard customization",
-      "url": "https://aresluna.org/key-in-sight/",
-      "score": 20,
-      "comments": 4,
-      "source": "aresluna.org"
+      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "score": 108,
+      "comments": 105,
+      "source": "bloomberg.com"
+    },
+    {
+      "title": "Artificial egg hatched 26 healthy chickens",
+      "url": "https://www.nationalgeographic.com/science/article/artificial-egg-colossal-chickens-moa-dodo",
+      "score": 59,
+      "comments": 86,
+      "source": "nationalgeographic.com"
     },
     {
       "title": "The Art of Money Getting",
       "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "score": 311,
-      "comments": 167,
+      "score": 362,
+      "comments": 199,
       "source": "kk.org"
-    },
-    {
-      "title": "My I3-Emacs Integration",
-      "url": "https://khz.ac/software/i3-integration.html",
-      "score": 86,
-      "comments": 29,
-      "source": "khz.ac"
-    },
-    {
-      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
-      "url": "https://sales-and-dungeons.app/",
-      "score": 103,
-      "comments": 32,
-      "source": "sales-and-dungeons.app"
-    },
-    {
-      "title": "Amazon Web Services \u2013 Four Years and Out",
-      "url": "https://www.adventuresinoss.com/aws-four-years/",
-      "score": 236,
-      "comments": 83,
-      "source": "adventuresinoss.com"
-    },
-    {
-      "title": "Judson's Last Ride",
-      "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
-      "score": 111,
-      "comments": 5,
-      "source": "realclearpolitics.com"
-    },
-    {
-      "title": "Neoclassical C++: segmented iterators revisited",
-      "url": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
-      "score": 34,
-      "comments": 14,
-      "source": "boostedcpp.net"
-    },
-    {
-      "title": "Show HN: Git-based front-end interface for Hugo",
-      "url": "https://github.com/arashthr/hugo-flow",
-      "score": 6,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "score": 919,
-      "comments": 1530,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Hengefinder: Finding when the sun aligns with your street",
-      "url": "https://victoriaritvo.com/blog/hengefinder/",
-      "score": 156,
-      "comments": 35,
-      "source": "victoriaritvo.com"
-    },
-    {
-      "title": "Schlitz Is Gone, but First It's Getting One Last Hurrah",
-      "url": "https://www.milwaukeemag.com/schlitz-is-gone/",
-      "score": 36,
-      "comments": 17,
-      "source": "milwaukeemag.com"
-    },
-    {
-      "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-      "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-      "score": 179,
-      "comments": 217,
-      "source": "reuters.com"
-    },
-    {
-      "title": "80386 microcode disassembled",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 256,
-      "comments": 49,
-      "source": "reenigne.org"
-    },
-    {
-      "title": "-\u200b-dangerously-skip-reading-code",
-      "url": "https://olano.dev/blog/dangerously-skip/",
-      "score": 165,
-      "comments": 160,
-      "source": "olano.dev"
     }
   ],
   "security": [
