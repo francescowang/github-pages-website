@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Jira Is Turing-Complete",
+      "url": "https://seriot.ch/computation/jira.html",
+      "score": 111,
+      "comments": 36,
+      "source": "seriot.ch"
+    },
+    {
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+      "score": 70,
+      "comments": 18,
+      "source": "pmc.ncbi.nlm.nih.gov"
+    },
+    {
+      "title": "I love my Bluetooth keyboard",
+      "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+      "score": 47,
+      "comments": 26,
+      "source": "liquidbrain.net"
+    },
+    {
       "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
       "url": "https://audiomass.co/?multitrack=1",
-      "score": 115,
-      "comments": 27,
+      "score": 322,
+      "comments": 66,
       "source": "audiomass.co"
     },
     {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 409,
-      "comments": 194,
+      "score": 534,
+      "comments": 222,
       "source": "esengine.github.io"
     },
     {
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "score": 86,
-      "comments": 56,
-      "source": "ikesau.co"
+      "title": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "score": 235,
+      "comments": 219,
+      "source": "corrode.dev"
     },
     {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "score": 276,
-      "comments": 298,
-      "source": "epoch.ai"
+      "title": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
+      "url": "https://ohwr.org/projects/white-rabbit/",
+      "score": 75,
+      "comments": 19,
+      "source": "ohwr.org"
     },
     {
-      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
-      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
-      "score": 48,
-      "comments": 4,
-      "source": "clarityboss.com"
+      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+      "url": "https://phabricator.services.mozilla.com/D301917",
+      "score": 70,
+      "comments": 21,
+      "source": "phabricator.services.mozilla.com"
+    },
+    {
+      "title": "If you let AI do your writing, I will come to your house and kill you",
+      "url": "https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will",
+      "score": 9,
+      "comments": 1,
+      "source": "samkriss.substack.com"
+    },
+    {
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "score": 144,
+      "comments": 73,
+      "source": "wired.com"
     },
     {
       "title": "I spent 50 hours drawing a line graph",
       "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 418,
-      "comments": 72,
+      "score": 513,
+      "comments": 91,
       "source": "dougmacdowell.com"
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
       "url": "https://arxiv.org/abs/2605.06445",
-      "score": 164,
-      "comments": 82,
+      "score": 226,
+      "comments": 117,
       "source": "arxiv.org"
     },
     {
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "score": 37,
-      "comments": 16,
-      "source": "wired.com"
+      "title": "C constructs that still don't work in C++",
+      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+      "score": 41,
+      "comments": 30,
+      "source": "lospino.so"
     },
     {
-      "title": "Mastering Dyalog APL",
-      "url": "https://mastering.dyalog.com/README.html",
-      "score": 122,
-      "comments": 35,
-      "source": "mastering.dyalog.com"
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "score": 371,
+      "comments": 377,
+      "source": "epoch.ai"
     },
     {
       "title": "Microsoft open-sources \u201cthe earliest DOS source code discovered to date\u201d",
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 417,
-      "comments": 145,
+      "score": 463,
+      "comments": 161,
       "source": "arstechnica.com"
-    },
-    {
-      "title": "Noroboto: Lying Fonts and Mitigation in Rust",
-      "url": "https://tritium.legal/blog/noroboto",
-      "score": 52,
-      "comments": 24,
-      "source": "tritium.legal"
-    },
-    {
-      "title": "Build Adafruit projects right from Firefox",
-      "url": "https://www.firefox.com/en-US/landing/adafruit/",
-      "score": 108,
-      "comments": 31,
-      "source": "firefox.com"
-    },
-    {
-      "title": "Selling SaaS in Germany",
-      "url": "https://embedworkflow.com/blog/selling-saas-in-germany-austria-and-switzerland-dach/",
-      "score": 11,
-      "comments": 0,
-      "source": "embedworkflow.com"
     },
     {
       "title": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
       "url": "https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/",
-      "score": 32,
-      "comments": 11,
+      "score": 84,
+      "comments": 26,
       "source": "york.ac.uk"
     },
     {
-      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
-      "url": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
-      "score": 48,
-      "comments": 6,
-      "source": "alphapixeldev.com"
+      "title": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "score": 276,
+      "comments": 205,
+      "source": "geohot.github.io"
+    },
+    {
+      "title": "Build Adafruit projects right from Firefox",
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "score": 158,
+      "comments": 49,
+      "source": "firefox.com"
+    },
+    {
+      "title": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "score": 142,
+      "comments": 36,
+      "source": "mastering.dyalog.com"
+    },
+    {
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+      "score": 79,
+      "comments": 8,
+      "source": "clarityboss.com"
+    },
+    {
+      "title": "Gorilla: A fast, scalable, in-memory time series database (2016)",
+      "url": "https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/",
+      "score": 4,
+      "comments": 0,
+      "source": "blog.acolyer.org"
+    },
+    {
+      "title": "Building Pi with Pi",
+      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+      "score": 74,
+      "comments": 32,
+      "source": "lucumr.pocoo.org"
     },
     {
       "title": "Greg Brockman interview [video]",
       "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "score": 168,
-      "comments": 164,
+      "score": 196,
+      "comments": 204,
       "source": "fs.blog"
     },
     {
-      "title": "Getting an old Computer online with Android Ethernet tethering",
-      "url": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
-      "score": 31,
-      "comments": 11,
-      "source": "82mhz.net"
+      "title": "Noroboto: Lying Fonts and Mitigation in Rust",
+      "url": "https://tritium.legal/blog/noroboto",
+      "score": 74,
+      "comments": 30,
+      "source": "tritium.legal"
     },
     {
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 266,
-      "comments": 147,
+      "score": 283,
+      "comments": 154,
       "source": "techcrunch.com"
     },
     {
       "title": "Childhood Computing",
       "url": "https://susam.net/childhood-computing.html",
-      "score": 153,
-      "comments": 85,
+      "score": 196,
+      "comments": 93,
       "source": "susam.net"
-    },
-    {
-      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "score": 123,
-      "comments": 117,
-      "source": "corrode.dev"
     },
     {
       "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
       "url": "https://apple.github.io/ml-pico/",
-      "score": 85,
-      "comments": 25,
+      "score": 110,
+      "comments": 33,
       "source": "apple.github.io"
     },
     {
-      "title": "Book Review: On the Calculation of Volume",
-      "url": "https://www.stephendiehl.com/posts/calculation_of_volume/",
-      "score": 29,
-      "comments": 6,
-      "source": "stephendiehl.com"
+      "title": "Getting an old Computer online with Android Ethernet tethering",
+      "url": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
+      "score": 56,
+      "comments": 21,
+      "source": "82mhz.net"
     },
     {
       "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
       "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "score": 298,
-      "comments": 176,
+      "score": 314,
+      "comments": 195,
       "source": "adaptivesupport.amd.com"
-    },
-    {
-      "title": "Ruby for Good",
-      "url": "https://ti.to/codeforgood/rubyforgood",
-      "score": 112,
-      "comments": 48,
-      "source": "ti.to"
     },
     {
       "title": "I keep bouncing off the Scheme language",
       "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
-      "score": 129,
-      "comments": 51,
+      "score": 147,
+      "comments": 66,
       "source": "sicpers.info"
-    },
-    {
-      "title": "Usborne 1980s Computer Books",
-      "url": "https://usborne.com/us/books/computer-and-coding-books",
-      "score": 155,
-      "comments": 48,
-      "source": "usborne.com"
-    },
-    {
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-      "score": 28,
-      "comments": 0,
-      "source": "christopherkrapu.com"
-    },
-    {
-      "title": "The C64 Dead Test Font",
-      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-      "score": 121,
-      "comments": 22,
-      "source": "masswerk.at"
-    },
-    {
-      "title": "Time to talk about my writerdeck",
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 448,
-      "comments": 273,
-      "source": "veronicaexplains.net"
     }
   ],
   "security": [
