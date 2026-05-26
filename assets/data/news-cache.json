@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "GitHub Actions down again today",
+      "url": "https://www.githubstatus.com/?today",
+      "score": 222,
+      "comments": 111,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "url": "https://dynip.dev/",
+      "score": 185,
+      "comments": 77,
+      "source": "dynip.dev"
+    },
+    {
       "title": "Using AI to write better code more slowly",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 501,
-      "comments": 193,
+      "score": 799,
+      "comments": 309,
       "source": "nolanlawson.com"
     },
     {
-      "title": "The User Is Visibly Frustrated",
-      "url": "https://pscanf.com/s/354/",
-      "score": 73,
-      "comments": 41,
-      "source": "pscanf.com"
+      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+      "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+      "score": 12,
+      "comments": 3,
+      "source": "vllm.ai"
     },
     {
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
       "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 224,
-      "comments": 75,
+      "score": 379,
+      "comments": 153,
       "source": "apa.org"
     },
     {
-      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-      "url": "https://earthiongame.com/",
-      "score": 42,
-      "comments": 13,
-      "source": "earthiongame.com"
+      "title": "Phantasy Star IV \u2013 1993 Developer Interviews",
+      "url": "https://shmuplations.com/phantasystariv/",
+      "score": 46,
+      "comments": 17,
+      "source": "shmuplations.com"
     },
     {
       "title": "How Shamir's Secret Sharing Works",
       "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "score": 164,
-      "comments": 20,
+      "score": 258,
+      "comments": 45,
       "source": "ente.com"
+    },
+    {
+      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+      "url": "https://earthiongame.com/",
+      "score": 96,
+      "comments": 39,
+      "source": "earthiongame.com"
+    },
+    {
+      "title": "Don't put aria-label on generic elements like divs",
+      "url": "https://www.matuzo.at/blog/2026/aria-label-generic-elements",
+      "score": 20,
+      "comments": 12,
+      "source": "matuzo.at"
     },
     {
       "title": "A successful Japanese trial of a ramjet engine designed for Mach\u20115 aircraft",
       "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-      "score": 125,
-      "comments": 105,
+      "score": 188,
+      "comments": 144,
       "source": "bgr.com"
     },
     {
       "title": "Ferrari Luce",
       "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "score": 195,
-      "comments": 397,
+      "score": 330,
+      "comments": 607,
       "source": "ferrari.com"
     },
     {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "score": 237,
-      "comments": 147,
-      "source": "blocksandfiles.com"
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "score": 41,
+      "comments": 12,
+      "source": "politico.eu"
+    },
+    {
+      "title": "How do you build a semiconductor company on something that's free?",
+      "url": "https://www.siliconimist.com/p/the-open-source-silicon-business",
+      "score": 10,
+      "comments": 1,
+      "source": "siliconimist.com"
     },
     {
       "title": "Exit IP VPN servers mitigation rollout",
       "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "score": 334,
-      "comments": 61,
+      "score": 383,
+      "comments": 74,
       "source": "mullvad.net"
     },
     {
-      "title": "Micropatching Brings the Abandoned Equation Editor Back to Life (2018)",
-      "url": "https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html",
-      "score": 9,
-      "comments": 2,
-      "source": "blog.0patch.com"
-    },
-    {
-      "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
-      "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
-      "score": 88,
-      "comments": 41,
-      "source": "9to5google.com"
-    },
-    {
-      "title": "Dehydration's role in learning and memory",
-      "url": "https://www.cshl.edu/dehydrations-role-in-learning-and-memory/",
-      "score": 34,
-      "comments": 18,
-      "source": "cshl.edu"
-    },
-    {
-      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
-      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
-      "score": 184,
-      "comments": 75,
-      "source": "referenceforbusiness.com"
-    },
-    {
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 818,
-      "comments": 350,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "Squares in Squares",
-      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-      "score": 62,
-      "comments": 6,
-      "source": "kingbird.myphotos.cc"
+      "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
+      "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
+      "score": 15,
+      "comments": 1,
+      "source": "ni5arga.com"
     },
     {
       "title": "What we lost when we stopped letting kids leave the front yard",
       "url": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
-      "score": 162,
-      "comments": 146,
+      "score": 307,
+      "comments": 288,
       "source": "stevemagness.substack.com"
     },
     {
-      "title": "What it takes to transpose a matrix",
-      "url": "https://gudok.xyz/transpose/",
-      "score": 43,
-      "comments": 1,
-      "source": "gudok.xyz"
+      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+      "score": 224,
+      "comments": 93,
+      "source": "referenceforbusiness.com"
     },
     {
-      "title": "Performance of Rust Language [pdf]",
-      "url": "https://github.com/yugr/rust-slides/",
-      "score": 55,
-      "comments": 32,
-      "source": "github.com"
+      "title": "Incident with Actions and Pages",
+      "url": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
+      "score": 20,
+      "comments": 7,
+      "source": "githubstatus.com"
     },
     {
-      "title": "Show HN: Write your BPF programs in Go, not C",
-      "url": "https://github.com/boratanrikulu/gobee",
-      "score": 80,
-      "comments": 34,
-      "source": "github.com"
+      "title": "Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms",
+      "url": "https://www.nature.com/articles/s41592-026-03066-1",
+      "score": 26,
+      "comments": 0,
+      "source": "nature.com"
     },
     {
-      "title": "Does anybody like React?",
-      "url": "https://jsx.lol",
-      "score": 152,
-      "comments": 193,
-      "source": "jsx.lol"
+      "title": "A reality check on the AI jobs hysteria",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "score": 21,
+      "comments": 8,
+      "source": "technologyreview.com"
+    },
+    {
+      "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+      "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+      "score": 249,
+      "comments": 124,
+      "source": "9to5google.com"
+    },
+    {
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+      "score": 932,
+      "comments": 409,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "score": 296,
+      "comments": 192,
+      "source": "blocksandfiles.com"
     },
     {
       "title": "Hacker News front page as a site",
       "url": "https://thefrontpage.dev/",
-      "score": 210,
-      "comments": 64,
+      "score": 316,
+      "comments": 85,
       "source": "thefrontpage.dev"
     },
     {
-      "title": "Nobody cracks open a programming book anymore",
-      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-      "score": 163,
-      "comments": 197,
-      "source": "unix.foo"
+      "title": "The User Is Visibly Frustrated",
+      "url": "https://pscanf.com/s/354/",
+      "score": 195,
+      "comments": 176,
+      "source": "pscanf.com"
     },
     {
-      "title": "Show HN: OpenBrief \u2013 Local-first video downloader/summarizer",
-      "url": "https://github.com/tantara/openbrief",
-      "score": 52,
-      "comments": 7,
+      "title": "Squares in Squares",
+      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+      "score": 92,
+      "comments": 9,
+      "source": "kingbird.myphotos.cc"
+    },
+    {
+      "title": "Magnifica Humanitas",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "score": 1483,
+      "comments": 834,
+      "source": "vatican.va"
+    },
+    {
+      "title": "Show HN: Write your BPF programs in Go, not C",
+      "url": "https://github.com/boratanrikulu/gobee",
+      "score": 96,
+      "comments": 45,
       "source": "github.com"
     },
     {
-      "title": "Jensen\u2013Shannon Divergence",
-      "url": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
-      "score": 100,
-      "comments": 15,
-      "source": "en.wikipedia.org"
+      "title": "Micropatching Brings the Abandoned Equation Editor Back to Life (2018)",
+      "url": "https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html",
+      "score": 37,
+      "comments": 9,
+      "source": "blog.0patch.com"
     },
     {
-      "title": "C extensions, portability, and alternative compilers",
-      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-      "score": 150,
-      "comments": 52,
-      "source": "lemon.rip"
-    },
-    {
-      "title": "The Lottery \u2013 Shirley Jackson (1948)",
-      "url": "https://www.newyorker.com/magazine/1948/06/26/the-lottery",
-      "score": 33,
-      "comments": 16,
-      "source": "newyorker.com"
-    },
-    {
-      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-      "url": "https://support.apple.com/en-us/127115",
-      "score": 130,
-      "comments": 60,
-      "source": "support.apple.com"
-    },
-    {
-      "title": "Gnutella: A Protocol Outliving the World That Created It",
-      "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
-      "score": 243,
-      "comments": 73,
-      "source": "rickcarlino.com"
-    },
-    {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "score": 1,
-      "comments": 0,
-      "source": "jobs.ashbyhq.com"
+      "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
+      "url": "https://github.com/andreoliwa/logseq-doctor",
+      "score": 21,
+      "comments": 2,
+      "source": "github.com"
     }
   ],
   "security": [
