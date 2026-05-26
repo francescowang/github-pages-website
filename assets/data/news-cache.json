@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "GitHub Actions down again today",
-      "url": "https://www.githubstatus.com/?today",
-      "score": 222,
-      "comments": 111,
-      "source": "githubstatus.com"
+      "title": "Stack Overflow's forum is dead thanks to AI",
+      "url": "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/",
+      "score": 41,
+      "comments": 31,
+      "source": "wiert.me"
     },
     {
-      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "url": "https://dynip.dev/",
-      "score": 185,
-      "comments": 77,
-      "source": "dynip.dev"
+      "title": "The Ballad of TIGIT",
+      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
+      "score": 53,
+      "comments": 5,
+      "source": "owlposting.com"
+    },
+    {
+      "title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale",
+      "url": "https://www.minicor.com/",
+      "score": 46,
+      "comments": 37,
+      "source": "minicor.com"
+    },
+    {
+      "title": "A few interesting modern pixel fonts",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "score": 27,
+      "comments": 9,
+      "source": "unsung.aresluna.org"
+    },
+    {
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+      "score": 433,
+      "comments": 209,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Dropbox CEO Drew Houston to step down",
+      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "score": 115,
+      "comments": 103,
+      "source": "cnbc.com"
     },
     {
       "title": "Using AI to write better code more slowly",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 799,
-      "comments": 309,
+      "score": 1065,
+      "comments": 395,
       "source": "nolanlawson.com"
     },
     {
-      "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
-      "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
-      "score": 12,
-      "comments": 3,
-      "source": "vllm.ai"
+      "title": "C64 Basic: Game Map Overhead \"Camera View\"",
+      "url": "https://retrogamecoders.com/overhead-camera-view/",
+      "score": 50,
+      "comments": 5,
+      "source": "retrogamecoders.com"
     },
     {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 379,
-      "comments": 153,
-      "source": "apa.org"
-    },
-    {
-      "title": "Phantasy Star IV \u2013 1993 Developer Interviews",
-      "url": "https://shmuplations.com/phantasystariv/",
-      "score": 46,
-      "comments": 17,
-      "source": "shmuplations.com"
-    },
-    {
-      "title": "How Shamir's Secret Sharing Works",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "score": 258,
-      "comments": 45,
-      "source": "ente.com"
-    },
-    {
-      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-      "url": "https://earthiongame.com/",
-      "score": 96,
+      "title": "What color is your function? (2015)",
+      "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+      "score": 50,
       "comments": 39,
-      "source": "earthiongame.com"
+      "source": "journal.stuffwithstuff.com"
     },
     {
-      "title": "Don't put aria-label on generic elements like divs",
-      "url": "https://www.matuzo.at/blog/2026/aria-label-generic-elements",
-      "score": 20,
-      "comments": 12,
-      "source": "matuzo.at"
+      "title": "Sage Care (YC S24) Is Hiring Software Engineers",
+      "url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
     },
     {
-      "title": "A successful Japanese trial of a ramjet engine designed for Mach\u20115 aircraft",
-      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-      "score": 188,
-      "comments": 144,
-      "source": "bgr.com"
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "score": 154,
+      "comments": 161,
+      "source": "signalbloom.ai"
     },
     {
-      "title": "Ferrari Luce",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "score": 330,
-      "comments": 607,
-      "source": "ferrari.com"
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "url": "https://github.com/logannye/rosalind",
+      "score": 19,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Language Models Need Sleep",
+      "url": "https://arxiv.org/abs/2605.26099",
+      "score": 121,
+      "comments": 93,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "The real cost of owning a home",
+      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+      "score": 74,
+      "comments": 203,
+      "source": "ericturner.dev"
+    },
+    {
+      "title": "Opaque Types in Python",
+      "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
+      "score": 82,
+      "comments": 34,
+      "source": "blog.glyph.im"
+    },
+    {
+      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "url": "https://dynip.dev/",
+      "score": 271,
+      "comments": 109,
+      "source": "dynip.dev"
     },
     {
       "title": "Netherlands blocks US takeover of vital digital supplier",
       "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "score": 41,
-      "comments": 12,
+      "score": 395,
+      "comments": 146,
       "source": "politico.eu"
     },
     {
-      "title": "How do you build a semiconductor company on something that's free?",
-      "url": "https://www.siliconimist.com/p/the-open-source-silicon-business",
-      "score": 10,
-      "comments": 1,
-      "source": "siliconimist.com"
+      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "score": 534,
+      "comments": 211,
+      "source": "apa.org"
     },
     {
-      "title": "Exit IP VPN servers mitigation rollout",
-      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "score": 383,
-      "comments": 74,
-      "source": "mullvad.net"
+      "title": "Performance of Rust Language [pdf]",
+      "url": "https://github.com/yugr/rust-slides/",
+      "score": 96,
+      "comments": 71,
+      "source": "github.com"
     },
     {
-      "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
-      "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
-      "score": 15,
-      "comments": 1,
-      "source": "ni5arga.com"
+      "title": "Are we self-sovereign PKI yet?",
+      "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
+      "score": 37,
+      "comments": 10,
+      "source": "buffrr.dev"
     },
     {
-      "title": "What we lost when we stopped letting kids leave the front yard",
-      "url": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
-      "score": 307,
-      "comments": 288,
-      "source": "stevemagness.substack.com"
-    },
-    {
-      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
-      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
-      "score": 224,
+      "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
+      "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
+      "score": 190,
       "comments": 93,
-      "source": "referenceforbusiness.com"
+      "source": "reuters.com"
+    },
+    {
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "score": 6,
+      "comments": 1,
+      "source": "djspeckhals.com"
+    },
+    {
+      "title": "Use boring languages with LLMs",
+      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+      "score": 83,
+      "comments": 66,
+      "source": "jry.io"
+    },
+    {
+      "title": "Phantasy Star IV \u2013 1993 Developer Interviews",
+      "url": "https://shmuplations.com/phantasystariv/",
+      "score": 117,
+      "comments": 43,
+      "source": "shmuplations.com"
+    },
+    {
+      "title": "Is \"colorectal cancer\" rising in \"young people\"?",
+      "url": "https://dynomight.net/crc-rates/",
+      "score": 82,
+      "comments": 81,
+      "source": "dynomight.net"
+    },
+    {
+      "title": "The user is visibly frustrated",
+      "url": "https://pscanf.com/s/354/",
+      "score": 229,
+      "comments": 201,
+      "source": "pscanf.com"
+    },
+    {
+      "title": "How Shamir's Secret Sharing Works",
+      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "score": 344,
+      "comments": 63,
+      "source": "ente.com"
+    },
+    {
+      "title": "Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%",
+      "url": "https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update",
+      "score": 9,
+      "comments": 6,
+      "source": "platform.xiaomimimo.com"
     },
     {
       "title": "Incident with Actions and Pages",
       "url": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
-      "score": 20,
-      "comments": 7,
+      "score": 75,
+      "comments": 22,
       "source": "githubstatus.com"
     },
     {
-      "title": "Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms",
-      "url": "https://www.nature.com/articles/s41592-026-03066-1",
-      "score": 26,
-      "comments": 0,
-      "source": "nature.com"
-    },
-    {
-      "title": "A reality check on the AI jobs hysteria",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "score": 21,
-      "comments": 8,
-      "source": "technologyreview.com"
-    },
-    {
-      "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
-      "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
-      "score": 249,
-      "comments": 124,
-      "source": "9to5google.com"
-    },
-    {
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 932,
-      "comments": 409,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "score": 296,
-      "comments": 192,
-      "source": "blocksandfiles.com"
-    },
-    {
-      "title": "Hacker News front page as a site",
-      "url": "https://thefrontpage.dev/",
-      "score": 316,
-      "comments": 85,
-      "source": "thefrontpage.dev"
-    },
-    {
-      "title": "The User Is Visibly Frustrated",
-      "url": "https://pscanf.com/s/354/",
-      "score": 195,
-      "comments": 176,
-      "source": "pscanf.com"
-    },
-    {
-      "title": "Squares in Squares",
-      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-      "score": 92,
-      "comments": 9,
-      "source": "kingbird.myphotos.cc"
-    },
-    {
-      "title": "Magnifica Humanitas",
-      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 1483,
-      "comments": 834,
-      "source": "vatican.va"
-    },
-    {
-      "title": "Show HN: Write your BPF programs in Go, not C",
-      "url": "https://github.com/boratanrikulu/gobee",
-      "score": 96,
-      "comments": 45,
-      "source": "github.com"
-    },
-    {
-      "title": "Micropatching Brings the Abandoned Equation Editor Back to Life (2018)",
-      "url": "https://blog.0patch.com/2018/01/bringing-abandoned-equation-editor-back.html",
-      "score": 37,
-      "comments": 9,
-      "source": "blog.0patch.com"
-    },
-    {
-      "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
-      "url": "https://github.com/andreoliwa/logseq-doctor",
-      "score": 21,
-      "comments": 2,
-      "source": "github.com"
+      "title": "Ferrari Luce",
+      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+      "score": 444,
+      "comments": 820,
+      "source": "ferrari.com"
     }
   ],
   "security": [
+    {
+      "title": "Well-architected best practices for software supply chain security",
+      "url": "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/",
+      "date": "2026-05-26 17:03:30",
+      "author": "Trevor Schiavone"
+    },
     {
       "title": "AWS KY3P report now available for third-party supplier due diligence",
       "url": "https://aws.amazon.com/blogs/security/aws-ky3p-report-now-available-for-third-party-supplier-due-diligence/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config/",
       "date": "2026-05-14 16:18:20",
       "author": "Pravin Nair"
-    },
-    {
-      "title": "Detecting and preventing crypto mining in your AWS environment",
-      "url": "https://aws.amazon.com/blogs/security/detecting-and-preventing-crypto-mining-in-your-aws-environment/",
-      "date": "2026-05-13 21:47:27",
-      "author": "Jason Palmer"
     }
   ]
 }
