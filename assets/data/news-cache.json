@@ -1,46 +1,123 @@
 {
   "tech": [
     {
-      "title": "Magnifica Humanitas",
-      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "score": 880,
-      "comments": 380,
-      "source": "vatican.va"
+      "title": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "score": 41,
+      "comments": 6,
+      "source": "nolanlawson.com"
     },
     {
-      "title": "C extensions, portability, and alternative compilers",
-      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-      "score": 94,
-      "comments": 22,
-      "source": "lemon.rip"
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "score": 141,
+      "comments": 73,
+      "source": "blocksandfiles.com"
     },
     {
       "title": "Exit IP VPN servers mitigation rollout",
       "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "score": 13,
-      "comments": 1,
+      "score": 250,
+      "comments": 40,
       "source": "mullvad.net"
-    },
-    {
-      "title": "Launch HN: Chert (YC P26) \u2013 Twilio for iMessage",
-      "url": "https://www.trychert.com",
-      "score": 32,
-      "comments": 119,
-      "source": "trychert.com"
     },
     {
       "title": "California moves to exempt Linux from its age-verification law after backlash",
       "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "score": 24,
-      "comments": 6,
+      "score": 590,
+      "comments": 259,
       "source": "tomshardware.com"
     },
     {
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "score": 189,
+      "title": "Show HN: Write your BPF programs in Go, not C",
+      "url": "https://github.com/boratanrikulu/gobee",
+      "score": 54,
+      "comments": 27,
+      "source": "github.com"
+    },
+    {
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "url": "https://support.apple.com/en-us/127115",
+      "score": 39,
+      "comments": 2,
+      "source": "support.apple.com"
+    },
+    {
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+      "score": 174,
+      "comments": 36,
+      "source": "promptarmor.com"
+    },
+    {
+      "title": "Magnifica Humanitas",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "score": 1311,
+      "comments": 731,
+      "source": "vatican.va"
+    },
+    {
+      "title": "Hacker News front page as a site",
+      "url": "https://thefrontpage.dev/",
+      "score": 93,
+      "comments": 38,
+      "source": "thefrontpage.dev"
+    },
+    {
+      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+      "score": 109,
+      "comments": 46,
+      "source": "referenceforbusiness.com"
+    },
+    {
+      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "score": 12,
+      "comments": 10,
+      "source": "apa.org"
+    },
+    {
+      "title": "Squares in Squares",
+      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+      "score": 6,
+      "comments": 1,
+      "source": "kingbird.myphotos.cc"
+    },
+    {
+      "title": "How Shamir's Secret Sharing Works",
+      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "score": 8,
+      "comments": 0,
+      "source": "ente.com"
+    },
+    {
+      "title": "Riscrithm \u2013 An intuitive RISC-V assembler and optimizer coded in Go",
+      "url": "https://github.com/ghetea-patrick/riscrithm",
+      "score": 21,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Jensen\u2013Shannon Divergence",
+      "url": "https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence",
+      "score": 69,
+      "comments": 9,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "C extensions, portability, and alternative compilers",
+      "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "score": 137,
       "comments": 47,
-      "source": "krebsonsecurity.com"
+      "source": "lemon.rip"
+    },
+    {
+      "title": "Show HN: OpenBrief \u2013 Local-first video downloader/summarizer",
+      "url": "https://github.com/tantara/openbrief",
+      "score": 15,
+      "comments": 2,
+      "source": "github.com"
     },
     {
       "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
@@ -50,165 +127,88 @@
       "source": "jobs.ashbyhq.com"
     },
     {
-      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-      "score": 103,
-      "comments": 34,
-      "source": "futurumgroup.com"
+      "title": "Yoti age checks share facial photos and device fingerprints with third parties",
+      "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
+      "score": 95,
+      "comments": 20,
+      "source": "techxplore.com"
     },
     {
-      "title": "The Coming Layoffs and the Revenge of the Measurers",
-      "url": "https://www.hackyexperiments.com/blog/the-revenge-of-the-measurers",
-      "score": 23,
-      "comments": 10,
-      "source": "hackyexperiments.com"
+      "title": "Everyone Against Us (2023)",
+      "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+      "score": 52,
+      "comments": 8,
+      "source": "chicagomag.com"
     },
     {
       "title": "Gnutella: A Protocol Outliving the World That Created It",
       "url": "https://rickcarlino.com/notes/p2p/gnutella-explanation.html",
-      "score": 117,
-      "comments": 42,
+      "score": 203,
+      "comments": 66,
       "source": "rickcarlino.com"
     },
     {
-      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-      "score": 269,
-      "comments": 128,
-      "source": "pmc.ncbi.nlm.nih.gov"
+      "title": "Launch HN: Chert (YC P26) \u2013 Twilio for iMessage",
+      "url": "https://www.trychert.com",
+      "score": 50,
+      "comments": 176,
+      "source": "trychert.com"
     },
     {
-      "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
-      "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
-      "score": 120,
-      "comments": 100,
-      "source": "tmj4.com"
+      "title": "The Skeuomorphism Nobody Talks About [video]",
+      "url": "https://www.youtube.com/watch?v=3Q-G9x315-g",
+      "score": 12,
+      "comments": 4,
+      "source": "youtube.com"
     },
     {
-      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
-      "score": 469,
-      "comments": 104,
-      "source": "audiomass.co"
-    },
-    {
-      "title": "The analog computer museum's online library",
-      "url": "https://www.analogmuseum.org/english/library.html",
-      "score": 11,
-      "comments": 0,
-      "source": "analogmuseum.org"
-    },
-    {
-      "title": "He Lost It at the Movies",
-      "url": "https://www.theideasletter.org/essay/he-lost-it-at-the-movies/",
-      "score": 19,
-      "comments": 8,
-      "source": "theideasletter.org"
-    },
-    {
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 657,
-      "comments": 266,
-      "source": "esengine.github.io"
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "score": 138,
+      "comments": 59,
+      "source": "futurumgroup.com"
     },
     {
       "title": "CPPL: A Circuit Prompt Programming Language",
       "url": "https://arxiv.org/abs/2605.17892",
-      "score": 4,
-      "comments": 0,
+      "score": 33,
+      "comments": 6,
       "source": "arxiv.org"
     },
     {
-      "title": "The physicists who convinced Fermilab to send Brazil's emails",
-      "url": "https://buttondown.com/blog/brazil-fermilab-email",
-      "score": 38,
-      "comments": 15,
-      "source": "buttondown.com"
+      "title": "Nobody cracks open a programming book anymore",
+      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "score": 67,
+      "comments": 75,
+      "source": "unix.foo"
     },
     {
-      "title": "2026 HIPAA Security Rule Update",
-      "url": "https://medcurity.com/hipaa-security-rule-2026-update/",
-      "score": 76,
-      "comments": 64,
-      "source": "medcurity.com"
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "score": 262,
+      "comments": 69,
+      "source": "krebsonsecurity.com"
     },
     {
-      "title": "Bytecode VMs in surprising places (2024)",
-      "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
-      "score": 107,
-      "comments": 35,
-      "source": "dubroy.com"
+      "title": "Agentic Patterns",
+      "url": "https://veso.ai/research/agentic-patterns/",
+      "score": 3,
+      "comments": 0,
+      "source": "veso.ai"
     },
     {
-      "title": "Alaska's oil revival sparks a new energy rush Into the Arctic",
-      "url": "https://fortune.com/2026/05/24/alaska-oil-revival-energy-investment-arctic-drilling-national-petroleum-reserve-npra/",
-      "score": 4,
+      "title": "Tidy PSU \u2013 PD-64 C64 PSU Brings USB PD to Commodore 64",
+      "url": "https://theoasisbbs.com/pd-64-c64-psu-brings-usb-pd-to-commodore-64/",
+      "score": 7,
       "comments": 1,
-      "source": "fortune.com"
+      "source": "theoasisbbs.com"
     },
     {
-      "title": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "score": 409,
-      "comments": 400,
-      "source": "corrode.dev"
-    },
-    {
-      "title": "Show HN: Geomatic \u2013 A command-driven geometry studio enabled with autodiff",
-      "url": "https://www.tinyvolt.com/geomatic",
-      "score": 55,
-      "comments": 13,
-      "source": "tinyvolt.com"
-    },
-    {
-      "title": "AI errno(2) values",
-      "url": "https://www.netmeister.org/blog/ai-errno.html",
-      "score": 86,
-      "comments": 18,
-      "source": "netmeister.org"
-    },
-    {
-      "title": "White Rabbit \u2013 sub-nanosecond synchronization for large distributed systems",
-      "url": "https://ohwr.org/projects/white-rabbit/",
-      "score": 163,
-      "comments": 37,
-      "source": "ohwr.org"
-    },
-    {
-      "title": "Uber\u2019s COO says it\u2019s getting harder to justify money spent on tokenmaxxing",
-      "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
-      "score": 130,
-      "comments": 158,
-      "source": "businessinsider.com"
-    },
-    {
-      "title": "Notes about reading messages with the Python email packages",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
-      "score": 45,
-      "comments": 4,
-      "source": "utcc.utoronto.ca"
-    },
-    {
-      "title": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 630,
-      "comments": 97,
-      "source": "dougmacdowell.com"
-    },
-    {
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "score": 216,
-      "comments": 108,
-      "source": "wired.com"
-    },
-    {
-      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
-      "url": "https://phabricator.services.mozilla.com/D301917",
-      "score": 154,
-      "comments": 52,
-      "source": "phabricator.services.mozilla.com"
+      "title": "The bootstrapper's EU stack for under \u20ac10 per month",
+      "url": "https://eualternative.eu/guides/bootstrapper-free-tier-eu-stack/",
+      "score": 195,
+      "comments": 76,
+      "source": "eualternative.eu"
     }
   ],
   "security": [
