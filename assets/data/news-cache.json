@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 530,
-      "comments": 307,
-      "source": "orchidfiles.com"
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 167,
+      "comments": 179,
+      "source": "simonwillison.net"
     },
     {
-      "title": "Private Equity Bought America's Essential Services",
-      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-      "score": 69,
-      "comments": 33,
-      "source": "rubbishtalk.com"
+      "title": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "score": 83,
+      "comments": 20,
+      "source": "thran.uk"
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "score": 297,
+      "comments": 159,
+      "source": "pcgamer.com"
+    },
+    {
+      "title": "Last.fm is now independent",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "score": 348,
+      "comments": 107,
+      "source": "support.last.fm"
+    },
+    {
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "score": 21,
+      "comments": 7,
+      "source": "brennan.day"
     },
     {
       "title": "Mini Micro Fantasy Computer",
       "url": "https://miniscript.org/MiniMicro/index.html#about",
-      "score": 97,
-      "comments": 40,
+      "score": 202,
+      "comments": 72,
       "source": "miniscript.org"
     },
     {
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "score": 91,
-      "comments": 64,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "The Melancholy of Slaying Monsters",
-      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-      "score": 162,
-      "comments": 64,
-      "source": "thereader.mitpress.mit.edu"
-    },
-    {
-      "title": "Raft Consensus with a Minority of Nodes",
-      "url": "https://padhye.org/raft-minority/",
-      "score": 69,
-      "comments": 5,
-      "source": "padhye.org"
-    },
-    {
-      "title": "All of human cooking compressed into 2 megabytes",
-      "url": "https://arxiv.org/abs/2605.22391",
-      "score": 81,
-      "comments": 27,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Cloudflare Flagship",
-      "url": "https://developers.cloudflare.com/flagship/",
-      "score": 261,
-      "comments": 144,
-      "source": "developers.cloudflare.com"
-    },
-    {
-      "title": "BadHost \u2013 CVE-2026-48710: Starlette Host-Header Auth Bypass",
-      "url": "https://badhost.org/",
-      "score": 88,
-      "comments": 33,
-      "source": "badhost.org"
-    },
-    {
-      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-      "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "score": 136,
-      "comments": 102,
-      "source": "arps18.github.io"
-    },
-    {
-      "title": "That Methyl Methacrylate Tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "score": 358,
-      "comments": 150,
-      "source": "science.org"
-    },
-    {
-      "title": "Go: Support for Generic Methods",
-      "url": "https://github.com/golang/go/issues/77273",
-      "score": 22,
-      "comments": 11,
-      "source": "github.com"
-    },
-    {
-      "title": "What Is a Direct Attach Copper (DAC) Cable",
-      "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
-      "score": 41,
-      "comments": 18,
-      "source": "servethehome.com"
-    },
-    {
-      "title": "XLIDE: VBA without excel",
-      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-      "score": 6,
+      "title": "In-Browser Container Builds",
+      "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+      "score": 15,
       "comments": 0,
-      "source": "github.com"
+      "source": "ochagavia.nl"
     },
     {
-      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
-      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-      "score": 8,
-      "comments": 2,
-      "source": "thonking.ai"
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "score": 294,
+      "comments": 139,
+      "source": "techcrunch.com"
     },
     {
-      "title": "The worst job interview I ever had",
-      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "score": 416,
-      "comments": 321,
-      "source": "oliverio.dev"
+      "title": "Training our own AI models",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "score": 151,
+      "comments": 97,
+      "source": "posthog.com"
     },
     {
-      "title": "A few interesting modern pixel fonts",
-      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 385,
-      "comments": 82,
-      "source": "unsung.aresluna.org"
-    },
-    {
-      "title": "We are Poles, so, of course, we print in Latin",
-      "url": "https://www.ustc.ac.uk/news/we-are-poles-so-of-course-we-print-in-latin",
-      "score": 47,
-      "comments": 7,
-      "source": "ustc.ac.uk"
-    },
-    {
-      "title": "I built a Git-tracked book production pipeline",
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "score": 258,
-      "comments": 64,
-      "source": "djspeckhals.com"
-    },
-    {
-      "title": "Seeking a Language in Mathematics 1523-1571",
-      "url": "https://tyndale.org/journals/reformj01/bmarsden.html",
-      "score": 19,
-      "comments": 2,
-      "source": "tyndale.org"
-    },
-    {
-      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-      "url": "https://github.com/logannye/rosalind",
-      "score": 172,
-      "comments": 49,
-      "source": "github.com"
-    },
-    {
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 995,
-      "comments": 458,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale",
-      "url": "https://www.minicor.com/",
-      "score": 93,
-      "comments": 56,
-      "source": "minicor.com"
-    },
-    {
-      "title": "A history of obituaries in American newspapers",
-      "url": "https://blogs.loc.gov/headlinesandheroes/2026/05/mourn-not-a-history-of-obituaries-in-american-newspapers/",
-      "score": 32,
-      "comments": 3,
-      "source": "blogs.loc.gov"
-    },
-    {
-      "title": "C array types are weird",
-      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-      "score": 103,
-      "comments": 106,
-      "source": "anselmschueler.com"
-    },
-    {
-      "title": "Sage Care (YC S24) Is Hiring Software Engineers",
-      "url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+      "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+      "url": "https://www.ycombinator.com/companies/reflex/jobs",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
-      "url": "https://tsduck.io/",
-      "score": 47,
-      "comments": 4,
-      "source": "tsduck.io"
+      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "score": 115,
+      "comments": 32,
+      "source": "thonking.ai"
     },
     {
-      "title": "IBM Confidential: System/360 File Organization [video]",
-      "url": "https://www.youtube.com/watch?v=zokKqP0plrM",
-      "score": 52,
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "score": 60,
+      "comments": 6,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Show HN: I made an emergency page for my family",
+      "url": "https://help.delduca.org",
+      "score": 51,
+      "comments": 62,
+      "source": "help.delduca.org"
+    },
+    {
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "url": "https://arxiv.org/abs/2605.21779",
+      "score": 7,
+      "comments": 0,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
+      "url": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
+      "score": 18,
+      "comments": 3,
+      "source": "z3ugma.github.io"
+    },
+    {
+      "title": "Valve raises Steam Deck prices by more than $200",
+      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "score": 33,
+      "comments": 14,
+      "source": "theverge.com"
+    },
+    {
+      "title": "All of human cooking compressed into 2 megabytes",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "score": 289,
+      "comments": 114,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Theseus: Translating Win32 to WASM",
+      "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+      "score": 46,
+      "comments": 15,
+      "source": "neugierig.org"
+    },
+    {
+      "title": "My new obsession: A horse-racing board game of pure luck",
+      "url": "https://alexanderbjoy.com/horse-race-board-game/",
+      "score": 37,
       "comments": 25,
-      "source": "youtube.com"
+      "source": "alexanderbjoy.com"
     },
     {
-      "title": "A portentous reunion",
-      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-      "score": 110,
-      "comments": 31,
-      "source": "bcantrill.dtrace.org"
+      "title": "XLIDE: VBA without excel",
+      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+      "score": 52,
+      "comments": 16,
+      "source": "github.com"
     },
     {
-      "title": "What I've Learned (So Far) Building Online Mini Games with Elixir and Swift",
-      "url": "https://calvinflegal.com/2026/05/24/what-ive-learned-so-far-building-online-mini-games-with-elixir-and-swift.html",
-      "score": 70,
-      "comments": 34,
-      "source": "calvinflegal.com"
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "score": 209,
+      "comments": 163,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "url": "https://tinycld.org/",
+      "score": 30,
+      "comments": 14,
+      "source": "tinycld.org"
+    },
+    {
+      "title": "The Melancholy of Slaying Monsters",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "score": 244,
+      "comments": 115,
+      "source": "thereader.mitpress.mit.edu"
+    },
+    {
+      "title": "Phloto for My Photo Flow",
+      "url": "https://cceckman.com/writing/phloto/",
+      "score": 28,
+      "comments": 2,
+      "source": "cceckman.com"
+    },
+    {
+      "title": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "score": 326,
+      "comments": 165,
+      "source": "developers.cloudflare.com"
+    },
+    {
+      "title": "Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon",
+      "url": "https://arxiv.org/abs/2605.27250",
+      "score": 42,
+      "comments": 5,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Raft Consensus with a Minority of Nodes",
+      "url": "https://padhye.org/raft-minority/",
+      "score": 105,
+      "comments": 17,
+      "source": "padhye.org"
+    },
+    {
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "score": 1748,
+      "comments": 845,
+      "source": "orchidfiles.com"
+    },
+    {
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "score": 286,
+      "comments": 207,
+      "source": "arps18.github.io"
+    },
+    {
+      "title": "Corporations can vote in some Delaware elections, judge says",
+      "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
+      "score": 90,
+      "comments": 145,
+      "source": "news.bloomberglaw.com"
     }
   ],
   "security": [
