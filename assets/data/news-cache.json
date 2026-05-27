@@ -1,67 +1,137 @@
 {
   "tech": [
     {
-      "title": "Stack Overflow's forum is dead thanks to AI",
-      "url": "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/",
-      "score": 41,
-      "comments": 31,
-      "source": "wiert.me"
-    },
-    {
-      "title": "The Ballad of TIGIT",
-      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
-      "score": 53,
-      "comments": 5,
-      "source": "owlposting.com"
-    },
-    {
-      "title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale",
-      "url": "https://www.minicor.com/",
-      "score": 46,
-      "comments": 37,
-      "source": "minicor.com"
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "score": 206,
+      "comments": 83,
+      "source": "science.org"
     },
     {
       "title": "A few interesting modern pixel fonts",
       "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 27,
-      "comments": 9,
+      "score": 230,
+      "comments": 51,
       "source": "unsung.aresluna.org"
+    },
+    {
+      "title": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "score": 17,
+      "comments": 5,
+      "source": "developers.cloudflare.com"
+    },
+    {
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "score": 150,
+      "comments": 36,
+      "source": "djspeckhals.com"
+    },
+    {
+      "title": "Agent Memory: An Anatomy",
+      "url": "https://brgsk.xyz/agent-memory-anatomy/",
+      "score": 14,
+      "comments": 2,
+      "source": "brgsk.xyz"
+    },
+    {
+      "title": "C array types are weird",
+      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+      "score": 49,
+      "comments": 23,
+      "source": "anselmschueler.com"
+    },
+    {
+      "title": "A portentous reunion",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "score": 38,
+      "comments": 13,
+      "source": "bcantrill.dtrace.org"
+    },
+    {
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "score": 252,
+      "comments": 134,
+      "source": "medium.com"
+    },
+    {
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "url": "https://github.com/logannye/rosalind",
+      "score": 119,
+      "comments": 29,
+      "source": "github.com"
     },
     {
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
       "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "score": 433,
-      "comments": 209,
+      "score": 754,
+      "comments": 343,
       "source": "reuters.com"
+    },
+    {
+      "title": "The Steinwinter Supercargo",
+      "url": "https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today",
+      "score": 38,
+      "comments": 6,
+      "source": "thedrive.com"
     },
     {
       "title": "Dropbox CEO Drew Houston to step down",
       "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-      "score": 115,
-      "comments": 103,
+      "score": 277,
+      "comments": 316,
       "source": "cnbc.com"
     },
     {
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "score": 1065,
-      "comments": 395,
-      "source": "nolanlawson.com"
+      "title": "The real cost of owning a home",
+      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
+      "score": 260,
+      "comments": 585,
+      "source": "ericturner.dev"
     },
     {
-      "title": "C64 Basic: Game Map Overhead \"Camera View\"",
-      "url": "https://retrogamecoders.com/overhead-camera-view/",
-      "score": 50,
-      "comments": 5,
-      "source": "retrogamecoders.com"
+      "title": "Liverpool and Manchester Railway",
+      "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+      "score": 6,
+      "comments": 1,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale",
+      "url": "https://www.minicor.com/",
+      "score": 69,
+      "comments": 46,
+      "source": "minicor.com"
+    },
+    {
+      "title": "The Ballad of TIGIT",
+      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
+      "score": 92,
+      "comments": 17,
+      "source": "owlposting.com"
     },
     {
       "title": "What color is your function? (2015)",
       "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-      "score": 50,
-      "comments": 39,
+      "score": 90,
+      "comments": 107,
       "source": "journal.stuffwithstuff.com"
+    },
+    {
+      "title": "C64 Basic: Game Map Overhead \u201cCamera View\u201d",
+      "url": "https://retrogamecoders.com/overhead-camera-view/",
+      "score": 74,
+      "comments": 10,
+      "source": "retrogamecoders.com"
+    },
+    {
+      "title": "Show HN: Rapel \u2013 chunked resumable downloads in unstable networks",
+      "url": "https://github.com/redraw/rapel",
+      "score": 4,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Sage Care (YC S24) Is Hiring Software Engineers",
@@ -71,147 +141,83 @@
       "source": "ycombinator.com"
     },
     {
+      "title": "Use boring languages with LLMs",
+      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+      "score": 165,
+      "comments": 137,
+      "source": "jry.io"
+    },
+    {
+      "title": "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
+      "url": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+      "score": 10,
+      "comments": 0,
+      "source": "rollingstone.com"
+    },
+    {
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
       "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "score": 154,
-      "comments": 161,
+      "score": 238,
+      "comments": 258,
       "source": "signalbloom.ai"
-    },
-    {
-      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-      "url": "https://github.com/logannye/rosalind",
-      "score": 19,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Language Models Need Sleep",
-      "url": "https://arxiv.org/abs/2605.26099",
-      "score": 121,
-      "comments": 93,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "The real cost of owning a home",
-      "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-      "score": 74,
-      "comments": 203,
-      "source": "ericturner.dev"
     },
     {
       "title": "Opaque Types in Python",
       "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
-      "score": 82,
-      "comments": 34,
+      "score": 111,
+      "comments": 49,
       "source": "blog.glyph.im"
-    },
-    {
-      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "url": "https://dynip.dev/",
-      "score": 271,
-      "comments": 109,
-      "source": "dynip.dev"
-    },
-    {
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "score": 395,
-      "comments": 146,
-      "source": "politico.eu"
-    },
-    {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "score": 534,
-      "comments": 211,
-      "source": "apa.org"
-    },
-    {
-      "title": "Performance of Rust Language [pdf]",
-      "url": "https://github.com/yugr/rust-slides/",
-      "score": 96,
-      "comments": 71,
-      "source": "github.com"
     },
     {
       "title": "Are we self-sovereign PKI yet?",
       "url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
-      "score": 37,
-      "comments": 10,
+      "score": 72,
+      "comments": 44,
       "source": "buffrr.dev"
     },
     {
-      "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
-      "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
-      "score": 190,
-      "comments": 93,
-      "source": "reuters.com"
+      "title": "The worst job interview I ever had",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "score": 132,
+      "comments": 111,
+      "source": "oliverio.dev"
     },
     {
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "score": 6,
-      "comments": 1,
-      "source": "djspeckhals.com"
-    },
-    {
-      "title": "Use boring languages with LLMs",
-      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-      "score": 83,
-      "comments": 66,
-      "source": "jry.io"
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "score": 521,
+      "comments": 206,
+      "source": "politico.eu"
     },
     {
       "title": "Phantasy Star IV \u2013 1993 Developer Interviews",
       "url": "https://shmuplations.com/phantasystariv/",
-      "score": 117,
-      "comments": 43,
+      "score": 132,
+      "comments": 55,
       "source": "shmuplations.com"
     },
     {
-      "title": "Is \"colorectal cancer\" rising in \"young people\"?",
-      "url": "https://dynomight.net/crc-rates/",
-      "score": 82,
-      "comments": 81,
-      "source": "dynomight.net"
+      "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+      "url": "https://deepswe.datacurve.ai/blog",
+      "score": 26,
+      "comments": 8,
+      "source": "deepswe.datacurve.ai"
     },
     {
       "title": "The user is visibly frustrated",
       "url": "https://pscanf.com/s/354/",
-      "score": 229,
-      "comments": 201,
+      "score": 273,
+      "comments": 242,
       "source": "pscanf.com"
-    },
-    {
-      "title": "How Shamir's Secret Sharing Works",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "score": 344,
-      "comments": 63,
-      "source": "ente.com"
-    },
-    {
-      "title": "Xiaomi MiMo-v2.5 Series API Permanent Price Reduction Up to 99%",
-      "url": "https://platform.xiaomimimo.com/docs/en-US/news/v2.5-price-update",
-      "score": 9,
-      "comments": 6,
-      "source": "platform.xiaomimimo.com"
-    },
-    {
-      "title": "Incident with Actions and Pages",
-      "url": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
-      "score": 75,
-      "comments": 22,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "Ferrari Luce",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "score": 444,
-      "comments": 820,
-      "source": "ferrari.com"
     }
   ],
   "security": [
+    {
+      "title": "Welcoming the AWS Customer Incident Response Team",
+      "url": "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team/",
+      "date": "2026-05-26 19:04:17",
+      "author": "Jason Hurst"
+    },
     {
       "title": "Well-architected best practices for software supply chain security",
       "url": "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center/",
       "date": "2026-05-14 20:42:20",
       "author": "Georgi Baghdasaryan"
-    },
-    {
-      "title": "Automating post-quantum cryptography readiness using AWS Config",
-      "url": "https://aws.amazon.com/blogs/security/automating-post-quantum-cryptography-readiness-using-aws-config/",
-      "date": "2026-05-14 16:18:20",
-      "author": "Pravin Nair"
     }
   ]
 }
