@@ -3,212 +3,212 @@
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 497,
-      "comments": 288,
+      "score": 792,
+      "comments": 458,
       "source": "blog.youtube"
+    },
+    {
+      "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "score": 140,
+      "comments": 53,
+      "source": "hallucinate.site"
+    },
+    {
+      "title": "I analysed 20 years of my chats",
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "score": 72,
+      "comments": 15,
+      "source": "drobinin.com"
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 614,
-      "comments": 754,
+      "score": 810,
+      "comments": 949,
       "source": "simonwillison.net"
-    },
-    {
-      "title": "Internet traffic in Iran increasing",
-      "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
-      "score": 54,
-      "comments": 35,
-      "source": "radar.cloudflare.com"
-    },
-    {
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 160,
-      "comments": 160,
-      "source": "jacquescorbytuech.com"
     },
     {
       "title": "SimCity 3k in 4k (2025)",
       "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 267,
-      "comments": 102,
+      "score": 347,
+      "comments": 127,
       "source": "thran.uk"
     },
     {
-      "title": "You Should Not Update Your Dependencies",
-      "url": "https://www.mendral.com/blog/you-should-not-update",
-      "score": 15,
-      "comments": 2,
-      "source": "mendral.com"
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 255,
+      "comments": 253,
+      "source": "jacquescorbytuech.com"
+    },
+    {
+      "title": "The Green Side of the Lua",
+      "url": "https://arxiv.org/abs/2601.16670",
+      "score": 34,
+      "comments": 14,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "score": 173,
+      "comments": 54,
+      "source": "jonaharagon.com"
+    },
+    {
+      "title": "The Ask",
+      "url": "https://randsinrepose.com/archives/the-ask/",
+      "score": 53,
+      "comments": 30,
+      "source": "randsinrepose.com"
     },
     {
       "title": "Rust (and Slint) on a Jailbroken Kindle",
       "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 90,
-      "comments": 10,
+      "score": 146,
+      "comments": 17,
       "source": "sverre.me"
+    },
+    {
+      "title": "Our 2D game character grew 3% taller every time he walked",
+      "url": "https://hey.paris/posts/leo-sprite-alignment/",
+      "score": 10,
+      "comments": 4,
+      "source": "hey.paris"
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 644,
-      "comments": 327,
+      "score": 810,
+      "comments": 382,
       "source": "pcgamer.com"
     },
     {
-      "title": "A New Typst Template for Pandoc",
+      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+      "score": 278,
+      "comments": 173,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "A New Typst Template for Pandoc (2025)",
       "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-      "score": 16,
-      "comments": 0,
+      "score": 65,
+      "comments": 11,
       "source": "imaginarytext.ca"
     },
     {
-      "title": "Pelica (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "score": 954,
+      "comments": 570,
+      "source": "mlsu.io"
+    },
+    {
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Interleaved Deltas",
-      "url": "https://mmapped.blog/posts/51-interleaved-deltas",
-      "score": 23,
-      "comments": 0,
-      "source": "mmapped.blog"
+      "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+      "score": 146,
+      "comments": 71,
+      "source": "cnbc.com"
     },
     {
-      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "score": 42,
+      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "score": 64,
+      "comments": 61,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Zero Lines Maze: What the 8-Bit Guy's One-Liner Can Still Teach Us",
+      "url": "https://retrogamecoders.com/zero-lines-maze/",
+      "score": 38,
       "comments": 13,
-      "source": "jonaharagon.com"
-    },
-    {
-      "title": "On Labubu and the Hyperreal",
-      "url": "https://2earth.github.io/website/20260525.html",
-      "score": 63,
-      "comments": 70,
-      "source": "2earth.github.io"
-    },
-    {
-      "title": "Go: Support for Generic Methods",
-      "url": "https://github.com/golang/go/issues/77273",
-      "score": 179,
-      "comments": 139,
-      "source": "github.com"
+      "source": "retrogamecoders.com"
     },
     {
       "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
       "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "score": 255,
-      "comments": 188,
+      "score": 292,
+      "comments": 194,
       "source": "githubstatus.com"
+    },
+    {
+      "title": "Go: Support for Generic Methods",
+      "url": "https://github.com/golang/go/issues/77273",
+      "score": 238,
+      "comments": 191,
+      "source": "github.com"
+    },
+    {
+      "title": "My new obsession: A horse-racing board game of pure luck",
+      "url": "https://alexanderbjoy.com/horse-race-board-game/",
+      "score": 73,
+      "comments": 45,
+      "source": "alexanderbjoy.com"
+    },
+    {
+      "title": "Warm up your MacBook (2019)",
+      "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+      "score": 63,
+      "comments": 63,
+      "source": "z3ugma.github.io"
+    },
+    {
+      "title": "Interleaved Deltas",
+      "url": "https://mmapped.blog/posts/51-interleaved-deltas",
+      "score": 58,
+      "comments": 1,
+      "source": "mmapped.blog"
+    },
+    {
+      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
+      "score": 115,
+      "comments": 19,
+      "source": "science.org"
+    },
+    {
+      "title": "Mini Micro Fantasy Computer",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "score": 249,
+      "comments": 80,
+      "source": "miniscript.org"
+    },
+    {
+      "title": "Biff is a command line datetime Swiss army knife",
+      "url": "https://github.com/BurntSushi/biff",
+      "score": 8,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "score": 114,
+      "comments": 52,
+      "source": "brennan.day"
     },
     {
       "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
       "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
-      "score": 389,
-      "comments": 279,
+      "score": 514,
+      "comments": 359,
       "source": "theguardian.com"
     },
     {
       "title": "Last.fm is now independent",
       "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "score": 610,
-      "comments": 171,
+      "score": 727,
+      "comments": 191,
       "source": "support.last.fm"
-    },
-    {
-      "title": "Mini Micro Fantasy Computer",
-      "url": "https://miniscript.org/MiniMicro/index.html#about",
-      "score": 228,
-      "comments": 80,
-      "source": "miniscript.org"
-    },
-    {
-      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-      "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "score": 357,
-      "comments": 223,
-      "source": "arps18.github.io"
-    },
-    {
-      "title": "I am not a black belt",
-      "url": "https://rodolphoarruda.pro.br/i-am-not-a-black-belt/",
-      "score": 5,
-      "comments": 0,
-      "source": "rodolphoarruda.pro.br"
-    },
-    {
-      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 82,
-      "comments": 43,
-      "source": "brennan.day"
-    },
-    {
-      "title": "Human Bottlenecks",
-      "url": "https://borretti.me/article/human-bottlenecks",
-      "score": 73,
-      "comments": 20,
-      "source": "borretti.me"
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 539,
-      "comments": 281,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Freediving, Embodiment and Humanity",
-      "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
-      "score": 25,
-      "comments": 13,
-      "source": "tracesofhumanity.org"
-    },
-    {
-      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-      "score": 68,
-      "comments": 12,
-      "source": "science.org"
-    },
-    {
-      "title": "What Is a Direct Attach Copper (DAC) Cable? (2021)",
-      "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
-      "score": 92,
-      "comments": 74,
-      "source": "servethehome.com"
-    },
-    {
-      "title": "Private equity bought America's essential services",
-      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-      "score": 417,
-      "comments": 480,
-      "source": "rubbishtalk.com"
-    },
-    {
-      "title": "Matrix Multiplications on GPUs Run Faster When Given \u201cPredictable\u201d Data (2024)",
-      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-      "score": 148,
-      "comments": 42,
-      "source": "thonking.ai"
-    },
-    {
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "score": 12,
-      "comments": 4,
-      "source": "elodin.systems"
-    },
-    {
-      "title": "All of human cooking compressed into 2 megabytes",
-      "url": "https://arxiv.org/abs/2605.22391",
-      "score": 353,
-      "comments": 147,
-      "source": "arxiv.org"
     }
   ],
   "security": [
