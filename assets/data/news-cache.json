@@ -1,151 +1,179 @@
 {
   "tech": [
     {
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "url": "https://lenz.io/research/llm-disagreement",
-      "score": 113,
-      "comments": 62,
-      "source": "lenz.io"
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "score": 655,
+      "comments": 484,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "score": 133,
+      "comments": 69,
+      "source": "llmgame.scalex.dev"
+    },
+    {
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+      "score": 139,
+      "comments": 65,
+      "source": "taoofmac.com"
+    },
+    {
+      "title": "Just Use Postgres for Durable Workflows",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "score": 8,
+      "comments": 2,
+      "source": "dbos.dev"
+    },
+    {
+      "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
+      "url": "https://github.com/Kaelio/ktx",
+      "score": 18,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "The Permanent Upper Crow",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "score": 77,
+      "comments": 25,
+      "source": "permanent-upper-crow.jasonwu.ink"
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 1017,
-      "comments": 617,
+      "score": 1227,
+      "comments": 727,
       "source": "blog.youtube"
     },
     {
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "score": 144,
-      "comments": 64,
-      "source": "itsfoss.com"
+      "title": "US's big bet on quantum computing may not be legal",
+      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "score": 67,
+      "comments": 56,
+      "source": "arstechnica.com"
     },
     {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "score": 116,
-      "comments": 34,
-      "source": "iisc.ac.in"
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "score": 41,
+      "comments": 31,
+      "source": "anthropic.com"
     },
     {
-      "title": "I analysed 20 years of my chats",
-      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
-      "score": 197,
-      "comments": 78,
-      "source": "drobinin.com"
+      "title": "Dynamic Workflows in Claude Code",
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "score": 91,
+      "comments": 75,
+      "source": "claude.com"
     },
     {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 952,
-      "comments": 1065,
-      "source": "simonwillison.net"
+      "title": "News about Raspberry Pi 6 and Microcontroller Development",
+      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+      "score": 35,
+      "comments": 19,
+      "source": "jeffgeerling.com"
     },
     {
-      "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "score": 266,
-      "comments": 112,
-      "source": "hallucinate.site"
+      "title": "EU fines Temu \u20ac200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "score": 210,
+      "comments": 145,
+      "source": "bbc.co.uk"
     },
     {
-      "title": "Rapira (\u0420\u0430\u043f\u0438\u0440\u0430) \u2013 Soviet programming language interpreter",
-      "url": "https://github.com/begoon/rapira",
-      "score": 50,
-      "comments": 26,
+      "title": "Using Tailscale with an OrbStack VM on macOS",
+      "url": "https://github.com/highpost/tailscale-macos-vm",
+      "score": 16,
+      "comments": 0,
       "source": "github.com"
     },
     {
-      "title": "Ruby vs. Java vs. TypeScript: my experience on building a Cowork DOCX plugin",
-      "url": "https://tanin.nanakorn.com/ruby-java-typescrip-claude-docx-plugin/",
-      "score": 22,
-      "comments": 5,
-      "source": "tanin.nanakorn.com"
-    },
-    {
-      "title": "Libwce: The entropy layer of a wavelet codec, on its own",
-      "url": "https://yogthos.net/posts/2026-05-24-libwce.html",
+      "title": "About LLMs at Zig Days",
+      "url": "https://kristoff.it/blog/llms-at-zig-days/",
       "score": 7,
-      "comments": 0,
-      "source": "yogthos.net"
+      "comments": 2,
+      "source": "kristoff.it"
     },
     {
-      "title": "SimCity 3k in 4k (2025)",
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 400,
-      "comments": 161,
-      "source": "thran.uk"
-    },
-    {
-      "title": "Commission fines Temu \u20ac200M for breaching the Digital Services Act",
-      "url": "https://ec.europa.eu/commission/presscorner/home/en",
-      "score": 47,
-      "comments": 31,
-      "source": "ec.europa.eu"
-    },
-    {
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 325,
-      "comments": 328,
-      "source": "jacquescorbytuech.com"
-    },
-    {
-      "title": "More Whimsical OEIS Sequences",
-      "url": "https://www.jeremykun.com/shortform/2026-05-22-1528/",
-      "score": 24,
+      "title": "Trivial Pursuits",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits",
+      "score": 13,
       "comments": 4,
-      "source": "jeremykun.com"
+      "source": "lrb.co.uk"
+    },
+    {
+      "title": "Boston and Bermuda",
+      "url": "https://askthepilot.com/boston-and-bermuda/",
+      "score": 35,
+      "comments": 9,
+      "source": "askthepilot.com"
+    },
+    {
+      "title": "Show HN: Hallucinate \u2013 Massively Multiplayer Online Rave",
+      "url": "https://hallucinate.site",
+      "score": 365,
+      "comments": 157,
+      "source": "hallucinate.site"
+    },
+    {
+      "title": "Bitburner, programming-based incremental game",
+      "url": "https://bitburner-official.github.io/",
+      "score": 5,
+      "comments": 1,
+      "source": "bitburner-official.github.io"
+    },
+    {
+      "title": "I hated writing\u2013until I learned there's a science to it(2024)",
+      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "score": 4,
+      "comments": 0,
+      "source": "science.org"
+    },
+    {
+      "title": "Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
+      "url": "https://ipvm.com/reports/bipartisan-alpr-amendment-killed",
+      "score": 21,
+      "comments": 4,
+      "source": "ipvm.com"
+    },
+    {
+      "title": "You Were Never Declaring State. You Were Observing by Hand",
+      "url": "https://webframp.com/posts/you-were-never-declaring-state/",
+      "score": 4,
+      "comments": 4,
+      "source": "webframp.com"
+    },
+    {
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "score": 49,
+      "comments": 5,
+      "source": "elodin.systems"
+    },
+    {
+      "title": "Bttf is a command line datetime Swiss army knife",
+      "url": "https://github.com/BurntSushi/bttf",
+      "score": 110,
+      "comments": 76,
+      "source": "github.com"
     },
     {
       "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
       "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "score": 241,
-      "comments": 94,
+      "score": 331,
+      "comments": 125,
       "source": "jonaharagon.com"
     },
     {
-      "title": "AI sticker shock hits corporate America",
-      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-      "score": 110,
-      "comments": 82,
-      "source": "axios.com"
-    },
-    {
-      "title": "The Ask",
-      "url": "https://randsinrepose.com/archives/the-ask/",
-      "score": 93,
-      "comments": 59,
-      "source": "randsinrepose.com"
-    },
-    {
-      "title": "Seeing Around Corners Using Smartphone-Grade Lidar",
-      "url": "https://spectrum.ieee.org/smartphone-grade-lidar",
-      "score": 28,
-      "comments": 6,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 190,
-      "comments": 28,
-      "source": "sverre.me"
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 937,
-      "comments": 442,
-      "source": "pcgamer.com"
-    },
-    {
-      "title": "Biff is a command line datetime Swiss army knife",
-      "url": "https://github.com/BurntSushi/biff",
-      "score": 62,
-      "comments": 29,
-      "source": "github.com"
+      "title": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "score": 462,
+      "comments": 185,
+      "source": "thran.uk"
     },
     {
       "title": "RamAIn (YC W26) Is Hiring",
@@ -155,60 +183,32 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "url": "https://arxiv.org/abs/2510.04950",
-      "score": 96,
-      "comments": 89,
-      "source": "arxiv.org"
+      "title": "Google Hates You",
+      "url": "https://www.sfgate.com/tech/article/new-google-ai-22279112.php",
+      "score": 5,
+      "comments": 1,
+      "source": "sfgate.com"
     },
     {
-      "title": "Go: Support for Generic Methods",
-      "url": "https://github.com/golang/go/issues/77273",
-      "score": 265,
-      "comments": 228,
-      "source": "github.com"
+      "title": "Hold on for Dear Life",
+      "url": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
+      "score": 16,
+      "comments": 2,
+      "source": "pluralistic.net"
     },
     {
-      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-      "score": 395,
-      "comments": 286,
+      "title": "Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?",
+      "url": "https://www.nytimes.com/2026/05/27/theater/thornton-wilder-emporium-last-play.html",
+      "score": 4,
+      "comments": 0,
       "source": "nytimes.com"
     },
     {
-      "title": "Warm up your MacBook (2019)",
-      "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-      "score": 95,
-      "comments": 98,
-      "source": "z3ugma.github.io"
-    },
-    {
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "score": 318,
-      "comments": 205,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-      "score": 143,
-      "comments": 21,
-      "source": "science.org"
-    },
-    {
-      "title": "A New Typst Template for Pandoc (2025)",
-      "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
-      "score": 91,
-      "comments": 17,
-      "source": "imaginarytext.ca"
-    },
-    {
-      "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-      "score": 243,
-      "comments": 145,
-      "source": "cnbc.com"
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 391,
+      "comments": 387,
+      "source": "jacquescorbytuech.com"
     }
   ],
   "security": [
