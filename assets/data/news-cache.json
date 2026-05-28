@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 497,
+      "comments": 288,
+      "source": "blog.youtube"
+    },
+    {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 167,
-      "comments": 179,
+      "score": 614,
+      "comments": 754,
       "source": "simonwillison.net"
+    },
+    {
+      "title": "Internet traffic in Iran increasing",
+      "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+      "score": 54,
+      "comments": 35,
+      "source": "radar.cloudflare.com"
+    },
+    {
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 160,
+      "comments": 160,
+      "source": "jacquescorbytuech.com"
     },
     {
       "title": "SimCity 3k in 4k (2025)",
       "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 83,
-      "comments": 20,
+      "score": 267,
+      "comments": 102,
       "source": "thran.uk"
+    },
+    {
+      "title": "You Should Not Update Your Dependencies",
+      "url": "https://www.mendral.com/blog/you-should-not-update",
+      "score": 15,
+      "comments": 2,
+      "source": "mendral.com"
+    },
+    {
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "score": 90,
+      "comments": 10,
+      "source": "sverre.me"
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 297,
-      "comments": 159,
+      "score": 644,
+      "comments": 327,
       "source": "pcgamer.com"
     },
     {
-      "title": "Last.fm is now independent",
-      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "score": 348,
-      "comments": 107,
-      "source": "support.last.fm"
-    },
-    {
-      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 21,
-      "comments": 7,
-      "source": "brennan.day"
-    },
-    {
-      "title": "Mini Micro Fantasy Computer",
-      "url": "https://miniscript.org/MiniMicro/index.html#about",
-      "score": 202,
-      "comments": 72,
-      "source": "miniscript.org"
-    },
-    {
-      "title": "In-Browser Container Builds",
-      "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
-      "score": 15,
+      "title": "A New Typst Template for Pandoc",
+      "url": "https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/",
+      "score": 16,
       "comments": 0,
-      "source": "ochagavia.nl"
+      "source": "imaginarytext.ca"
     },
     {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 294,
-      "comments": 139,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Training our own AI models",
-      "url": "https://posthog.com/blog/training-ai-models",
-      "score": 151,
-      "comments": 97,
-      "source": "posthog.com"
-    },
-    {
-      "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
-      "url": "https://www.ycombinator.com/companies/reflex/jobs",
+      "title": "Pelica (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
-      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-      "score": 115,
-      "comments": 32,
-      "source": "thonking.ai"
-    },
-    {
-      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
-      "score": 60,
-      "comments": 6,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Show HN: I made an emergency page for my family",
-      "url": "https://help.delduca.org",
-      "score": 51,
-      "comments": 62,
-      "source": "help.delduca.org"
-    },
-    {
-      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "url": "https://arxiv.org/abs/2605.21779",
-      "score": 7,
+      "title": "Interleaved Deltas",
+      "url": "https://mmapped.blog/posts/51-interleaved-deltas",
+      "score": 23,
       "comments": 0,
-      "source": "arxiv.org"
+      "source": "mmapped.blog"
     },
     {
-      "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
-      "url": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
-      "score": 18,
-      "comments": 3,
-      "source": "z3ugma.github.io"
+      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "score": 42,
+      "comments": 13,
+      "source": "jonaharagon.com"
     },
     {
-      "title": "Valve raises Steam Deck prices by more than $200",
-      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
-      "score": 33,
-      "comments": 14,
-      "source": "theverge.com"
+      "title": "On Labubu and the Hyperreal",
+      "url": "https://2earth.github.io/website/20260525.html",
+      "score": 63,
+      "comments": 70,
+      "source": "2earth.github.io"
     },
     {
-      "title": "All of human cooking compressed into 2 megabytes",
-      "url": "https://arxiv.org/abs/2605.22391",
-      "score": 289,
-      "comments": 114,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Theseus: Translating Win32 to WASM",
-      "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
-      "score": 46,
-      "comments": 15,
-      "source": "neugierig.org"
-    },
-    {
-      "title": "My new obsession: A horse-racing board game of pure luck",
-      "url": "https://alexanderbjoy.com/horse-race-board-game/",
-      "score": 37,
-      "comments": 25,
-      "source": "alexanderbjoy.com"
-    },
-    {
-      "title": "XLIDE: VBA without excel",
-      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-      "score": 52,
-      "comments": 16,
+      "title": "Go: Support for Generic Methods",
+      "url": "https://github.com/golang/go/issues/77273",
+      "score": 179,
+      "comments": 139,
       "source": "github.com"
     },
     {
       "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
       "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "score": 209,
-      "comments": 163,
+      "score": 255,
+      "comments": 188,
       "source": "githubstatus.com"
     },
     {
-      "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
-      "url": "https://tinycld.org/",
-      "score": 30,
-      "comments": 14,
-      "source": "tinycld.org"
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "score": 389,
+      "comments": 279,
+      "source": "theguardian.com"
     },
     {
-      "title": "The Melancholy of Slaying Monsters",
-      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-      "score": 244,
-      "comments": 115,
-      "source": "thereader.mitpress.mit.edu"
+      "title": "Last.fm is now independent",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "score": 610,
+      "comments": 171,
+      "source": "support.last.fm"
     },
     {
-      "title": "Phloto for My Photo Flow",
-      "url": "https://cceckman.com/writing/phloto/",
-      "score": 28,
-      "comments": 2,
-      "source": "cceckman.com"
-    },
-    {
-      "title": "Cloudflare Flagship",
-      "url": "https://developers.cloudflare.com/flagship/",
-      "score": 326,
-      "comments": 165,
-      "source": "developers.cloudflare.com"
-    },
-    {
-      "title": "Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon",
-      "url": "https://arxiv.org/abs/2605.27250",
-      "score": 42,
-      "comments": 5,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Raft Consensus with a Minority of Nodes",
-      "url": "https://padhye.org/raft-minority/",
-      "score": 105,
-      "comments": 17,
-      "source": "padhye.org"
-    },
-    {
-      "title": "I'm Tired of Talking to AI",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "score": 1748,
-      "comments": 845,
-      "source": "orchidfiles.com"
+      "title": "Mini Micro Fantasy Computer",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "score": 228,
+      "comments": 80,
+      "source": "miniscript.org"
     },
     {
       "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
       "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "score": 286,
-      "comments": 207,
+      "score": 357,
+      "comments": 223,
       "source": "arps18.github.io"
     },
     {
-      "title": "Corporations can vote in some Delaware elections, judge says",
-      "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
-      "score": 90,
-      "comments": 145,
-      "source": "news.bloomberglaw.com"
+      "title": "I am not a black belt",
+      "url": "https://rodolphoarruda.pro.br/i-am-not-a-black-belt/",
+      "score": 5,
+      "comments": 0,
+      "source": "rodolphoarruda.pro.br"
+    },
+    {
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "score": 82,
+      "comments": 43,
+      "source": "brennan.day"
+    },
+    {
+      "title": "Human Bottlenecks",
+      "url": "https://borretti.me/article/human-bottlenecks",
+      "score": 73,
+      "comments": 20,
+      "source": "borretti.me"
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "score": 539,
+      "comments": 281,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Freediving, Embodiment and Humanity",
+      "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
+      "score": 25,
+      "comments": 13,
+      "source": "tracesofhumanity.org"
+    },
+    {
+      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
+      "score": 68,
+      "comments": 12,
+      "source": "science.org"
+    },
+    {
+      "title": "What Is a Direct Attach Copper (DAC) Cable? (2021)",
+      "url": "https://www.servethehome.com/what-is-a-direct-attach-copper-dac-cable/",
+      "score": 92,
+      "comments": 74,
+      "source": "servethehome.com"
+    },
+    {
+      "title": "Private equity bought America's essential services",
+      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "score": 417,
+      "comments": 480,
+      "source": "rubbishtalk.com"
+    },
+    {
+      "title": "Matrix Multiplications on GPUs Run Faster When Given \u201cPredictable\u201d Data (2024)",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "score": 148,
+      "comments": 42,
+      "source": "thonking.ai"
+    },
+    {
+      "title": "Show HN: Open-Source AI Racing Harness",
+      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+      "score": 12,
+      "comments": 4,
+      "source": "elodin.systems"
+    },
+    {
+      "title": "All of human cooking compressed into 2 megabytes",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "score": 353,
+      "comments": 147,
+      "source": "arxiv.org"
     }
   ],
   "security": [
