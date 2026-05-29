@@ -3,215 +3,227 @@
     {
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 655,
-      "comments": 484,
+      "score": 1182,
+      "comments": 953,
       "source": "anthropic.com"
     },
     {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "score": 133,
-      "comments": 69,
-      "source": "llmgame.scalex.dev"
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "score": 550,
+      "comments": 301,
+      "source": "mybricklog.com"
     },
     {
-      "title": "Indoor Wi-Fi Roaming with OpenWRT",
-      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 139,
-      "comments": 65,
-      "source": "taoofmac.com"
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "score": 155,
+      "comments": 16,
+      "source": "nick.winans.io"
     },
     {
-      "title": "Just Use Postgres for Durable Workflows",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "score": 8,
-      "comments": 2,
-      "source": "dbos.dev"
-    },
-    {
-      "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
-      "url": "https://github.com/Kaelio/ktx",
+      "title": "Garnix (A Nix CI) is shutting down",
+      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
       "score": 18,
       "comments": 3,
-      "source": "github.com"
+      "source": "discourse.nixos.org"
     },
     {
-      "title": "The Permanent Upper Crow",
-      "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 77,
-      "comments": 25,
-      "source": "permanent-upper-crow.jasonwu.ink"
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "score": 206,
+      "comments": 146,
+      "source": "shvbsle.in"
     },
     {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 1227,
-      "comments": 727,
-      "source": "blog.youtube"
+      "title": "Ten Basic Clouds",
+      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "score": 18,
+      "comments": 4,
+      "source": "noaa.gov"
     },
     {
-      "title": "US's big bet on quantum computing may not be legal",
-      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
-      "score": 67,
-      "comments": 56,
-      "source": "arstechnica.com"
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "score": 127,
+      "comments": 52,
+      "source": "chiark.greenend.org.uk"
     },
     {
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "score": 41,
-      "comments": 31,
-      "source": "anthropic.com"
+      "title": "I hated writing until I learned there\u2019s a science to it (2024)",
+      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "score": 129,
+      "comments": 55,
+      "source": "science.org"
     },
     {
-      "title": "Dynamic Workflows in Claude Code",
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "score": 91,
-      "comments": 75,
-      "source": "claude.com"
+      "title": "Building durable workflows on Postgres",
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "score": 256,
+      "comments": 106,
+      "source": "dbos.dev"
     },
     {
       "title": "News about Raspberry Pi 6 and Microcontroller Development",
       "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 35,
-      "comments": 19,
+      "score": 136,
+      "comments": 99,
       "source": "jeffgeerling.com"
     },
     {
-      "title": "EU fines Temu \u20ac200M for allowing sale of illegal products",
-      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-      "score": 210,
-      "comments": 145,
-      "source": "bbc.co.uk"
+      "title": "Bot Company allegedly trashing Airbnb rentals with their prototype robots",
+      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "score": 37,
+      "comments": 6,
+      "source": "sfstandard.com"
     },
     {
-      "title": "Using Tailscale with an OrbStack VM on macOS",
-      "url": "https://github.com/highpost/tailscale-macos-vm",
-      "score": 16,
-      "comments": 0,
-      "source": "github.com"
+      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+      "score": 141,
+      "comments": 52,
+      "source": "tomshardware.com"
     },
     {
-      "title": "About LLMs at Zig Days",
-      "url": "https://kristoff.it/blog/llms-at-zig-days/",
-      "score": 7,
-      "comments": 2,
-      "source": "kristoff.it"
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "score": 235,
+      "comments": 107,
+      "source": "llmgame.scalex.dev"
     },
     {
-      "title": "Trivial Pursuits",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits",
-      "score": 13,
-      "comments": 4,
-      "source": "lrb.co.uk"
+      "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+      "url": "https://coalton-lang.github.io/",
+      "score": 82,
+      "comments": 10,
+      "source": "coalton-lang.github.io"
     },
     {
-      "title": "Boston and Bermuda",
-      "url": "https://askthepilot.com/boston-and-bermuda/",
-      "score": 35,
-      "comments": 9,
-      "source": "askthepilot.com"
+      "title": "The Permanent Upper Crow",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "score": 146,
+      "comments": 58,
+      "source": "permanent-upper-crow.jasonwu.ink"
     },
     {
-      "title": "Show HN: Hallucinate \u2013 Massively Multiplayer Online Rave",
-      "url": "https://hallucinate.site",
-      "score": 365,
-      "comments": 157,
-      "source": "hallucinate.site"
+      "title": "The most unlikely school bag",
+      "url": "https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/",
+      "score": 73,
+      "comments": 21,
+      "source": "carryology.com"
     },
     {
       "title": "Bitburner, programming-based incremental game",
       "url": "https://bitburner-official.github.io/",
-      "score": 5,
-      "comments": 1,
+      "score": 77,
+      "comments": 14,
       "source": "bitburner-official.github.io"
     },
     {
-      "title": "I hated writing\u2013until I learned there's a science to it(2024)",
-      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "score": 4,
-      "comments": 0,
-      "source": "science.org"
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+      "score": 204,
+      "comments": 96,
+      "source": "taoofmac.com"
     },
     {
-      "title": "Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
-      "url": "https://ipvm.com/reports/bipartisan-alpr-amendment-killed",
-      "score": 21,
-      "comments": 4,
-      "source": "ipvm.com"
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "score": 249,
+      "comments": 233,
+      "source": "anthropic.com"
     },
     {
-      "title": "You Were Never Declaring State. You Were Observing by Hand",
-      "url": "https://webframp.com/posts/you-were-never-declaring-state/",
-      "score": 4,
-      "comments": 4,
-      "source": "webframp.com"
-    },
-    {
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "score": 49,
-      "comments": 5,
-      "source": "elodin.systems"
-    },
-    {
-      "title": "Bttf is a command line datetime Swiss army knife",
-      "url": "https://github.com/BurntSushi/bttf",
-      "score": 110,
-      "comments": 76,
+      "title": "Endive: A JVM native WebAssembly runtime",
+      "url": "https://github.com/bytecodealliance/endive",
+      "score": 56,
+      "comments": 15,
       "source": "github.com"
     },
     {
-      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "score": 331,
-      "comments": 125,
-      "source": "jonaharagon.com"
+      "title": "Separate the Cord from the Device",
+      "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
+      "score": 39,
+      "comments": 29,
+      "source": "bookofjoe2.blogspot.com"
     },
     {
-      "title": "SimCity 3k in 4k (2025)",
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "score": 462,
-      "comments": 185,
-      "source": "thran.uk"
+      "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
+      "url": "https://github.com/Kaelio/ktx",
+      "score": 52,
+      "comments": 11,
+      "source": "github.com"
     },
     {
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Google Hates You",
-      "url": "https://www.sfgate.com/tech/article/new-google-ai-22279112.php",
-      "score": 5,
-      "comments": 1,
-      "source": "sfgate.com"
-    },
-    {
-      "title": "Hold on for Dear Life",
-      "url": "https://pluralistic.net/2026/05/28/we-live-in-a-society/",
-      "score": 16,
-      "comments": 2,
-      "source": "pluralistic.net"
-    },
-    {
-      "title": "Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?",
-      "url": "https://www.nytimes.com/2026/05/27/theater/thornton-wilder-emporium-last-play.html",
-      "score": 4,
+      "title": "Some Like It Literary",
+      "url": "https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html",
+      "score": 3,
       "comments": 0,
       "source": "nytimes.com"
     },
     {
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 391,
-      "comments": 387,
-      "source": "jacquescorbytuech.com"
+      "title": "The Lone Lisp Heap",
+      "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
+      "score": 35,
+      "comments": 11,
+      "source": "matheusmoreira.com"
+    },
+    {
+      "title": "Micromania: The Whole Truth about Home Computers (1984)",
+      "url": "https://taff.org.uk/ebooks.php?x=Micromania",
+      "score": 14,
+      "comments": 2,
+      "source": "taff.org.uk"
+    },
+    {
+      "title": "Using Tailscale with an OrbStack VM on macOS",
+      "url": "https://github.com/highpost/tailscale-macos-vm",
+      "score": 60,
+      "comments": 14,
+      "source": "github.com"
+    },
+    {
+      "title": "Social Animus",
+      "url": "https://justine.lol/animus/",
+      "score": 74,
+      "comments": 30,
+      "source": "justine.lol"
+    },
+    {
+      "title": "EU fines Temu \u20ac200M for allowing sale of illegal products",
+      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "score": 301,
+      "comments": 230,
+      "source": "bbc.co.uk"
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 1272,
+      "comments": 764,
+      "source": "blog.youtube"
+    },
+    {
+      "title": "Announcing Rust 1.96",
+      "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+      "score": 103,
+      "comments": 12,
+      "source": "blog.rust-lang.org"
     }
   ],
   "security": [
+    {
+      "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
+      "url": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/",
+      "date": "2026-05-28 22:44:17",
+      "author": "Frank Phillis"
+    },
+    {
+      "title": "Simplifying policy management with URL and Domain Category filtering on AWS Network Firewall",
+      "url": "https://aws.amazon.com/blogs/security/simplifying-policy-management-with-url-and-domain-category-filtering-on-aws-network-firewall/",
+      "date": "2026-05-28 18:57:13",
+      "author": "Lawton Pittenger"
+    },
     {
       "title": "Welcoming the AWS Customer Incident Response Team",
       "url": "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team/",
@@ -259,18 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/",
       "date": "2026-05-19 16:15:31",
       "author": "Guptaji Teegela"
-    },
-    {
-      "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
-      "url": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
-      "date": "2026-05-15 17:38:16",
-      "author": "Riggs Goodman III"
-    },
-    {
-      "title": "Regional routing for AWS access portals: Implementing custom vanity domains for IAM Identity Center",
-      "url": "https://aws.amazon.com/blogs/security/regional-routing-for-aws-access-portals-implementing-custom-vanity-domains-for-iam-identity-center/",
-      "date": "2026-05-14 20:42:20",
-      "author": "Georgi Baghdasaryan"
     }
   ]
 }
