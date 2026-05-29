@@ -1,53 +1,137 @@
 {
   "tech": [
     {
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "score": 57,
+      "comments": 20,
+      "source": "obeli.sk"
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "score": 175,
+      "comments": 38,
+      "source": "koenvangilst.nl"
+    },
+    {
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 251,
+      "comments": 327,
+      "source": "owenmcgrann.com"
+    },
+    {
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "score": 159,
+      "comments": 58,
+      "source": "inkandswitch.com"
+    },
+    {
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "score": 94,
+      "comments": 180,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "score": 347,
+      "comments": 198,
+      "source": "rockstarintel.com"
+    },
+    {
+      "title": "CAPTCHAs can still detect AI agents",
+      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "score": 38,
+      "comments": 28,
+      "source": "research.roundtable.ai"
+    },
+    {
+      "title": "Rothko for your current weather conditions",
+      "url": "https://rothko.joonas.wtf/",
+      "score": 13,
+      "comments": 1,
+      "source": "rothko.joonas.wtf"
+    },
+    {
+      "title": "High Density Living, 2000 Years Ago: Inside the Roman Apartment Building",
+      "url": "https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/",
+      "score": 116,
+      "comments": 38,
+      "source": "commonedge.org"
+    },
+    {
+      "title": "I am retiring from tech to live offline",
+      "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+      "score": 548,
+      "comments": 377,
+      "source": "openpath.quest"
+    },
+    {
       "title": "We should be more tired than the model",
       "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-      "score": 30,
-      "comments": 26,
+      "score": 102,
+      "comments": 92,
       "source": "vickiboykis.com"
     },
     {
-      "title": "Tulip mania: when a single flower was worth more than a house",
-      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
-      "score": 22,
-      "comments": 15,
-      "source": "dutchreview.com"
+      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "url": "https://tvexplorer.live",
+      "score": 23,
+      "comments": 6,
+      "source": "tvexplorer.live"
     },
     {
-      "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
-      "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
-      "score": 21,
-      "comments": 4,
-      "source": "shkspr.mobi"
+      "title": "Someone used my open source project to phish people",
+      "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+      "score": 55,
+      "comments": 31,
+      "source": "andrej.sh"
     },
     {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1618,
-      "comments": 1263,
-      "source": "anthropic.com"
+      "title": "Expertise in the age of AI",
+      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+      "score": 65,
+      "comments": 69,
+      "source": "moderndescartes.com"
     },
     {
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 1079,
-      "comments": 494,
-      "source": "mybricklog.com"
-    },
-    {
-      "title": "Is This Sustainable?",
-      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-      "score": 37,
-      "comments": 29,
-      "source": "jamiehurst.co.uk"
+      "title": "ATLAS: Autoformalized Textbook Library At Scale",
+      "url": "https://github.com/facebookresearch/atlas-lean",
+      "score": 18,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
       "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "score": 67,
-      "comments": 38,
+      "score": 176,
+      "comments": 78,
       "source": "blog.kog.ai"
+    },
+    {
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "score": 14,
+      "comments": 0,
+      "source": "liquid.ai"
+    },
+    {
+      "title": "To see to it that the forces of Napoleon are driven out of Spain (1809)",
+      "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
+      "score": 5,
+      "comments": 0,
+      "source": "wellsoc.org"
+    },
+    {
+      "title": "Durable execution, the hard way",
+      "url": "https://github.com/hatchet-dev/durable-execution-the-hard-way",
+      "score": 36,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Cedana (YC S23) Is Hiring",
@@ -57,158 +141,67 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Is AI causing a repeat of Front end's Lost Decade?",
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "score": 100,
-      "comments": 99,
-      "source": "mastrojs.github.io"
+      "title": "The Science of Weather and the Nature of Science",
+      "url": "https://www.the-hinternet.com/p/the-science-of-weather-and-the-nature",
+      "score": 10,
+      "comments": 0,
+      "source": "the-hinternet.com"
     },
     {
-      "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
-      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "score": 195,
-      "comments": 35,
-      "source": "buildingbetter.tech"
+      "title": "The Secret Garden of Rock-Paper-Scissors",
+      "url": "https://theshamblog.com/the-secret-garden-of-rock-paper-scissors/",
+      "score": 29,
+      "comments": 7,
+      "source": "theshamblog.com"
     },
     {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 469,
-      "comments": 72,
-      "source": "nick.winans.io"
+      "title": "Tulip mania: when a single flower was worth more than a house (2025)",
+      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+      "score": 131,
+      "comments": 115,
+      "source": "dutchreview.com"
+    },
+    {
+      "title": "Headway Therapy Patients Forced to Scan Their Faces to Keep Getting Care",
+      "url": "https://www.404media.co/headway-therapy-facial-scan-biometric-data-identity-verification/",
+      "score": 93,
+      "comments": 29,
+      "source": "404media.co"
     },
     {
       "title": "Orchestrating AI code review at scale",
       "url": "https://blog.cloudflare.com/ai-code-review/",
-      "score": 43,
-      "comments": 17,
+      "score": 113,
+      "comments": 44,
       "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "score": 252,
-      "comments": 128,
-      "source": "github.com"
-    },
-    {
-      "title": "Italians and Dutch share the same gestural instinct for teaching",
-      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-      "score": 89,
-      "comments": 37,
-      "source": "mpi.nl"
     },
     {
       "title": "Let's compile Quake like it's 1997",
       "url": "https://fabiensanglard.net/compile_like_1997/",
-      "score": 76,
-      "comments": 32,
+      "score": 174,
+      "comments": 56,
       "source": "fabiensanglard.net"
     },
     {
-      "title": "HeidiSQL \u2013 Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
-      "url": "https://github.com/HeidiSQL/HeidiSQL",
-      "score": 57,
-      "comments": 16,
-      "source": "github.com"
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "score": 1703,
+      "comments": 1330,
+      "source": "anthropic.com"
     },
     {
-      "title": "Ten Basic Clouds",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 146,
-      "comments": 40,
-      "source": "noaa.gov"
-    },
-    {
-      "title": "Cars collect a startling amount of data about you",
-      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "score": 401,
-      "comments": 192,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Digital Identity Management in Norway Is a Catastrophe",
-      "url": "https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html",
-      "score": 26,
-      "comments": 5,
-      "source": "uio.no"
-    },
-    {
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 278,
-      "comments": 95,
-      "source": "chiark.greenend.org.uk"
-    },
-    {
-      "title": "Barthelme, the Houstonian",
-      "url": "https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/",
-      "score": 16,
-      "comments": 2,
-      "source": "theparisreview.org"
-    },
-    {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "score": 347,
-      "comments": 139,
-      "source": "llmgame.scalex.dev"
-    },
-    {
-      "title": "Blue Origin's New Glenn blows up during static fire test",
-      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "score": 336,
-      "comments": 331,
-      "source": "twitter.com"
-    },
-    {
-      "title": "An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter",
-      "url": "https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter",
-      "score": 3,
-      "comments": 0,
-      "source": "core77.com"
-    },
-    {
-      "title": "News about Raspberry Pi 6 and Microcontroller Development",
-      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 214,
-      "comments": 179,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-      "url": "https://coalton-lang.github.io/",
-      "score": 169,
-      "comments": 33,
-      "source": "coalton-lang.github.io"
-    },
-    {
-      "title": "GitHub bans security researcher who posted zero-day Windows exploits",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "score": 464,
-      "comments": 218,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "Prolific Wikipedia editors are threatening to go on strike",
-      "url": "https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike",
+      "title": "AI will be used to estimate age of asylum seekers from next year",
+      "url": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
       "score": 8,
-      "comments": 5,
-      "source": "theverge.com"
+      "comments": 0,
+      "source": "bbc.co.uk"
     },
     {
-      "title": "Indoor Wi-Fi Roaming with OpenWRT",
-      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 257,
-      "comments": 123,
-      "source": "taoofmac.com"
-    },
-    {
-      "title": "The Permanent Upper Crow",
-      "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 199,
-      "comments": 75,
-      "source": "permanent-upper-crow.jasonwu.ink"
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "score": 1260,
+      "comments": 565,
+      "source": "mybricklog.com"
     }
   ],
   "security": [
