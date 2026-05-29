@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "We should be more tired than the model",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "score": 30,
+      "comments": 26,
+      "source": "vickiboykis.com"
+    },
+    {
+      "title": "Tulip mania: when a single flower was worth more than a house",
+      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+      "score": 22,
+      "comments": 15,
+      "source": "dutchreview.com"
+    },
+    {
+      "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
+      "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
+      "score": 21,
+      "comments": 4,
+      "source": "shkspr.mobi"
+    },
+    {
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1435,
-      "comments": 1141,
+      "score": 1618,
+      "comments": 1263,
       "source": "anthropic.com"
     },
     {
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 852,
-      "comments": 406,
+      "score": 1079,
+      "comments": 494,
       "source": "mybricklog.com"
     },
     {
-      "title": "Blue Origin\u2019s New Glenn rocket exploded during a static fire test",
-      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-      "score": 197,
-      "comments": 103,
-      "source": "arstechnica.com"
+      "title": "Is This Sustainable?",
+      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "score": 37,
+      "comments": 29,
+      "source": "jamiehurst.co.uk"
     },
     {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 338,
-      "comments": 46,
-      "source": "nick.winans.io"
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "score": 67,
+      "comments": 38,
+      "source": "blog.kog.ai"
     },
     {
-      "title": "Zot now supports Claude Opus 4.8",
-      "url": "https://www.zot.sh",
-      "score": 17,
-      "comments": 5,
-      "source": "zot.sh"
+      "title": "Cedana (YC S23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
     },
     {
-      "title": "Cars collect a startling amount of data about you",
-      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-      "score": 264,
-      "comments": 121,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Italians and Dutch share the same gestural instinct for teaching",
-      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
-      "score": 35,
-      "comments": 6,
-      "source": "mpi.nl"
-    },
-    {
-      "title": "Ten Basic Clouds",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 93,
-      "comments": 26,
-      "source": "noaa.gov"
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "score": 100,
+      "comments": 99,
+      "source": "mastrojs.github.io"
     },
     {
       "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
       "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "score": 38,
-      "comments": 4,
+      "score": 195,
+      "comments": 35,
       "source": "buildingbetter.tech"
     },
     {
-      "title": "Blue Origin's New Glenn blows up during static fire test",
-      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
-      "score": 238,
-      "comments": 143,
-      "source": "twitter.com"
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "url": "https://nick.winans.io/blog/nice-nano/",
+      "score": 469,
+      "comments": 72,
+      "source": "nick.winans.io"
+    },
+    {
+      "title": "Orchestrating AI code review at scale",
+      "url": "https://blog.cloudflare.com/ai-code-review/",
+      "score": 43,
+      "comments": 17,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "score": 252,
+      "comments": 128,
+      "source": "github.com"
+    },
+    {
+      "title": "Italians and Dutch share the same gestural instinct for teaching",
+      "url": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+      "score": 89,
+      "comments": 37,
+      "source": "mpi.nl"
+    },
+    {
+      "title": "Let's compile Quake like it's 1997",
+      "url": "https://fabiensanglard.net/compile_like_1997/",
+      "score": 76,
+      "comments": 32,
+      "source": "fabiensanglard.net"
+    },
+    {
+      "title": "HeidiSQL \u2013 Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+      "url": "https://github.com/HeidiSQL/HeidiSQL",
+      "score": 57,
+      "comments": 16,
+      "source": "github.com"
+    },
+    {
+      "title": "Ten Basic Clouds",
+      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "score": 146,
+      "comments": 40,
+      "source": "noaa.gov"
+    },
+    {
+      "title": "Cars collect a startling amount of data about you",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "score": 401,
+      "comments": 192,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Digital Identity Management in Norway Is a Catastrophe",
+      "url": "https://www.uio.no/english/research/research-news/articles/2026/digital-id-management-is-a-catastrophe.html",
+      "score": 26,
+      "comments": 5,
+      "source": "uio.no"
     },
     {
       "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "score": 222,
-      "comments": 77,
+      "score": 278,
+      "comments": 95,
       "source": "chiark.greenend.org.uk"
     },
     {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 62,
-      "comments": 36,
-      "source": "minimaxir.com"
-    },
-    {
-      "title": "I hated writing until I learned there\u2019s a science to it (2024)",
-      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
-      "score": 204,
-      "comments": 80,
-      "source": "science.org"
+      "title": "Barthelme, the Houstonian",
+      "url": "https://www.theparisreview.org/blog/2026/05/22/barthelme-the-houstonian/",
+      "score": 16,
+      "comments": 2,
+      "source": "theparisreview.org"
     },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
       "url": "https://llmgame.scalex.dev",
-      "score": 293,
-      "comments": 127,
+      "score": 347,
+      "comments": 139,
       "source": "llmgame.scalex.dev"
+    },
+    {
+      "title": "Blue Origin's New Glenn blows up during static fire test",
+      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "score": 336,
+      "comments": 331,
+      "source": "twitter.com"
+    },
+    {
+      "title": "An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter",
+      "url": "https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter",
+      "score": 3,
+      "comments": 0,
+      "source": "core77.com"
     },
     {
       "title": "News about Raspberry Pi 6 and Microcontroller Development",
       "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
-      "score": 182,
-      "comments": 147,
+      "score": 214,
+      "comments": 179,
       "source": "jeffgeerling.com"
     },
     {
       "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
       "url": "https://coalton-lang.github.io/",
-      "score": 144,
-      "comments": 28,
+      "score": 169,
+      "comments": 33,
       "source": "coalton-lang.github.io"
-    },
-    {
-      "title": "Avoid Using \"< [Cdata[ ]]>\" in RSS",
-      "url": "https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss",
-      "score": 8,
-      "comments": 1,
-      "source": "waspdev.com"
-    },
-    {
-      "title": "Garnix (A Nix CI) is shutting down",
-      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "score": 54,
-      "comments": 24,
-      "source": "discourse.nixos.org"
     },
     {
       "title": "GitHub bans security researcher who posted zero-day Windows exploits",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
-      "score": 332,
-      "comments": 147,
+      "score": 464,
+      "comments": 218,
       "source": "tomshardware.com"
     },
     {
-      "title": "Building durable workflows on Postgres",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "score": 307,
-      "comments": 132,
-      "source": "dbos.dev"
-    },
-    {
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "score": 187,
-      "comments": 89,
-      "source": "sfstandard.com"
-    },
-    {
-      "title": "The Permanent Upper Crow",
-      "url": "https://permanent-upper-crow.jasonwu.ink/",
-      "score": 179,
-      "comments": 71,
-      "source": "permanent-upper-crow.jasonwu.ink"
-    },
-    {
-      "title": "What Gets Kept",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-      "score": 61,
-      "comments": 63,
-      "source": "newyorker.com"
+      "title": "Prolific Wikipedia editors are threatening to go on strike",
+      "url": "https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike",
+      "score": 8,
+      "comments": 5,
+      "source": "theverge.com"
     },
     {
       "title": "Indoor Wi-Fi Roaming with OpenWRT",
       "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "score": 230,
-      "comments": 114,
+      "score": 257,
+      "comments": 123,
       "source": "taoofmac.com"
     },
     {
-      "title": "Endive: A JVM native WebAssembly runtime",
-      "url": "https://github.com/bytecodealliance/endive",
-      "score": 79,
-      "comments": 20,
-      "source": "github.com"
-    },
-    {
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "score": 282,
-      "comments": 219,
-      "source": "shvbsle.in"
-    },
-    {
-      "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
-      "url": "https://github.com/Kaelio/ktx",
-      "score": 71,
-      "comments": 17,
-      "source": "github.com"
-    },
-    {
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "score": 325,
-      "comments": 339,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Bitburner, programming-based incremental game",
-      "url": "https://bitburner-official.github.io/",
-      "score": 94,
-      "comments": 19,
-      "source": "bitburner-official.github.io"
-    },
-    {
-      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-      "score": 4,
-      "comments": 0,
-      "source": "arstechnica.com"
+      "title": "The Permanent Upper Crow",
+      "url": "https://permanent-upper-crow.jasonwu.ink/",
+      "score": 199,
+      "comments": 75,
+      "source": "permanent-upper-crow.jasonwu.ink"
     }
   ],
   "security": [
