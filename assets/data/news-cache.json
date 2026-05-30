@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
+      "score": 64,
+      "comments": 45,
+      "source": "perryts.com"
+    },
+    {
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 323,
-      "comments": 188,
+      "score": 473,
+      "comments": 240,
       "source": "obeli.sk"
-    },
-    {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 646,
-      "comments": 830,
-      "source": "owenmcgrann.com"
-    },
-    {
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 306,
-      "comments": 106,
-      "source": "koenvangilst.nl"
     },
     {
       "title": "Snowboard Kids 2 is 100% Decompiled",
       "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 22,
-      "comments": 3,
+      "score": 157,
+      "comments": 52,
       "source": "blog.chrislewis.au"
     },
     {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 76,
-      "comments": 101,
-      "source": "theverge.com"
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "score": 340,
+      "comments": 131,
+      "source": "koenvangilst.nl"
     },
     {
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 54,
-      "comments": 47,
-      "source": "quandri.io"
-    },
-    {
-      "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "score": 79,
-      "comments": 7,
-      "source": "github.com"
-    },
-    {
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 52,
-      "comments": 1,
-      "source": "blog.prusa3d.com"
-    },
-    {
-      "title": "You can just say it",
-      "url": "https://noperator.dev/posts/you-can-just-say-it/",
-      "score": 173,
-      "comments": 68,
-      "source": "noperator.dev"
-    },
-    {
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 211,
-      "comments": 370,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "score": 199,
-      "comments": 74,
-      "source": "inkandswitch.com"
-    },
-    {
-      "title": "On Rendering Diffs",
-      "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "score": 136,
-      "comments": 35,
-      "source": "pierre.computer"
-    },
-    {
-      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "score": 144,
-      "comments": 47,
-      "source": "liquid.ai"
-    },
-    {
-      "title": "Free full BGP feed. IPv4 and IPv6",
-      "url": "https://lukasz.bromirski.net/post/bgp-w-labie-3/",
-      "score": 19,
-      "comments": 7,
-      "source": "lukasz.bromirski.net"
-    },
-    {
-      "title": "The California state assembly has passed the 'Protect Our Games Act'",
-      "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-      "score": 173,
-      "comments": 173,
-      "source": "invenglobal.com"
-    },
-    {
-      "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
-      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-      "score": 283,
-      "comments": 240,
-      "source": "mastrojs.github.io"
-    },
-    {
-      "title": "Finding Miscompiles for Fun, Not Profit",
-      "url": "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit",
-      "score": 16,
-      "comments": 1,
-      "source": "newsletter.semianalysis.com"
-    },
-    {
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "score": 445,
-      "comments": 657,
-      "source": "latimes.com"
-    },
-    {
-      "title": "What Is a Dickover?",
-      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-      "score": 26,
-      "comments": 2,
-      "source": "daringfireball.net"
-    },
-    {
-      "title": "GTA 6 Developers Unionize",
-      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-      "score": 549,
-      "comments": 377,
-      "source": "rockstarintel.com"
-    },
-    {
-      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "url": "https://github.com/secluso/core",
-      "score": 24,
+      "title": "Math-to-Manim",
+      "url": "https://github.com/HarleyCoops/Math-To-Manim",
+      "score": 40,
       "comments": 5,
       "source": "github.com"
     },
     {
-      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
-      "url": "https://tvexplorer.live",
-      "score": 100,
-      "comments": 22,
-      "source": "tvexplorer.live"
+      "title": "Naphtha shortages in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "score": 94,
+      "comments": 49,
+      "source": "nippon.com"
     },
     {
-      "title": "Rothko for your current weather conditions",
-      "url": "https://rothko.joonas.wtf/",
-      "score": 115,
-      "comments": 12,
-      "source": "rothko.joonas.wtf"
+      "title": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "score": 170,
+      "comments": 159,
+      "source": "quandri.io"
     },
     {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 102,
-      "comments": 93,
-      "source": "minimaxir.com"
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "score": 129,
+      "comments": 24,
+      "source": "blog.prusa3d.com"
     },
     {
-      "title": "Letter from the Duke of Wellington to the British Foreign Office (1809)",
-      "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-      "score": 47,
-      "comments": 13,
-      "source": "wellsoc.org"
+      "title": "What It Takes to Preserve Floppy Disks",
+      "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+      "score": 25,
+      "comments": 4,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "score": 122,
+      "comments": 178,
+      "source": "theverge.com"
+    },
+    {
+      "title": "Algebraic Effects for the Rest of Us",
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "score": 4,
+      "comments": 0,
+      "source": "overreacted.io"
+    },
+    {
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "score": 273,
+      "comments": 448,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 914,
+      "comments": 1071,
+      "source": "owenmcgrann.com"
+    },
+    {
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+      "score": 556,
+      "comments": 751,
+      "source": "latimes.com"
     },
     {
       "title": "The Last Technical Interview",
       "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-      "score": 41,
-      "comments": 7,
+      "score": 97,
+      "comments": 68,
       "source": "steve-yegge.medium.com"
     },
     {
-      "title": "Show HN: Zot \u2013 Yet another coding agent harness",
-      "url": "https://www.zot.sh",
-      "score": 60,
-      "comments": 60,
-      "source": "zot.sh"
+      "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "score": 132,
+      "comments": 10,
+      "source": "github.com"
     },
     {
-      "title": "Microsoft 0-day feud escalates as researcher threatens another exploit dump",
-      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-      "score": 160,
-      "comments": 50,
-      "source": "theregister.com"
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "url": "https://github.com/secluso/core",
+      "score": 45,
+      "comments": 10,
+      "source": "github.com"
     },
     {
-      "title": "CAPTCHAs can still detect AI agents",
-      "url": "https://research.roundtable.ai/captchas-detect-ai/",
-      "score": 59,
-      "comments": 48,
-      "source": "research.roundtable.ai"
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "score": 176,
+      "comments": 67,
+      "source": "liquid.ai"
     },
     {
-      "title": "Why I collect DLES",
-      "url": "https://dles.gg/blog/dles-gg-manifesto",
-      "score": 24,
-      "comments": 7,
-      "source": "dles.gg"
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "score": 219,
+      "comments": 77,
+      "source": "inkandswitch.com"
+    },
+    {
+      "title": "Ember.js 7.0",
+      "url": "https://blog.emberjs.com/ember-released-7-0/",
+      "score": 56,
+      "comments": 8,
+      "source": "blog.emberjs.com"
+    },
+    {
+      "title": "What Is a Dickover?",
+      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+      "score": 271,
+      "comments": 108,
+      "source": "daringfireball.net"
+    },
+    {
+      "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "score": 323,
+      "comments": 281,
+      "source": "mastrojs.github.io"
+    },
+    {
+      "title": "On Rendering Diffs",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "score": 163,
+      "comments": 51,
+      "source": "pierre.computer"
+    },
+    {
+      "title": "A new register allocator for ZJIT",
+      "url": "https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/",
+      "score": 17,
+      "comments": 0,
+      "source": "railsatscale.com"
+    },
+    {
+      "title": "You can just say it",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "score": 304,
+      "comments": 154,
+      "source": "noperator.dev"
+    },
+    {
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "score": 121,
+      "comments": 98,
+      "source": "minimaxir.com"
+    },
+    {
+      "title": "GTA 6 Developers Unionize",
+      "url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
+      "score": 644,
+      "comments": 441,
+      "source": "rockstarintel.com"
+    },
+    {
+      "title": "We should be more tired than the model",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "score": 171,
+      "comments": 135,
+      "source": "vickiboykis.com"
+    },
+    {
+      "title": "Show HN: TV Explorer. Adding advanced UI to free online TV",
+      "url": "https://tvexplorer.live",
+      "score": 142,
+      "comments": 39,
+      "source": "tvexplorer.live"
+    },
+    {
+      "title": "WH proposes rules giving political appointees final approval on research grants",
+      "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
+      "score": 134,
+      "comments": 111,
+      "source": "scientificamerican.com"
     }
   ],
   "security": [
