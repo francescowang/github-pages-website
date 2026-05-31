@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "score": 178,
-      "comments": 65,
-      "source": "consumerrights.wiki"
-    },
-    {
       "title": "Domain expertise has always been the real moat",
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 226,
-      "comments": 146,
+      "score": 495,
+      "comments": 304,
       "source": "brethorsting.com"
     },
     {
+      "title": "The Website Specification",
+      "url": "https://specification.website/",
+      "score": 8,
+      "comments": 1,
+      "source": "specification.website"
+    },
+    {
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "score": 62,
+      "comments": 1,
+      "source": "cryptography101.ca"
+    },
+    {
+      "title": "Avian Visitors",
+      "url": "https://theodore.net/projects/AvianVisitors/",
+      "score": 12,
+      "comments": 0,
+      "source": "theodore.net"
+    },
+    {
+      "title": "Ahoy, DECmate II the little PDP-8 that could",
+      "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+      "score": 25,
+      "comments": 1,
+      "source": "oldvcr.blogspot.com"
+    },
+    {
+      "title": "Shantell Sans (2023)",
+      "url": "https://shantellsans.com/process",
+      "score": 201,
+      "comments": 16,
+      "source": "shantellsans.com"
+    },
+    {
+      "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
+      "url": "https://hi.telli.com/join-us",
+      "score": 1,
+      "comments": 0,
+      "source": "hi.telli.com"
+    },
+    {
+      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
+      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
+      "score": 24,
+      "comments": 6,
+      "source": "journals.biologists.com"
+    },
+    {
+      "title": "A pictorial introduction to differential geometry (2017)",
+      "url": "https://arxiv.org/abs/1709.08492",
+      "score": 10,
+      "comments": 0,
+      "source": "arxiv.org"
+    },
+    {
       "title": "I found a seashell in the middle of the desert",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 194,
-      "comments": 56,
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 297,
+      "comments": 76,
       "source": "github.com"
+    },
+    {
+      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "score": 801,
+      "comments": 279,
+      "source": "consumerrights.wiki"
+    },
+    {
+      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+      "url": "https://av2.aomedia.org",
+      "score": 154,
+      "comments": 49,
+      "source": "av2.aomedia.org"
+    },
+    {
+      "title": "Racket v9.2 is now available",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "score": 95,
+      "comments": 14,
+      "source": "blog.racket-lang.org"
     },
     {
       "title": "Accenture to acquire Ookla",
       "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "score": 231,
-      "comments": 119,
+      "score": 274,
+      "comments": 138,
       "source": "newsroom.accenture.com"
+    },
+    {
+      "title": "Cheese Paper: a text editor specifically designed for writing",
+      "url": "https://brie.gay/cheese-paper/",
+      "score": 97,
+      "comments": 22,
+      "source": "brie.gay"
+    },
+    {
+      "title": "Voxel Space (2017)",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "score": 276,
+      "comments": 58,
+      "source": "s-macke.github.io"
     },
     {
       "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
       "url": "https://github.com/wolfSSL/wolfCOSE",
-      "score": 53,
-      "comments": 7,
+      "score": 86,
+      "comments": 16,
+      "source": "github.com"
+    },
+    {
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync",
+      "score": 372,
+      "comments": 151,
       "source": "github.com"
     },
     {
       "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
       "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
-      "score": 62,
-      "comments": 28,
+      "score": 99,
+      "comments": 42,
       "source": "lowendmac.com"
     },
     {
       "title": "Zig ELF Linker Improvements Devlog",
       "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "score": 161,
-      "comments": 42,
+      "score": 197,
+      "comments": 59,
       "source": "ziglang.org"
     },
     {
-      "title": "Voxel Space (2017)",
-      "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 246,
-      "comments": 55,
-      "source": "s-macke.github.io"
+      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
+      "url": "https://mechanical-pencil.com/",
+      "score": 47,
+      "comments": 6,
+      "source": "mechanical-pencil.com"
     },
     {
       "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
       "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
-      "score": 50,
-      "comments": 25,
+      "score": 88,
+      "comments": 40,
       "source": "remyhax.xyz"
-    },
-    {
-      "title": "Shantell Sans",
-      "url": "https://shantellsans.com/process",
-      "score": 29,
-      "comments": 0,
-      "source": "shantellsans.com"
     },
     {
       "title": "OpenRouter raises $113M Series B",
       "url": "https://openrouter.ai/announcements/series-b",
-      "score": 342,
-      "comments": 166,
+      "score": 406,
+      "comments": 197,
       "source": "openrouter.ai"
-    },
-    {
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "url": "https://ajin.im/is/building/omen.ops/",
-      "score": 71,
-      "comments": 11,
-      "source": "ajin.im"
-    },
-    {
-      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "url": "https://github.com/kristapsdz/openrsync",
-      "score": 314,
-      "comments": 140,
-      "source": "github.com"
-    },
-    {
-      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-      "score": 82,
-      "comments": 16,
-      "source": "righto.com"
-    },
-    {
-      "title": "Design Engineering Magazine",
-      "url": "https://interfaces.dev/",
-      "score": 44,
-      "comments": 5,
-      "source": "interfaces.dev"
-    },
-    {
-      "title": "Dusklight \u2013 GC Twilight Princess Decompiled",
-      "url": "https://twilitrealm.dev/",
-      "score": 55,
-      "comments": 6,
-      "source": "twilitrealm.dev"
-    },
-    {
-      "title": "Cheese Paper: a text editor specifically designed for writing",
-      "url": "https://brie.gay/cheese-paper/",
-      "score": 27,
-      "comments": 6,
-      "source": "brie.gay"
-    },
-    {
-      "title": "Gustav Klimt and Egon Schiele in Conversation",
-      "url": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
-      "score": 9,
-      "comments": 1,
-      "source": "theparisreview.org"
     },
     {
       "title": "Pandoc Templates",
       "url": "https://pandoc-templates.org/",
-      "score": 357,
-      "comments": 48,
+      "score": 390,
+      "comments": 50,
       "source": "pandoc-templates.org"
     },
     {
-      "title": "Tsplat \u2013 Run Gaussian splatting in your terminal",
-      "url": "https://github.com/darshanmakwana412/tsplat",
-      "score": 25,
-      "comments": 7,
-      "source": "github.com"
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "score": 110,
+      "comments": 18,
+      "source": "righto.com"
+    },
+    {
+      "title": "Evolving FSQ Open Source Places (2025)",
+      "url": "https://foursquare.com/resources/blog/data/evolving-fsq-open-source-places/",
+      "score": 3,
+      "comments": 0,
+      "source": "foursquare.com"
+    },
+    {
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "url": "https://ajin.im/is/building/omen.ops/",
+      "score": 113,
+      "comments": 17,
+      "source": "ajin.im"
+    },
+    {
+      "title": "Gustav Klimt and Egon Schiele in Conversation (2018)",
+      "url": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
+      "score": 35,
+      "comments": 4,
+      "source": "theparisreview.org"
+    },
+    {
+      "title": "Dusklight \u2013 GC Twilight Princess Decompiled",
+      "url": "https://twilitrealm.dev/",
+      "score": 92,
+      "comments": 11,
+      "source": "twilitrealm.dev"
     },
     {
       "title": "Zig: Build System Reworked",
       "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "score": 317,
-      "comments": 206,
+      "score": 346,
+      "comments": 224,
       "source": "ziglang.org"
-    },
-    {
-      "title": "Werner Herzog in conversation with Paul Cronin (2014)",
-      "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
-      "score": 70,
-      "comments": 24,
-      "source": "fsgworkinprogress.com"
-    },
-    {
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-      "score": 177,
-      "comments": 23,
-      "source": "myzopotamia.dev"
-    },
-    {
-      "title": "90% of the T Distribution",
-      "url": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution",
-      "score": 15,
-      "comments": 5,
-      "source": "entropicthoughts.com"
-    },
-    {
-      "title": "It takes two neurons to ride a bicycle (2004)",
-      "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
-      "score": 95,
-      "comments": 42,
-      "source": "fermatslibrary.com"
-    },
-    {
-      "title": "Show HN: Open Envelope \u2013 an open schema for defining AI agent teams",
-      "url": "https://openenvelope.org/docs/schema/",
-      "score": 16,
-      "comments": 2,
-      "source": "openenvelope.org"
-    },
-    {
-      "title": "Leo's first encyclical attacks technological messianism",
-      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "score": 172,
-      "comments": 190,
-      "source": "economist.com"
-    },
-    {
-      "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
-      "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
-      "score": 160,
-      "comments": 71,
-      "source": "engadget.com"
-    },
-    {
-      "title": "What are locusts and what happened to them?",
-      "url": "https://explosion-scratch.github.io/locusts/",
-      "score": 217,
-      "comments": 51,
-      "source": "explosion-scratch.github.io"
-    },
-    {
-      "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-      "url": "https://arxiv.org/abs/2605.29135",
-      "score": 7,
-      "comments": 0,
-      "source": "arxiv.org"
     }
   ],
   "security": [
