@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "OpenRouter raises $113M Series B",
-      "url": "https://openrouter.ai/announcements/series-b",
-      "score": 100,
-      "comments": 30,
-      "source": "openrouter.ai"
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "score": 178,
+      "comments": 65,
+      "source": "consumerrights.wiki"
+    },
+    {
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "score": 226,
+      "comments": 146,
+      "source": "brethorsting.com"
+    },
+    {
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 194,
+      "comments": 56,
+      "source": "github.com"
+    },
+    {
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "score": 231,
+      "comments": 119,
+      "source": "newsroom.accenture.com"
+    },
+    {
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "url": "https://github.com/wolfSSL/wolfCOSE",
+      "score": 53,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+      "score": 62,
+      "comments": 28,
+      "source": "lowendmac.com"
     },
     {
       "title": "Zig ELF Linker Improvements Devlog",
       "url": "https://ziglang.org/devlog/2026/#2026-05-30",
-      "score": 47,
-      "comments": 8,
+      "score": 161,
+      "comments": 42,
       "source": "ziglang.org"
     },
     {
-      "title": "Voxel Space",
+      "title": "Voxel Space (2017)",
       "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 160,
-      "comments": 35,
+      "score": 246,
+      "comments": 55,
       "source": "s-macke.github.io"
     },
     {
-      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
-      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
-      "score": 19,
-      "comments": 2,
-      "source": "righto.com"
+      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+      "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+      "score": 50,
+      "comments": 25,
+      "source": "remyhax.xyz"
+    },
+    {
+      "title": "Shantell Sans",
+      "url": "https://shantellsans.com/process",
+      "score": 29,
+      "comments": 0,
+      "source": "shantellsans.com"
+    },
+    {
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "score": 342,
+      "comments": 166,
+      "source": "openrouter.ai"
+    },
+    {
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "url": "https://ajin.im/is/building/omen.ops/",
+      "score": 71,
+      "comments": 11,
+      "source": "ajin.im"
     },
     {
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
       "url": "https://github.com/kristapsdz/openrsync",
-      "score": 224,
-      "comments": 97,
+      "score": 314,
+      "comments": 140,
       "source": "github.com"
+    },
+    {
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "score": 82,
+      "comments": 16,
+      "source": "righto.com"
+    },
+    {
+      "title": "Design Engineering Magazine",
+      "url": "https://interfaces.dev/",
+      "score": 44,
+      "comments": 5,
+      "source": "interfaces.dev"
+    },
+    {
+      "title": "Dusklight \u2013 GC Twilight Princess Decompiled",
+      "url": "https://twilitrealm.dev/",
+      "score": 55,
+      "comments": 6,
+      "source": "twilitrealm.dev"
+    },
+    {
+      "title": "Cheese Paper: a text editor specifically designed for writing",
+      "url": "https://brie.gay/cheese-paper/",
+      "score": 27,
+      "comments": 6,
+      "source": "brie.gay"
+    },
+    {
+      "title": "Gustav Klimt and Egon Schiele in Conversation",
+      "url": "https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/",
+      "score": 9,
+      "comments": 1,
+      "source": "theparisreview.org"
     },
     {
       "title": "Pandoc Templates",
       "url": "https://pandoc-templates.org/",
-      "score": 290,
-      "comments": 41,
+      "score": 357,
+      "comments": 48,
       "source": "pandoc-templates.org"
+    },
+    {
+      "title": "Tsplat \u2013 Run Gaussian splatting in your terminal",
+      "url": "https://github.com/darshanmakwana412/tsplat",
+      "score": 25,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "score": 317,
+      "comments": 206,
+      "source": "ziglang.org"
     },
     {
       "title": "Werner Herzog in conversation with Paul Cronin (2014)",
       "url": "https://fsgworkinprogress.com/2014/09/26/insignificant-bullets-evil-poachers-and-l-a-culture/",
-      "score": 30,
-      "comments": 11,
+      "score": 70,
+      "comments": 24,
       "source": "fsgworkinprogress.com"
     },
     {
       "title": "Navier-Stokes fluid simulation explained with Godot game engine",
       "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-      "score": 117,
-      "comments": 20,
+      "score": 177,
+      "comments": 23,
       "source": "myzopotamia.dev"
     },
     {
-      "title": "It Takes Two Neurons to Ride a Bicycle",
+      "title": "90% of the T Distribution",
+      "url": "https://entropicthoughts.com/ninety-percent-of-the-t-distribution",
+      "score": 15,
+      "comments": 5,
+      "source": "entropicthoughts.com"
+    },
+    {
+      "title": "It takes two neurons to ride a bicycle (2004)",
       "url": "https://fermatslibrary.com/s/it-takes-two-neurons-to-ride-a-bicycle#email-newsletter",
-      "score": 54,
-      "comments": 15,
+      "score": 95,
+      "comments": 42,
       "source": "fermatslibrary.com"
     },
     {
-      "title": "Downdetector and Speedtest sold to Accenture for $1.2B",
-      "url": "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture",
-      "score": 71,
-      "comments": 40,
-      "source": "theverge.com"
+      "title": "Show HN: Open Envelope \u2013 an open schema for defining AI agent teams",
+      "url": "https://openenvelope.org/docs/schema/",
+      "score": 16,
+      "comments": 2,
+      "source": "openenvelope.org"
+    },
+    {
+      "title": "Leo's first encyclical attacks technological messianism",
+      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "score": 172,
+      "comments": 190,
+      "source": "economist.com"
     },
     {
       "title": "IXI's autofocusing lenses are almost ready to replace multifocal glasses",
       "url": "https://www.engadget.com/wearables/ixis-autofocusing-lenses-multifocal-glasses-ces-2026-212608427.html",
-      "score": 106,
-      "comments": 45,
+      "score": 160,
+      "comments": 71,
       "source": "engadget.com"
     },
     {
-      "title": "Zig: Build System Reworked",
-      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "score": 277,
-      "comments": 173,
-      "source": "ziglang.org"
-    },
-    {
-      "title": "Show HN: Helios \u2013 what plug-in solar could generate for any address in Britain",
-      "url": "https://helios.southlondonscientific.com/",
-      "score": 82,
-      "comments": 28,
-      "source": "helios.southlondonscientific.com"
-    },
-    {
-      "title": "What Happened to the Locusts?",
+      "title": "What are locusts and what happened to them?",
       "url": "https://explosion-scratch.github.io/locusts/",
-      "score": 145,
-      "comments": 31,
+      "score": 217,
+      "comments": 51,
       "source": "explosion-scratch.github.io"
     },
     {
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 640,
-      "comments": 341,
-      "source": "obeli.sk"
-    },
-    {
-      "title": "Testing the WWI concrete ships and WWII concrete barges",
-      "url": "https://thecretefleet.com/blog/f/testing-the-wwi-concrete-ships-and-wwii-concrete-barges",
-      "score": 29,
-      "comments": 7,
-      "source": "thecretefleet.com"
-    },
-    {
-      "title": "Stateless Actors",
-      "url": "https://www.massicotte.org/stateless-actors/",
+      "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+      "url": "https://arxiv.org/abs/2605.29135",
       "score": 7,
-      "comments": 1,
-      "source": "massicotte.org"
-    },
-    {
-      "title": "Memory decline after menopause linked to loss of estrogen production in brain",
-      "url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue",
-      "score": 98,
-      "comments": 39,
-      "source": "news.northwestern.edu"
-    },
-    {
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 435,
-      "comments": 187,
-      "source": "koenvangilst.nl"
-    },
-    {
-      "title": "A Probabilistic Algorithm for Repairing All Roads in Lebanon via Papal Visits",
-      "url": "https://sigbovik.org/2026/proceedings.pdf#%5B%7B%22num%22%3A13%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C72%2C720%2Cnull%5D",
-      "score": 53,
-      "comments": 2,
-      "source": "sigbovik.org"
-    },
-    {
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 355,
-      "comments": 339,
-      "source": "quandri.io"
-    },
-    {
-      "title": "Macsurf, \"modern\" web browser for macOS 9",
-      "url": "https://github.com/mplsllc/macsurf",
-      "score": 86,
-      "comments": 19,
-      "source": "github.com"
-    },
-    {
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 262,
-      "comments": 100,
-      "source": "blog.chrislewis.au"
-    },
-    {
-      "title": "The Last Technical Interview",
-      "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
-      "score": 207,
-      "comments": 196,
-      "source": "steve-yegge.medium.com"
-    },
-    {
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 208,
-      "comments": 64,
-      "source": "blog.prusa3d.com"
-    },
-    {
-      "title": "Floor and Ceil versus Denormals on CPU and GPU",
-      "url": "https://asawicki.info/news_1802_floor_and_ceil_versus_denormals_on_cpu_and_gpu",
-      "score": 40,
-      "comments": 15,
-      "source": "asawicki.info"
-    },
-    {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 1197,
-      "comments": 1313,
-      "source": "owenmcgrann.com"
-    },
-    {
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "score": 364,
-      "comments": 585,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 176,
-      "comments": 237,
-      "source": "theverge.com"
+      "comments": 0,
+      "source": "arxiv.org"
     }
   ],
   "security": [
