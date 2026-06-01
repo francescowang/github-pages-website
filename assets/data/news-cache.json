@@ -1,214 +1,207 @@
 {
   "tech": [
     {
+      "title": "NPM packages from RedHat have been compromised",
+      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "score": 153,
+      "comments": 59,
+      "source": "github.com"
+    },
+    {
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "score": 381,
+      "comments": 163,
+      "source": "point.free"
+    },
+    {
+      "title": "When AI Crosses the Line: The Matplotlib Incident",
+      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+      "score": 88,
+      "comments": 64,
+      "source": "members.sigmazero.cc"
+    },
+    {
+      "title": "Sysadmining Like It's 2009",
+      "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+      "score": 5,
+      "comments": 0,
+      "source": "lambdacreate.com"
+    },
+    {
+      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "url": "https://blainsmith.com/articles/httptrace-with-go/",
+      "score": 106,
+      "comments": 6,
+      "source": "blainsmith.com"
+    },
+    {
+      "title": "Cessation of public development of Kefir C compiler",
+      "url": "https://kefir.protopopov.lv/posts/announce2.html",
+      "score": 87,
+      "comments": 27,
+      "source": "kefir.protopopov.lv"
+    },
+    {
+      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+      "score": 47,
+      "comments": 9,
+      "source": "lemire.me"
+    },
+    {
+      "title": "Windows GOG DOS Games on M-Series Macs",
+      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+      "score": 4,
+      "comments": 0,
+      "source": "f055.net"
+    },
+    {
       "title": "Chuwi Minibook X",
       "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-      "score": 238,
-      "comments": 172,
+      "score": 336,
+      "comments": 259,
       "source": "tylercipriani.com"
+    },
+    {
+      "title": "Movwin: My (Unpublished) TUI Framework",
+      "url": "https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html",
+      "score": 22,
+      "comments": 2,
+      "source": "movq.de"
+    },
+    {
+      "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+      "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+      "score": 55,
+      "comments": 11,
+      "source": "surrealdb.com"
     },
     {
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 639,
-      "comments": 347,
+      "score": 729,
+      "comments": 418,
       "source": "hacktivis.me"
+    },
+    {
+      "title": "Nvidia Cosmos 3",
+      "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+      "score": 15,
+      "comments": 0,
+      "source": "developer.nvidia.com"
+    },
+    {
+      "title": "The SLAX Scripting Language: An Alternate Syntax for XSLT",
+      "url": "http://juniper.github.io/libslax/slax-manual.html",
+      "score": 22,
+      "comments": 9,
+      "source": "juniper.github.io"
     },
     {
       "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
       "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
-      "score": 104,
-      "comments": 8,
+      "score": 176,
+      "comments": 29,
       "source": "fisheries.noaa.gov"
     },
     {
-      "title": "Malaysia enforces ban on social media accounts for children younger than 16",
-      "url": "https://apnews.com/article/malaysia-social-media-ban-16-bfaa7b01163b61b5d53c4ecfa870d133",
-      "score": 34,
-      "comments": 7,
-      "source": "apnews.com"
-    },
-    {
-      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
-      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
-      "score": 18,
-      "comments": 3,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "score": 195,
-      "comments": 54,
-      "source": "promptarmor.com"
+      "title": "Blorp Language",
+      "url": "https://blorp-lang.org/",
+      "score": 47,
+      "comments": 19,
+      "source": "blorp-lang.org"
     },
     {
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 373,
-      "comments": 135,
+      "score": 426,
+      "comments": 180,
       "source": "prismml.com"
-    },
-    {
-      "title": "The Genius of the Barn Owl's Feathers",
-      "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
-      "score": 27,
-      "comments": 3,
-      "source": "thereader.mitpress.mit.edu"
     },
     {
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 465,
-      "comments": 171,
+      "score": 518,
+      "comments": 191,
       "source": "jbkempf.com"
     },
     {
-      "title": "Bias Compounds, Variance Washes Out",
-      "url": "https://convergentthinking.sh/posts/bias-compounds-variance-washes-out/",
-      "score": 16,
-      "comments": 3,
-      "source": "convergentthinking.sh"
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "score": 270,
+      "comments": 97,
+      "source": "promptarmor.com"
+    },
+    {
+      "title": "The Genius of the Barn Owl's Feathers",
+      "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
+      "score": 63,
+      "comments": 15,
+      "source": "thereader.mitpress.mit.edu"
+    },
+    {
+      "title": "Using Git's rerere feature to escape recurring conflict hell",
+      "url": "https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928",
+      "score": 31,
+      "comments": 7,
+      "source": "gist.github.com"
     },
     {
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "score": 334,
-      "comments": 621,
+      "score": 389,
+      "comments": 788,
       "source": "simpleflying.com"
+    },
+    {
+      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "score": 44,
+      "comments": 10,
+      "source": "quantamagazine.org"
     },
     {
       "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "score": 202,
-      "comments": 314,
+      "score": 254,
+      "comments": 438,
       "source": "techcrunch.com"
-    },
-    {
-      "title": "Two Ways to Draw Infinite Jest's Sierpinski Gasket",
-      "url": "https://www.chiply.dev/post-ij-sierpinski",
-      "score": 8,
-      "comments": 1,
-      "source": "chiply.dev"
     },
     {
       "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
       "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-      "score": 131,
-      "comments": 52,
+      "score": 171,
+      "comments": 76,
       "source": "computerenhance.com"
-    },
-    {
-      "title": "Finding success in industry as a chip designer",
-      "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-      "score": 28,
-      "comments": 3,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Surface Laptop Ultra: Made for World Makers",
-      "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
-      "score": 19,
-      "comments": 8,
-      "source": "blogs.windows.com"
-    },
-    {
-      "title": "Unix in East Germany (GDR) (1990)",
-      "url": "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs",
-      "score": 63,
-      "comments": 11,
-      "source": "groups.google.com"
-    },
-    {
-      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
-      "score": 154,
-      "comments": 212,
-      "source": "ft.com"
-    },
-    {
-      "title": "The Speed of Prototyping in the Age of AI",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "score": 156,
-      "comments": 79,
-      "source": "darylcecile.net"
-    },
-    {
-      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
-      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-      "score": 164,
-      "comments": 42,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Restartable Sequences",
-      "url": "https://justine.lol/rseq/",
-      "score": 216,
-      "comments": 52,
-      "source": "justine.lol"
-    },
-    {
-      "title": "The Website Specification",
-      "url": "https://specification.website/",
-      "score": 488,
-      "comments": 197,
-      "source": "specification.website"
-    },
-    {
-      "title": "Linux/M68k",
-      "url": "http://www.linux-m68k.org/",
-      "score": 98,
-      "comments": 25,
-      "source": "linux-m68k.org"
-    },
-    {
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 293,
-      "comments": 139,
-      "source": "diamondgeezer.blogspot.com"
-    },
-    {
-      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "url": "https://twitter.com/i/status/2060746160558543217",
-      "score": 516,
-      "comments": 240,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Show HN: Streambed \u2013 Stream Postgres to Iceberg on S3, Supports Postgres Wire",
-      "url": "https://github.com/viggy28/streambed",
-      "score": 99,
-      "comments": 25,
-      "source": "github.com"
     },
     {
       "title": "New Beam Spring Keyboards",
       "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "score": 90,
-      "comments": 67,
+      "score": 115,
+      "comments": 77,
       "source": "modelfkeyboards.com"
     },
     {
-      "title": "Having your insulin pump die while you're on vacation",
-      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-      "score": 159,
-      "comments": 168,
-      "source": "blog.lauramichet.com"
+      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
+      "score": 227,
+      "comments": 66,
+      "source": "arstechnica.com"
     },
     {
-      "title": "A powerful new chapter for Windows PCs, accelerated by Nvidia RTX Spark",
-      "url": "https://blogs.windows.com/windowsexperience/2026/05/31/introducing-a-powerful-new-chapter-for-windows-pcs-accelerated-by-nvidia-rtx-spark/",
-      "score": 5,
-      "comments": 0,
-      "source": "blogs.windows.com"
+      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+      "score": 222,
+      "comments": 299,
+      "source": "ft.com"
     },
     {
-      "title": "Odysseus \u2013 self-hosted AI workspace",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "score": 164,
-      "comments": 79,
-      "source": "github.com"
+      "title": "Unix in East Germany (GDR) (1990)",
+      "url": "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs",
+      "score": 98,
+      "comments": 24,
+      "source": "groups.google.com"
     }
   ],
   "security": [
