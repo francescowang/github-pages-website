@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "score": 170,
-      "comments": 135,
-      "source": "thesciverse.org"
-    },
-    {
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 258,
-      "comments": 147,
+      "score": 486,
+      "comments": 272,
       "source": "hacktivis.me"
     },
     {
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 122,
-      "comments": 40,
+      "score": 272,
+      "comments": 95,
       "source": "prismml.com"
+    },
+    {
+      "title": "New Beam Spring Keyboards",
+      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+      "score": 47,
+      "comments": 26,
+      "source": "modelfkeyboards.com"
     },
     {
       "title": "Dav2d",
       "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 317,
-      "comments": 103,
+      "score": 389,
+      "comments": 135,
       "source": "jbkempf.com"
     },
     {
-      "title": "Restartable Sequences",
-      "url": "https://justine.lol/rseq/",
-      "score": 89,
-      "comments": 18,
-      "source": "justine.lol"
+      "title": "Reconciling Kubernetes cost estimates with CUR / FOCUS billing data",
+      "url": "https://github.com/tanrikuluozlem/burn",
+      "score": 13,
+      "comments": 0,
+      "source": "github.com"
     },
     {
-      "title": "The Speed of Prototyping in the Age of AI",
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "score": 28,
-      "comments": 21,
-      "source": "darylcecile.net"
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "score": 451,
+      "comments": 302,
+      "source": "thesciverse.org"
+    },
+    {
+      "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
+      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+      "score": 61,
+      "comments": 24,
+      "source": "computerenhance.com"
     },
     {
       "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
       "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "score": 106,
-      "comments": 110,
+      "score": 247,
+      "comments": 403,
       "source": "simpleflying.com"
     },
     {
-      "title": "Odysseus \u2013 self-hosted AI workspace",
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "score": 47,
-      "comments": 37,
+      "title": "Chuwi Minibook X: the netbook we deserve",
+      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "score": 59,
+      "comments": 45,
+      "source": "tylercipriani.com"
+    },
+    {
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "url": "https://twitter.com/i/status/2060746160558543217",
+      "score": 349,
+      "comments": 162,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "score": 105,
+      "comments": 164,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+      "score": 70,
+      "comments": 101,
+      "source": "ft.com"
+    },
+    {
+      "title": "It's Not Just X. It's Y",
+      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+      "score": 79,
+      "comments": 67,
+      "source": "mail.cyberneticforests.com"
+    },
+    {
+      "title": "The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "score": 104,
+      "comments": 60,
+      "source": "darylcecile.net"
+    },
+    {
+      "title": "Linux/M68k",
+      "url": "http://www.linux-m68k.org/",
+      "score": 54,
+      "comments": 16,
+      "source": "linux-m68k.org"
+    },
+    {
+      "title": "Show HN: Streambed \u2013 Stream Postgres to Iceberg on S3, Supports Postgres Wire",
+      "url": "https://github.com/viggy28/streambed",
+      "score": 58,
+      "comments": 7,
       "source": "github.com"
     },
     {
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 217,
-      "comments": 115,
-      "source": "diamondgeezer.blogspot.com"
+      "title": "Restartable Sequences",
+      "url": "https://justine.lol/rseq/",
+      "score": 175,
+      "comments": 51,
+      "source": "justine.lol"
+    },
+    {
+      "title": "Unix in East Germany (GDR) (1990)",
+      "url": "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs",
+      "score": 20,
+      "comments": 3,
+      "source": "groups.google.com"
     },
     {
       "title": "The Website Specification",
       "url": "https://specification.website/",
-      "score": 360,
-      "comments": 147,
+      "score": 434,
+      "comments": 181,
       "source": "specification.website"
     },
     {
-      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
-      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
-      "score": 81,
-      "comments": 13,
-      "source": "theguardian.com"
+      "title": "London's Free Roof Terraces",
+      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+      "score": 265,
+      "comments": 132,
+      "source": "diamondgeezer.blogspot.com"
     },
     {
-      "title": "Deflock hits 100k ALPRs Mapped in USA",
-      "url": "https://deflock.org/",
-      "score": 36,
-      "comments": 5,
-      "source": "deflock.org"
-    },
-    {
-      "title": "Having your insulin pump die while you're on vacation",
-      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-      "score": 66,
-      "comments": 82,
-      "source": "blog.lauramichet.com"
-    },
-    {
-      "title": "Security Envelope Pattern collection \u2013 S.E.C.R.E.T",
-      "url": "https://secret-archive.org/",
-      "score": 73,
-      "comments": 8,
-      "source": "secret-archive.org"
-    },
-    {
-      "title": "Backpressure is all you need",
-      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "score": 66,
-      "comments": 58,
-      "source": "lucasfcosta.com"
-    },
-    {
-      "title": "I put a datacenter GPU in my gaming PC",
-      "url": "https://blog.tymscar.com/posts/v100localllm/",
-      "score": 171,
-      "comments": 118,
-      "source": "blog.tymscar.com"
-    },
-    {
-      "title": "You weren't meant to have a boss (2008)",
-      "url": "https://paulgraham.com/boss.html",
-      "score": 69,
-      "comments": 62,
-      "source": "paulgraham.com"
-    },
-    {
-      "title": "Shantell Sans (2023)",
-      "url": "https://shantellsans.com/process",
-      "score": 362,
-      "comments": 43,
-      "source": "shantellsans.com"
+      "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
+      "url": "https://lwn.net/Articles/104185/",
+      "score": 53,
+      "comments": 40,
+      "source": "lwn.net"
     },
     {
       "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
       "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-      "score": 18,
-      "comments": 4,
+      "score": 108,
+      "comments": 24,
       "source": "arstechnica.com"
     },
     {
-      "title": "Avoiding Death on the Yellow Brick Road",
-      "url": "https://www.a16z.news/p/avoiding-death-on-the-yellow-brick",
-      "score": 11,
-      "comments": 1,
-      "source": "a16z.news"
+      "title": "Having your insulin pump die while you're on vacation",
+      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
+      "score": 121,
+      "comments": 135,
+      "source": "blog.lauramichet.com"
     },
     {
-      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "url": "https://av2.aomedia.org",
-      "score": 312,
-      "comments": 139,
-      "source": "av2.aomedia.org"
+      "title": "The History of \"Prisencolinensinainciusol\"",
+      "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/",
+      "score": 22,
+      "comments": 7,
+      "source": "dirkdeklein.net"
     },
     {
-      "title": "One year of Roto, a compiled scripting language for Rust",
-      "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
-      "score": 99,
-      "comments": 25,
-      "source": "blog.nlnetlabs.nl"
+      "title": "ChatGPT for Google Sheets is vulnerable to data exfiltration and phishing",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "score": 103,
+      "comments": 35,
+      "source": "promptarmor.com"
+    },
+    {
+      "title": "'Backrooms' Stuns with $81M Debut",
+      "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/",
+      "score": 144,
+      "comments": 59,
+      "source": "variety.com"
+    },
+    {
+      "title": "Odysseus \u2013 self-hosted AI workspace",
+      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "score": 108,
+      "comments": 57,
+      "source": "github.com"
+    },
+    {
+      "title": "Backpressure is all you need",
+      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+      "score": 139,
+      "comments": 84,
+      "source": "lucasfcosta.com"
     },
     {
       "title": "FROST: Fingerprinting Remotely using OPFS-based SSD Timing [pdf]",
       "url": "https://hannesweissteiner.com/pdfs/frost.pdf",
-      "score": 16,
-      "comments": 8,
+      "score": 50,
+      "comments": 15,
       "source": "hannesweissteiner.com"
     },
     {
-      "title": "I found a seashell in the middle of the desert",
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
-      "score": 401,
-      "comments": 105,
-      "source": "github.com"
-    },
-    {
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-      "score": 146,
-      "comments": 14,
-      "source": "cryptography101.ca"
-    },
-    {
-      "title": "Show HN: Atomic Editor \u2013 Obsidian-style live preview for CodeMirror 6",
-      "url": "https://kenforthewin.github.io/atomic-editor/",
-      "score": 30,
-      "comments": 7,
-      "source": "kenforthewin.github.io"
-    },
-    {
-      "title": "Chibil: A C compiler targeting .NET IL",
-      "url": "https://github.com/MichalStrehovsky/chibil",
-      "score": 31,
-      "comments": 4,
-      "source": "github.com"
-    },
-    {
-      "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
-      "url": "https://hi.telli.com/join-us",
-      "score": 1,
-      "comments": 0,
-      "source": "hi.telli.com"
-    },
-    {
-      "title": "Avian Visitors",
-      "url": "https://theodore.net/projects/AvianVisitors/",
-      "score": 101,
-      "comments": 11,
-      "source": "theodore.net"
-    },
-    {
-      "title": "Inkstravaganza",
-      "url": "https://www.inkandswitch.com/newsletter/dispatch-015/",
-      "score": 23,
-      "comments": 4,
-      "source": "inkandswitch.com"
+      "title": "Deflock hits 100k ALPRs Mapped in USA",
+      "url": "https://deflock.org/",
+      "score": 165,
+      "comments": 45,
+      "source": "deflock.org"
     }
   ],
   "security": [
