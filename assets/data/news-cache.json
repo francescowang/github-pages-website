@@ -1,210 +1,202 @@
 {
   "tech": [
     {
-      "title": "NPM packages from RedHat have been compromised",
-      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 153,
-      "comments": 59,
+      "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "score": 674,
+      "comments": 171,
+      "source": "0xsid.com"
+    },
+    {
+      "title": "GitHub and the Crime Against Software",
+      "url": "https://eblog.fly.dev/githubbad.html",
+      "score": 46,
+      "comments": 3,
+      "source": "eblog.fly.dev"
+    },
+    {
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "score": 156,
+      "comments": 78,
       "source": "github.com"
+    },
+    {
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "score": 52,
+      "comments": 13,
+      "source": "30fps.net"
+    },
+    {
+      "title": "Lifelike biochemistry continued to unfold in sterilized soil",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "score": 130,
+      "comments": 31,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "score": 222,
+      "comments": 31,
+      "source": "cs336.stanford.edu"
+    },
+    {
+      "title": "I made my phone slow on purpose",
+      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+      "score": 107,
+      "comments": 98,
+      "source": "vinewallapp.com"
+    },
+    {
+      "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "score": 7,
+      "comments": 3,
+      "source": "krebsonsecurity.com"
     },
     {
       "title": "A 10 year old Xeon is all you need",
       "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 381,
-      "comments": 163,
+      "score": 599,
+      "comments": 248,
       "source": "point.free"
-    },
-    {
-      "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
-      "score": 88,
-      "comments": 64,
-      "source": "members.sigmazero.cc"
-    },
-    {
-      "title": "Sysadmining Like It's 2009",
-      "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
-      "score": 5,
-      "comments": 0,
-      "source": "lambdacreate.com"
-    },
-    {
-      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-      "url": "https://blainsmith.com/articles/httptrace-with-go/",
-      "score": 106,
-      "comments": 6,
-      "source": "blainsmith.com"
-    },
-    {
-      "title": "Cessation of public development of Kefir C compiler",
-      "url": "https://kefir.protopopov.lv/posts/announce2.html",
-      "score": 87,
-      "comments": 27,
-      "source": "kefir.protopopov.lv"
-    },
-    {
-      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
-      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
-      "score": 47,
-      "comments": 9,
-      "source": "lemire.me"
     },
     {
       "title": "Windows GOG DOS Games on M-Series Macs",
       "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "score": 4,
-      "comments": 0,
+      "score": 105,
+      "comments": 59,
       "source": "f055.net"
     },
     {
-      "title": "Chuwi Minibook X",
-      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-      "score": 336,
-      "comments": 259,
-      "source": "tylercipriani.com"
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "score": 675,
+      "comments": 363,
+      "source": "github.com"
     },
     {
-      "title": "Movwin: My (Unpublished) TUI Framework",
-      "url": "https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html",
-      "score": 22,
+      "title": "Flipper Zero Zig Template",
+      "url": "https://github.com/NishantJoshi00/flipper-template",
+      "score": 99,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "Stealing from Biologists to Compile Haskell Faster",
+      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+      "score": 27,
       "comments": 2,
-      "source": "movq.de"
+      "source": "iankduncan.com"
     },
     {
-      "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
-      "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
-      "score": 55,
-      "comments": 11,
-      "source": "surrealdb.com"
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+      "score": 366,
+      "comments": 169,
+      "source": "torrentfreak.com"
     },
     {
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 729,
-      "comments": 418,
-      "source": "hacktivis.me"
+      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
+      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
+      "score": 152,
+      "comments": 74,
+      "source": "lemire.me"
     },
     {
-      "title": "Nvidia Cosmos 3",
-      "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
-      "score": 15,
-      "comments": 0,
-      "source": "developer.nvidia.com"
+      "title": "Sysadmining Like It's 2009",
+      "url": "https://lambdacreate.com/posts/sysadmining-like-its-2009",
+      "score": 65,
+      "comments": 20,
+      "source": "lambdacreate.com"
     },
     {
-      "title": "The SLAX Scripting Language: An Alternate Syntax for XSLT",
-      "url": "http://juniper.github.io/libslax/slax-manual.html",
-      "score": 22,
+      "title": "Nvidia RTX Spark",
+      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+      "score": 195,
+      "comments": 157,
+      "source": "nvidia.com"
+    },
+    {
+      "title": "Handmade Hawaiian Islands Map",
+      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+      "score": 26,
       "comments": 9,
-      "source": "juniper.github.io"
+      "source": "notesfromtheroad.com"
     },
     {
-      "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
-      "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
-      "score": 176,
-      "comments": 29,
-      "source": "fisheries.noaa.gov"
+      "title": "Superintelligence: The Idea That Eats Smart People (2016)",
+      "url": "https://idlewords.com/talks/superintelligence.htm",
+      "score": 62,
+      "comments": 54,
+      "source": "idlewords.com"
     },
     {
-      "title": "Blorp Language",
-      "url": "https://blorp-lang.org/",
-      "score": 47,
-      "comments": 19,
-      "source": "blorp-lang.org"
+      "title": "Linux Basics for Hackers (2019)",
+      "url": "https://github.com/ahegazy0/linux-basics-for-hackers-notes",
+      "score": 83,
+      "comments": 16,
+      "source": "github.com"
     },
     {
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 426,
-      "comments": 180,
-      "source": "prismml.com"
+      "title": "Surface Laptop Ultra",
+      "url": "https://blogs.windows.com/devices/2026/05/31/introducing-surface-laptop-ultra-made-for-world-makers/",
+      "score": 83,
+      "comments": 129,
+      "source": "blogs.windows.com"
     },
     {
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 518,
-      "comments": 191,
-      "source": "jbkempf.com"
+      "title": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+      "url": "https://bret.dk/radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc/",
+      "score": 40,
+      "comments": 33,
+      "source": "bret.dk"
     },
     {
-      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "score": 270,
-      "comments": 97,
-      "source": "promptarmor.com"
+      "title": "Show HN: A CSS 3D Engine (no WebGL)",
+      "url": "https://github.com/LayoutitStudio/polycss",
+      "score": 40,
+      "comments": 17,
+      "source": "github.com"
     },
     {
-      "title": "The Genius of the Barn Owl's Feathers",
-      "url": "https://thereader.mitpress.mit.edu/the-genius-of-the-barn-owls-feathers/",
-      "score": 63,
-      "comments": 15,
-      "source": "thereader.mitpress.mit.edu"
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "score": 293,
+      "comments": 203,
+      "source": "anthropic.com"
     },
     {
-      "title": "Using Git's rerere feature to escape recurring conflict hell",
-      "url": "https://gist.github.com/skipcloud/f1033afb4fa5681d69fa63458cc95928",
-      "score": 31,
-      "comments": 7,
-      "source": "gist.github.com"
+      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+      "url": "https://blainsmith.com/articles/httptrace-with-go/",
+      "score": 156,
+      "comments": 9,
+      "source": "blainsmith.com"
     },
     {
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "score": 389,
-      "comments": 788,
-      "source": "simpleflying.com"
-    },
-    {
-      "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
-      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
-      "score": 44,
+      "title": "\"The Apple Boogie\" 1987 Mac Promo Album Cassette Tape [video]",
+      "url": "https://www.youtube.com/watch?v=chJHB-btMNI",
+      "score": 37,
       "comments": 10,
-      "source": "quantamagazine.org"
+      "source": "youtube.com"
     },
     {
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "score": 254,
-      "comments": 438,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
-      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-      "score": 171,
-      "comments": 76,
-      "source": "computerenhance.com"
-    },
-    {
-      "title": "New Beam Spring Keyboards",
-      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "score": 115,
-      "comments": 77,
-      "source": "modelfkeyboards.com"
-    },
-    {
-      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
-      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
-      "score": 227,
-      "comments": 66,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
-      "score": 222,
-      "comments": 299,
-      "source": "ft.com"
-    },
-    {
-      "title": "Unix in East Germany (GDR) (1990)",
-      "url": "https://groups.google.com/g/comp.unix.wizards/c/QX_dxElrVNs",
-      "score": 98,
-      "comments": 24,
-      "source": "groups.google.com"
+      "title": "KDE at 30",
+      "url": "https://kde.org/anniversaries/30/",
+      "score": 193,
+      "comments": 92,
+      "source": "kde.org"
     }
   ],
   "security": [
+    {
+      "title": "Spring 2026 SOC 1, 2, and 3 reports are now available with 188 services in scope",
+      "url": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope/",
+      "date": "2026-06-01 16:07:48",
+      "author": "Baj Bajwa"
+    },
     {
       "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
       "url": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/",
@@ -258,12 +250,6 @@
       "url": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/",
       "date": "2026-05-19 21:34:25",
       "author": "Shannon Brazil"
-    },
-    {
-      "title": "Governing infrastructure as code using pattern-based policy as code",
-      "url": "https://aws.amazon.com/blogs/security/governing-infrastructure-as-code-using-pattern-based-policy-as-code/",
-      "date": "2026-05-19 16:15:31",
-      "author": "Guptaji Teegela"
     }
   ]
 }
