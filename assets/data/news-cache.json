@@ -1,60 +1,137 @@
 {
   "tech": [
     {
-      "title": "Why Janet? (2023)",
-      "url": "https://ianthehenry.com/posts/why-janet/",
-      "score": 213,
-      "comments": 95,
-      "source": "ianthehenry.com"
+      "title": "Microsoft's MAI-Code-1-Flash Scores 51% SWE-Bench Pro with Just 5B Active Params",
+      "url": "https://microsoft.ai/models/mai-code-1-flash/",
+      "score": 64,
+      "comments": 12,
+      "source": "microsoft.ai"
+    },
+    {
+      "title": "A walking tour of surveillance infrastructure in Seattle",
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "score": 287,
+      "comments": 155,
+      "source": "coveillance.org"
+    },
+    {
+      "title": "Three Ways to Get Paid (2018)",
+      "url": "https://jasonzweig.com/three-ways-to-get-paid/",
+      "score": 152,
+      "comments": 89,
+      "source": "jasonzweig.com"
+    },
+    {
+      "title": "QBE \u2013 Compiler Back end: Version 1.3",
+      "url": "https://c9x.me/compile/release/qbe-1.3.html",
+      "score": 30,
+      "comments": 1,
+      "source": "c9x.me"
+    },
+    {
+      "title": "Morningstar values SpaceX at $780B, half its IPO target",
+      "url": "https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/",
+      "score": 115,
+      "comments": 67,
+      "source": "reuters.com"
+    },
+    {
+      "title": "GitHub Copilot App",
+      "url": "https://github.com/features/preview/github-app",
+      "score": 21,
+      "comments": 11,
+      "source": "github.com"
     },
     {
       "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
       "url": "https://blog.adafruit.com/",
-      "score": 195,
-      "comments": 59,
+      "score": 501,
+      "comments": 215,
       "source": "blog.adafruit.com"
     },
     {
-      "title": "CSS-Native Parallax Effect",
-      "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-      "score": 57,
-      "comments": 29,
-      "source": "dan-webnotes.com"
+      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "score": 114,
+      "comments": 34,
+      "source": "fidonet.org"
     },
     {
-      "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1933,
-      "comments": 437,
-      "source": "0xsid.com"
+      "title": "Why Janet? (2023)",
+      "url": "https://ianthehenry.com/posts/why-janet/",
+      "score": 386,
+      "comments": 194,
+      "source": "ianthehenry.com"
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 463,
-      "comments": 814,
-      "source": "economist.com"
+      "title": "Rethinking Search as Code Generation",
+      "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation",
+      "score": 35,
+      "comments": 5,
+      "source": "research.perplexity.ai"
     },
     {
-      "title": "Muxcard, a dyi credit card size computer",
-      "url": "https://github.com/krauseler/muxcard",
-      "score": 118,
-      "comments": 33,
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "score": 119,
+      "comments": 133,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Coreutils for Windows",
+      "url": "https://github.com/microsoft/coreutils",
+      "score": 143,
+      "comments": 133,
       "source": "github.com"
     },
     {
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "score": 302,
-      "comments": 175,
-      "source": "blog.hopefullyuseful.com"
+      "title": "Love systemd timers",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "score": 265,
+      "comments": 176,
+      "source": "blog.tjll.net"
     },
     {
-      "title": "You Don't Love Systemd Timers Enough",
-      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-      "score": 45,
-      "comments": 29,
-      "source": "blog.tjll.net"
+      "title": "Trump signs downsized AI order after weeks of reversals",
+      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+      "score": 64,
+      "comments": 43,
+      "source": "politico.com"
+    },
+    {
+      "title": "On the nature of autobiographical memory",
+      "url": "https://theamericanscholar.org/you-must-remember-this/",
+      "score": 12,
+      "comments": 2,
+      "source": "theamericanscholar.org"
+    },
+    {
+      "title": "Show HN: RePlaya \u2013 self-hosted browser session replay with live tailing",
+      "url": "https://github.com/s2-streamstore/replaya",
+      "score": 9,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+      "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
+      "score": 13,
+      "comments": 0,
+      "source": "fergusfinn.com"
+    },
+    {
+      "title": "BQN: What Is a Primitive?",
+      "url": "https://mlochbaum.github.io/BQN/commentary/primitive.html",
+      "score": 8,
+      "comments": 1,
+      "source": "mlochbaum.github.io"
+    },
+    {
+      "title": "Stop Ruining It",
+      "url": "https://seths.blog/2026/06/stop-ruining-it/",
+      "score": 188,
+      "comments": 91,
+      "source": "seths.blog"
     },
     {
       "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
@@ -64,140 +141,82 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Apple rejected my dictation app for using the accessibility API",
-      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
-      "score": 67,
-      "comments": 47,
-      "source": "mitmllc.com"
+      "title": "CSS-Native Parallax Effect",
+      "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+      "score": 115,
+      "comments": 46,
+      "source": "dan-webnotes.com"
     },
     {
-      "title": "Webcam head tracking, webcam to control in\u2011game FOV",
-      "url": "https://www.openfov.com/",
-      "score": 24,
-      "comments": 21,
-      "source": "openfov.com"
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "score": 641,
+      "comments": 1106,
+      "source": "economist.com"
     },
     {
-      "title": "CQL: Categorical Databases",
-      "url": "https://categoricaldata.net/",
-      "score": 63,
-      "comments": 17,
-      "source": "categoricaldata.net"
-    },
-    {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 304,
-      "comments": 109,
-      "source": "openai.com"
-    },
-    {
-      "title": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "score": 277,
-      "comments": 45,
-      "source": "github.com"
-    },
-    {
-      "title": "Stop Ruining It",
-      "url": "https://seths.blog/2026/06/stop-ruining-it/",
-      "score": 28,
-      "comments": 4,
-      "source": "seths.blog"
-    },
-    {
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "score": 501,
-      "comments": 48,
-      "source": "cs336.stanford.edu"
-    },
-    {
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 240,
-      "comments": 97,
-      "source": "debug.com"
-    },
-    {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 444,
-      "comments": 140,
-      "source": "github.com"
-    },
-    {
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 287,
-      "comments": 120,
-      "source": "30fps.net"
-    },
-    {
-      "title": "How is Groq raising more money?",
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "score": 122,
-      "comments": 57,
-      "source": "zach.be"
-    },
-    {
-      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
-      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "score": 82,
-      "comments": 48,
-      "source": "blog.janestreet.com"
-    },
-    {
-      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
-      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "score": 241,
-      "comments": 504,
-      "source": "windowslatest.com"
-    },
-    {
-      "title": "Fooling around with encrypted reasoning blobs",
-      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
-      "score": 111,
-      "comments": 24,
-      "source": "blog.cryptographyengineering.com"
-    },
-    {
-      "title": "10g Upgrade",
-      "url": "https://klaxzy.net/var/infra/10g-upgrade.html",
-      "score": 8,
-      "comments": 4,
-      "source": "klaxzy.net"
+      "title": "Key Chemistry Question Answered, No Quantum Computer Required",
+      "url": "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum-computer-required-20260529/",
+      "score": 15,
+      "comments": 0,
+      "source": "quantamagazine.org"
     },
     {
       "title": "Show HN: Eyeball",
       "url": "https://eyeball.rory.codes/",
-      "score": 16,
-      "comments": 9,
+      "score": 192,
+      "comments": 67,
       "source": "eyeball.rory.codes"
     },
     {
-      "title": "On Reading SRAMs in IR Images, and Establishing Bounds on Trust",
-      "url": "https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/",
-      "score": 11,
-      "comments": 2,
-      "source": "bunniestudios.com"
+      "title": "Pyro Caml Continuous Profiler for OCaml",
+      "url": "https://semgrep.dev/blog/2026/announcing-pyro-caml-continuous-profiler-ocaml/",
+      "score": 6,
+      "comments": 0,
+      "source": "semgrep.dev"
     },
     {
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 251,
-      "comments": 90,
-      "source": "quantamagazine.org"
+      "title": "Reviving Teletext for Ham Radio",
+      "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
+      "score": 50,
+      "comments": 24,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
-      "url": "https://matse.illinois.edu/news/85775",
-      "score": 65,
-      "comments": 38,
-      "source": "matse.illinois.edu"
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15 countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "score": 41,
+      "comments": 19,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Why Custom Attributes in .NET Give Me Nightmares",
+      "url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
+      "score": 70,
+      "comments": 23,
+      "source": "blog.washi.dev"
+    },
+    {
+      "title": "Squillions: How money laundering won",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
+      "score": 141,
+      "comments": 136,
+      "source": "lrb.co.uk"
     }
   ],
   "security": [
+    {
+      "title": "Identify unused AWS KMS keys and prevent accidental key deletions",
+      "url": "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions/",
+      "date": "2026-06-02 19:01:54",
+      "author": "Andrea Rossi"
+    },
+    {
+      "title": "Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies",
+      "url": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/",
+      "date": "2026-06-02 16:00:11",
+      "author": "Satyen Verma"
+    },
     {
       "title": "Spring 2026 SOC 1, 2, and 3 reports are now available with 188 services in scope",
       "url": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope/",
@@ -245,18 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/why-policy-in-amazon-bedrock-agentcore-chose-cedar-for-securing-agentic-workflows/",
       "date": "2026-05-20 20:56:03",
       "author": "Liana Hadarean"
-    },
-    {
-      "title": "AWS Security Hub Extended: Why enterprise security products should sell themselves",
-      "url": "https://aws.amazon.com/blogs/security/aws-security-hub-extended-why-enterprise-security-products-should-sell-themselves/",
-      "date": "2026-05-20 17:32:58",
-      "author": "Michael Fuller"
-    },
-    {
-      "title": "CIRT insights: How to help prevent unauthorized account removals from AWS Organizations",
-      "url": "https://aws.amazon.com/blogs/security/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/",
-      "date": "2026-05-19 21:34:25",
-      "author": "Shannon Brazil"
     }
   ]
 }
