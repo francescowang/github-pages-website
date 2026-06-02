@@ -3,191 +3,184 @@
     {
       "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1275,
-      "comments": 313,
+      "score": 1678,
+      "comments": 377,
       "source": "0xsid.com"
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 88,
-      "comments": 30,
-      "source": "openai.com"
-    },
-    {
-      "title": "Age verification for social media, the beginning of the end for a free internet?",
-      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
-      "score": 27,
-      "comments": 7,
-      "source": "mullvad.net"
-    },
-    {
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 136,
-      "comments": 63,
-      "source": "debug.com"
+      "title": "macOS needs its grid back",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "score": 204,
+      "comments": 116,
+      "source": "blog.hopefullyuseful.com"
     },
     {
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 13,
-      "comments": 9,
+      "score": 293,
+      "comments": 515,
       "source": "economist.com"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "score": 239,
+      "comments": 87,
+      "source": "openai.com"
+    },
+    {
+      "title": "Chipotlai Max",
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
+      "score": 186,
+      "comments": 32,
+      "source": "github.com"
+    },
+    {
+      "title": "How is Groq raising more money?",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "score": 92,
+      "comments": 41,
+      "source": "zach.be"
+    },
+    {
+      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "score": 21,
+      "comments": 2,
+      "source": "blog.janestreet.com"
+    },
+    {
+      "title": "Debug Project",
+      "url": "https://debug.com/",
+      "score": 205,
+      "comments": 82,
+      "source": "debug.com"
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 310,
-      "comments": 111,
+      "score": 390,
+      "comments": 128,
       "source": "github.com"
-    },
-    {
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 178,
-      "comments": 78,
-      "source": "30fps.net"
     },
     {
       "title": "CS336: Language Modeling from Scratch",
       "url": "https://cs336.stanford.edu/",
-      "score": 348,
-      "comments": 42,
+      "score": 435,
+      "comments": 45,
       "source": "cs336.stanford.edu"
     },
     {
-      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
-      "url": "https://matse.illinois.edu/news/85775",
-      "score": 12,
-      "comments": 1,
-      "source": "matse.illinois.edu"
+      "title": "Fooling around with encrypted reasoning blobs",
+      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
+      "score": 66,
+      "comments": 8,
+      "source": "blog.cryptographyengineering.com"
     },
     {
-      "title": "GrapheneOS Speech Services version 2 released",
-      "url": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
-      "score": 93,
-      "comments": 14,
-      "source": "discuss.grapheneos.org"
+      "title": "CQL: Categorical Databases",
+      "url": "https://categoricaldata.net/",
+      "score": 5,
+      "comments": 0,
+      "source": "categoricaldata.net"
     },
     {
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 187,
-      "comments": 64,
-      "source": "quantamagazine.org"
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "score": 250,
+      "comments": 103,
+      "source": "30fps.net"
+    },
+    {
+      "title": "Crystal Nights (2008)",
+      "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
+      "score": 38,
+      "comments": 4,
+      "source": "gregegan.net"
     },
     {
       "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
       "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "score": 130,
-      "comments": 324,
+      "score": 202,
+      "comments": 426,
       "source": "windowslatest.com"
     },
     {
-      "title": "Stealing from Biologists to Compile Haskell Faster",
-      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
-      "score": 90,
-      "comments": 4,
-      "source": "iankduncan.com"
-    },
-    {
-      "title": "Nvidia RTX Spark",
-      "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
-      "score": 316,
-      "comments": 258,
-      "source": "nvidia.com"
-    },
-    {
-      "title": "I made my phone slow on purpose",
-      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-      "score": 165,
-      "comments": 146,
-      "source": "vinewallapp.com"
-    },
-    {
-      "title": "The Frame Problem (2004)",
-      "url": "https://plato.stanford.edu/entries/frame-problem/",
-      "score": 7,
-      "comments": 0,
-      "source": "plato.stanford.edu"
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "score": 223,
+      "comments": 79,
+      "source": "quantamagazine.org"
     },
     {
       "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
       "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "score": 89,
-      "comments": 92,
+      "score": 167,
+      "comments": 149,
       "source": "abc.xyz"
     },
     {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "score": 442,
-      "comments": 353,
-      "source": "anthropic.com"
+      "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
+      "url": "https://matse.illinois.edu/news/85775",
+      "score": 43,
+      "comments": 21,
+      "source": "matse.illinois.edu"
     },
     {
-      "title": "Windows GOG DOS Games on M-Series Macs",
-      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "score": 138,
-      "comments": 78,
-      "source": "f055.net"
+      "title": "I made my phone slow on purpose",
+      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
+      "score": 196,
+      "comments": 170,
+      "source": "vinewallapp.com"
     },
     {
-      "title": "Only 17% of all 64-bit Integers are products of two 32-bit integers",
-      "url": "https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/",
-      "score": 194,
-      "comments": 91,
-      "source": "lemire.me"
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "score": 211,
+      "comments": 171,
+      "source": "politico.com"
+    },
+    {
+      "title": "Age verification for social media, the beginning of the end for a free internet?",
+      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+      "score": 210,
+      "comments": 112,
+      "source": "mullvad.net"
+    },
+    {
+      "title": "Squillions: How Money Laundering Won",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
+      "score": 73,
+      "comments": 58,
+      "source": "lrb.co.uk"
     },
     {
       "title": "Flipper Zero Zig Template",
       "url": "https://github.com/NishantJoshi00/flipper-template",
-      "score": 127,
-      "comments": 9,
+      "score": 139,
+      "comments": 11,
       "source": "github.com"
     },
     {
-      "title": "Show HN: A free Linux adaptation of NETworkManager by BornToBeRoot",
-      "url": "https://github.com/thongor77/nmlinux",
-      "score": 19,
-      "comments": 3,
-      "source": "github.com"
+      "title": "Windows GOG DOS Games on M-Series Macs",
+      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+      "score": 149,
+      "comments": 83,
+      "source": "f055.net"
     },
     {
-      "title": "Show HN: DepsGuard \u2013 One command to harden NPM/pnpm/yarn/bun/uv configs",
-      "url": "https://github.com/arnica/depsguard",
-      "score": 10,
-      "comments": 0,
-      "source": "github.com"
+      "title": "Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
+      "url": "https://www.bbc.com/news/articles/cy5222wn410o",
+      "score": 24,
+      "comments": 10,
+      "source": "bbc.com"
     },
     {
-      "title": "Malicious npm packages detected across Red Hat Cloud Services",
-      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 721,
-      "comments": 405,
-      "source": "github.com"
-    },
-    {
-      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-      "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-      "score": 495,
-      "comments": 245,
-      "source": "torrentfreak.com"
-    },
-    {
-      "title": "GitHub and the crime against software",
-      "url": "https://eblog.fly.dev/githubbad.html",
-      "score": 193,
-      "comments": 87,
-      "source": "eblog.fly.dev"
-    },
-    {
-      "title": "Handmade Hawaiian Islands Map",
-      "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
-      "score": 54,
-      "comments": 17,
-      "source": "notesfromtheroad.com"
+      "title": "Stealing from Biologists to Compile Haskell Faster",
+      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
+      "score": 114,
+      "comments": 4,
+      "source": "iankduncan.com"
     }
   ],
   "security": [
