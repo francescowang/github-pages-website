@@ -1,186 +1,200 @@
 {
   "tech": [
     {
-      "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1678,
-      "comments": 377,
-      "source": "0xsid.com"
+      "title": "Why Janet? (2023)",
+      "url": "https://ianthehenry.com/posts/why-janet/",
+      "score": 213,
+      "comments": 95,
+      "source": "ianthehenry.com"
     },
     {
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "score": 204,
-      "comments": 116,
-      "source": "blog.hopefullyuseful.com"
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "url": "https://blog.adafruit.com/",
+      "score": 195,
+      "comments": 59,
+      "source": "blog.adafruit.com"
+    },
+    {
+      "title": "CSS-Native Parallax Effect",
+      "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+      "score": 57,
+      "comments": 29,
+      "source": "dan-webnotes.com"
+    },
+    {
+      "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "score": 1933,
+      "comments": 437,
+      "source": "0xsid.com"
     },
     {
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
       "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 293,
-      "comments": 515,
+      "score": 463,
+      "comments": 814,
       "source": "economist.com"
+    },
+    {
+      "title": "Muxcard, a dyi credit card size computer",
+      "url": "https://github.com/krauseler/muxcard",
+      "score": 118,
+      "comments": 33,
+      "source": "github.com"
+    },
+    {
+      "title": "macOS needs its grid back",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "score": 302,
+      "comments": 175,
+      "source": "blog.hopefullyuseful.com"
+    },
+    {
+      "title": "You Don't Love Systemd Timers Enough",
+      "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "score": 45,
+      "comments": 29,
+      "source": "blog.tjll.net"
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Apple rejected my dictation app for using the accessibility API",
+      "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+      "score": 67,
+      "comments": 47,
+      "source": "mitmllc.com"
+    },
+    {
+      "title": "Webcam head tracking, webcam to control in\u2011game FOV",
+      "url": "https://www.openfov.com/",
+      "score": 24,
+      "comments": 21,
+      "source": "openfov.com"
+    },
+    {
+      "title": "CQL: Categorical Databases",
+      "url": "https://categoricaldata.net/",
+      "score": 63,
+      "comments": 17,
+      "source": "categoricaldata.net"
     },
     {
       "title": "OpenAI frontier models and Codex are now available on AWS",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 239,
-      "comments": 87,
+      "score": 304,
+      "comments": 109,
       "source": "openai.com"
     },
     {
       "title": "Chipotlai Max",
       "url": "https://github.com/cyberpapiii/chipotlai-max",
-      "score": 186,
-      "comments": 32,
+      "score": 277,
+      "comments": 45,
       "source": "github.com"
     },
     {
-      "title": "How is Groq raising more money?",
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "score": 92,
-      "comments": 41,
-      "source": "zach.be"
+      "title": "Stop Ruining It",
+      "url": "https://seths.blog/2026/06/stop-ruining-it/",
+      "score": 28,
+      "comments": 4,
+      "source": "seths.blog"
     },
     {
-      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
-      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
-      "score": 21,
-      "comments": 2,
-      "source": "blog.janestreet.com"
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "score": 501,
+      "comments": 48,
+      "source": "cs336.stanford.edu"
     },
     {
       "title": "Debug Project",
       "url": "https://debug.com/",
-      "score": 205,
-      "comments": 82,
+      "score": 240,
+      "comments": 97,
       "source": "debug.com"
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 390,
-      "comments": 128,
+      "score": 444,
+      "comments": 140,
       "source": "github.com"
-    },
-    {
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "score": 435,
-      "comments": 45,
-      "source": "cs336.stanford.edu"
-    },
-    {
-      "title": "Fooling around with encrypted reasoning blobs",
-      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
-      "score": 66,
-      "comments": 8,
-      "source": "blog.cryptographyengineering.com"
-    },
-    {
-      "title": "CQL: Categorical Databases",
-      "url": "https://categoricaldata.net/",
-      "score": 5,
-      "comments": 0,
-      "source": "categoricaldata.net"
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
       "url": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 250,
-      "comments": 103,
+      "score": 287,
+      "comments": 120,
       "source": "30fps.net"
     },
     {
-      "title": "Crystal Nights (2008)",
-      "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
-      "score": 38,
-      "comments": 4,
-      "source": "gregegan.net"
+      "title": "How is Groq raising more money?",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "score": 122,
+      "comments": 57,
+      "source": "zach.be"
+    },
+    {
+      "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
+      "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "score": 82,
+      "comments": 48,
+      "source": "blog.janestreet.com"
     },
     {
       "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
       "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
-      "score": 202,
-      "comments": 426,
+      "score": 241,
+      "comments": 504,
       "source": "windowslatest.com"
+    },
+    {
+      "title": "Fooling around with encrypted reasoning blobs",
+      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
+      "score": 111,
+      "comments": 24,
+      "source": "blog.cryptographyengineering.com"
+    },
+    {
+      "title": "10g Upgrade",
+      "url": "https://klaxzy.net/var/infra/10g-upgrade.html",
+      "score": 8,
+      "comments": 4,
+      "source": "klaxzy.net"
+    },
+    {
+      "title": "Show HN: Eyeball",
+      "url": "https://eyeball.rory.codes/",
+      "score": 16,
+      "comments": 9,
+      "source": "eyeball.rory.codes"
+    },
+    {
+      "title": "On Reading SRAMs in IR Images, and Establishing Bounds on Trust",
+      "url": "https://www.bunniestudios.com/blog/2026/on-reading-srams-in-ir-images-and-establishing-bounds-on-trust/",
+      "score": 11,
+      "comments": 2,
+      "source": "bunniestudios.com"
     },
     {
       "title": "What appear to be biochemical processes may be a natural feature of geology",
       "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-      "score": 223,
-      "comments": 79,
+      "score": 251,
+      "comments": 90,
       "source": "quantamagazine.org"
-    },
-    {
-      "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "score": 167,
-      "comments": 149,
-      "source": "abc.xyz"
     },
     {
       "title": "A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
       "url": "https://matse.illinois.edu/news/85775",
-      "score": 43,
-      "comments": 21,
+      "score": 65,
+      "comments": 38,
       "source": "matse.illinois.edu"
-    },
-    {
-      "title": "I made my phone slow on purpose",
-      "url": "https://vinewallapp.com/notes/i-made-my-phone-slow-on-purpose/",
-      "score": 196,
-      "comments": 170,
-      "source": "vinewallapp.com"
-    },
-    {
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "score": 211,
-      "comments": 171,
-      "source": "politico.com"
-    },
-    {
-      "title": "Age verification for social media, the beginning of the end for a free internet?",
-      "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
-      "score": 210,
-      "comments": 112,
-      "source": "mullvad.net"
-    },
-    {
-      "title": "Squillions: How Money Laundering Won",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
-      "score": 73,
-      "comments": 58,
-      "source": "lrb.co.uk"
-    },
-    {
-      "title": "Flipper Zero Zig Template",
-      "url": "https://github.com/NishantJoshi00/flipper-template",
-      "score": 139,
-      "comments": 11,
-      "source": "github.com"
-    },
-    {
-      "title": "Windows GOG DOS Games on M-Series Macs",
-      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "score": 149,
-      "comments": 83,
-      "source": "f055.net"
-    },
-    {
-      "title": "Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
-      "url": "https://www.bbc.com/news/articles/cy5222wn410o",
-      "score": 24,
-      "comments": 10,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Stealing from Biologists to Compile Haskell Faster",
-      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
-      "score": 114,
-      "comments": 4,
-      "source": "iankduncan.com"
     }
   ],
   "security": [
