@@ -1,214 +1,207 @@
 {
   "tech": [
     {
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "score": 241,
+      "comments": 47,
+      "source": "blog.nns.ee"
+    },
+    {
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "score": 53,
+      "comments": 19,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Every Byte Matters",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "score": 97,
+      "comments": 24,
+      "source": "fzakaria.com"
+    },
+    {
+      "title": "PlayStation Architecture",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "score": 75,
+      "comments": 11,
+      "source": "copetti.org"
+    },
+    {
+      "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
+      "score": 45,
+      "comments": 5,
+      "source": "dl.acm.org"
+    },
+    {
+      "title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
+      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+      "score": 119,
+      "comments": 23,
+      "source": "handwritten.danieljanus.pl"
+    },
+    {
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 315,
-      "comments": 43,
+      "score": 518,
+      "comments": 76,
       "source": "blog.ammaraskar.com"
+    },
+    {
+      "title": "Which sparkling water is the best?",
+      "url": "https://www.maximevidal.com/sparkling-water",
+      "score": 15,
+      "comments": 13,
+      "source": "maximevidal.com"
+    },
+    {
+      "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "score": 44,
+      "comments": 24,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "Turkey Hacked the Hair Transplant Industry",
+      "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "score": 31,
+      "comments": 15,
+      "source": "wired.com"
     },
     {
       "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
       "url": "https://github.com/s-macke/Test-Drive-3-Maps",
-      "score": 54,
-      "comments": 10,
+      "score": 153,
+      "comments": 39,
       "source": "github.com"
     },
     {
       "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
       "url": "https://github.com/c0dejedi/nbd-vram",
-      "score": 270,
-      "comments": 70,
+      "score": 369,
+      "comments": 99,
       "source": "github.com"
     },
     {
-      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-      "score": 70,
-      "comments": 13,
-      "source": "research.ligo.bio"
+      "title": "Take Action: LAPD Removed Crime Location Data. Here's Why It Matters",
+      "url": "https://blog.spotcrime.com/2026/06/take-action-lapd-removed-crime-location.html",
+      "score": 7,
+      "comments": 2,
+      "source": "blog.spotcrime.com"
     },
     {
       "title": "MAI-Code-1-Flash",
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 453,
-      "comments": 199,
+      "score": 499,
+      "comments": 230,
       "source": "microsoft.ai"
     },
     {
-      "title": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "score": 351,
-      "comments": 169,
-      "source": "lumafield.com"
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "score": 127,
+      "comments": 36,
+      "source": "research.ligo.bio"
+    },
+    {
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "url": "https://leidendeclaration.ai/",
+      "score": 50,
+      "comments": 16,
+      "source": "leidendeclaration.ai"
+    },
+    {
+      "title": "What I've learned about the trombone",
+      "url": "http://bryanhu.com/blog/posts/what-ive-learned-about-the-trombone/",
+      "score": 19,
+      "comments": 15,
+      "source": "bryanhu.com"
     },
     {
       "title": "AI outperforms law professors in Stanford Law study",
       "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "score": 195,
-      "comments": 156,
+      "score": 321,
+      "comments": 271,
       "source": "law.stanford.edu"
     },
     {
-      "title": "Roku LT Operating System open source distribution",
-      "url": "https://blog.roku.com/developer/roku-lt-os",
-      "score": 68,
-      "comments": 21,
-      "source": "blog.roku.com"
-    },
-    {
-      "title": "Capstone \u2013 multi-platform, multi-architecture disassembly framework",
-      "url": "https://www.capstone-engine.org/",
-      "score": 43,
-      "comments": 1,
-      "source": "capstone-engine.org"
-    },
-    {
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 874,
-      "comments": 517,
-      "source": "moddedbear.com"
+      "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "score": 44,
+      "comments": 12,
+      "source": "spectrum.ieee.org"
     },
     {
       "title": "Pluto.jl 1.0 release \u2013 reactive notebook for Julia",
       "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
-      "score": 100,
-      "comments": 5,
+      "score": 172,
+      "comments": 24,
       "source": "discourse.julialang.org"
     },
     {
       "title": "My thoughts after using Clojure for about a month",
       "url": "https://www.acdw.net/clojure/",
-      "score": 199,
-      "comments": 102,
+      "score": 256,
+      "comments": 129,
       "source": "acdw.net"
-    },
-    {
-      "title": "Words of Type",
-      "url": "https://wiki.wordsoftype.com/",
-      "score": 50,
-      "comments": 5,
-      "source": "wiki.wordsoftype.com"
-    },
-    {
-      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
-      "score": 12,
-      "comments": 5,
-      "source": "science.org"
     },
     {
       "title": "U of T researchers demonstrate AI worm could target any online device",
       "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-      "score": 19,
-      "comments": 5,
+      "score": 77,
+      "comments": 21,
       "source": "utoronto.ca"
     },
     {
-      "title": "HP re-releases classic computer science calculator: The HP-16C",
-      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
-      "score": 155,
-      "comments": 101,
-      "source": "hpcalcs.com"
+      "title": "Claude Opus 4.8 Max responding to an empty message",
+      "url": "https://xcancel.com/davidad/status/2061858258046898518",
+      "score": 13,
+      "comments": 0,
+      "source": "xcancel.com"
     },
     {
-      "title": "4K years ago, Mohenjo-daro grew more equal over time",
-      "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
-      "score": 85,
-      "comments": 40,
-      "source": "archaeologymag.com"
+      "title": "Roku LT Operating System open source distribution",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "score": 95,
+      "comments": 34,
+      "source": "blog.roku.com"
     },
     {
-      "title": "Open Repair Data Standard",
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "score": 124,
-      "comments": 4,
-      "source": "openrepair.org"
+      "title": "Capstone \u2013 multi-platform, multi-architecture disassembly framework",
+      "url": "https://www.capstone-engine.org/",
+      "score": 76,
+      "comments": 3,
+      "source": "capstone-engine.org"
+    },
+    {
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 434,
+      "comments": 286,
+      "source": "lumafield.com"
+    },
+    {
+      "title": "Writing Portable ARM64 Assembly (2023)",
+      "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
+      "score": 41,
+      "comments": 15,
+      "source": "ariadne.space"
     },
     {
       "title": "How we index images for RAG",
       "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "score": 121,
-      "comments": 16,
+      "score": 173,
+      "comments": 23,
       "source": "kapa.ai"
     },
     {
-      "title": "OpenFOV \u2013 Webcam head tracking for iRacing",
-      "url": "https://www.openfov.com/",
-      "score": 114,
-      "comments": 55,
-      "source": "openfov.com"
-    },
-    {
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "score": 205,
-      "comments": 149,
-      "source": "politico.com"
-    },
-    {
-      "title": "Preparing for KDE Plasma's Last X11-Supported Release",
-      "url": "https://blog.davidedmundson.co.uk/blog/596/",
-      "score": 178,
-      "comments": 216,
-      "source": "blog.davidedmundson.co.uk"
-    },
-    {
-      "title": "Multicore suppport for DOS is real \u2013 partly",
-      "url": "https://www.vogons.org/viewtopic.php?t=111336",
-      "score": 82,
-      "comments": 15,
-      "source": "vogons.org"
-    },
-    {
-      "title": "SaySynth: A Brief History of Speaking Machines",
-      "url": "https://brian.abelson.live/log/2025/12/20/saysynth-composition-codes.html",
-      "score": 10,
-      "comments": 1,
-      "source": "brian.abelson.live"
-    },
-    {
-      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-      "score": 162,
-      "comments": 66,
-      "source": "fidonet.org"
-    },
-    {
-      "title": "Show HN: Live breath detection and biofeedback from a phone microphone",
-      "url": "https://github.com/shiihaa-app/shiihaa-breath-detection",
-      "score": 44,
-      "comments": 14,
-      "source": "github.com"
-    },
-    {
-      "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
-      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-      "score": 4,
-      "comments": 1,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
-      "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
-      "score": 107,
-      "comments": 17,
-      "source": "fergusfinn.com"
-    },
-    {
-      "title": "Loading Sega Games Off a Vinyl Record [video]",
-      "url": "https://www.youtube.com/watch?v=c744iD0_fWU",
-      "score": 32,
-      "comments": 8,
-      "source": "youtube.com"
-    },
-    {
-      "title": "The advertising cartel coming to your web browser",
-      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
-      "score": 202,
-      "comments": 55,
-      "source": "blog.zgp.org"
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "score": 189,
+      "comments": 118,
+      "source": "hpcalcs.com"
     }
   ],
   "security": [
