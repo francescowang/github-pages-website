@@ -1,144 +1,200 @@
 {
   "tech": [
     {
+      "title": "\"They're made out of weights\"",
+      "url": "https://maxleiter.com/blog/weights",
+      "score": 506,
+      "comments": 168,
+      "source": "maxleiter.com"
+    },
+    {
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 219,
+      "comments": 159,
+      "source": "dailycal.org"
+    },
+    {
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 510,
-      "comments": 178,
+      "score": 721,
+      "comments": 262,
       "source": "elixir-lang.org"
+    },
+    {
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "score": 174,
+      "comments": 70,
+      "source": "kasra.blog"
     },
     {
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 661,
-      "comments": 285,
+      "score": 803,
+      "comments": 318,
       "source": "blog.google"
-    },
-    {
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "url": "https://burntsushi.net/encephalitis/",
-      "score": 475,
-      "comments": 135,
-      "source": "burntsushi.net"
-    },
-    {
-      "title": "The \u00dc Programming Language",
-      "url": "https://github.com/Panzerschrek/U-00DC-Sprache/",
-      "score": 17,
-      "comments": 7,
-      "source": "github.com"
-    },
-    {
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "score": 8,
-      "comments": 2,
-      "source": "anthropic.com"
     },
     {
       "title": "Artificial intelligence is not conscious \u2013 Ted Chiang",
       "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "score": 193,
-      "comments": 363,
+      "score": 379,
+      "comments": 668,
       "source": "theatlantic.com"
     },
     {
-      "title": "DaVinci Resolve 21",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "score": 382,
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "url": "https://burntsushi.net/encephalitis/",
+      "score": 594,
       "comments": 180,
-      "source": "blackmagicdesign.com"
+      "source": "burntsushi.net"
+    },
+    {
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "score": 107,
+      "comments": 47,
+      "source": "anthropic.com"
     },
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 352,
-      "comments": 450,
+      "score": 460,
+      "comments": 572,
       "source": "simonwillison.net"
     },
     {
-      "title": "Ableton Extensions SDK",
-      "url": "https://www.ableton.com/en/live/extensions/",
-      "score": 60,
-      "comments": 26,
-      "source": "ableton.com"
+      "title": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "score": 444,
+      "comments": 200,
+      "source": "blackmagicdesign.com"
+    },
+    {
+      "title": "Learn SQL Once, Use It for 30 Years",
+      "url": "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03",
+      "score": 51,
+      "comments": 20,
+      "source": "fagnerbrack.com"
     },
     {
       "title": "Meteor Explodes over Massachusetts",
       "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
-      "score": 34,
-      "comments": 11,
+      "score": 98,
+      "comments": 51,
       "source": "nbcboston.com"
     },
     {
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 641,
-      "comments": 101,
-      "source": "blog.nns.ee"
+      "title": "CP/M-86 & MS-DOS Cross Development Environment",
+      "url": "https://github.com/tsupplis/cpm86-crossdev",
+      "score": 26,
+      "comments": 2,
+      "source": "github.com"
     },
     {
-      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
-      "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
-      "score": 25,
-      "comments": 14,
-      "source": "opensource.googleblog.com"
+      "title": "ESP32-S31",
+      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+      "score": 284,
+      "comments": 154,
+      "source": "espressif.com"
+    },
+    {
+      "title": "A Man Who Reads Books for a Living",
+      "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
+      "score": 107,
+      "comments": 82,
+      "source": "lithub.com"
     },
     {
       "title": "Gooey: A GPU-accelerated UI framework for Zig",
       "url": "https://github.com/duanebester/gooey",
-      "score": 131,
-      "comments": 43,
+      "score": 165,
+      "comments": 67,
       "source": "github.com"
     },
     {
       "title": "A Post-Quantum Future for Let's Encrypt",
       "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-      "score": 214,
-      "comments": 120,
+      "score": 251,
+      "comments": 136,
       "source": "letsencrypt.org"
     },
     {
-      "title": "A Man Who Reads Books for a Living (One Every Two Days)",
-      "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
-      "score": 68,
-      "comments": 46,
-      "source": "lithub.com"
+      "title": "Ableton Extensions SDK",
+      "url": "https://www.ableton.com/en/live/extensions/",
+      "score": 108,
+      "comments": 41,
+      "source": "ableton.com"
     },
     {
-      "title": "A Mathematician's Lament \u2013 Paul Lockhart (2002) [pdf]",
+      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+      "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+      "score": 70,
+      "comments": 38,
+      "source": "opensource.googleblog.com"
+    },
+    {
+      "title": "A Mathematician's Lament (2002) [pdf]",
       "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
-      "score": 25,
-      "comments": 1,
+      "score": 70,
+      "comments": 3,
       "source": "worrydream.com"
     },
     {
-      "title": "ESP32-S31",
-      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
-      "score": 243,
-      "comments": 140,
-      "source": "espressif.com"
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "score": 220,
+      "comments": 258,
+      "source": "science.org"
     },
     {
-      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
-      "url": "https://github.com/tastyeffectco/sandboxes",
-      "score": 42,
-      "comments": 9,
-      "source": "github.com"
+      "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
+      "score": 432,
+      "comments": 286,
+      "source": "e360.yale.edu"
     },
     {
       "title": "Patching my guitar amp's firmware",
       "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-      "score": 24,
-      "comments": 1,
+      "score": 74,
+      "comments": 12,
       "source": "mforney.org"
     },
     {
-      "title": "Stop Killing Games",
-      "url": "https://jxself.org/stop-killing-games.shtml",
-      "score": 183,
-      "comments": 173,
-      "source": "jxself.org"
+      "title": "Dumbphone 2",
+      "url": "https://dumb.co/",
+      "score": 30,
+      "comments": 24,
+      "source": "dumb.co"
+    },
+    {
+      "title": "PlayStation Architecture",
+      "url": "https://www.copetti.org/writings/consoles/playstation/",
+      "score": 292,
+      "comments": 58,
+      "source": "copetti.org"
+    },
+    {
+      "title": "The Capacity of HotHands to Facilitate High-Altitude Research (2023) [pdf]",
+      "url": "https://www.colorado.edu/center/spacegrant/sites/default/files/attached-files/B3_RRCC_BringingTheHeatTo100%2C000Feet.pdf",
+      "score": 3,
+      "comments": 0,
+      "source": "colorado.edu"
+    },
+    {
+      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "score": 80,
+      "comments": 20,
+      "source": "github.com"
+    },
+    {
+      "title": "Every Byte Matters",
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "score": 239,
+      "comments": 118,
+      "source": "fzakaria.com"
     },
     {
       "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
@@ -146,62 +202,6 @@
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
-    },
-    {
-      "title": "Angular v22",
-      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
-      "score": 102,
-      "comments": 49,
-      "source": "blog.angular.dev"
-    },
-    {
-      "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-      "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes",
-      "score": 47,
-      "comments": 2,
-      "source": "nouvelles.umontreal.ca"
-    },
-    {
-      "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
-      "url": "https://brume.aftertone.co/",
-      "score": 45,
-      "comments": 22,
-      "source": "brume.aftertone.co"
-    },
-    {
-      "title": "Show HN: Mnemo \u2013 local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "url": "https://github.com/zaydmulani09/mnemo",
-      "score": 22,
-      "comments": 13,
-      "source": "github.com"
-    },
-    {
-      "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-      "score": 165,
-      "comments": 215,
-      "source": "science.org"
-    },
-    {
-      "title": "Every Byte Matters",
-      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "score": 226,
-      "comments": 111,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "PlayStation Architecture",
-      "url": "https://www.copetti.org/writings/consoles/playstation/",
-      "score": 249,
-      "comments": 48,
-      "source": "copetti.org"
-    },
-    {
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
-      "score": 682,
-      "comments": 648,
-      "source": "bbc.com"
     }
   ],
   "security": [
