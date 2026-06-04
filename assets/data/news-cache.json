@@ -1,207 +1,207 @@
 {
   "tech": [
     {
-      "title": "\"They're made out of weights\"",
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "score": 222,
+      "comments": 144,
+      "source": "aoav.org.uk"
+    },
+    {
+      "title": "Gaussian Point Splatting",
+      "url": "https://momentsingraphics.de/Siggraph2026.html",
+      "score": 66,
+      "comments": 29,
+      "source": "momentsingraphics.de"
+    },
+    {
+      "title": "They\u2019re made out of weights",
       "url": "https://maxleiter.com/blog/weights",
-      "score": 506,
-      "comments": 168,
+      "score": 906,
+      "comments": 345,
       "source": "maxleiter.com"
     },
     {
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 219,
-      "comments": 159,
-      "source": "dailycal.org"
+      "title": "Kiki \u2013 a tiny homepage construction kit with a small footprint",
+      "url": "https://tomotama.com/kiki",
+      "score": 32,
+      "comments": 7,
+      "source": "tomotama.com"
+    },
+    {
+      "title": "U.S. Army Corps of Engineers Bay Model",
+      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
+      "score": 49,
+      "comments": 12,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "Elixir v1.20: Now a gradually typed language",
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 721,
-      "comments": 262,
+      "score": 828,
+      "comments": 306,
       "source": "elixir-lang.org"
     },
     {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "score": 174,
-      "comments": 70,
-      "source": "kasra.blog"
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 461,
+      "comments": 372,
+      "source": "dailycal.org"
+    },
+    {
+      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
     },
     {
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 803,
-      "comments": 318,
+      "score": 894,
+      "comments": 342,
       "source": "blog.google"
+    },
+    {
+      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
+      "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
+      "score": 71,
+      "comments": 11,
+      "source": "france24.com"
+    },
+    {
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "score": 269,
+      "comments": 127,
+      "source": "kasra.blog"
+    },
+    {
+      "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
+      "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
+      "score": 48,
+      "comments": 38,
+      "source": "medium.com"
+    },
+    {
+      "title": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
+      "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
+      "score": 87,
+      "comments": 22,
+      "source": "apnews.com"
+    },
+    {
+      "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+      "url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+      "score": 61,
+      "comments": 2,
+      "source": "blog.hellas.ai"
+    },
+    {
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "url": "https://uruky.com/?il=en",
+      "score": 109,
+      "comments": 100,
+      "source": "uruky.com"
     },
     {
       "title": "Artificial intelligence is not conscious \u2013 Ted Chiang",
       "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "score": 379,
-      "comments": 668,
+      "score": 526,
+      "comments": 879,
       "source": "theatlantic.com"
     },
     {
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "url": "https://burntsushi.net/encephalitis/",
-      "score": 594,
-      "comments": 180,
-      "source": "burntsushi.net"
+      "title": "Ian's Secure Shoelace Knot",
+      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "score": 11,
+      "comments": 2,
+      "source": "fieggen.com"
     },
     {
       "title": "The ways we contain Claude across products",
       "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "score": 107,
-      "comments": 47,
+      "score": 155,
+      "comments": 75,
       "source": "anthropic.com"
+    },
+    {
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "url": "https://burntsushi.net/encephalitis/",
+      "score": 656,
+      "comments": 196,
+      "source": "burntsushi.net"
     },
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 460,
-      "comments": 572,
+      "score": 527,
+      "comments": 656,
       "source": "simonwillison.net"
+    },
+    {
+      "title": "The placeholder name for the Windows 8 experience was \"modern\"",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373",
+      "score": 4,
+      "comments": 0,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "When su replaced login for becoming another Unix login",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement",
+      "score": 22,
+      "comments": 2,
+      "source": "utcc.utoronto.ca"
     },
     {
       "title": "DaVinci Resolve 21",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "score": 444,
-      "comments": 200,
+      "score": 486,
+      "comments": 220,
       "source": "blackmagicdesign.com"
     },
     {
       "title": "Learn SQL Once, Use It for 30 Years",
       "url": "https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03",
-      "score": 51,
-      "comments": 20,
+      "score": 137,
+      "comments": 88,
       "source": "fagnerbrack.com"
+    },
+    {
+      "title": "ESP32-S31",
+      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+      "score": 323,
+      "comments": 172,
+      "source": "espressif.com"
     },
     {
       "title": "Meteor Explodes over Massachusetts",
       "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
-      "score": 98,
-      "comments": 51,
+      "score": 133,
+      "comments": 68,
       "source": "nbcboston.com"
     },
     {
       "title": "CP/M-86 & MS-DOS Cross Development Environment",
       "url": "https://github.com/tsupplis/cpm86-crossdev",
-      "score": 26,
-      "comments": 2,
+      "score": 43,
+      "comments": 10,
       "source": "github.com"
-    },
-    {
-      "title": "ESP32-S31",
-      "url": "https://www.espressif.com/en/products/socs/esp32-s31",
-      "score": 284,
-      "comments": 154,
-      "source": "espressif.com"
     },
     {
       "title": "A Man Who Reads Books for a Living",
       "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/",
-      "score": 107,
-      "comments": 82,
+      "score": 137,
+      "comments": 98,
       "source": "lithub.com"
-    },
-    {
-      "title": "Gooey: A GPU-accelerated UI framework for Zig",
-      "url": "https://github.com/duanebester/gooey",
-      "score": 165,
-      "comments": 67,
-      "source": "github.com"
     },
     {
       "title": "A Post-Quantum Future for Let's Encrypt",
       "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-      "score": 251,
-      "comments": 136,
+      "score": 280,
+      "comments": 152,
       "source": "letsencrypt.org"
-    },
-    {
-      "title": "Ableton Extensions SDK",
-      "url": "https://www.ableton.com/en/live/extensions/",
-      "score": 108,
-      "comments": 41,
-      "source": "ableton.com"
-    },
-    {
-      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
-      "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
-      "score": 70,
-      "comments": 38,
-      "source": "opensource.googleblog.com"
-    },
-    {
-      "title": "A Mathematician's Lament (2002) [pdf]",
-      "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf",
-      "score": 70,
-      "comments": 3,
-      "source": "worrydream.com"
-    },
-    {
-      "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-      "score": 220,
-      "comments": 258,
-      "source": "science.org"
-    },
-    {
-      "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
-      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-      "score": 432,
-      "comments": 286,
-      "source": "e360.yale.edu"
-    },
-    {
-      "title": "Patching my guitar amp's firmware",
-      "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
-      "score": 74,
-      "comments": 12,
-      "source": "mforney.org"
-    },
-    {
-      "title": "Dumbphone 2",
-      "url": "https://dumb.co/",
-      "score": 30,
-      "comments": 24,
-      "source": "dumb.co"
-    },
-    {
-      "title": "PlayStation Architecture",
-      "url": "https://www.copetti.org/writings/consoles/playstation/",
-      "score": 292,
-      "comments": 58,
-      "source": "copetti.org"
-    },
-    {
-      "title": "The Capacity of HotHands to Facilitate High-Altitude Research (2023) [pdf]",
-      "url": "https://www.colorado.edu/center/spacegrant/sites/default/files/attached-files/B3_RRCC_BringingTheHeatTo100%2C000Feet.pdf",
-      "score": 3,
-      "comments": 0,
-      "source": "colorado.edu"
-    },
-    {
-      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
-      "url": "https://github.com/tastyeffectco/sandboxes",
-      "score": 80,
-      "comments": 20,
-      "source": "github.com"
-    },
-    {
-      "title": "Every Byte Matters",
-      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
-      "score": 239,
-      "comments": 118,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
-      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
     }
   ],
   "security": [
