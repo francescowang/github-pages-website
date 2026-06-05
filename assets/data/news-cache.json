@@ -1,53 +1,116 @@
 {
   "tech": [
     {
-      "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
-      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
-      "score": 105,
-      "comments": 79,
-      "source": "ajph.aphapublications.org"
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "score": 242,
+      "comments": 160,
+      "source": "bbc.com"
     },
     {
-      "title": "Did Claude Increase Bugs in Rsync?",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 39,
-      "comments": 16,
-      "source": "alexispurslane.github.io"
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "score": 159,
+      "comments": 37,
+      "source": "github.com"
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "score": 104,
+      "comments": 18,
+      "source": "blog.google"
+    },
+    {
+      "title": "Adyen Selected as Payment Services Provider for GOV.UK Pay",
+      "url": "https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
+      "score": 40,
+      "comments": 2,
+      "source": "adyen.com"
+    },
+    {
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "score": 157,
+      "comments": 116,
+      "source": "sumnerevans.com"
+    },
+    {
+      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
+      "score": 314,
+      "comments": 155,
+      "source": "mouseless.click"
+    },
+    {
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "score": 141,
+      "comments": 40,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 55,
+      "comments": 26,
+      "source": "rochester.edu"
+    },
+    {
+      "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
+      "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+      "score": 13,
+      "comments": 4,
+      "source": "flyingpenguin.com"
+    },
+    {
+      "title": "Mantine-datatable (and others) compromised \u2013 owner account suspended",
+      "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+      "score": 37,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Cooldown Support for Ruby Bundler",
+      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+      "score": 110,
+      "comments": 27,
+      "source": "blog.rubygems.org"
+    },
+    {
+      "title": "My Agent Skill for Test-Driven Development",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "score": 8,
+      "comments": 0,
+      "source": "saturnci.com"
     },
     {
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
-      "score": 162,
-      "comments": 53,
+      "score": 312,
+      "comments": 155,
       "source": "arxiv.org"
     },
     {
-      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 48,
-      "comments": 13,
-      "source": "redis.io"
+      "title": "Inside FAISS: Billion-Scale Similarity Search",
+      "url": "https://fremaconsulting.ch/blog/faiss",
+      "score": 6,
+      "comments": 0,
+      "source": "fremaconsulting.ch"
     },
     {
-      "title": "Changing How We Develop Ladybird",
-      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 460,
-      "comments": 304,
-      "source": "ladybird.org"
+      "title": "Gov.uk goes Dutch on payments as it dumps Stripe",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 79,
+      "comments": 20,
+      "source": "theregister.com"
     },
     {
-      "title": "databow: a Rust CLI to query any database with an ADBC driver",
-      "url": "https://columnar.tech/blog/introducing-databow//",
-      "score": 67,
-      "comments": 13,
-      "source": "columnar.tech"
-    },
-    {
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "score": 104,
-      "comments": 43,
-      "source": "passo.uno"
+      "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
+      "url": "https://sakana.ai/rsi-lab/",
+      "score": 9,
+      "comments": 7,
+      "source": "sakana.ai"
     },
     {
       "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
@@ -57,161 +120,90 @@
       "source": "nango.dev"
     },
     {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "score": 245,
-      "comments": 92,
-      "source": "fb.watch"
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 89,
+      "comments": 82,
+      "source": "alexispurslane.github.io"
     },
     {
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 59,
-      "comments": 49,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "score": 57,
-      "comments": 25,
-      "source": "github.com"
-    },
-    {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 461,
-      "comments": 127,
-      "source": "github.com"
-    },
-    {
-      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
-      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-      "score": 56,
-      "comments": 10,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "score": 7,
-      "comments": 1,
-      "source": "mouseless.click"
-    },
-    {
-      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
-      "url": "https://isupmap.com/",
-      "score": 85,
-      "comments": 30,
-      "source": "isupmap.com"
-    },
-    {
-      "title": "C++: The Documentary",
-      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 208,
-      "comments": 129,
-      "source": "herbsutter.com"
-    },
-    {
-      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+      "title": "India's surprise baby bust",
+      "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
       "score": 45,
-      "comments": 21,
-      "source": "digital-strategy.ec.europa.eu"
+      "comments": 171,
+      "source": "economist.com"
+    },
+    {
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "score": 165,
+      "comments": 54,
+      "source": "nltimes.nl"
+    },
+    {
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "score": 173,
+      "comments": 80,
+      "source": "redis.io"
+    },
+    {
+      "title": "Do the Hardest Thing",
+      "url": "https://justinjackson.ca/hard-thing",
+      "score": 12,
+      "comments": 4,
+      "source": "justinjackson.ca"
+    },
+    {
+      "title": "\"Maybe later\" was a feature",
+      "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+      "score": 4,
+      "comments": 0,
+      "source": "arnorhs.dev"
     },
     {
       "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
       "url": "https://github.com/zdk/lowfat",
-      "score": 15,
-      "comments": 5,
+      "score": 59,
+      "comments": 44,
       "source": "github.com"
     },
     {
-      "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "score": 212,
-      "comments": 61,
-      "source": "github.com"
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 318,
+      "comments": 233,
+      "source": "herbsutter.com"
     },
     {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "score": 186,
-      "comments": 35,
-      "source": "arxiv.org"
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "score": 131,
+      "comments": 137,
+      "source": "quantamagazine.org"
     },
     {
-      "title": "I'm skeptical about efforts to revolutionize schooling",
-      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "score": 218,
-      "comments": 322,
-      "source": "scotthyoung.com"
+      "title": "Changing how we develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "score": 730,
+      "comments": 478,
+      "source": "ladybird.org"
     },
     {
-      "title": "Ohbin \u2013 uv wrapper for installing tools from GitHub",
-      "url": "https://github.com/prostomarkeloff/ohbin",
-      "score": 21,
-      "comments": 10,
-      "source": "github.com"
-    },
-    {
-      "title": "Watching a Z80 from an RP2350",
-      "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
-      "score": 29,
-      "comments": 5,
-      "source": "emalliab.wordpress.com"
-    },
-    {
-      "title": "At the Autograph Show",
-      "url": "https://oldster.substack.com/p/at-the-autograph-show",
-      "score": 7,
-      "comments": 0,
-      "source": "oldster.substack.com"
-    },
-    {
-      "title": "WiFi Time",
-      "url": "https://mitxela.com/projects/wifi_time",
-      "score": 104,
-      "comments": 5,
-      "source": "mitxela.com"
-    },
-    {
-      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "url": "https://tiki.li/blog/blqsort",
-      "score": 193,
-      "comments": 60,
-      "source": "tiki.li"
-    },
-    {
-      "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
-      "url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
-      "score": 45,
-      "comments": 17,
-      "source": "louvre.fr"
-    },
-    {
-      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "score": 712,
-      "comments": 342,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Go Experiments Explained",
-      "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-      "score": 57,
-      "comments": 15,
-      "source": "alexedwards.net"
-    },
-    {
-      "title": "Linear Cosine Palettes(2025)",
-      "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
-      "score": 43,
-      "comments": 2,
-      "source": "blog.djnavarro.net"
+      "title": "South Korean forums will need to scan every images with AI censorship tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "score": 173,
+      "comments": 123,
+      "source": "discuss.privacyguides.net"
     }
   ],
   "security": [
+    {
+      "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
+      "url": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/",
+      "date": "2026-06-05 17:07:06",
+      "author": "Sowmya Vemuri"
+    },
     {
       "title": "Amazon Cognito unlocks advanced capabilities with next-generation infrastructure",
       "url": "https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure/",
@@ -265,12 +257,6 @@
       "url": "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team/",
       "date": "2026-05-26 19:04:17",
       "author": "Jason Hurst"
-    },
-    {
-      "title": "Well-architected best practices for software supply chain security",
-      "url": "https://aws.amazon.com/blogs/security/well-architected-best-practices-for-software-supply-chain-security/",
-      "date": "2026-05-26 17:03:30",
-      "author": "Trevor Schiavone"
     }
   ]
 }
