@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "score": 59,
-      "comments": 9,
-      "source": "arxiv.org"
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 67,
+      "comments": 8,
+      "source": "herbsutter.com"
+    },
+    {
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "score": 199,
+      "comments": 61,
+      "source": "fb.watch"
+    },
+    {
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "score": 25,
+      "comments": 6,
+      "source": "passo.uno"
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 238,
-      "comments": 78,
+      "score": 387,
+      "comments": 112,
+      "source": "github.com"
+    },
+    {
+      "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "score": 154,
+      "comments": 31,
+      "source": "github.com"
+    },
+    {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "score": 151,
+      "comments": 31,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+      "url": "https://isupmap.com/",
+      "score": 19,
+      "comments": 6,
+      "source": "isupmap.com"
+    },
+    {
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "score": 98,
+      "comments": 65,
+      "source": "boxofcables.dev"
+    },
+    {
+      "title": "I'm skeptical about efforts to revolutionize schooling",
+      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+      "score": 151,
+      "comments": 227,
+      "source": "scotthyoung.com"
+    },
+    {
+      "title": "WiFi Time",
+      "url": "https://mitxela.com/projects/wifi_time",
+      "score": 49,
+      "comments": 2,
+      "source": "mitxela.com"
+    },
+    {
+      "title": "Watching a Z80 from an RP2350",
+      "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
+      "score": 9,
+      "comments": 0,
+      "source": "emalliab.wordpress.com"
+    },
+    {
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "url": "https://tiki.li/blog/blqsort",
+      "score": 162,
+      "comments": 35,
+      "source": "tiki.li"
+    },
+    {
+      "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
+      "url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
+      "score": 17,
+      "comments": 4,
+      "source": "louvre.fr"
+    },
+    {
+      "title": "Magenta RealTime 2: Open and Local Live Music Models",
+      "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+      "score": 21,
+      "comments": 4,
+      "source": "magenta.withgoogle.com"
+    },
+    {
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "score": 478,
+      "comments": 223,
+      "source": "bloomberg.com"
+    },
+    {
+      "title": "Linear Cosine Palettes(2025)",
+      "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+      "score": 12,
+      "comments": 0,
+      "source": "blog.djnavarro.net"
+    },
+    {
+      "title": "Go Experiments Explained",
+      "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+      "score": 21,
+      "comments": 8,
+      "source": "alexedwards.net"
+    },
+    {
+      "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
+      "url": "https://github.com/tarpediem/zenvision-linux",
+      "score": 47,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+      "score": 54,
+      "comments": 34,
+      "source": "theintercept.com"
+    },
+    {
+      "title": "Samurai City",
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "score": 151,
+      "comments": 29,
+      "source": "worksinprogress.co"
+    },
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 435,
+      "comments": 574,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "score": 130,
+      "comments": 13,
       "source": "github.com"
     },
     {
       "title": "VoidZero Is Joining Cloudflare",
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 561,
-      "comments": 254,
+      "score": 625,
+      "comments": 272,
       "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 305,
-      "comments": 403,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "url": "https://tiki.li/blog/blqsort",
-      "score": 73,
-      "comments": 7,
-      "source": "tiki.li"
     },
     {
       "title": "Queen bees emerge from special wax chambers",
       "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
-      "score": 33,
-      "comments": 2,
+      "score": 70,
+      "comments": 10,
       "source": "cen.acs.org"
     },
     {
-      "title": "Ian's Secure Shoelace Knot",
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "score": 495,
-      "comments": 189,
-      "source": "fieggen.com"
-    },
-    {
-      "title": "I'm skeptical about efforts to revolutionize schooling",
-      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "score": 38,
-      "comments": 56,
-      "source": "scotthyoung.com"
-    },
-    {
-      "title": "IPv6 zones in URLs are a mistake",
-      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-      "score": 72,
-      "comments": 62,
-      "source": "xeiaso.net"
+      "title": "The Causes of Long Covid",
+      "url": "https://www.science.org/content/blog-post/causes-long-covid",
+      "score": 103,
+      "comments": 58,
+      "source": "science.org"
     },
     {
       "title": "Retro-Tech Parenting",
       "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "score": 235,
-      "comments": 162,
+      "score": 283,
+      "comments": 196,
       "source": "havenweb.org"
     },
     {
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "url": "https://github.com/huawei-csl/KVarN",
-      "score": 112,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-      "url": "https://arxiv.org/abs/2604.24881",
-      "score": 8,
-      "comments": 0,
-      "source": "arxiv.org"
+      "title": "JLink JTAG Access on the Pinecil",
+      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+      "score": 55,
+      "comments": 10,
+      "source": "danielmangum.com"
     },
     {
       "title": "WSL 2 is getting faster Windows file system access",
       "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
-      "score": 41,
-      "comments": 30,
+      "score": 121,
+      "comments": 91,
       "source": "boxofcables.dev"
     },
     {
       "title": "Castor: CERN Advanced STORage Manager",
       "url": "https://castor.web.cern.ch/content/home.html",
-      "score": 41,
-      "comments": 18,
+      "score": 54,
+      "comments": 23,
       "source": "castor.web.cern.ch"
     },
     {
-      "title": "External Clock Generation on RTX 50 Series",
-      "url": "https://www.xtremesystems.us/post/external-clock-generation-on-rtx-50-series",
-      "score": 8,
-      "comments": 2,
-      "source": "xtremesystems.us"
-    },
-    {
-      "title": "Samurai City",
-      "url": "https://worksinprogress.co/issue/samurai-city/",
-      "score": 93,
-      "comments": 14,
-      "source": "worksinprogress.co"
-    },
-    {
-      "title": "Show HN: Mercek \u2013 A Desktop IDE for AWS ECS",
-      "url": "https://www.mercek.dev/",
-      "score": 17,
-      "comments": 4,
-      "source": "mercek.dev"
-    },
-    {
-      "title": "JLink JTAG Access on the Pinecil",
-      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
-      "score": 35,
-      "comments": 6,
-      "source": "danielmangum.com"
-    },
-    {
-      "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-      "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
-      "score": 1,
+      "title": "Amazon's New Stargate Series Is Officially Dead",
+      "url": "https://screenrant.com/stargate-amazon-new-series-canceled/",
+      "score": 6,
       "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Making Debian or Fedora persistent live images",
-      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-      "score": 58,
-      "comments": 6,
-      "source": "sigwait.org"
-    },
-    {
-      "title": "Meta's ships facial recognition on smart glasses",
-      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-      "score": 215,
-      "comments": 195,
-      "source": "buchodi.com"
-    },
-    {
-      "title": "Show HN: FFmpeg WebCLI \u2013 Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
-      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
-      "score": 71,
-      "comments": 23,
-      "source": "github.com"
-    },
-    {
-      "title": "Sum-product, unit distances, and number fields",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-      "score": 54,
-      "comments": 13,
-      "source": "erdosproblems.com"
-    },
-    {
-      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-      "url": "https://uruky.com/?il=en",
-      "score": 205,
-      "comments": 193,
-      "source": "uruky.com"
-    },
-    {
-      "title": "Mornings and nights no longer exist at 47C: A day in the hottest place in India",
-      "url": "https://www.bbc.co.uk/news/articles/crmp0krp98ro",
-      "score": 109,
-      "comments": 78,
-      "source": "bbc.co.uk"
-    },
-    {
-      "title": "Gaussian Point Splatting",
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "score": 174,
-      "comments": 65,
-      "source": "momentsingraphics.de"
-    },
-    {
-      "title": "Show HN: Hitoku Draft \u2013 Context aware local assistant",
-      "url": "https://hitoku.me/draft/",
-      "score": 9,
-      "comments": 1,
-      "source": "hitoku.me"
-    },
-    {
-      "title": "AI, Ashby Engineering, and the future",
-      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-      "score": 51,
-      "comments": 33,
-      "source": "ashbyhq.com"
-    },
-    {
-      "title": "U.S. Army Corps of Engineers Bay Model",
-      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-      "score": 206,
-      "comments": 53,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "3D-printed book turns its own G-code into raised lettering",
-      "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
-      "score": 75,
-      "comments": 27,
-      "source": "designboom.com"
+      "source": "screenrant.com"
     }
   ],
   "security": [
