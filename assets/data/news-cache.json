@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "C++: The Documentary",
-      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 67,
-      "comments": 8,
-      "source": "herbsutter.com"
+      "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
+      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
+      "score": 105,
+      "comments": 79,
+      "source": "ajph.aphapublications.org"
     },
     {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "score": 199,
-      "comments": 61,
-      "source": "fb.watch"
+      "title": "Did Claude Increase Bugs in Rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 39,
+      "comments": 16,
+      "source": "alexispurslane.github.io"
+    },
+    {
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "score": 162,
+      "comments": 53,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "score": 48,
+      "comments": 13,
+      "source": "redis.io"
+    },
+    {
+      "title": "Changing How We Develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "score": 460,
+      "comments": 304,
+      "source": "ladybird.org"
+    },
+    {
+      "title": "databow: a Rust CLI to query any database with an ADBC driver",
+      "url": "https://columnar.tech/blog/introducing-databow//",
+      "score": 67,
+      "comments": 13,
+      "source": "columnar.tech"
     },
     {
       "title": "Fine-tuning an LLM to write docs like it's 1995",
       "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "score": 25,
-      "comments": 6,
+      "score": 104,
+      "comments": 43,
       "source": "passo.uno"
+    },
+    {
+      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+      "url": "https://nango.dev/careers",
+      "score": 1,
+      "comments": 0,
+      "source": "nango.dev"
+    },
+    {
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "score": 245,
+      "comments": 92,
+      "source": "fb.watch"
+    },
+    {
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "score": 59,
+      "comments": 49,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "score": 57,
+      "comments": 25,
+      "source": "github.com"
     },
     {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 387,
-      "comments": 112,
+      "score": 461,
+      "comments": 127,
+      "source": "github.com"
+    },
+    {
+      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
+      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+      "score": 56,
+      "comments": 10,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
+      "score": 7,
+      "comments": 1,
+      "source": "mouseless.click"
+    },
+    {
+      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+      "url": "https://isupmap.com/",
+      "score": 85,
+      "comments": 30,
+      "source": "isupmap.com"
+    },
+    {
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "score": 208,
+      "comments": 129,
+      "source": "herbsutter.com"
+    },
+    {
+      "title": "Communication on European Tech Sovereignty, and an EU Open-Source Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy",
+      "score": 45,
+      "comments": 21,
+      "source": "digital-strategy.ec.europa.eu"
+    },
+    {
+      "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
+      "score": 15,
+      "comments": 5,
       "source": "github.com"
     },
     {
       "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
       "url": "https://github.com/alibaba/open-code-review",
-      "score": 154,
-      "comments": 31,
+      "score": 212,
+      "comments": 61,
       "source": "github.com"
     },
     {
       "title": "Do transformers need three projections? Systematic study of QKV variants",
       "url": "https://arxiv.org/abs/2606.04032",
-      "score": 151,
-      "comments": 31,
+      "score": 186,
+      "comments": 35,
       "source": "arxiv.org"
-    },
-    {
-      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
-      "url": "https://isupmap.com/",
-      "score": 19,
-      "comments": 6,
-      "source": "isupmap.com"
-    },
-    {
-      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-      "score": 98,
-      "comments": 65,
-      "source": "boxofcables.dev"
     },
     {
       "title": "I'm skeptical about efforts to revolutionize schooling",
       "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "score": 151,
-      "comments": 227,
+      "score": 218,
+      "comments": 322,
       "source": "scotthyoung.com"
     },
     {
-      "title": "WiFi Time",
-      "url": "https://mitxela.com/projects/wifi_time",
-      "score": 49,
-      "comments": 2,
-      "source": "mitxela.com"
+      "title": "Ohbin \u2013 uv wrapper for installing tools from GitHub",
+      "url": "https://github.com/prostomarkeloff/ohbin",
+      "score": 21,
+      "comments": 10,
+      "source": "github.com"
     },
     {
       "title": "Watching a Z80 from an RP2350",
       "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
-      "score": 9,
-      "comments": 0,
+      "score": 29,
+      "comments": 5,
       "source": "emalliab.wordpress.com"
+    },
+    {
+      "title": "At the Autograph Show",
+      "url": "https://oldster.substack.com/p/at-the-autograph-show",
+      "score": 7,
+      "comments": 0,
+      "source": "oldster.substack.com"
+    },
+    {
+      "title": "WiFi Time",
+      "url": "https://mitxela.com/projects/wifi_time",
+      "score": 104,
+      "comments": 5,
+      "source": "mitxela.com"
     },
     {
       "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
       "url": "https://tiki.li/blog/blqsort",
-      "score": 162,
-      "comments": 35,
+      "score": 193,
+      "comments": 60,
       "source": "tiki.li"
     },
     {
       "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
       "url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
-      "score": 17,
-      "comments": 4,
+      "score": 45,
+      "comments": 17,
       "source": "louvre.fr"
-    },
-    {
-      "title": "Magenta RealTime 2: Open and Local Live Music Models",
-      "url": "https://magenta.withgoogle.com/magenta-realtime-2",
-      "score": 21,
-      "comments": 4,
-      "source": "magenta.withgoogle.com"
     },
     {
       "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
       "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-      "score": 478,
-      "comments": 223,
+      "score": 712,
+      "comments": 342,
       "source": "bloomberg.com"
-    },
-    {
-      "title": "Linear Cosine Palettes(2025)",
-      "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
-      "score": 12,
-      "comments": 0,
-      "source": "blog.djnavarro.net"
     },
     {
       "title": "Go Experiments Explained",
       "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-      "score": 21,
-      "comments": 8,
+      "score": 57,
+      "comments": 15,
       "source": "alexedwards.net"
     },
     {
-      "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
-      "url": "https://github.com/tarpediem/zenvision-linux",
-      "score": 47,
-      "comments": 10,
-      "source": "github.com"
-    },
-    {
-      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
-      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
-      "score": 54,
-      "comments": 34,
-      "source": "theintercept.com"
-    },
-    {
-      "title": "Samurai City",
-      "url": "https://worksinprogress.co/issue/samurai-city/",
-      "score": 151,
-      "comments": 29,
-      "source": "worksinprogress.co"
-    },
-    {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 435,
-      "comments": 574,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "url": "https://github.com/huawei-csl/KVarN",
-      "score": 130,
-      "comments": 13,
-      "source": "github.com"
-    },
-    {
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 625,
-      "comments": 272,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Queen bees emerge from special wax chambers",
-      "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
-      "score": 70,
-      "comments": 10,
-      "source": "cen.acs.org"
-    },
-    {
-      "title": "The Causes of Long Covid",
-      "url": "https://www.science.org/content/blog-post/causes-long-covid",
-      "score": 103,
-      "comments": 58,
-      "source": "science.org"
-    },
-    {
-      "title": "Retro-Tech Parenting",
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "score": 283,
-      "comments": 196,
-      "source": "havenweb.org"
-    },
-    {
-      "title": "JLink JTAG Access on the Pinecil",
-      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
-      "score": 55,
-      "comments": 10,
-      "source": "danielmangum.com"
-    },
-    {
-      "title": "WSL 2 is getting faster Windows file system access",
-      "url": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
-      "score": 121,
-      "comments": 91,
-      "source": "boxofcables.dev"
-    },
-    {
-      "title": "Castor: CERN Advanced STORage Manager",
-      "url": "https://castor.web.cern.ch/content/home.html",
-      "score": 54,
-      "comments": 23,
-      "source": "castor.web.cern.ch"
-    },
-    {
-      "title": "Amazon's New Stargate Series Is Officially Dead",
-      "url": "https://screenrant.com/stargate-amazon-new-series-canceled/",
-      "score": 6,
-      "comments": 0,
-      "source": "screenrant.com"
+      "title": "Linear Cosine Palettes(2025)",
+      "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+      "score": 43,
+      "comments": 2,
+      "source": "blog.djnavarro.net"
     }
   ],
   "security": [
