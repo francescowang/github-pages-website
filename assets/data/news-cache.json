@@ -3,197 +3,197 @@
     {
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 242,
-      "comments": 160,
+      "score": 346,
+      "comments": 227,
       "source": "bbc.com"
     },
     {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "url": "https://github.com/microsoft/pg_durable",
-      "score": 159,
-      "comments": 37,
+      "score": 300,
+      "comments": 75,
       "source": "github.com"
     },
     {
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 104,
-      "comments": 18,
+      "score": 250,
+      "comments": 82,
       "source": "blog.google"
-    },
-    {
-      "title": "Adyen Selected as Payment Services Provider for GOV.UK Pay",
-      "url": "https://www.adyen.com/press-and-media/adyen-payments-gov-uk",
-      "score": 40,
-      "comments": 2,
-      "source": "adyen.com"
-    },
-    {
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "score": 157,
-      "comments": 116,
-      "source": "sumnerevans.com"
-    },
-    {
-      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "score": 314,
-      "comments": 155,
-      "source": "mouseless.click"
-    },
-    {
-      "title": "I tested every IP KVM in my Homelab",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-      "score": 141,
-      "comments": 40,
-      "source": "jeffgeerling.com"
     },
     {
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 55,
-      "comments": 26,
+      "score": 227,
+      "comments": 107,
       "source": "rochester.edu"
     },
     {
-      "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
-      "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
-      "score": 13,
-      "comments": 4,
-      "source": "flyingpenguin.com"
-    },
-    {
-      "title": "Mantine-datatable (and others) compromised \u2013 owner account suspended",
-      "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
-      "score": 37,
-      "comments": 8,
-      "source": "github.com"
-    },
-    {
-      "title": "Cooldown Support for Ruby Bundler",
-      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-      "score": 110,
-      "comments": 27,
-      "source": "blog.rubygems.org"
+      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
+      "score": 440,
+      "comments": 182,
+      "source": "mouseless.click"
     },
     {
       "title": "My Agent Skill for Test-Driven Development",
       "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "score": 8,
-      "comments": 0,
+      "score": 123,
+      "comments": 45,
       "source": "saturnci.com"
+    },
+    {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "score": 5,
+      "comments": 0,
+      "source": "salvagedcircuitry.com"
+    },
+    {
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "score": 280,
+      "comments": 272,
+      "source": "alexispurslane.github.io"
+    },
+    {
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 331,
+      "comments": 112,
+      "source": "theregister.com"
+    },
+    {
+      "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+      "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
+      "score": 50,
+      "comments": 65,
+      "source": "benthamsgaze.org"
+    },
+    {
+      "title": "Transformers Are Inherently Succinct",
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "score": 82,
+      "comments": 28,
+      "source": "openreview.net"
+    },
+    {
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "score": 256,
+      "comments": 203,
+      "source": "sumnerevans.com"
+    },
+    {
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "score": 227,
+      "comments": 64,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "Cooldown Support for Ruby Bundler",
+      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+      "score": 143,
+      "comments": 36,
+      "source": "blog.rubygems.org"
+    },
+    {
+      "title": "The perils of UUID primary keys in SQLite",
+      "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+      "score": 8,
+      "comments": 4,
+      "source": "andersmurphy.com"
+    },
+    {
+      "title": "Aging and Eye Problems",
+      "url": "https://ldstephens.net/posts/aging-and-eye-problems/",
+      "score": 44,
+      "comments": 15,
+      "source": "ldstephens.net"
+    },
+    {
+      "title": "\"Maybe later\" was a feature",
+      "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+      "score": 74,
+      "comments": 21,
+      "source": "arnorhs.dev"
+    },
+    {
+      "title": "India's surprise baby bust",
+      "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
+      "score": 122,
+      "comments": 541,
+      "source": "economist.com"
     },
     {
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
-      "score": 312,
-      "comments": 155,
+      "score": 357,
+      "comments": 194,
       "source": "arxiv.org"
     },
     {
       "title": "Inside FAISS: Billion-Scale Similarity Search",
       "url": "https://fremaconsulting.ch/blog/faiss",
-      "score": 6,
-      "comments": 0,
+      "score": 40,
+      "comments": 2,
       "source": "fremaconsulting.ch"
     },
     {
-      "title": "Gov.uk goes Dutch on payments as it dumps Stripe",
-      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 79,
-      "comments": 20,
-      "source": "theregister.com"
+      "title": "Three of our worst VC stories",
+      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+      "score": 175,
+      "comments": 81,
+      "source": "twitter.com"
     },
     {
-      "title": "Sakana AI's Recursive Self-Improvement (RSI) Lab",
-      "url": "https://sakana.ai/rsi-lab/",
-      "score": 9,
-      "comments": 7,
-      "source": "sakana.ai"
-    },
-    {
-      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
-      "url": "https://nango.dev/careers",
-      "score": 1,
-      "comments": 0,
-      "source": "nango.dev"
-    },
-    {
-      "title": "Did Claude increase bugs in rsync?",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 89,
-      "comments": 82,
-      "source": "alexispurslane.github.io"
-    },
-    {
-      "title": "India's surprise baby bust",
-      "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
-      "score": 45,
-      "comments": 171,
-      "source": "economist.com"
-    },
-    {
-      "title": "Dutch gov't will only allow European company to operate DigiD platform",
-      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
-      "score": 165,
-      "comments": 54,
-      "source": "nltimes.nl"
-    },
-    {
-      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 173,
-      "comments": 80,
-      "source": "redis.io"
-    },
-    {
-      "title": "Do the Hardest Thing",
-      "url": "https://justinjackson.ca/hard-thing",
-      "score": 12,
-      "comments": 4,
-      "source": "justinjackson.ca"
-    },
-    {
-      "title": "\"Maybe later\" was a feature",
-      "url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
-      "score": 4,
-      "comments": 0,
-      "source": "arnorhs.dev"
-    },
-    {
-      "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
-      "url": "https://github.com/zdk/lowfat",
-      "score": 59,
-      "comments": 44,
+      "title": "Mantine-datatable (and others) compromised \u2013 owner account suspended",
+      "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+      "score": 57,
+      "comments": 23,
       "source": "github.com"
     },
     {
       "title": "C++: The Documentary",
       "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 318,
-      "comments": 233,
+      "score": 367,
+      "comments": 271,
       "source": "herbsutter.com"
     },
     {
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 131,
-      "comments": 137,
-      "source": "quantamagazine.org"
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "score": 197,
+      "comments": 92,
+      "source": "redis.io"
+    },
+    {
+      "title": "Accidentally deleted subscriptions for chat integrations (Slack and MS Teams)",
+      "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+      "score": 112,
+      "comments": 42,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+      "url": "https://github.com/zdk/lowfat",
+      "score": 108,
+      "comments": 56,
+      "source": "github.com"
     },
     {
       "title": "Changing how we develop Ladybird",
       "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 730,
-      "comments": 478,
+      "score": 802,
+      "comments": 512,
       "source": "ladybird.org"
     },
     {
       "title": "South Korean forums will need to scan every images with AI censorship tools",
       "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-      "score": 173,
-      "comments": 123,
+      "score": 207,
+      "comments": 132,
       "source": "discuss.privacyguides.net"
     }
   ],
