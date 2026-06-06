@@ -1,200 +1,207 @@
 {
   "tech": [
     {
+      "title": "There's still no point in gigabit broadband",
+      "url": "https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/",
+      "score": 20,
+      "comments": 36,
+      "source": "shkspr.mobi"
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "score": 26,
+      "comments": 12,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Zig Zen Update",
+      "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+      "score": 90,
+      "comments": 27,
+      "source": "codeberg.org"
+    },
+    {
+      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+      "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+      "score": 381,
+      "comments": 298,
+      "source": "discuss.grapheneos.org"
+    },
+    {
+      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+      "score": 54,
+      "comments": 11,
+      "source": "blog.includesecurity.com"
+    },
+    {
+      "title": "Introduction \u2013 Rust for Python Programmers",
+      "url": "https://microsoft.github.io/RustTraining/python-book/",
+      "score": 15,
+      "comments": 2,
+      "source": "microsoft.github.io"
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
       "title": "How LLMs work",
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 188,
-      "comments": 48,
+      "score": 442,
+      "comments": 131,
       "source": "0xkato.xyz"
+    },
+    {
+      "title": "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]",
+      "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
+      "score": 19,
+      "comments": 14,
+      "source": "martiehaselton.com"
     },
     {
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 141,
-      "comments": 46,
+      "score": 191,
+      "comments": 65,
       "source": "salvagedcircuitry.com"
-    },
-    {
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "score": 44,
-      "comments": 7,
-      "source": "acoup.blog"
     },
     {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 196,
-      "comments": 50,
+      "score": 653,
+      "comments": 214,
       "source": "arstechnica.com"
     },
     {
-      "title": "The back cover of C++: The Language raises questions not answered by front cover",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "score": 68,
-      "comments": 12,
-      "source": "devblogs.microsoft.com"
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "score": 103,
+      "comments": 34,
+      "source": "acoup.blog"
     },
     {
-      "title": "Ten Years of Franz",
-      "url": "https://meetfranz.com/blog/ten-years-of-franz",
-      "score": 19,
-      "comments": 5,
-      "source": "meetfranz.com"
+      "title": "Social Cache Busting",
+      "url": "https://www.autodidacts.io/social-cache-busting/",
+      "score": 59,
+      "comments": 14,
+      "source": "autodidacts.io"
     },
     {
-      "title": "Lockdown Mode",
-      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "score": 41,
-      "comments": 18,
-      "source": "help.openai.com"
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 404,
+      "comments": 172,
+      "source": "rochester.edu"
+    },
+    {
+      "title": "HISE \u2013 Toolkit for building VST plugins",
+      "url": "https://hise.dev",
+      "score": 6,
+      "comments": 1,
+      "source": "hise.dev"
     },
     {
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 378,
-      "comments": 245,
+      "score": 404,
+      "comments": 252,
       "source": "bbc.com"
     },
     {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "url": "https://github.com/microsoft/pg_durable",
-      "score": 380,
-      "comments": 86,
+      "score": 415,
+      "comments": 93,
       "source": "github.com"
-    },
-    {
-      "title": "New method turns ocean water into drinking water, without waste",
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 331,
-      "comments": 144,
-      "source": "rochester.edu"
-    },
-    {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 327,
-      "comments": 99,
-      "source": "blog.google"
-    },
-    {
-      "title": "No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z Combinators",
-      "url": "https://irfanali.org/blog/zcom",
-      "score": 31,
-      "comments": 4,
-      "source": "irfanali.org"
     },
     {
       "title": "Did Claude increase bugs in rsync?",
       "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 380,
-      "comments": 384,
+      "score": 442,
+      "comments": 451,
       "source": "alexispurslane.github.io"
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "score": 361,
+      "comments": 109,
+      "source": "blog.google"
+    },
+    {
+      "title": "What 100k concurrent sandboxes has taught us so far",
+      "url": "https://www.computesdk.com/blog/scale-invitational-update/",
+      "score": 11,
+      "comments": 4,
+      "source": "computesdk.com"
     },
     {
       "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
       "url": "https://mouseless.click",
-      "score": 513,
-      "comments": 212,
+      "score": 540,
+      "comments": 219,
       "source": "mouseless.click"
     },
     {
-      "title": "Social Cache Busting",
-      "url": "https://www.autodidacts.io/social-cache-busting/",
-      "score": 6,
-      "comments": 1,
-      "source": "autodidacts.io"
+      "title": "Azure Linux Desktop",
+      "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+      "score": 22,
+      "comments": 10,
+      "source": "boxofcables.dev"
+    },
+    {
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "score": 111,
+      "comments": 34,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Ten Years of Franz",
+      "url": "https://meetfranz.com/blog/ten-years-of-franz",
+      "score": 45,
+      "comments": 25,
+      "source": "meetfranz.com"
     },
     {
       "title": "My Agent Skill for Test-Driven Development",
       "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "score": 163,
-      "comments": 66,
+      "score": 195,
+      "comments": 84,
       "source": "saturnci.com"
-    },
-    {
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 412,
-      "comments": 141,
-      "source": "theregister.com"
-    },
-    {
-      "title": "The perils of UUID primary keys in SQLite",
-      "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-      "score": 61,
-      "comments": 34,
-      "source": "andersmurphy.com"
-    },
-    {
-      "title": "Europe's largest Copper Age tomb: children's bones show ancient health crisis",
-      "url": "https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html",
-      "score": 27,
-      "comments": 5,
-      "source": "phys.org"
-    },
-    {
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "score": 296,
-      "comments": 228,
-      "source": "sumnerevans.com"
     },
     {
       "title": "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
       "url": "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
-      "score": 30,
-      "comments": 4,
+      "score": 61,
+      "comments": 11,
       "source": "medium.com"
     },
     {
-      "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
-      "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
-      "score": 81,
-      "comments": 69,
-      "source": "benthamsgaze.org"
+      "title": "Lockdown Mode",
+      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "score": 68,
+      "comments": 30,
+      "source": "help.openai.com"
     },
     {
-      "title": "Transformers are inherently succinct",
-      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-      "score": 113,
-      "comments": 32,
-      "source": "openreview.net"
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "score": 482,
+      "comments": 188,
+      "source": "theregister.com"
     },
     {
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "url": "https://arxiv.org/abs/2606.03673",
-      "score": 384,
-      "comments": 201,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Three of our worst VC stories",
-      "url": "https://twitter.com/eastdakota/status/2062860530360959273",
-      "score": 217,
-      "comments": 108,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Nordstjernen 1.0",
-      "url": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
-      "score": 38,
-      "comments": 13,
+      "title": "Is anyone here interested in contributing to this OS?",
+      "url": "https://github.com/valivalivali/x-os",
+      "score": 5,
+      "comments": 2,
       "source": "github.com"
-    },
-    {
-      "title": "Show HN: ABC Classic 100 Rankings visualised",
-      "url": "https://classic100.gotski.workers.dev/",
-      "score": 26,
-      "comments": 17,
-      "source": "classic100.gotski.workers.dev"
-    },
-    {
-      "title": "India's surprise baby bust",
-      "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
-      "score": 167,
-      "comments": 724,
-      "source": "economist.com"
     }
   ],
   "security": [
