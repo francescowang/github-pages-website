@@ -1,46 +1,102 @@
 {
   "tech": [
     {
-      "title": "There's still no point in gigabit broadband",
-      "url": "https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/",
-      "score": 20,
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "score": 61,
+      "comments": 10,
+      "source": "su3.io"
+    },
+    {
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "score": 108,
+      "comments": 236,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 172,
+      "comments": 145,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Benchmarks in Leipzig",
+      "url": "https://arxiv.org/abs/2606.05818",
+      "score": 83,
       "comments": 36,
-      "source": "shkspr.mobi"
+      "source": "arxiv.org"
+    },
+    {
+      "title": "You Can Run",
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "score": 23,
+      "comments": 2,
+      "source": "magazine.atavist.com"
     },
     {
       "title": "Google will pay SpaceX $920M per month for compute",
       "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "score": 26,
-      "comments": 12,
+      "score": 263,
+      "comments": 368,
       "source": "techcrunch.com"
     },
     {
-      "title": "Zig Zen Update",
-      "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
-      "score": 90,
-      "comments": 27,
-      "source": "codeberg.org"
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "url": "https://pokeemerald.com/",
+      "score": 159,
+      "comments": 46,
+      "source": "pokeemerald.com"
     },
     {
-      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
-      "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-      "score": 381,
-      "comments": 298,
-      "source": "discuss.grapheneos.org"
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "score": 703,
+      "comments": 191,
+      "source": "0xkato.xyz"
     },
     {
-      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-      "score": 54,
-      "comments": 11,
-      "source": "blog.includesecurity.com"
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+      "score": 33,
+      "comments": 14,
+      "source": "simonwillison.net"
     },
     {
-      "title": "Introduction \u2013 Rust for Python Programmers",
-      "url": "https://microsoft.github.io/RustTraining/python-book/",
-      "score": 15,
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "score": 78,
+      "comments": 25,
+      "source": "ft.com"
+    },
+    {
+      "title": "Building Rust Procedural Macros from the Grounds Up",
+      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+      "score": 53,
+      "comments": 10,
+      "source": "learnix-os.com"
+    },
+    {
+      "title": "The new bibliomaniacs",
+      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+      "score": 50,
+      "comments": 36,
+      "source": "engelsbergideas.com"
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "score": 1125,
+      "comments": 405,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
+      "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
+      "score": 29,
       "comments": 2,
-      "source": "microsoft.github.io"
+      "source": "youtube.com"
     },
     {
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
@@ -50,158 +106,102 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "How LLMs work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 442,
-      "comments": 131,
-      "source": "0xkato.xyz"
+      "title": "Summer of '85: DOSBOS is rejected by ANALOG Computing",
+      "url": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by",
+      "score": 14,
+      "comments": 3,
+      "source": "goto10retro.com"
     },
     {
-      "title": "Do Women's Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]",
-      "url": "https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf",
-      "score": 19,
-      "comments": 14,
-      "source": "martiehaselton.com"
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.00414",
+      "score": 20,
+      "comments": 2,
+      "source": "arxiv.org"
     },
     {
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 191,
-      "comments": 65,
+      "score": 219,
+      "comments": 82,
       "source": "salvagedcircuitry.com"
-    },
-    {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 653,
-      "comments": 214,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "score": 103,
-      "comments": 34,
-      "source": "acoup.blog"
-    },
-    {
-      "title": "Social Cache Busting",
-      "url": "https://www.autodidacts.io/social-cache-busting/",
-      "score": 59,
-      "comments": 14,
-      "source": "autodidacts.io"
     },
     {
       "title": "New method turns ocean water into drinking water, without waste",
       "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 404,
-      "comments": 172,
+      "score": 464,
+      "comments": 196,
       "source": "rochester.edu"
     },
     {
-      "title": "HISE \u2013 Toolkit for building VST plugins",
-      "url": "https://hise.dev",
-      "score": 6,
-      "comments": 1,
-      "source": "hise.dev"
+      "title": "Splash Is a Colour Format",
+      "url": "https://www.todepond.com/lab/splash/",
+      "score": 17,
+      "comments": 17,
+      "source": "todepond.com"
     },
     {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 404,
-      "comments": 252,
-      "source": "bbc.com"
+      "title": "Python JIT project was asked to pause development",
+      "url": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
+      "score": 63,
+      "comments": 21,
+      "source": "discuss.python.org"
+    },
+    {
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "score": 88,
+      "comments": 48,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincar\u00e9 disk",
+      "url": "https://uonr.github.io/poincake/",
+      "score": 23,
+      "comments": 5,
+      "source": "uonr.github.io"
+    },
+    {
+      "title": "Social Cache Busting",
+      "url": "https://www.autodidacts.io/social-cache-busting/",
+      "score": 110,
+      "comments": 40,
+      "source": "autodidacts.io"
+    },
+    {
+      "title": "Show HN: Soft Body Jiggle Physics",
+      "url": "https://github.com/xloveee/jiggle-physics",
+      "score": 33,
+      "comments": 14,
+      "source": "github.com"
+    },
+    {
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "score": 148,
+      "comments": 44,
+      "source": "acoup.blog"
     },
     {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
       "url": "https://github.com/microsoft/pg_durable",
+      "score": 450,
+      "comments": 102,
+      "source": "github.com"
+    },
+    {
+      "title": "The perils of UUID primary keys in SQLite",
+      "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+      "score": 138,
+      "comments": 81,
+      "source": "andersmurphy.com"
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "score": 415,
-      "comments": 93,
-      "source": "github.com"
-    },
-    {
-      "title": "Did Claude increase bugs in rsync?",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 442,
-      "comments": 451,
-      "source": "alexispurslane.github.io"
-    },
-    {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 361,
-      "comments": 109,
-      "source": "blog.google"
-    },
-    {
-      "title": "What 100k concurrent sandboxes has taught us so far",
-      "url": "https://www.computesdk.com/blog/scale-invitational-update/",
-      "score": 11,
-      "comments": 4,
-      "source": "computesdk.com"
-    },
-    {
-      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "score": 540,
-      "comments": 219,
-      "source": "mouseless.click"
-    },
-    {
-      "title": "Azure Linux Desktop",
-      "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
-      "score": 22,
-      "comments": 10,
-      "source": "boxofcables.dev"
-    },
-    {
-      "title": "The back cover of C++: The Language raises questions not answered by front cover",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "score": 111,
-      "comments": 34,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Ten Years of Franz",
-      "url": "https://meetfranz.com/blog/ten-years-of-franz",
-      "score": 45,
-      "comments": 25,
-      "source": "meetfranz.com"
-    },
-    {
-      "title": "My Agent Skill for Test-Driven Development",
-      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "score": 195,
-      "comments": 84,
-      "source": "saturnci.com"
-    },
-    {
-      "title": "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
-      "url": "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
-      "score": 61,
-      "comments": 11,
-      "source": "medium.com"
-    },
-    {
-      "title": "Lockdown Mode",
-      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-      "score": 68,
-      "comments": 30,
-      "source": "help.openai.com"
-    },
-    {
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-      "score": 482,
-      "comments": 188,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Is anyone here interested in contributing to this OS?",
-      "url": "https://github.com/valivalivali/x-os",
-      "score": 5,
-      "comments": 2,
-      "source": "github.com"
+      "comments": 256,
+      "source": "bbc.com"
     }
   ],
   "security": [
