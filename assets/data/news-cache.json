@@ -1,5 +1,209 @@
 {
-  "tech": [],
+  "tech": [
+    {
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "score": 233,
+      "comments": 55,
+      "source": "ioccc.org"
+    },
+    {
+      "title": "Win16 Memory Management",
+      "url": "http://www.os2museum.com/wp/win16-memory-management/",
+      "score": 57,
+      "comments": 21,
+      "source": "os2museum.com"
+    },
+    {
+      "title": "Only 2.5% of 12,779 tech job listings are entry-level",
+      "url": "https://www.datamatastudios.com/careers",
+      "score": 7,
+      "comments": 7,
+      "source": "datamatastudios.com"
+    },
+    {
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00d7",
+      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "score": 71,
+      "comments": 12,
+      "source": "fergusfinn.com"
+    },
+    {
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "score": 144,
+      "comments": 56,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "score": 203,
+      "comments": 89,
+      "source": "github.com"
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring",
+      "url": "https://9mothers.com/careers",
+      "score": 1,
+      "comments": 0,
+      "source": "9mothers.com"
+    },
+    {
+      "title": "My Software North Star",
+      "url": "https://kristoff.it/blog/north-star/",
+      "score": 114,
+      "comments": 57,
+      "source": "kristoff.it"
+    },
+    {
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "score": 106,
+      "comments": 47,
+      "source": "knowablemagazine.org"
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "score": 119,
+      "comments": 51,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "score": 152,
+      "comments": 23,
+      "source": "pdimagearchive.org"
+    },
+    {
+      "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "score": 361,
+      "comments": 101,
+      "source": "ntsc.rs"
+    },
+    {
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "score": 97,
+      "comments": 8,
+      "source": "symbolica.io"
+    },
+    {
+      "title": "The Secret Life of Circuits with lcamtuf / Micha\u0142 Zalewski (Audio Interview)",
+      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+      "score": 8,
+      "comments": 2,
+      "source": "theamphour.com"
+    },
+    {
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "score": 227,
+      "comments": 147,
+      "source": "openai.com"
+    },
+    {
+      "title": "Biohub releases a world model of protein biology",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/",
+      "score": 98,
+      "comments": 15,
+      "source": "biohub.org"
+    },
+    {
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "score": 88,
+      "comments": 48,
+      "source": "hyperallergic.com"
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 316,
+      "comments": 300,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Games Between Programs: The Ruliology of Competition",
+      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+      "score": 15,
+      "comments": 1,
+      "source": "writings.stephenwolfram.com"
+    },
+    {
+      "title": "Efficient and Training-Free Single-Image Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.04299",
+      "score": 11,
+      "comments": 0,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Introducing Boron Buckyballs: Theory that B80 cages can\u2019t be made is disproved",
+      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+      "score": 93,
+      "comments": 23,
+      "source": "cen.acs.org"
+    },
+    {
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "score": 300,
+      "comments": 492,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Arithmetic Without Numbers \u2013 How LLMs Do Math",
+      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+      "score": 41,
+      "comments": 12,
+      "source": "alvaro-videla.com"
+    },
+    {
+      "title": "I design with Claude more than Figma now",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "score": 194,
+      "comments": 166,
+      "source": "blog.janestreet.com"
+    },
+    {
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "score": 263,
+      "comments": 854,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "score": 245,
+      "comments": 57,
+      "source": "su3.io"
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 627,
+      "comments": 228,
+      "source": "this.weekinsecurity.com"
+    },
+    {
+      "title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
+      "url": "https://ataraxy-labs.github.io/sem/",
+      "score": 134,
+      "comments": 49,
+      "source": "ataraxy-labs.github.io"
+    },
+    {
+      "title": "Show HN: Free animated icon library for Vue",
+      "url": "https://respeak-io.github.io/lucide-motion-vue/",
+      "score": 44,
+      "comments": 7,
+      "source": "respeak-io.github.io"
+    }
+  ],
   "security": [
     {
       "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
