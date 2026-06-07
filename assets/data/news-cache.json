@@ -1,102 +1,172 @@
 {
   "tech": [
     {
+      "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "score": 244,
+      "comments": 59,
+      "source": "ntsc.rs"
+    },
+    {
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "score": 21,
+      "comments": 9,
+      "source": "openai.com"
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 380,
+      "comments": 141,
+      "source": "this.weekinsecurity.com"
+    },
+    {
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 239,
+      "comments": 257,
+      "source": "lwn.net"
+    },
+    {
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
       "url": "https://su3.io/posts/introducing-zeroserve",
-      "score": 61,
-      "comments": 10,
+      "score": 183,
+      "comments": 45,
       "source": "su3.io"
     },
     {
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
       "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 108,
-      "comments": 236,
+      "score": 222,
+      "comments": 419,
       "source": "twitter.com"
     },
     {
-      "title": "Moving beyond fork() + exec()",
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "score": 172,
-      "comments": 145,
-      "source": "lwn.net"
+      "title": "Sem: New primitive for code understanding \u2013 not LSPs, but entities on top of Git",
+      "url": "https://ataraxy-labs.github.io/sem/",
+      "score": 42,
+      "comments": 17,
+      "source": "ataraxy-labs.github.io"
     },
     {
-      "title": "Benchmarks in Leipzig",
-      "url": "https://arxiv.org/abs/2606.05818",
-      "score": 83,
-      "comments": 36,
-      "source": "arxiv.org"
+      "title": "Show HN: Keybench \u2013 Scriptable, extensible performance tool for key value stores",
+      "url": "https://github.com/guycipher/keybench",
+      "score": 5,
+      "comments": 0,
+      "source": "github.com"
     },
     {
       "title": "You Can Run",
       "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-      "score": 23,
-      "comments": 2,
+      "score": 95,
+      "comments": 47,
       "source": "magazine.atavist.com"
     },
     {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "score": 263,
-      "comments": 368,
-      "source": "techcrunch.com"
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "score": 22,
+      "comments": 21,
+      "source": "eetimes.com"
     },
     {
       "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
       "url": "https://pokeemerald.com/",
-      "score": 159,
-      "comments": 46,
+      "score": 269,
+      "comments": 75,
       "source": "pokeemerald.com"
     },
     {
-      "title": "How LLMs work",
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 703,
-      "comments": 191,
-      "source": "0xkato.xyz"
+      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincar\u00e9 disk",
+      "url": "https://uonr.github.io/poincake/",
+      "score": 116,
+      "comments": 19,
+      "source": "uonr.github.io"
     },
     {
-      "title": "Running Python code in a sandbox with MicroPython and WASM",
-      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
-      "score": 33,
-      "comments": 14,
-      "source": "simonwillison.net"
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "score": 129,
+      "comments": 710,
+      "source": "cnbc.com"
     },
     {
-      "title": "Police in England and Wales told to halt AI use in court statements",
-      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
-      "score": 78,
-      "comments": 25,
-      "source": "ft.com"
+      "title": "PyTorch Custom Operation",
+      "url": "https://leimao.github.io/blog/PyTorch-Custom-Operation/",
+      "score": 16,
+      "comments": 3,
+      "source": "leimao.github.io"
     },
     {
-      "title": "Building Rust Procedural Macros from the Grounds Up",
-      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
-      "score": 53,
-      "comments": 10,
-      "source": "learnix-os.com"
+      "title": "Context Sculpting",
+      "url": "https://perceptiontheory.bearblog.dev/context-sculpting/",
+      "score": 6,
+      "comments": 0,
+      "source": "perceptiontheory.bearblog.dev"
+    },
+    {
+      "title": "Benchmarks in Leipzig",
+      "url": "https://arxiv.org/abs/2606.05818",
+      "score": 122,
+      "comments": 44,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "score": 386,
+      "comments": 285,
+      "source": "nbcnews.com"
+    },
+    {
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "url": "https://www.science.org/doi/10.1126/science.aec7671",
+      "score": 112,
+      "comments": 110,
+      "source": "science.org"
     },
     {
       "title": "The new bibliomaniacs",
       "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
-      "score": 50,
-      "comments": 36,
+      "score": 64,
+      "comments": 51,
       "source": "engelsbergideas.com"
+    },
+    {
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "score": 142,
+      "comments": 134,
+      "source": "randalolson.com"
+    },
+    {
+      "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+      "url": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+      "score": 48,
+      "comments": 17,
+      "source": "mashable.com"
+    },
+    {
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+      "score": 75,
+      "comments": 22,
+      "source": "simonwillison.net"
     },
     {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 1125,
-      "comments": 405,
+      "score": 1356,
+      "comments": 467,
       "source": "arstechnica.com"
     },
     {
-      "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
-      "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
-      "score": 29,
-      "comments": 2,
-      "source": "youtube.com"
+      "title": "Unicode Fonts and Tools for X11",
+      "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
+      "score": 9,
+      "comments": 1,
+      "source": "cl.cam.ac.uk"
     },
     {
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
@@ -106,102 +176,18 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Summer of '85: DOSBOS is rejected by ANALOG Computing",
-      "url": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by",
-      "score": 14,
-      "comments": 3,
-      "source": "goto10retro.com"
-    },
-    {
-      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.00414",
-      "score": 20,
-      "comments": 2,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 219,
-      "comments": 82,
-      "source": "salvagedcircuitry.com"
-    },
-    {
-      "title": "New method turns ocean water into drinking water, without waste",
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 464,
-      "comments": 196,
-      "source": "rochester.edu"
-    },
-    {
-      "title": "Splash Is a Colour Format",
-      "url": "https://www.todepond.com/lab/splash/",
-      "score": 17,
+      "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
+      "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
+      "score": 50,
       "comments": 17,
-      "source": "todepond.com"
+      "source": "patrickstevens.co.uk"
     },
     {
-      "title": "Python JIT project was asked to pause development",
-      "url": "https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638",
-      "score": 63,
-      "comments": 21,
-      "source": "discuss.python.org"
-    },
-    {
-      "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-      "score": 88,
-      "comments": 48,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincar\u00e9 disk",
-      "url": "https://uonr.github.io/poincake/",
-      "score": 23,
-      "comments": 5,
-      "source": "uonr.github.io"
-    },
-    {
-      "title": "Social Cache Busting",
-      "url": "https://www.autodidacts.io/social-cache-busting/",
-      "score": 110,
-      "comments": 40,
-      "source": "autodidacts.io"
-    },
-    {
-      "title": "Show HN: Soft Body Jiggle Physics",
-      "url": "https://github.com/xloveee/jiggle-physics",
-      "score": 33,
-      "comments": 14,
-      "source": "github.com"
-    },
-    {
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "score": 148,
-      "comments": 44,
-      "source": "acoup.blog"
-    },
-    {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "score": 450,
-      "comments": 102,
-      "source": "github.com"
-    },
-    {
-      "title": "The perils of UUID primary keys in SQLite",
-      "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-      "score": 138,
-      "comments": 81,
-      "source": "andersmurphy.com"
-    },
-    {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 415,
-      "comments": 256,
-      "source": "bbc.com"
+      "title": "Building Rust Procedural Macros from the Grounds Up",
+      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+      "score": 82,
+      "comments": 17,
+      "source": "learnix-os.com"
     }
   ],
   "security": [
