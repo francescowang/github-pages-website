@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "Zig by Example",
-      "url": "https://github.com/boringcollege/zig-by-example",
-      "score": 27,
-      "comments": 4,
-      "source": "github.com"
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "score": 219,
+      "comments": 74,
+      "source": "lowtechguys.com"
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 335,
+      "comments": 233,
+      "source": "mimo.xiaomi.com"
+    },
+    {
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 52,
+      "comments": 25,
+      "source": "apple.com"
+    },
+    {
+      "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 498,
+      "comments": 108,
+      "source": "vorpus.github.io"
+    },
+    {
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "url": "https://siraben.github.io/ti84p-re/",
+      "score": 47,
+      "comments": 10,
+      "source": "siraben.github.io"
     },
     {
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
       "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 39,
-      "comments": 10,
+      "score": 379,
+      "comments": 313,
       "source": "bbc.com"
     },
     {
-      "title": "Spanish traders set the standard forGnuCash database design",
-      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
-      "score": 12,
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 129,
+      "comments": 81,
+      "source": "martinalderson.com"
+    },
+    {
+      "title": "Apple WWDC 2026 Livestream",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "score": 133,
+      "comments": 259,
+      "source": "apple.com"
+    },
+    {
+      "title": "OCaml Onboarding: Introduction to the Dune build system",
+      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+      "score": 78,
+      "comments": 5,
+      "source": "ocamlpro.com"
+    },
+    {
+      "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
+      "url": "https://intunedhq.com",
+      "score": 84,
+      "comments": 34,
+      "source": "intunedhq.com"
+    },
+    {
+      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
+      "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+      "score": 318,
+      "comments": 168,
+      "source": "404media.co"
+    },
+    {
+      "title": "Thunderbird Littering My Home",
+      "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
+      "score": 18,
+      "comments": 8,
+      "source": "thefoggiest.dev"
+    },
+    {
+      "title": "AI Is Slowing Down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "score": 120,
+      "comments": 133,
+      "source": "wheresyoured.at"
+    },
+    {
+      "title": "Mutation Testing in Haskell",
+      "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
+      "score": 29,
       "comments": 0,
-      "source": "handson.money"
+      "source": "cs-syd.eu"
     },
     {
       "title": "The Cypherpunk Library",
       "url": "https://www.cypherpunkbooks.com",
-      "score": 171,
-      "comments": 50,
+      "score": 284,
+      "comments": 84,
       "source": "cypherpunkbooks.com"
     },
     {
       "title": "How much of Thermo Fisher's antibody data has been manipulated?",
       "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-      "score": 129,
-      "comments": 37,
+      "score": 337,
+      "comments": 74,
       "source": "reeserichardson.blog"
-    },
-    {
-      "title": "Zig Structs of Arrays (2024)",
-      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
-      "score": 48,
-      "comments": 8,
-      "source": "andreashohmann.com"
     },
     {
       "title": "Dopamine Fracking",
       "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 508,
-      "comments": 252,
+      "score": 708,
+      "comments": 359,
       "source": "igerman.cc"
+    },
+    {
+      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "score": 60,
+      "comments": 9,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Are you expected to run five Python type-checkers now?",
+      "url": "https://pyrefly.org/blog/too-many-type-checkers/",
+      "score": 91,
+      "comments": 79,
+      "source": "pyrefly.org"
+    },
+    {
+      "title": "Zig by Example",
+      "url": "https://github.com/boringcollege/zig-by-example",
+      "score": 191,
+      "comments": 94,
+      "source": "github.com"
+    },
+    {
+      "title": "Life is too short for a slow terminal",
+      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+      "score": 64,
+      "comments": 58,
+      "source": "mijndertstuij.nl"
+    },
+    {
+      "title": "Sam Bankman-Fried applies for a pardon from Trump",
+      "url": "https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/",
+      "score": 22,
+      "comments": 3,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Why all new flags look the same",
+      "url": "https://www.worksinprogress.news/p/good-design-is-ruining-american-flags",
+      "score": 9,
+      "comments": 1,
+      "source": "worksinprogress.news"
+    },
+    {
+      "title": "Why are so many young people getting cancer?",
+      "url": "https://www.nature.com/articles/d41586-026-01780-6",
+      "score": 112,
+      "comments": 109,
+      "source": "nature.com"
+    },
+    {
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "score": 9,
+      "comments": 1,
+      "source": "unsung.aresluna.org"
+    },
+    {
+      "title": "Spanish traders set the standard for GnuCash database design",
+      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
+      "score": 58,
+      "comments": 63,
+      "source": "handson.money"
+    },
+    {
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "score": 17,
+      "comments": 5,
+      "source": "foodwatch.org"
+    },
+    {
+      "title": "Zig Structs of Arrays (2024)",
+      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
+      "score": 107,
+      "comments": 37,
+      "source": "andreashohmann.com"
     },
     {
       "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
       "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "score": 214,
-      "comments": 79,
+      "score": 285,
+      "comments": 118,
       "source": "troyhunt.com"
     },
     {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 737,
-      "comments": 336,
-      "source": "gavinray97.github.io"
-    },
-    {
-      "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-      "url": "https://safedep.io/config-files-that-run-code/",
-      "score": 29,
-      "comments": 2,
-      "source": "safedep.io"
-    },
-    {
-      "title": "Spherical Voronoi Diagram",
-      "url": "https://www.jasondavies.com/maps/voronoi/",
-      "score": 52,
-      "comments": 10,
-      "source": "jasondavies.com"
-    },
-    {
-      "title": "A Family Project (2022)",
-      "url": "https://bittersoutherner.com/feature/2022/a-family-project",
-      "score": 54,
-      "comments": 4,
-      "source": "bittersoutherner.com"
-    },
-    {
-      "title": "APC\u20132 \u2013 A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "score": 241,
-      "comments": 135,
-      "source": "teenage.engineering"
-    },
-    {
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 240,
-      "comments": 40,
-      "source": "ranpara.net"
-    },
-    {
-      "title": "Richard Scolyer Has Died",
-      "url": "https://www.bbc.com/news/articles/c14yz5jg476o",
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
       "score": 99,
-      "comments": 26,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Nvidia partners with LG robotics to build humanoid robots in South Korea",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "score": 17,
-      "comments": 2,
-      "source": "blogs.nvidia.com"
-    },
-    {
-      "title": "Playing with Vision Embeddings",
-      "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-      "score": 95,
-      "comments": 8,
-      "source": "prestonbjensen.com"
-    },
-    {
-      "title": "Algorithmic Monocultures in Hiring",
-      "url": "https://algorithmichiring.github.io/",
-      "score": 129,
-      "comments": 63,
-      "source": "algorithmichiring.github.io"
-    },
-    {
-      "title": "Making peace with your unlived dreams (2023)",
-      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "score": 258,
-      "comments": 153,
-      "source": "nik.art"
-    },
-    {
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "score": 211,
-      "comments": 39,
-      "source": "science.org"
-    },
-    {
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "score": 332,
-      "comments": 165,
-      "source": "runtimewire.com"
-    },
-    {
-      "title": "Age verification tech could put children at greater risk, says think tank",
-      "url": "https://www.computerweekly.com/news/366643835/Age-verification-tech-could-put-children-at-greater-risk-says-think-tank",
-      "score": 104,
-      "comments": 56,
-      "source": "computerweekly.com"
-    },
-    {
-      "title": "Tiny hackable CUDA language model implementation",
-      "url": "https://github.com/markusheimerl/gpt",
-      "score": 44,
-      "comments": 6,
-      "source": "github.com"
-    },
-    {
-      "title": "Amber Tree: A Middle Ground Between Rowan Red and Green Trees",
-      "url": "https://blog.gplane.win/posts/introducing-amber-tree.html",
-      "score": 7,
-      "comments": 0,
-      "source": "blog.gplane.win"
-    },
-    {
-      "title": "A modular impact diverting mechanism for football helmets [pdf]",
-      "url": "https://www.sfu.ca/~gwa5/pdf/2020_04.pdf",
-      "score": 6,
-      "comments": 2,
-      "source": "sfu.ca"
-    },
-    {
-      "title": "Show HN: I Derived a Pancake",
-      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
-      "score": 270,
-      "comments": 108,
-      "source": "absurdlyoptimized.com"
-    },
-    {
-      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-      "score": 137,
-      "comments": 23,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
-      "url": "https://github.com/devenjarvis/lathe",
-      "score": 345,
-      "comments": 61,
-      "source": "github.com"
-    },
-    {
-      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
-      "score": 212,
-      "comments": 74,
-      "source": "unix.stackexchange.com"
-    },
-    {
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "url": "https://www.ioccc.org/2025/",
-      "score": 406,
-      "comments": 93,
-      "source": "ioccc.org"
+      "comments": 152,
+      "source": "human-in-the-loop.bearblog.dev"
     }
   ],
   "security": [
+    {
+      "title": "Operationalizing AWS security: A maturity roadmap",
+      "url": "https://aws.amazon.com/blogs/security/operationalizing-aws-security-a-maturity-roadmap/",
+      "date": "2026-06-08 16:18:04",
+      "author": "Joseph Sadler"
+    },
     {
       "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
       "url": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/simplifying-policy-management-with-url-and-domain-category-filtering-on-aws-network-firewall/",
       "date": "2026-05-28 18:57:13",
       "author": "Lawton Pittenger"
-    },
-    {
-      "title": "Welcoming the AWS Customer Incident Response Team",
-      "url": "https://aws.amazon.com/blogs/security/welcoming-the-aws-customer-incident-response-team/",
-      "date": "2026-05-26 19:04:17",
-      "author": "Jason Hurst"
     }
   ]
 }
