@@ -1,52 +1,122 @@
 {
   "tech": [
     {
-      "title": "GentleOS \u2013 Classic operating system with a lovely retro GUI",
-      "url": "https://github.com/luke8086/gentleos32",
-      "score": 169,
-      "comments": 37,
-      "source": "github.com"
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 813,
+      "comments": 549,
+      "source": "anthropic.com"
     },
     {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 289,
-      "comments": 117,
-      "source": "techcrunch.com"
+      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+      "score": 203,
+      "comments": 330,
+      "source": "reuters.com"
+    },
+    {
+      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+      "score": 186,
+      "comments": 65,
+      "source": "www-cdn.anthropic.com"
     },
     {
       "title": "Making Graphics Like it's 1993",
       "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "score": 100,
-      "comments": 20,
+      "score": 565,
+      "comments": 93,
       "source": "staniks.github.io"
+    },
+    {
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+      "score": 71,
+      "comments": 13,
+      "source": "phys.org"
+    },
+    {
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "score": 462,
+      "comments": 164,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "The LD_DEBUG environment variable (2012)",
+      "url": "https://bnikolic.co.uk/blog/linux-ld-debug.html",
+      "score": 16,
+      "comments": 0,
+      "source": "bnikolic.co.uk"
+    },
+    {
+      "title": "Biff.core: system composition for Clojure web apps",
+      "url": "https://biffweb.com/p/core/",
+      "score": 36,
+      "comments": 13,
+      "source": "biffweb.com"
+    },
+    {
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "url": "https://arxiv.org/abs/2605.15184",
+      "score": 76,
+      "comments": 34,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "FCC wants to kill burner phones by forcing telecoms to get all customers' IDs",
+      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "score": 218,
+      "comments": 136,
+      "source": "404media.co"
     },
     {
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
       "url": "https://opencv.org/opencv-5/",
-      "score": 346,
-      "comments": 56,
+      "score": 571,
+      "comments": 104,
       "source": "opencv.org"
     },
     {
-      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
-      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-      "score": 68,
-      "comments": 28,
-      "source": "omnia.sas.upenn.edu"
+      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "url": "https://arxiv.org/abs/2603.24647",
+      "score": 67,
+      "comments": 10,
+      "source": "arxiv.org"
     },
     {
-      "title": "Cleaning up after AI rockstar developers",
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+      "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+      "score": 152,
+      "comments": 108,
+      "source": "letsencrypt.org"
+    },
+    {
+      "title": "The iPhone's Last Stand?",
+      "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+      "score": 127,
+      "comments": 165,
+      "source": "stratechery.com"
+    },
+    {
+      "title": "Show HN: Gravity \u2013 interactive solar-system simulator, from Newton to Einstein",
+      "url": "https://qunabu.github.io/Gravity/",
+      "score": 98,
+      "comments": 23,
+      "source": "qunabu.github.io"
+    },
+    {
+      "title": "Show HN: GentleOS \u2013 A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+      "url": "https://github.com/luke8086/gentleos32",
+      "score": 52,
+      "comments": 80,
+      "source": "github.com"
+    },
+    {
+      "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+      "url": "https://arxiv.org/abs/2604.19773",
       "score": 42,
-      "comments": 4,
-      "source": "codingwithjesse.com"
-    },
-    {
-      "title": "An introduction to functional analysis for science and engineering",
-      "url": "https://arxiv.org/abs/1904.02539",
-      "score": 35,
-      "comments": 3,
+      "comments": 9,
       "source": "arxiv.org"
     },
     {
@@ -57,144 +127,81 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 644,
-      "comments": 487,
-      "source": "macrumors.com"
+      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+      "score": 108,
+      "comments": 62,
+      "source": "omnia.sas.upenn.edu"
+    },
+    {
+      "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+      "url": "https://github.com/chipmates/agoracosmica",
+      "score": 15,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Where is the AI jobs crisis?",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+      "score": 64,
+      "comments": 76,
+      "source": "apollo.com"
+    },
+    {
+      "title": "Rayforce",
+      "url": "https://github.com/RayforceDB/rayforce",
+      "score": 9,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "The Effective Sample Size",
+      "url": "https://alex.smola.org/posts/40-effective-sample-size/",
+      "score": 17,
+      "comments": 1,
+      "source": "alex.smola.org"
+    },
+    {
+      "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
+      "url": "https://arxiv.org/abs/2606.08319",
+      "score": 21,
+      "comments": 2,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "score": 379,
+      "comments": 278,
+      "source": "codingwithjesse.com"
     },
     {
       "title": "Thi.ng \u2013 open-source building blocks for computational design and art",
       "url": "https://thi.ng",
-      "score": 86,
-      "comments": 17,
+      "score": 163,
+      "comments": 23,
       "source": "thi.ng"
     },
     {
-      "title": "Eagle Computer: The rise and fall of an early PC clone",
-      "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
-      "score": 23,
-      "comments": 4,
-      "source": "dfarq.homeip.net"
+      "title": "Painting the Internet: A Different Kind of Warhol Worm [pdf]",
+      "url": "https://cspages.ucalgary.ca/~aycock/papers/artworm.pdf",
+      "score": 6,
+      "comments": 0,
+      "source": "cspages.ucalgary.ca"
     },
     {
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "score": 615,
-      "comments": 597,
-      "source": "apple.com"
+      "title": "An introduction to functional analysis for science and engineering",
+      "url": "https://arxiv.org/abs/1904.02539",
+      "score": 102,
+      "comments": 14,
+      "source": "arxiv.org"
     },
     {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 596,
-      "comments": 466,
-      "source": "martinalderson.com"
-    },
-    {
-      "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 1045,
-      "comments": 188,
-      "source": "vorpus.github.io"
-    },
-    {
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "score": 453,
-      "comments": 233,
-      "source": "foodwatch.org"
-    },
-    {
-      "title": "Old'aVista \u2013 The most powerful guide to the old Internet",
-      "url": "https://oldavista.com/",
-      "score": 128,
-      "comments": 27,
-      "source": "oldavista.com"
-    },
-    {
-      "title": "Porting the ThinkPad X61 to Coreboot",
-      "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-      "score": 101,
-      "comments": 40,
-      "source": "blog.aheymans.xyz"
-    },
-    {
-      "title": "H2JVM \u2013 A Haskell Library for Writing JVM Bytecode",
-      "url": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
-      "score": 25,
-      "comments": 8,
-      "source": "discourse.haskell.org"
-    },
-    {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 590,
-      "comments": 435,
-      "source": "mimo.xiaomi.com"
-    },
-    {
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "score": 321,
-      "comments": 87,
-      "source": "developer.apple.com"
-    },
-    {
-      "title": "Looking Forward to Postgres 19: Query Hints",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-      "score": 183,
-      "comments": 31,
-      "source": "pgedge.com"
-    },
-    {
-      "title": "Show HN: Gitdot \u2013 A better GitHub. Open-source, written in Rust",
-      "url": "https://gitdot.io/",
-      "score": 285,
-      "comments": 263,
-      "source": "gitdot.io"
-    },
-    {
-      "title": "Facebook is paying people overseas promoting Alberta separatism",
-      "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
-      "score": 242,
-      "comments": 113,
-      "source": "cbc.ca"
-    },
-    {
-      "title": "FrontierCode",
-      "url": "https://cognition.ai/blog/frontier-code",
-      "score": 224,
-      "comments": 44,
-      "source": "cognition.ai"
-    },
-    {
-      "title": "Why are cells small?",
-      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-      "score": 158,
+      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+      "score": 148,
       "comments": 72,
-      "source": "burrito.bio"
-    },
-    {
-      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-      "score": 625,
-      "comments": 270,
-      "source": "signal.org"
-    },
-    {
-      "title": "AI is slowing down",
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "score": 597,
-      "comments": 644,
-      "source": "wheresyoured.at"
-    },
-    {
-      "title": "I'm building a parallel internet, and it's called The Thinnernet",
-      "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
-      "score": 90,
-      "comments": 100,
-      "source": "inavoyage.blogspot.com"
+      "source": "404media.co"
     }
   ],
   "security": [
