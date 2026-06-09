@@ -1,217 +1,216 @@
 {
   "tech": [
     {
-      "title": "Stop the Apple Music app from launching",
-      "url": "https://lowtechguys.com/musicdecoy/",
-      "score": 219,
-      "comments": 74,
-      "source": "lowtechguys.com"
+      "title": "OpenAI Submits S-1 Draft to SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "score": 260,
+      "comments": 159,
+      "source": "openai.com"
     },
     {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 335,
-      "comments": 233,
-      "source": "mimo.xiaomi.com"
+      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "score": 376,
+      "comments": 121,
+      "source": "signal.org"
+    },
+    {
+      "title": "Federal judge blocks H1B visa $100K fee",
+      "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
+      "score": 23,
+      "comments": 9,
+      "source": "alaskasnewssource.com"
     },
     {
       "title": "Siri AI",
       "url": "https://www.apple.com/apple-intelligence/",
-      "score": 52,
-      "comments": 25,
+      "score": 376,
+      "comments": 320,
       "source": "apple.com"
     },
     {
-      "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
+      "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
-      "score": 498,
-      "comments": 108,
+      "score": 750,
+      "comments": 150,
       "source": "vorpus.github.io"
     },
     {
-      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
-      "url": "https://siraben.github.io/ti84p-re/",
-      "score": 47,
-      "comments": 10,
-      "source": "siraben.github.io"
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 485,
+      "comments": 332,
+      "source": "mimo.xiaomi.com"
+    },
+    {
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
+      "score": 167,
+      "comments": 27,
+      "source": "developer.apple.com"
     },
     {
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
       "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 379,
-      "comments": 313,
+      "score": 532,
+      "comments": 400,
       "source": "bbc.com"
-    },
-    {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 129,
-      "comments": 81,
-      "source": "martinalderson.com"
-    },
-    {
-      "title": "Apple WWDC 2026 Livestream",
-      "url": "https://www.apple.com/apple-events/event-stream/",
-      "score": 133,
-      "comments": 259,
-      "source": "apple.com"
-    },
-    {
-      "title": "OCaml Onboarding: Introduction to the Dune build system",
-      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-      "score": 78,
-      "comments": 5,
-      "source": "ocamlpro.com"
-    },
-    {
-      "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
-      "url": "https://intunedhq.com",
-      "score": 84,
-      "comments": 34,
-      "source": "intunedhq.com"
-    },
-    {
-      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
-      "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
-      "score": 318,
-      "comments": 168,
-      "source": "404media.co"
-    },
-    {
-      "title": "Thunderbird Littering My Home",
-      "url": "https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home",
-      "score": 18,
-      "comments": 8,
-      "source": "thefoggiest.dev"
-    },
-    {
-      "title": "AI Is Slowing Down",
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "score": 120,
-      "comments": 133,
-      "source": "wheresyoured.at"
-    },
-    {
-      "title": "Mutation Testing in Haskell",
-      "url": "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell",
-      "score": 29,
-      "comments": 0,
-      "source": "cs-syd.eu"
-    },
-    {
-      "title": "The Cypherpunk Library",
-      "url": "https://www.cypherpunkbooks.com",
-      "score": 284,
-      "comments": 84,
-      "source": "cypherpunkbooks.com"
-    },
-    {
-      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
-      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-      "score": 337,
-      "comments": 74,
-      "source": "reeserichardson.blog"
-    },
-    {
-      "title": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
-      "score": 708,
-      "comments": 359,
-      "source": "igerman.cc"
-    },
-    {
-      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
-      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
-      "score": 60,
-      "comments": 9,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Are you expected to run five Python type-checkers now?",
-      "url": "https://pyrefly.org/blog/too-many-type-checkers/",
-      "score": 91,
-      "comments": 79,
-      "source": "pyrefly.org"
-    },
-    {
-      "title": "Zig by Example",
-      "url": "https://github.com/boringcollege/zig-by-example",
-      "score": 191,
-      "comments": 94,
-      "source": "github.com"
-    },
-    {
-      "title": "Life is too short for a slow terminal",
-      "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
-      "score": 64,
-      "comments": 58,
-      "source": "mijndertstuij.nl"
-    },
-    {
-      "title": "Sam Bankman-Fried applies for a pardon from Trump",
-      "url": "https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/",
-      "score": 22,
-      "comments": 3,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Why all new flags look the same",
-      "url": "https://www.worksinprogress.news/p/good-design-is-ruining-american-flags",
-      "score": 9,
-      "comments": 1,
-      "source": "worksinprogress.news"
-    },
-    {
-      "title": "Why are so many young people getting cancer?",
-      "url": "https://www.nature.com/articles/d41586-026-01780-6",
-      "score": 112,
-      "comments": 109,
-      "source": "nature.com"
-    },
-    {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "score": 9,
-      "comments": 1,
-      "source": "unsung.aresluna.org"
-    },
-    {
-      "title": "Spanish traders set the standard for GnuCash database design",
-      "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
-      "score": 58,
-      "comments": 63,
-      "source": "handson.money"
     },
     {
       "title": "EU-banned pesticides found in rice, tea and spices",
       "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "score": 17,
-      "comments": 5,
+      "score": 218,
+      "comments": 83,
       "source": "foodwatch.org"
     },
     {
-      "title": "Zig Structs of Arrays (2024)",
-      "url": "https://andreashohmann.com/zig-struct-of-arrays/",
-      "score": 107,
-      "comments": 37,
-      "source": "andreashohmann.com"
+      "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, written in Rust",
+      "url": "https://gitdot.io/",
+      "score": 130,
+      "comments": 115,
+      "source": "gitdot.io"
     },
     {
-      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
-      "score": 285,
-      "comments": 118,
-      "source": "troyhunt.com"
+      "title": "Looking Forward to Postgres 19: Query Hints",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+      "score": 37,
+      "comments": 3,
+      "source": "pgedge.com"
     },
     {
-      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
-      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
-      "score": 99,
+      "title": "Why are cells small?",
+      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "score": 103,
+      "comments": 45,
+      "source": "burrito.bio"
+    },
+    {
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 380,
+      "comments": 301,
+      "source": "martinalderson.com"
+    },
+    {
+      "title": "FrontierCode",
+      "url": "https://cognition.ai/blog/frontier-code",
+      "score": 84,
+      "comments": 19,
+      "source": "cognition.ai"
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "score": 314,
+      "comments": 298,
+      "source": "macrumors.com"
+    },
+    {
+      "title": "Games Between Programs: The Ruliology of Competition",
+      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+      "score": 7,
+      "comments": 0,
+      "source": "writings.stephenwolfram.com"
+    },
+    {
+      "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
+      "url": "https://intunedhq.com",
+      "score": 100,
+      "comments": 44,
+      "source": "intunedhq.com"
+    },
+    {
+      "title": "Doing Something That's Never Been Done Before",
+      "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
+      "score": 23,
+      "comments": 10,
+      "source": "talglobus.com"
+    },
+    {
+      "title": "AI is slowing down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "score": 367,
+      "comments": 386,
+      "source": "wheresyoured.at"
+    },
+    {
+      "title": "Fooling Go's X.509 Certificate Verification",
+      "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
+      "score": 41,
+      "comments": 19,
+      "source": "danielmangum.com"
+    },
+    {
+      "title": "OCaml Onboarding: Introduction to the Dune build system",
+      "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
+      "score": 140,
+      "comments": 17,
+      "source": "ocamlpro.com"
+    },
+    {
+      "title": "1worldflag: A blue dot on a transparent background",
+      "url": "https://1worldflag.com/",
+      "score": 166,
+      "comments": 143,
+      "source": "1worldflag.com"
+    },
+    {
+      "title": "Show HN: Mach \u2013 A compiled systems language looking for contributions",
+      "url": "https://github.com/octalide/mach",
+      "score": 8,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
+      "score": 404,
+      "comments": 88,
+      "source": "reeserichardson.blog"
+    },
+    {
+      "title": "Switzerland wil have a referendum to cap population at 10M",
+      "url": "https://www.admin.ch/en/sustainability-initiative",
+      "score": 228,
+      "comments": 459,
+      "source": "admin.ch"
+    },
+    {
+      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
+      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
+      "score": 250,
+      "comments": 38,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "score": 565,
+      "comments": 227,
+      "source": "lowtechguys.com"
+    },
+    {
+      "title": "Using XDG-Compliant Config Files (2024)",
+      "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
+      "score": 34,
+      "comments": 7,
+      "source": "wxwidgets.org"
+    },
+    {
+      "title": "Are you expected to run five Python type-checkers now?",
+      "url": "https://pyrefly.org/blog/too-many-type-checkers/",
+      "score": 133,
       "comments": 152,
-      "source": "human-in-the-loop.bearblog.dev"
+      "source": "pyrefly.org"
     }
   ],
   "security": [
+    {
+      "title": "ICYMI: May 2026 @AWS Security",
+      "url": "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security/",
+      "date": "2026-06-08 21:00:11",
+      "author": "Rodolfo Brenes"
+    },
     {
       "title": "Operationalizing AWS security: A maturity roadmap",
       "url": "https://aws.amazon.com/blogs/security/operationalizing-aws-security-a-maturity-roadmap/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/",
       "date": "2026-05-28 22:44:17",
       "author": "Frank Phillis"
-    },
-    {
-      "title": "Simplifying policy management with URL and Domain Category filtering on AWS Network Firewall",
-      "url": "https://aws.amazon.com/blogs/security/simplifying-policy-management-with-url-and-domain-category-filtering-on-aws-network-firewall/",
-      "date": "2026-05-28 18:57:13",
-      "author": "Lawton Pittenger"
     }
   ]
 }
