@@ -1,207 +1,200 @@
 {
   "tech": [
     {
-      "title": "OpenAI Submits S-1 Draft to SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "score": 260,
-      "comments": 159,
-      "source": "openai.com"
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "score": 532,
+      "comments": 406,
+      "source": "macrumors.com"
     },
     {
-      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
-      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-      "score": 376,
-      "comments": 121,
-      "source": "signal.org"
-    },
-    {
-      "title": "Federal judge blocks H1B visa $100K fee",
-      "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
-      "score": 23,
-      "comments": 9,
-      "source": "alaskasnewssource.com"
+      "title": "Old'aVista \u2013 The most powerful guide to the old Internet",
+      "url": "https://oldavista.com/",
+      "score": 74,
+      "comments": 15,
+      "source": "oldavista.com"
     },
     {
       "title": "Siri AI",
       "url": "https://www.apple.com/apple-intelligence/",
-      "score": 376,
-      "comments": 320,
+      "score": 534,
+      "comments": 480,
       "source": "apple.com"
     },
     {
       "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
       "url": "https://vorpus.github.io/performativeUI/",
-      "score": 750,
-      "comments": 150,
+      "score": 915,
+      "comments": 165,
       "source": "vorpus.github.io"
+    },
+    {
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 522,
+      "comments": 405,
+      "source": "martinalderson.com"
+    },
+    {
+      "title": "Porting the ThinkPad X61 to Coreboot",
+      "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+      "score": 29,
+      "comments": 9,
+      "source": "blog.aheymans.xyz"
+    },
+    {
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "score": 355,
+      "comments": 128,
+      "source": "foodwatch.org"
     },
     {
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 485,
-      "comments": 332,
+      "score": 545,
+      "comments": 395,
       "source": "mimo.xiaomi.com"
     },
     {
       "title": "Apple Core AI Framework",
       "url": "https://developer.apple.com/documentation/coreai/",
-      "score": 167,
-      "comments": 27,
+      "score": 267,
+      "comments": 68,
       "source": "developer.apple.com"
-    },
-    {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 532,
-      "comments": 400,
-      "source": "bbc.com"
-    },
-    {
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "score": 218,
-      "comments": 83,
-      "source": "foodwatch.org"
-    },
-    {
-      "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, written in Rust",
-      "url": "https://gitdot.io/",
-      "score": 130,
-      "comments": 115,
-      "source": "gitdot.io"
     },
     {
       "title": "Looking Forward to Postgres 19: Query Hints",
       "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-      "score": 37,
-      "comments": 3,
+      "score": 129,
+      "comments": 17,
       "source": "pgedge.com"
     },
     {
-      "title": "Why are cells small?",
-      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
-      "score": 103,
-      "comments": 45,
-      "source": "burrito.bio"
+      "title": "Job: Head of Stonehenge",
+      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+      "score": 137,
+      "comments": 96,
+      "source": "english-heritage.org.uk"
     },
     {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 380,
-      "comments": 301,
-      "source": "martinalderson.com"
+      "title": "Show HN: Gitdot \u2013 a better GitHub. Open-source, written in Rust",
+      "url": "https://gitdot.io/",
+      "score": 220,
+      "comments": 184,
+      "source": "gitdot.io"
+    },
+    {
+      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Passing DBs through continuations",
+      "url": "https://remy.wang/blog/cps.html",
+      "score": 42,
+      "comments": 5,
+      "source": "remy.wang"
+    },
+    {
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "score": 26,
+      "comments": 3,
+      "source": "opencv.org"
+    },
+    {
+      "title": "How much do amd64 microarchitecture levels help in Go?",
+      "url": "https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/",
+      "score": 42,
+      "comments": 18,
+      "source": "lemire.me"
     },
     {
       "title": "FrontierCode",
       "url": "https://cognition.ai/blog/frontier-code",
-      "score": 84,
-      "comments": 19,
+      "score": 158,
+      "comments": 31,
       "source": "cognition.ai"
     },
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 314,
-      "comments": 298,
-      "source": "macrumors.com"
+      "title": "Why are cells small?",
+      "url": "https://burrito.bio/essays/what-limits-a-cells-size",
+      "score": 134,
+      "comments": 63,
+      "source": "burrito.bio"
     },
     {
-      "title": "Games Between Programs: The Ruliology of Competition",
-      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
-      "score": 7,
-      "comments": 0,
-      "source": "writings.stephenwolfram.com"
+      "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "score": 525,
+      "comments": 195,
+      "source": "signal.org"
     },
     {
-      "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
-      "url": "https://intunedhq.com",
-      "score": 100,
-      "comments": 44,
-      "source": "intunedhq.com"
-    },
-    {
-      "title": "Doing Something That's Never Been Done Before",
-      "url": "https://talglobus.com/p/doing-something-thats-never-been-done-before/",
-      "score": 23,
-      "comments": 10,
-      "source": "talglobus.com"
+      "title": "I'm building a parallel internet, and it's called The Thinnernet",
+      "url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+      "score": 68,
+      "comments": 71,
+      "source": "inavoyage.blogspot.com"
     },
     {
       "title": "AI is slowing down",
       "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "score": 367,
-      "comments": 386,
+      "score": 503,
+      "comments": 524,
       "source": "wheresyoured.at"
     },
     {
-      "title": "Fooling Go's X.509 Certificate Verification",
-      "url": "https://danielmangum.com/posts/fooling-go-x509-certificate-verification/",
-      "score": 41,
-      "comments": 19,
-      "source": "danielmangum.com"
+      "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
+      "url": "https://intunedhq.com",
+      "score": 106,
+      "comments": 46,
+      "source": "intunedhq.com"
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "score": 49,
+      "comments": 21,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "score": 621,
+      "comments": 430,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Facebook is paying people overseas promoting Alberta separatism",
+      "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
+      "score": 10,
+      "comments": 0,
+      "source": "cbc.ca"
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "score": 334,
+      "comments": 262,
+      "source": "openai.com"
     },
     {
       "title": "OCaml Onboarding: Introduction to the Dune build system",
       "url": "https://ocamlpro.com/blog/2025_07_29_ocaml_onboarding_introduction_to_dune/",
-      "score": 140,
-      "comments": 17,
+      "score": 155,
+      "comments": 25,
       "source": "ocamlpro.com"
     },
     {
-      "title": "1worldflag: A blue dot on a transparent background",
-      "url": "https://1worldflag.com/",
-      "score": 166,
-      "comments": 143,
-      "source": "1worldflag.com"
-    },
-    {
-      "title": "Show HN: Mach \u2013 A compiled systems language looking for contributions",
-      "url": "https://github.com/octalide/mach",
-      "score": 8,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
-      "url": "https://reeserichardson.blog/2026/05/28/how-much-of-thermo-fishers-antibody-data-has-been-manipulated/",
-      "score": 404,
-      "comments": 88,
-      "source": "reeserichardson.blog"
-    },
-    {
-      "title": "Switzerland wil have a referendum to cap population at 10M",
-      "url": "https://www.admin.ch/en/sustainability-initiative",
-      "score": 228,
-      "comments": 459,
-      "source": "admin.ch"
-    },
-    {
-      "title": "Massachusetts bans sale of precise location data in new privacy rights bill",
-      "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/",
-      "score": 250,
-      "comments": 38,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Stop the Apple Music app from launching",
-      "url": "https://lowtechguys.com/musicdecoy/",
-      "score": 565,
-      "comments": 227,
-      "source": "lowtechguys.com"
-    },
-    {
-      "title": "Using XDG-Compliant Config Files (2024)",
-      "url": "https://wxwidgets.org/blog/2024/01/using-xdg-compliant-config-files/",
-      "score": 34,
-      "comments": 7,
-      "source": "wxwidgets.org"
-    },
-    {
-      "title": "Are you expected to run five Python type-checkers now?",
-      "url": "https://pyrefly.org/blog/too-many-type-checkers/",
-      "score": 133,
-      "comments": 152,
-      "source": "pyrefly.org"
+      "title": "Federal judge blocks H1B visa $100K fee",
+      "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
+      "score": 144,
+      "comments": 257,
+      "source": "alaskasnewssource.com"
     }
   ],
   "security": [
