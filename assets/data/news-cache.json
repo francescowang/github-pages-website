@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
-      "url": "https://fablepool.com",
-      "score": 214,
-      "comments": 123,
-      "source": "fablepool.com"
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 306,
+      "comments": 80,
+      "source": "lantian.pub"
     },
     {
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 943,
-      "comments": 225,
-      "source": "brew.sh"
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 391,
+      "comments": 135,
+      "source": "web.mit.edu"
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 196,
-      "comments": 47,
+      "score": 603,
+      "comments": 196,
       "source": "tombedor.dev"
+    },
+    {
+      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+      "score": 38,
+      "comments": 24,
+      "source": "korte.co"
+    },
+    {
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "score": 1171,
+      "comments": 266,
+      "source": "brew.sh"
+    },
+    {
+      "title": "How we made hit video game Prince of Persia",
+      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+      "score": 84,
+      "comments": 17,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "score": 371,
+      "comments": 190,
+      "source": "fablepool.com"
+    },
+    {
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "score": 366,
+      "comments": 296,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "score": 400,
+      "comments": 369,
+      "source": "theverge.com"
     },
     {
       "title": "MiMo Code is now released and open-source",
       "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 416,
-      "comments": 233,
+      "score": 476,
+      "comments": 264,
       "source": "mimo.xiaomi.com"
     },
     {
       "title": "A jacket that harvests drinking water from the air",
       "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-      "score": 25,
-      "comments": 7,
+      "score": 99,
+      "comments": 55,
       "source": "news.utexas.edu"
-    },
-    {
-      "title": "A greyscale iPhone setup that works in everyday life",
-      "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
-      "score": 13,
-      "comments": 6,
-      "source": "fabianhemmert.com"
-    },
-    {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "score": 291,
-      "comments": 289,
-      "source": "theverge.com"
     },
     {
       "title": "Petition to Withdraw Canada's Bill C-22",
       "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "score": 344,
-      "comments": 118,
+      "score": 423,
+      "comments": 143,
       "source": "ourcommons.ca"
     },
     {
-      "title": "Making a vintage LLM from scratch",
-      "url": "https://crlf.link/log/entries/260525-1/",
-      "score": 11,
+      "title": "Device Clock Generation (2025)",
+      "url": "https://zipcpu.com/blog/2025/12/17/devclk.html",
+      "score": 13,
       "comments": 2,
-      "source": "crlf.link"
+      "source": "zipcpu.com"
     },
     {
-      "title": "Emacs appearances in pop culture",
-      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "score": 246,
-      "comments": 64,
-      "source": "ianyepan.github.io"
+      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+      "score": 294,
+      "comments": 124,
+      "source": "phoronix.com"
+    },
+    {
+      "title": "Removing 'um' from a recording is harder than it sounds",
+      "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+      "score": 60,
+      "comments": 18,
+      "source": "doug.sh"
     },
     {
       "title": "Software is made between commits",
       "url": "https://zed.dev/blog/introducing-deltadb",
-      "score": 191,
-      "comments": 139,
+      "score": 249,
+      "comments": 183,
       "source": "zed.dev"
     },
     {
       "title": "Ear Training Practice",
       "url": "https://tonedear.com/",
-      "score": 142,
-      "comments": 75,
-      "source": "tonedear.com"
-    },
-    {
-      "title": "The RCE that AMD wouldn't fix",
-      "url": "https://mrbruh.com/amd2/",
-      "score": 221,
+      "score": 222,
       "comments": 97,
-      "source": "mrbruh.com"
-    },
-    {
-      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-      "score": 229,
-      "comments": 101,
-      "source": "phoronix.com"
-    },
-    {
-      "title": "Show HN: Boo \u2013 Screen-style terminal multiplexer built on libghostty",
-      "url": "https://github.com/coder/boo",
-      "score": 40,
-      "comments": 14,
-      "source": "github.com"
-    },
-    {
-      "title": "Lines of code got a better publicist",
-      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "score": 349,
-      "comments": 246,
-      "source": "curlewis.co.nz"
+      "source": "tonedear.com"
     },
     {
       "title": "Claude Fable 5: mid-tier results on coding tasks",
       "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "score": 216,
-      "comments": 91,
+      "score": 298,
+      "comments": 141,
       "source": "endorlabs.com"
     },
     {
-      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
-      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-      "score": 209,
-      "comments": 65,
-      "source": "tomshardware.com"
+      "title": "Emacs appearances in pop culture",
+      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "score": 313,
+      "comments": 87,
+      "source": "ianyepan.github.io"
     },
     {
-      "title": "MTG Bench: Testing how well LLMs can play Magic",
-      "url": "https://mtgautodeck.com/articles/mtg-bench/",
-      "score": 18,
-      "comments": 8,
-      "source": "mtgautodeck.com"
+      "title": "Lines of code got a better publicist",
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "score": 387,
+      "comments": 270,
+      "source": "curlewis.co.nz"
     },
     {
-      "title": "Waymo Premier",
-      "url": "https://waymo.com/blog/2026/06/waymo-premier/",
-      "score": 146,
-      "comments": 386,
-      "source": "waymo.com"
-    },
-    {
-      "title": "Travel locally, where you are",
-      "url": "https://www.ssp.sh/brain/travel-where-you-are/",
-      "score": 85,
-      "comments": 46,
-      "source": "ssp.sh"
+      "title": "WikiLambda the Ultimate",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+      "score": 33,
+      "comments": 4,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "Reading for pleasure is sharply down among schoolkids, report shows",
       "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
-      "score": 62,
-      "comments": 69,
+      "score": 143,
+      "comments": 172,
       "source": "nbcnews.com"
     },
     {
-      "title": "FPS.cob: A first person shooter in COBOL",
-      "url": "https://github.com/icitry/FPS.cob",
-      "score": 100,
-      "comments": 58,
-      "source": "github.com"
+      "title": "The RCE that AMD wouldn't fix",
+      "url": "https://mrbruh.com/amd2/",
+      "score": 258,
+      "comments": 114,
+      "source": "mrbruh.com"
+    },
+    {
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+      "score": 269,
+      "comments": 85,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "Finding Optimal Tokenizers",
+      "url": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
+      "score": 15,
+      "comments": 0,
+      "source": "blog.aqnichol.com"
+    },
+    {
+      "title": "Waymo Premier",
+      "url": "https://waymo.com/blog/2026/06/waymo-premier/",
+      "score": 184,
+      "comments": 447,
+      "source": "waymo.com"
     },
     {
       "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
       "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-      "score": 74,
-      "comments": 7,
+      "score": 123,
+      "comments": 12,
       "source": "righto.com"
     },
     {
-      "title": "Shall we play a game? My AI nuclear simulation",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "score": 180,
-      "comments": 171,
-      "source": "kennethpayne.uk"
-    },
-    {
-      "title": "Biological evolution and information acquisition",
-      "url": "https://www.construction-physics.com/p/biological-evolution-and-information",
-      "score": 7,
-      "comments": 0,
-      "source": "construction-physics.com"
-    },
-    {
-      "title": "How a new DSL may survive in the era of LLMs",
-      "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-      "score": 7,
-      "comments": 0,
-      "source": "williamcotton.com"
+      "title": "FPS.cob: A first person shooter in COBOL",
+      "url": "https://github.com/icitry/FPS.cob",
+      "score": 119,
+      "comments": 65,
+      "source": "github.com"
     },
     {
       "title": "Open Reproduction of DeepSeek-R1",
       "url": "https://github.com/huggingface/open-r1",
-      "score": 191,
-      "comments": 17,
+      "score": 226,
+      "comments": 18,
       "source": "github.com"
     },
     {
-      "title": "Did Ahmes find the best expansions for 2/n?",
-      "url": "https://blog.plover.com/2026/03/17/#egyptian-fractions-2",
-      "score": 6,
-      "comments": 0,
-      "source": "blog.plover.com"
-    },
-    {
-      "title": "Trying to fix complicated problems",
-      "url": "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/",
-      "score": 5,
-      "comments": 0,
-      "source": "blog.griffens.net"
+      "title": "How a new DSL may survive in the era of LLMs",
+      "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+      "score": 40,
+      "comments": 13,
+      "source": "williamcotton.com"
     }
   ],
   "security": [
