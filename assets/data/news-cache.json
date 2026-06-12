@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 864,
-      "comments": 329,
-      "source": "lantian.pub"
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "score": 323,
+      "comments": 76,
+      "source": "innovativegenomics.org"
+    },
+    {
+      "title": "I Am Not a Reverse Centaur",
+      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "score": 45,
+      "comments": 5,
+      "source": "blog.miguelgrinberg.com"
+    },
+    {
+      "title": "A PDF that changes based on how its read",
+      "url": "https://sgaud.com/texts/pdf",
+      "score": 64,
+      "comments": 27,
+      "source": "sgaud.com"
+    },
+    {
+      "title": "How to Setup a Local Coding Agent on macOS",
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "score": 21,
+      "comments": 6,
+      "source": "ikyle.me"
+    },
+    {
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "score": 112,
+      "comments": 65,
+      "source": "envs.net"
+    },
+    {
+      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "url": "https://piwodlaiwo.github.io/pirates/",
+      "score": 28,
+      "comments": 4,
+      "source": "piwodlaiwo.github.io"
+    },
+    {
+      "title": "Looking Forward to Postgres 19: It's About Time",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
+      "score": 49,
+      "comments": 16,
+      "source": "pgedge.com"
+    },
+    {
+      "title": "A dumpster arrived behind my university's library",
+      "url": "https://yalereview.org/article/sheila-liming-the-end-of-books",
+      "score": 109,
+      "comments": 78,
+      "source": "yalereview.org"
+    },
+    {
+      "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
+      "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
+      "score": 62,
+      "comments": 39,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "score": 90,
+      "comments": 71,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Keygen.music",
+      "url": "https://keygen.music",
+      "score": 94,
+      "comments": 52,
+      "source": "keygen.music"
+    },
+    {
+      "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
+      "url": "https://bitboard.work/",
+      "score": 15,
+      "comments": 4,
+      "source": "bitboard.work"
+    },
+    {
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "score": 62,
+      "comments": 55,
+      "source": "correresmidestino.com"
+    },
+    {
+      "title": "There Is Life Before Main in Rust",
+      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+      "score": 25,
+      "comments": 7,
+      "source": "grack.com"
+    },
+    {
+      "title": "Tesla Full Self Driving uses bicycle lane in official Denmark approval video",
+      "url": "https://politiken.dk/danmark/forbrug/biler/art10875514/Allerede-12-sekunder-inde-i-PR-videoen-beg%C3%A5r-selvk%C3%B8rende-Tesla-f%C3%B8rste-fejl-i-k%C3%B8benhavnsk-gade-%E2%80%93-men-det-bliver-v%C3%A6rre-endnu",
+      "score": 48,
+      "comments": 11,
+      "source": "politiken.dk"
     },
     {
       "title": "Maxproof",
       "url": "https://arxiv.org/abs/2606.13473",
-      "score": 28,
-      "comments": 0,
+      "score": 108,
+      "comments": 8,
       "source": "arxiv.org"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+      "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
+      "score": 32,
+      "comments": 6,
+      "source": "blog.yadutaf.fr"
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 1296,
+      "comments": 472,
+      "source": "lantian.pub"
+    },
+    {
+      "title": "Cosmodial Sky Atlas",
+      "url": "https://killedbyapixel.github.io/Cosmodial/",
+      "score": 4,
+      "comments": 0,
+      "source": "killedbyapixel.github.io"
+    },
+    {
+      "title": "A Call to Action: Stop the FCC's KYC Regime",
+      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+      "score": 262,
+      "comments": 166,
+      "source": "blog.lopp.net"
+    },
+    {
+      "title": "WASI 0.3",
+      "url": "https://bytecodealliance.org/articles/WASI-0.3",
+      "score": 189,
+      "comments": 75,
+      "source": "bytecodealliance.org"
+    },
+    {
+      "title": "Law Enforcement's \"Warrior\" Problem (2015)",
+      "url": "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/",
+      "score": 19,
+      "comments": 8,
+      "source": "harvardlawreview.org"
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 992,
-      "comments": 326,
+      "score": 1369,
+      "comments": 435,
       "source": "tombedor.dev"
     },
     {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 552,
-      "comments": 181,
-      "source": "web.mit.edu"
+      "title": "New privacy frontier: Europe eyes crackdown on smart glasses",
+      "url": "https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/",
+      "score": 41,
+      "comments": 21,
+      "source": "politico.com"
     },
     {
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
-      "score": 101,
-      "comments": 79,
-      "source": "blog.osull.com"
+      "title": "Show HN: StackScope \u2013 I crawled over 40k indie launches to see what they ship",
+      "url": "https://stackscope.dev/",
+      "score": 22,
+      "comments": 6,
+      "source": "stackscope.dev"
     },
     {
-      "title": "AUR Packages Compromised with Infostealer and Rootkit",
-      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
-      "score": 103,
-      "comments": 45,
-      "source": "discourse.ifin.network"
+      "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+      "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+      "score": 39,
+      "comments": 14,
+      "source": "github.com"
     },
     {
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 1307,
-      "comments": 316,
-      "source": "brew.sh"
-    },
-    {
-      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "score": 108,
-      "comments": 44,
-      "source": "huggingface.co"
-    },
-    {
-      "title": "The Future of Email",
-      "url": "https://www.fastmail.com/blog/the-future-of-email/",
-      "score": 81,
-      "comments": 73,
-      "source": "fastmail.com"
+      "title": "Encrypted Spaces An architecture for collaborative applications",
+      "url": "https://encryptedspaces.org/",
+      "score": 42,
+      "comments": 5,
+      "source": "encryptedspaces.org"
     },
     {
       "title": "How we made hit video game Prince of Persia",
       "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
-      "score": 172,
-      "comments": 67,
+      "score": 240,
+      "comments": 92,
       "source": "theguardian.com"
     },
     {
-      "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
-      "url": "https://fablepool.com",
-      "score": 432,
-      "comments": 238,
-      "source": "fablepool.com"
-    },
-    {
-      "title": "Vinyl succumbs to Loudness War: more than just collateral damage (2025)",
-      "url": "https://magicvinyldigital.net/2025/04/27/vinyl-succumbs-to-loudness-war-more-than-just-collateral-damage/",
-      "score": 97,
-      "comments": 139,
-      "source": "magicvinyldigital.net"
-    },
-    {
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 552,
-      "comments": 437,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "score": 450,
-      "comments": 404,
-      "source": "theverge.com"
-    },
-    {
-      "title": "MiMo Code is now released and open-source",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "score": 517,
-      "comments": 286,
-      "source": "mimo.xiaomi.com"
-    },
-    {
-      "title": "Petition to Withdraw Canada's Bill C-22",
-      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "score": 454,
-      "comments": 147,
-      "source": "ourcommons.ca"
-    },
-    {
-      "title": "David Hockney, Who Restored the Human Form to Art, Dies at 88",
-      "url": "https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html",
-      "score": 40,
-      "comments": 5,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-      "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-      "score": 342,
-      "comments": 139,
-      "source": "phoronix.com"
-    },
-    {
-      "title": "Making a vintage LLM from scratch",
-      "url": "https://crlf.link/log/entries/260525-1/",
-      "score": 44,
-      "comments": 11,
-      "source": "crlf.link"
-    },
-    {
-      "title": "Removing 'um' from a recording is harder than it sounds",
-      "url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-      "score": 119,
-      "comments": 54,
-      "source": "doug.sh"
-    },
-    {
-      "title": "Emacs appearances in pop culture",
-      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "score": 348,
-      "comments": 102,
-      "source": "ianyepan.github.io"
-    },
-    {
-      "title": "Ear Training Practice",
-      "url": "https://tonedear.com/",
-      "score": 268,
-      "comments": 108,
-      "source": "tonedear.com"
-    },
-    {
-      "title": "Reading for pleasure is sharply down among schoolkids, report shows",
-      "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
-      "score": 195,
-      "comments": 249,
-      "source": "nbcnews.com"
-    },
-    {
-      "title": "Software is made between commits",
-      "url": "https://zed.dev/blog/introducing-deltadb",
-      "score": 280,
-      "comments": 200,
-      "source": "zed.dev"
-    },
-    {
-      "title": "Lines of code got a better publicist",
-      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-      "score": 405,
-      "comments": 286,
-      "source": "curlewis.co.nz"
-    },
-    {
-      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
-      "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-      "score": 308,
-      "comments": 105,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "Report on an Unidentified Space Station",
-      "url": "https://sseh.uchicago.edu/doc/roauss.htm",
-      "score": 87,
-      "comments": 46,
-      "source": "sseh.uchicago.edu"
-    },
-    {
-      "title": "The RCE that AMD wouldn't fix",
-      "url": "https://mrbruh.com/amd2/",
-      "score": 289,
-      "comments": 119,
-      "source": "mrbruh.com"
-    },
-    {
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "score": 350,
-      "comments": 194,
-      "source": "endorlabs.com"
-    },
-    {
-      "title": "How Terry Tao became an evangelist for AI in math",
-      "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-      "score": 145,
-      "comments": 128,
-      "source": "quantamagazine.org"
+      "title": "AUR packages compromised with Infostealer and Rootkit",
+      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
+      "score": 237,
+      "comments": 168,
+      "source": "discourse.ifin.network"
     }
   ],
   "security": [
