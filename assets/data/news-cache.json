@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Renault: Electric motors with no rare earths",
+      "title": "There is a shadow hanging over this Fable thing",
+      "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+      "score": 123,
+      "comments": 78,
+      "source": "12gramsofcarbon.com"
+    },
+    {
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "score": 25,
+      "comments": 19,
+      "source": "koenvangilst.nl"
+    },
+    {
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "score": 1938,
+      "comments": 1438,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Electric motors with no rare earths",
       "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 150,
-      "comments": 45,
+      "score": 387,
+      "comments": 96,
       "source": "renaultgroup.com"
     },
     {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "score": 678,
-      "comments": 172,
+      "score": 788,
+      "comments": 189,
       "source": "innovativegenomics.org"
     },
     {
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "score": 118,
-      "comments": 51,
-      "source": "swift.org"
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "score": 739,
+      "comments": 229,
+      "source": "opensourceaimustwin.com"
+    },
+    {
+      "title": "On CPU Physics and CPU Cycles",
+      "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+      "score": 25,
+      "comments": 4,
+      "source": "6it.dev"
     },
     {
       "title": "Twenty One Zero-Days in FFmpeg",
       "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "score": 67,
-      "comments": 32,
+      "score": 177,
+      "comments": 106,
       "source": "depthfirst.com"
+    },
+    {
+      "title": "The computer science degree isn\u2019t dead",
+      "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+      "score": 66,
+      "comments": 48,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "url": "https://putt.day/",
+      "score": 141,
+      "comments": 69,
+      "source": "putt.day"
     },
     {
       "title": "How to setup a local coding agent on macOS",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "score": 241,
-      "comments": 70,
+      "score": 345,
+      "comments": 83,
       "source": "ikyle.me"
+    },
+    {
+      "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+      "url": "https://github.com/entGriff/ezra",
+      "score": 23,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "Leaving Mozilla",
+      "url": "https://blog.unitedheroes.net/5751",
+      "score": 10,
+      "comments": 0,
+      "source": "blog.unitedheroes.net"
+    },
+    {
+      "title": "The Future of wasi-gfx and wasi:webgpu",
+      "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
+      "score": 18,
+      "comments": 1,
+      "source": "wasi-gfx.dev"
+    },
+    {
+      "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
+      "url": "https://bitboard.work/",
+      "score": 43,
+      "comments": 21,
+      "source": "bitboard.work"
+    },
+    {
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "score": 188,
+      "comments": 78,
+      "source": "swift.org"
     },
     {
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
       "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "score": 289,
-      "comments": 183,
+      "score": 372,
+      "comments": 209,
       "source": "twitter.com"
     },
     {
       "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
       "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
-      "score": 107,
-      "comments": 21,
+      "score": 200,
+      "comments": 63,
       "source": "eff.org"
     },
     {
       "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
       "url": "https://piwodlaiwo.github.io/pirates/",
-      "score": 186,
-      "comments": 73,
+      "score": 240,
+      "comments": 76,
       "source": "piwodlaiwo.github.io"
     },
     {
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "url": "https://putt.day/",
-      "score": 53,
-      "comments": 42,
-      "source": "putt.day"
-    },
-    {
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "score": 176,
-      "comments": 39,
-      "source": "ft.com"
+      "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "url": "https://tectonic-typesetting.github.io/en-US/",
+      "score": 42,
+      "comments": 8,
+      "source": "tectonic-typesetting.github.io"
     },
     {
       "title": "Slightly reducing the sloppiness of AI generated front end",
       "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 164,
-      "comments": 109,
+      "score": 186,
+      "comments": 117,
       "source": "envs.net"
     },
     {
-      "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
-      "url": "https://github.com/DanMcInerney/architect-loop",
-      "score": 32,
-      "comments": 21,
-      "source": "github.com"
+      "title": "Automating Myself Out of Development",
+      "url": "https://www.thoughtfultechnologist.com/p/automating-myself-out-of-development",
+      "score": 8,
+      "comments": 4,
+      "source": "thoughtfultechnologist.com"
     },
     {
-      "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
-      "url": "https://bitboard.work/",
-      "score": 34,
-      "comments": 19,
-      "source": "bitboard.work"
-    },
-    {
-      "title": "AMD Stiffs Researcher $10k Bug Bounty",
-      "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
-      "score": 37,
+      "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
+      "url": "https://github.com/vrtnis/tycoon-learning-environment",
+      "score": 10,
       "comments": 1,
-      "source": "gadgetreview.com"
-    },
-    {
-      "title": "SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "score": 14,
-      "comments": 2,
       "source": "github.com"
     },
     {
-      "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
-      "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
-      "score": 101,
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "score": 294,
       "comments": 57,
-      "source": "quantamagazine.org"
+      "source": "ft.com"
     },
     {
-      "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
-      "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
-      "score": 76,
-      "comments": 27,
-      "source": "blog.yadutaf.fr"
+      "title": "A generic dynamic array in C that stores no capacity and needs no struct",
+      "url": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
+      "score": 9,
+      "comments": 15,
+      "source": "gist.github.com"
     },
     {
-      "title": "\"Don't You Just Upload It to ChatGPT?\"",
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-      "score": 288,
-      "comments": 255,
-      "source": "correresmidestino.com"
-    },
-    {
-      "title": "Adaptive PDFs",
-      "url": "https://sgaud.com/texts/pdf",
-      "score": 117,
-      "comments": 61,
-      "source": "sgaud.com"
+      "title": "A key remapping daemon for Linux",
+      "url": "https://github.com/rvaiya/keyd",
+      "score": 36,
+      "comments": 15,
+      "source": "github.com"
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
       "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 1496,
-      "comments": 459,
+      "score": 1562,
+      "comments": 469,
       "source": "tombedor.dev"
     },
     {
-      "title": "Most Beautiful Will Ever Made (1936)",
-      "url": "https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43",
+      "title": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
       "score": 38,
-      "comments": 12,
-      "source": "paperspast.natlib.govt.nz"
+      "comments": 4,
+      "source": "github.com"
     },
     {
-      "title": "Maxproof",
-      "url": "https://arxiv.org/abs/2606.13473",
-      "score": 127,
-      "comments": 12,
-      "source": "arxiv.org"
+      "title": "Adaptive PDFs",
+      "url": "https://sgaud.com/texts/pdf",
+      "score": 142,
+      "comments": 67,
+      "source": "sgaud.com"
     },
     {
-      "title": "I Think They [Anthropic] Are Lying to You [video]",
-      "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
-      "score": 33,
-      "comments": 15,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
-      "url": "https://landscape.bairui.dev/",
-      "score": 15,
-      "comments": 6,
-      "source": "landscape.bairui.dev"
-    },
-    {
-      "title": "The forgotten Scots who gave Kafka his voice",
-      "url": "https://engelsbergideas.com/reviews/the-forgotten-scots-who-gave-kafka-his-voice/",
-      "score": 4,
-      "comments": 0,
-      "source": "engelsbergideas.com"
-    },
-    {
-      "title": "There Is Life Before Main in Rust",
-      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-      "score": 67,
-      "comments": 17,
-      "source": "grack.com"
-    },
-    {
-      "title": "I Am Not a Reverse Centaur",
-      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-      "score": 252,
-      "comments": 180,
-      "source": "blog.miguelgrinberg.com"
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "WASI 0.3",
-      "url": "https://bytecodealliance.org/articles/WASI-0.3",
-      "score": 231,
-      "comments": 89,
-      "source": "bytecodealliance.org"
-    },
-    {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 722,
-      "comments": 243,
-      "source": "web.mit.edu"
+      "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+      "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
+      "score": 92,
+      "comments": 30,
+      "source": "blog.yadutaf.fr"
     }
   ],
   "security": [
