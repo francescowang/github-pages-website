@@ -1,116 +1,193 @@
 {
   "tech": [
     {
+      "title": "Renault: Electric motors with no rare earths",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "score": 150,
+      "comments": 45,
+      "source": "renaultgroup.com"
+    },
+    {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "score": 323,
-      "comments": 76,
+      "score": 678,
+      "comments": 172,
       "source": "innovativegenomics.org"
     },
     {
-      "title": "I Am Not a Reverse Centaur",
-      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-      "score": 45,
-      "comments": 5,
-      "source": "blog.miguelgrinberg.com"
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "score": 118,
+      "comments": 51,
+      "source": "swift.org"
     },
     {
-      "title": "A PDF that changes based on how its read",
-      "url": "https://sgaud.com/texts/pdf",
-      "score": 64,
-      "comments": 27,
-      "source": "sgaud.com"
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "score": 67,
+      "comments": 32,
+      "source": "depthfirst.com"
     },
     {
-      "title": "How to Setup a Local Coding Agent on macOS",
+      "title": "How to setup a local coding agent on macOS",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "score": 21,
-      "comments": 6,
+      "score": 241,
+      "comments": 70,
       "source": "ikyle.me"
-    },
-    {
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 112,
-      "comments": 65,
-      "source": "envs.net"
-    },
-    {
-      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
-      "url": "https://piwodlaiwo.github.io/pirates/",
-      "score": 28,
-      "comments": 4,
-      "source": "piwodlaiwo.github.io"
-    },
-    {
-      "title": "Looking Forward to Postgres 19: It's About Time",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time",
-      "score": 49,
-      "comments": 16,
-      "source": "pgedge.com"
-    },
-    {
-      "title": "A dumpster arrived behind my university's library",
-      "url": "https://yalereview.org/article/sheila-liming-the-end-of-books",
-      "score": 109,
-      "comments": 78,
-      "source": "yalereview.org"
-    },
-    {
-      "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
-      "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
-      "score": 62,
-      "comments": 39,
-      "source": "quantamagazine.org"
     },
     {
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
       "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "score": 90,
-      "comments": 71,
+      "score": 289,
+      "comments": 183,
       "source": "twitter.com"
     },
     {
-      "title": "Keygen.music",
-      "url": "https://keygen.music",
-      "score": 94,
-      "comments": 52,
-      "source": "keygen.music"
+      "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
+      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+      "score": 107,
+      "comments": 21,
+      "source": "eff.org"
+    },
+    {
+      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "url": "https://piwodlaiwo.github.io/pirates/",
+      "score": 186,
+      "comments": 73,
+      "source": "piwodlaiwo.github.io"
+    },
+    {
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "url": "https://putt.day/",
+      "score": 53,
+      "comments": 42,
+      "source": "putt.day"
+    },
+    {
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "score": 176,
+      "comments": 39,
+      "source": "ft.com"
+    },
+    {
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "score": 164,
+      "comments": 109,
+      "source": "envs.net"
+    },
+    {
+      "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "score": 32,
+      "comments": 21,
+      "source": "github.com"
     },
     {
       "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
       "url": "https://bitboard.work/",
-      "score": 15,
-      "comments": 4,
+      "score": 34,
+      "comments": 19,
       "source": "bitboard.work"
+    },
+    {
+      "title": "AMD Stiffs Researcher $10k Bug Bounty",
+      "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
+      "score": 37,
+      "comments": 1,
+      "source": "gadgetreview.com"
+    },
+    {
+      "title": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "score": 14,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
+      "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/",
+      "score": 101,
+      "comments": 57,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+      "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
+      "score": 76,
+      "comments": 27,
+      "source": "blog.yadutaf.fr"
     },
     {
       "title": "\"Don't You Just Upload It to ChatGPT?\"",
       "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-      "score": 62,
-      "comments": 55,
+      "score": 288,
+      "comments": 255,
       "source": "correresmidestino.com"
     },
     {
-      "title": "There Is Life Before Main in Rust",
-      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-      "score": 25,
-      "comments": 7,
-      "source": "grack.com"
+      "title": "Adaptive PDFs",
+      "url": "https://sgaud.com/texts/pdf",
+      "score": 117,
+      "comments": 61,
+      "source": "sgaud.com"
     },
     {
-      "title": "Tesla Full Self Driving uses bicycle lane in official Denmark approval video",
-      "url": "https://politiken.dk/danmark/forbrug/biler/art10875514/Allerede-12-sekunder-inde-i-PR-videoen-beg%C3%A5r-selvk%C3%B8rende-Tesla-f%C3%B8rste-fejl-i-k%C3%B8benhavnsk-gade-%E2%80%93-men-det-bliver-v%C3%A6rre-endnu",
-      "score": 48,
-      "comments": 11,
-      "source": "politiken.dk"
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "score": 1496,
+      "comments": 459,
+      "source": "tombedor.dev"
+    },
+    {
+      "title": "Most Beautiful Will Ever Made (1936)",
+      "url": "https://paperspast.natlib.govt.nz/newspapers/DOM19360307.2.43",
+      "score": 38,
+      "comments": 12,
+      "source": "paperspast.natlib.govt.nz"
     },
     {
       "title": "Maxproof",
       "url": "https://arxiv.org/abs/2606.13473",
-      "score": 108,
-      "comments": 8,
+      "score": 127,
+      "comments": 12,
       "source": "arxiv.org"
+    },
+    {
+      "title": "I Think They [Anthropic] Are Lying to You [video]",
+      "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
+      "score": 33,
+      "comments": 15,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
+      "url": "https://landscape.bairui.dev/",
+      "score": 15,
+      "comments": 6,
+      "source": "landscape.bairui.dev"
+    },
+    {
+      "title": "The forgotten Scots who gave Kafka his voice",
+      "url": "https://engelsbergideas.com/reviews/the-forgotten-scots-who-gave-kafka-his-voice/",
+      "score": 4,
+      "comments": 0,
+      "source": "engelsbergideas.com"
+    },
+    {
+      "title": "There Is Life Before Main in Rust",
+      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+      "score": 67,
+      "comments": 17,
+      "source": "grack.com"
+    },
+    {
+      "title": "I Am Not a Reverse Centaur",
+      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "score": 252,
+      "comments": 180,
+      "source": "blog.miguelgrinberg.com"
     },
     {
       "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
@@ -120,95 +197,18 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
-      "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
-      "score": 32,
-      "comments": 6,
-      "source": "blog.yadutaf.fr"
-    },
-    {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 1296,
-      "comments": 472,
-      "source": "lantian.pub"
-    },
-    {
-      "title": "Cosmodial Sky Atlas",
-      "url": "https://killedbyapixel.github.io/Cosmodial/",
-      "score": 4,
-      "comments": 0,
-      "source": "killedbyapixel.github.io"
-    },
-    {
-      "title": "A Call to Action: Stop the FCC's KYC Regime",
-      "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
-      "score": 262,
-      "comments": 166,
-      "source": "blog.lopp.net"
-    },
-    {
       "title": "WASI 0.3",
       "url": "https://bytecodealliance.org/articles/WASI-0.3",
-      "score": 189,
-      "comments": 75,
+      "score": 231,
+      "comments": 89,
       "source": "bytecodealliance.org"
     },
     {
-      "title": "Law Enforcement's \"Warrior\" Problem (2015)",
-      "url": "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/",
-      "score": 19,
-      "comments": 8,
-      "source": "harvardlawreview.org"
-    },
-    {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 1369,
-      "comments": 435,
-      "source": "tombedor.dev"
-    },
-    {
-      "title": "New privacy frontier: Europe eyes crackdown on smart glasses",
-      "url": "https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/",
-      "score": 41,
-      "comments": 21,
-      "source": "politico.com"
-    },
-    {
-      "title": "Show HN: StackScope \u2013 I crawled over 40k indie launches to see what they ship",
-      "url": "https://stackscope.dev/",
-      "score": 22,
-      "comments": 6,
-      "source": "stackscope.dev"
-    },
-    {
-      "title": "Show HN: Script to bulk delete Claude chats from the web UI",
-      "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
-      "score": 39,
-      "comments": 14,
-      "source": "github.com"
-    },
-    {
-      "title": "Encrypted Spaces An architecture for collaborative applications",
-      "url": "https://encryptedspaces.org/",
-      "score": 42,
-      "comments": 5,
-      "source": "encryptedspaces.org"
-    },
-    {
-      "title": "How we made hit video game Prince of Persia",
-      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
-      "score": 240,
-      "comments": 92,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "AUR packages compromised with Infostealer and Rootkit",
-      "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
-      "score": 237,
-      "comments": 168,
-      "source": "discourse.ifin.network"
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 722,
+      "comments": 243,
+      "source": "web.mit.edu"
     }
   ],
   "security": [
