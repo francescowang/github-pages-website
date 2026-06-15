@@ -1,200 +1,200 @@
 {
   "tech": [
     {
-      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 110,
-      "comments": 37,
+      "score": 522,
+      "comments": 184,
       "source": "andreklein.net"
+    },
+    {
+      "title": "Even more batteries included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "score": 162,
+      "comments": 30,
+      "source": "karthinks.com"
+    },
+    {
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "score": 284,
+      "comments": 74,
+      "source": "daniel.haxx.se"
+    },
+    {
+      "title": "Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "score": 57,
+      "comments": 10,
+      "source": "platform.claude.com"
     },
     {
       "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
       "url": "https://github.com/tamnd/kage",
-      "score": 384,
-      "comments": 89,
+      "score": 541,
+      "comments": 108,
       "source": "github.com"
     },
     {
-      "title": "Write for One Person",
-      "url": "https://wizardzines.com/comics/write-for-one-person/",
-      "score": 26,
+      "title": "Bitsy",
+      "url": "https://bitsy.org/",
+      "score": 170,
       "comments": 4,
-      "source": "wizardzines.com"
+      "source": "bitsy.org"
     },
     {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "score": 268,
-      "comments": 145,
-      "source": "github.com"
+      "title": "There Is(\u018e) \u2013 Such That (\u220b)",
+      "url": "https://www.fractalkitty.com/there-is-3-such-that/",
+      "score": 15,
+      "comments": 4,
+      "source": "fractalkitty.com"
+    },
+    {
+      "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
+      "url": "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
     },
     {
       "title": "Firewood Splitting Simulator",
       "url": "https://screen.toys/firewood/",
-      "score": 614,
-      "comments": 206,
+      "score": 786,
+      "comments": 239,
       "source": "screen.toys"
     },
     {
-      "title": "Chaosnet (1981)",
-      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-      "score": 58,
-      "comments": 7,
-      "source": "tumbleweed.nu"
+      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+      "score": 69,
+      "comments": 15,
+      "source": "blog.apnic.net"
     },
     {
-      "title": "Chopped, Stored, Secured \u2013 The Story of the Hash Function",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html",
-      "score": 15,
-      "comments": 2,
-      "source": "0xkrt26.github.io"
+      "title": "The Last Surviving Japanese Porsche 912 Police Car",
+      "url": "https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car",
+      "score": 71,
+      "comments": 18,
+      "source": "kottke.org"
+    },
+    {
+      "title": "Why does paper fold so well?",
+      "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
+      "score": 33,
+      "comments": 7,
+      "source": "bbc.co.uk"
+    },
+    {
+      "title": "Under-16s to be banned from social media, Starmer announces",
+      "url": "https://www.bbc.co.uk/news/live/c77yx1jpg1nt",
+      "score": 16,
+      "comments": 5,
+      "source": "bbc.co.uk"
+    },
+    {
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "score": 337,
+      "comments": 182,
+      "source": "github.com"
+    },
+    {
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "score": 33,
+      "comments": 13,
+      "source": "markhorrell.com"
     },
     {
       "title": "Show HN: Trace \u2013 Offline Mac meeting transcripts you can flag mid-call",
       "url": "https://traceapp.info",
-      "score": 85,
-      "comments": 31,
+      "score": 152,
+      "comments": 55,
       "source": "traceapp.info"
-    },
-    {
-      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
-      "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
-      "score": 17,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Segmented type appreciation corner (2018)",
-      "url": "https://aresluna.org/segmented-type/",
-      "score": 59,
-      "comments": 14,
-      "source": "aresluna.org"
-    },
-    {
-      "title": "AI is code \u2013 and can't be prompted into being smarter",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-      "score": 54,
-      "comments": 32,
-      "source": "theregister.com"
     },
     {
       "title": "Formal methods and the future of programming",
       "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-      "score": 182,
-      "comments": 66,
+      "score": 251,
+      "comments": 91,
       "source": "blog.janestreet.com"
+    },
+    {
+      "title": "Chaosnet (1981)",
+      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "score": 81,
+      "comments": 10,
+      "source": "tumbleweed.nu"
+    },
+    {
+      "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
+      "score": 286,
+      "comments": 189,
+      "source": "windowscentral.com"
+    },
+    {
+      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+      "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+      "score": 42,
+      "comments": 5,
+      "source": "github.com"
     },
     {
       "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
       "url": "https://su3.io/posts/zeroserve-caddy-compat",
-      "score": 153,
-      "comments": 45,
+      "score": 179,
+      "comments": 52,
       "source": "su3.io"
-    },
-    {
-      "title": "Perlisisms (1982)",
-      "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-      "score": 91,
-      "comments": 42,
-      "source": "cs.yale.edu"
     },
     {
       "title": "The only scalable delete in Postgres is DROP TABLE",
       "url": "https://planetscale.com/blog/the-only-scalable-delete",
-      "score": 122,
-      "comments": 47,
+      "score": 161,
+      "comments": 58,
       "source": "planetscale.com"
     },
     {
-      "title": "FarOutCompany",
-      "url": "https://faroutcompany.com/",
-      "score": 98,
-      "comments": 16,
-      "source": "faroutcompany.com"
+      "title": "Perlisisms (1982)",
+      "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+      "score": 110,
+      "comments": 56,
+      "source": "cs.yale.edu"
     },
     {
       "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
       "url": "https://www.orangecrumbs.com/",
-      "score": 46,
-      "comments": 11,
+      "score": 100,
+      "comments": 25,
       "source": "orangecrumbs.com"
     },
     {
-      "title": "Lisp's Influence on Ruby",
-      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
-      "score": 216,
-      "comments": 55,
-      "source": "blog.tacoda.dev"
+      "title": "Write for One Person",
+      "url": "https://wizardzines.com/comics/write-for-one-person/",
+      "score": 196,
+      "comments": 64,
+      "source": "wizardzines.com"
     },
     {
-      "title": "The Birth and Death of JavaScript (2014)",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "score": 210,
-      "comments": 122,
-      "source": "destroyallsoftware.com"
+      "title": "Segmented type appreciation corner (2018)",
+      "url": "https://aresluna.org/segmented-type/",
+      "score": 71,
+      "comments": 16,
+      "source": "aresluna.org"
     },
     {
-      "title": "USB Power Delivery: Plugging into the Benefits",
-      "url": "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits",
-      "score": 32,
-      "comments": 67,
-      "source": "aptiv.com"
+      "title": "Prove you're human by winning a claw machine",
+      "url": "https://feralui.vercel.app/#/captcha",
+      "score": 62,
+      "comments": 44,
+      "source": "feralui.vercel.app"
     },
     {
       "title": "How to earn a billion dollars",
       "url": "https://paulgraham.com/earn.html",
-      "score": 435,
-      "comments": 1319,
+      "score": 610,
+      "comments": 1609,
       "source": "paulgraham.com"
-    },
-    {
-      "title": "Not everyone is using AI for everything",
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "score": 416,
-      "comments": 449,
-      "source": "gabrielweinberg.com"
-    },
-    {
-      "title": "Stanford grads walk out on Google CEO Sundar Pichai speech",
-      "url": "https://twitter.com/maattttbrown/status/2066215255987163246",
-      "score": 82,
-      "comments": 36,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Linux 7.1",
-      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-      "score": 222,
-      "comments": 82,
-      "source": "lore.kernel.org"
-    },
-    {
-      "title": "Abu Fanous",
-      "url": "https://en.wikipedia.org/wiki/Abu_Fanous",
-      "score": 58,
-      "comments": 10,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "The first game engine for robotics",
-      "url": "https://luckyrobots.com/",
-      "score": 28,
-      "comments": 19,
-      "source": "luckyrobots.com"
-    },
-    {
-      "title": "Inverse Rubric Optimization: A testbed for agent science",
-      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
-      "score": 21,
-      "comments": 0,
-      "source": "fulcrum.inc"
-    },
-    {
-      "title": "Did Anthropic ask for this?",
-      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-      "score": 143,
-      "comments": 127,
-      "source": "verysane.ai"
     }
   ],
   "security": [
