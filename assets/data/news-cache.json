@@ -1,200 +1,200 @@
 {
   "tech": [
     {
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "score": 627,
+      "comments": 123,
+      "source": "roman.pt"
+    },
+    {
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "score": 120,
+      "comments": 21,
+      "source": "richardosgood.com"
+    },
+    {
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
-      "score": 620,
-      "comments": 207,
+      "score": 912,
+      "comments": 280,
       "source": "iroh.computer"
+    },
+    {
+      "title": "I Love the Computer",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "score": 127,
+      "comments": 80,
+      "source": "michaelenger.com"
     },
     {
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "url": "https://tinywind.io",
-      "score": 291,
-      "comments": 56,
+      "score": 576,
+      "comments": 119,
       "source": "tinywind.io"
     },
     {
-      "title": "Typst 0.15.0",
-      "url": "https://typst.app/docs/changelog/0.15.0/",
-      "score": 100,
-      "comments": 17,
-      "source": "typst.app"
+      "title": "Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "score": 60,
+      "comments": 33,
+      "source": "goodinternetmagazine.com"
+    },
+    {
+      "title": "Peopleless economy? Not technically impossible",
+      "url": "https://gmalandrakis.com/writings/ad-economicum.html",
+      "score": 76,
+      "comments": 118,
+      "source": "gmalandrakis.com"
+    },
+    {
+      "title": "What job interviews taught me about Kubernetes",
+      "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+      "score": 75,
+      "comments": 65,
+      "source": "notnotp.com"
     },
     {
       "title": "My Homelab AI Dev Platform",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 129,
-      "comments": 32,
+      "score": 229,
+      "comments": 44,
       "source": "rsgm.dev"
     },
     {
-      "title": "Game Engine White Papers Commander Keen",
-      "url": "https://forgottenbytes.net/commander_keen.html",
-      "score": 38,
-      "comments": 5,
-      "source": "forgottenbytes.net"
-    },
-    {
-      "title": "How TimescaleDB compresses time-series data",
-      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-      "score": 50,
-      "comments": 5,
-      "source": "roszigit.com"
-    },
-    {
-      "title": "Making glass-to-metal seals for home\u00admade vacuum tubes",
-      "url": "https://maurycyz.com/projects/glass/1/",
-      "score": 88,
-      "comments": 26,
-      "source": "maurycyz.com"
-    },
-    {
-      "title": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
-      "url": "https://fata.dev",
-      "score": 28,
-      "comments": 15,
-      "source": "fata.dev"
+      "title": "US battery manufacturing output continues to break records",
+      "url": "https://fred.stlouisfed.org/series/IPG33591S",
+      "score": 145,
+      "comments": 116,
+      "source": "fred.stlouisfed.org"
     },
     {
       "title": "Hetzner Price Adjustment",
       "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-      "score": 162,
-      "comments": 273,
+      "score": 320,
+      "comments": 465,
       "source": "docs.hetzner.com"
+    },
+    {
+      "title": "What every coder should know about Gamma Correction",
+      "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+      "score": 52,
+      "comments": 18,
+      "source": "blog.johnnovak.net"
     },
     {
       "title": "Fox to buy Roku",
       "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-      "score": 188,
-      "comments": 254,
+      "score": 268,
+      "comments": 362,
       "source": "wsj.com"
     },
     {
-      "title": "Boot Naked Linux",
-      "url": "https://nick.zoic.org/art/boot-naked-linux/",
-      "score": 41,
-      "comments": 17,
-      "source": "nick.zoic.org"
+      "title": "How TimescaleDB compresses time-series data",
+      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+      "score": 112,
+      "comments": 14,
+      "source": "roszigit.com"
     },
     {
-      "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
-      "url": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
-      "score": 10,
-      "comments": 0,
-      "source": "blog.trailofbits.com"
+      "title": "An O(x)Caml book that runs",
+      "url": "https://kcsrk.info/ocaml/oxcaml/teaching/nptel/llm/2026/06/13/an-oxcaml-book-that-runs/",
+      "score": 20,
+      "comments": 6,
+      "source": "kcsrk.info"
     },
     {
-      "title": "Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "score": 22,
-      "comments": 10,
-      "source": "anthropic.com"
+      "title": "Game Engine White Papers Commander Keen",
+      "url": "https://forgottenbytes.net/commander_keen.html",
+      "score": 149,
+      "comments": 50,
+      "source": "forgottenbytes.net"
+    },
+    {
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "score": 271,
+      "comments": 207,
+      "source": "salesforce.com"
     },
     {
       "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
       "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-      "score": 165,
-      "comments": 63,
+      "score": 245,
+      "comments": 92,
       "source": "monash.edu"
     },
     {
-      "title": "Around 200 Stanford students walk out as Google CEO takes stage",
-      "url": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php",
-      "score": 32,
+      "title": "Factoring \"short-sleeve\" RSA keys with polynomials",
+      "url": "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/",
+      "score": 73,
       "comments": 1,
-      "source": "sfgate.com"
+      "source": "blog.trailofbits.com"
     },
     {
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 845,
-      "comments": 286,
-      "source": "andreklein.net"
+      "title": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
+      "url": "https://fata.dev",
+      "score": 75,
+      "comments": 44,
+      "source": "fata.dev"
     },
     {
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "score": 486,
-      "comments": 195,
-      "source": "crankgpt.com"
+      "title": "How memory safety CVEs differ between Rust and C/C++",
+      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+      "score": 107,
+      "comments": 100,
+      "source": "kobzol.github.io"
     },
     {
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 423,
-      "comments": 199,
-      "source": "platform.claude.com"
+      "title": "Making glass-to-metal seals for home\u00admade vacuum tubes",
+      "url": "https://maurycyz.com/projects/glass/1/",
+      "score": 126,
+      "comments": 40,
+      "source": "maurycyz.com"
+    },
+    {
+      "title": "Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "score": 71,
+      "comments": 55,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Boot Naked Linux",
+      "url": "https://nick.zoic.org/art/boot-naked-linux/",
+      "score": 92,
+      "comments": 48,
+      "source": "nick.zoic.org"
+    },
+    {
+      "title": "Show HN: Vet turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "score": 34,
+      "comments": 31,
+      "source": "grassdx.com"
+    },
+    {
+      "title": "The ghost domain problem in DNS, and what we're doing about it",
+      "url": "https://ohdear.app/news-and-updates/the-ghost-domain-problem-in-dns-and-what-were-doing-about-it",
+      "score": 6,
+      "comments": 1,
+      "source": "ohdear.app"
+    },
+    {
+      "title": "Typst 0.15.0",
+      "url": "https://typst.app/docs/changelog/0.15.0/",
+      "score": 274,
+      "comments": 77,
+      "source": "typst.app"
     },
     {
       "title": "Show HN: machine0 \u2013 Persistent NixOS VMs You Control from the CLI",
       "url": "https://machine0.io",
-      "score": 43,
-      "comments": 15,
+      "score": 73,
+      "comments": 32,
       "source": "machine0.io"
-    },
-    {
-      "title": "The Alaska Server",
-      "url": "https://serialport.org/blog/the-alaska-server/",
-      "score": 6,
-      "comments": 1,
-      "source": "serialport.org"
-    },
-    {
-      "title": "Can Europe train a frontier AI model on the compute it owns?",
-      "url": "https://github.com/sammysltd/euromesh",
-      "score": 72,
-      "comments": 86,
-      "source": "github.com"
-    },
-    {
-      "title": "Openrouter Fusion API",
-      "url": "https://openrouter.ai/openrouter/fusion",
-      "score": 177,
-      "comments": 69,
-      "source": "openrouter.ai"
-    },
-    {
-      "title": "Teenagers Stayed Overnight at Their School and Found Hidden Ancient Roman Ruins",
-      "url": "https://www.smithsonianmag.com/smart-news/these-italian-teenagers-stayed-overnight-at-their-school-they-found-ancient-roman-ruins-hidden-in-the-basement-180988917/",
-      "score": 144,
-      "comments": 73,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "Memory safety CVEs differ between Rust and C/C++",
-      "url": "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
-      "score": 61,
-      "comments": 49,
-      "source": "kobzol.github.io"
-    },
-    {
-      "title": "Show HN: Exploiting Slack's video embeds to achieve E2EE communication",
-      "url": "https://v1c.rocks/log/exploiting-slack-video/",
-      "score": 20,
-      "comments": 2,
-      "source": "v1c.rocks"
-    },
-    {
-      "title": "Even more batteries included with Emacs",
-      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "score": 329,
-      "comments": 119,
-      "source": "karthinks.com"
-    },
-    {
-      "title": "Improvement in advanced Alzheimer\u2019s disease following high-dose psilocybin",
-      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1813281/full",
-      "score": 161,
-      "comments": 117,
-      "source": "frontiersin.org"
-    },
-    {
-      "title": "Ported my C game to WASM, here's every bug that I hit",
-      "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
-      "score": 89,
-      "comments": 75,
-      "source": "ernesernesto.github.io"
     }
   ],
   "security": [
