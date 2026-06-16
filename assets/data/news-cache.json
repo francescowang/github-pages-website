@@ -1,210 +1,223 @@
 {
   "tech": [
     {
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "score": 631,
+      "comments": 297,
+      "source": "vickiboykis.com"
+    },
+    {
+      "title": "SpaceX to buy Cursor for $60B",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "score": 569,
+      "comments": 963,
+      "source": "reuters.com"
+    },
+    {
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "score": 100,
+      "comments": 58,
+      "source": "mareksuppa.com"
+    },
+    {
       "title": "Mechanical Watch (2022)",
       "url": "https://ciechanow.ski/mechanical-watch/",
-      "score": 228,
-      "comments": 29,
+      "score": 538,
+      "comments": 99,
       "source": "ciechanow.ski"
     },
     {
-      "title": "Is Fable 5 Back?",
-      "url": "https://isfable5back.com",
-      "score": 44,
-      "comments": 33,
-      "source": "isfable5back.com"
+      "title": "GPT\u2011NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "score": 35,
+      "comments": 11,
+      "source": "tno.nl"
+    },
+    {
+      "title": "Claude: Elevated errors across many models",
+      "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+      "score": 132,
+      "comments": 108,
+      "source": "status.claude.com"
+    },
+    {
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "score": 49,
+      "comments": 14,
+      "source": "therepublicofletters.substack.com"
+    },
+    {
+      "title": "But yak shaving is fun",
+      "url": "https://parksb.github.io/en/article/32.html",
+      "score": 113,
+      "comments": 30,
+      "source": "parksb.github.io"
+    },
+    {
+      "title": "Apple's weird anti-nausea dots cured my car sickness",
+      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "score": 263,
+      "comments": 89,
+      "source": "theverge.com"
+    },
+    {
+      "title": "Making ast.walk 220x Faster",
+      "url": "https://reflex.dev/blog/why-ast-walk-when-you-can-ast-sprint/",
+      "score": 50,
+      "comments": 10,
+      "source": "reflex.dev"
+    },
+    {
+      "title": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+      "score": 49,
+      "comments": 20,
+      "source": "gist.github.com"
+    },
+    {
+      "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+      "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+      "score": 23,
+      "comments": 17,
+      "source": "gilesthomas.com"
     },
     {
       "title": "Correlated randomness in Slay the Spire 2",
       "url": "https://tck.mn/blog/correlated-randomness-sts2/",
-      "score": 73,
-      "comments": 29,
+      "score": 233,
+      "comments": 74,
       "source": "tck.mn"
+    },
+    {
+      "title": "SubQ 1.1 Small",
+      "url": "https://subq.ai/subq-1-1-small-technical-report",
+      "score": 78,
+      "comments": 35,
+      "source": "subq.ai"
+    },
+    {
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "score": 780,
+      "comments": 367,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Why is Meta destroying its engineering organization?",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "score": 180,
+      "comments": 106,
+      "source": "newsletter.pragmaticengineer.com"
+    },
+    {
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "score": 18,
+      "comments": 14,
+      "source": "tim.blog"
     },
     {
       "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "score": 373,
-      "comments": 108,
+      "score": 456,
+      "comments": 147,
       "source": "devblogs.microsoft.com"
     },
     {
-      "title": "John Carmack on Fabrice Bellard",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 483,
-      "comments": 246,
-      "source": "twitter.com"
+      "title": "Cooling at the Speed of Light",
+      "url": "https://cacm.acm.org/news/cooling-at-the-speed-of-light/",
+      "score": 12,
+      "comments": 1,
+      "source": "cacm.acm.org"
     },
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1353,
-      "comments": 256,
-      "source": "roman.pt"
+      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+      "score": 59,
+      "comments": 6,
+      "source": "qwen.ai"
     },
     {
-      "title": "Getting Creative with Perlin Noise Fields",
-      "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-      "score": 74,
-      "comments": 15,
-      "source": "sighack.com"
+      "title": "Formal Methods and the Future of Programming",
+      "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+      "score": 28,
+      "comments": 1,
+      "source": "blog.janestreet.com"
     },
     {
-      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-      "url": "https://trinket.strivemath.org/",
-      "score": 62,
-      "comments": 9,
-      "source": "trinket.strivemath.org"
-    },
-    {
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "score": 1276,
-      "comments": 391,
-      "source": "iroh.computer"
-    },
-    {
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 473,
-      "comments": 267,
-      "source": "richardosgood.com"
-    },
-    {
-      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "score": 230,
-      "comments": 129,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Russian artist and Putin critic shot dead in Poland",
-      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o",
-      "score": 48,
-      "comments": 12,
-      "source": "bbc.com"
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "score": 913,
-      "comments": 162,
-      "source": "tinywind.io"
-    },
-    {
-      "title": "Understanding the rationale behind a rule when trying to circumvent it",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
-      "score": 64,
-      "comments": 20,
-      "source": "devblogs.microsoft.com"
+      "title": "After AI Takes Everything",
+      "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+      "score": 67,
+      "comments": 65,
+      "source": "ursb.me"
     },
     {
       "title": "An interview with an Apple emoji designer",
       "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
-      "score": 6,
-      "comments": 1,
+      "score": 73,
+      "comments": 39,
       "source": "shadycharacters.co.uk"
     },
     {
-      "title": "'Wow, it really worked ': 70s TV show causing worldwide panic today",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later",
-      "score": 17,
+      "title": "The octopus architecture for AI agents",
+      "url": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
+      "score": 11,
       "comments": 2,
-      "source": "theguardian.com"
+      "source": "blog.goodman.dev"
+    },
+    {
+      "title": "'Ghost jobs' could soon be illegal in New York",
+      "url": "https://www.fastcompany.com/91558427/ghost-jobs-could-soon-be-illegal-in-new-york",
+      "score": 64,
+      "comments": 34,
+      "source": "fastcompany.com"
+    },
+    {
+      "title": "Getting Creative with Perlin Noise Fields",
+      "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+      "score": 135,
+      "comments": 21,
+      "source": "sighack.com"
     },
     {
       "title": "Unicorn \u2013 The Ultimate CPU Emulator",
       "url": "https://www.unicorn-engine.org/",
-      "score": 7,
-      "comments": 0,
+      "score": 71,
+      "comments": 20,
       "source": "unicorn-engine.org"
-    },
-    {
-      "title": "SpaceX Is Buying Cursor",
-      "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo",
-      "score": 146,
-      "comments": 158,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
-      "url": "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/",
-      "score": 65,
-      "comments": 17,
-      "source": "rarehistoricalphotos.com"
-    },
-    {
-      "title": "I Love the Computer",
-      "url": "https://michaelenger.com/blog/i-love-the-computer/",
-      "score": 266,
-      "comments": 150,
-      "source": "michaelenger.com"
     },
     {
       "title": "Show HN: Garden of Flowers \u2013 an archive of pictorial typography before ASCII art",
       "url": "https://garden-of-flowers.heikkilotvonen.com/",
-      "score": 101,
-      "comments": 14,
+      "score": 133,
+      "comments": 22,
       "source": "garden-of-flowers.heikkilotvonen.com"
     },
     {
-      "title": "I hacked into the worst e-bike and fixed it [video]",
-      "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
-      "score": 127,
-      "comments": 61,
-      "source": "youtube.com"
+      "title": "Specs Augmented Reality Glasses",
+      "url": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
+      "score": 27,
+      "comments": 16,
+      "source": "newsroom.snap.com"
     },
     {
-      "title": "Hetzner Price Adjustment",
-      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-      "score": 502,
-      "comments": 682,
-      "source": "docs.hetzner.com"
-    },
-    {
-      "title": "Peopleless economy? Not technically impossible",
-      "url": "https://gmalandrakis.com/writings/ad-economicum.html",
-      "score": 234,
-      "comments": 429,
-      "source": "gmalandrakis.com"
-    },
-    {
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 338,
-      "comments": 54,
-      "source": "rsgm.dev"
-    },
-    {
-      "title": "Why I email complete strangers",
-      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-      "score": 180,
-      "comments": 79,
-      "source": "goodinternetmagazine.com"
-    },
-    {
-      "title": "Cohere's First Model for Developers",
-      "url": "https://cohere.com/blog/north-mini-code",
-      "score": 120,
-      "comments": 28,
-      "source": "cohere.com"
-    },
-    {
-      "title": "Fox to buy Roku",
-      "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-      "score": 340,
-      "comments": 410,
-      "source": "wsj.com"
-    },
-    {
-      "title": "What job interviews taught me about Kubernetes",
-      "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-      "score": 224,
-      "comments": 172,
-      "source": "notnotp.com"
+      "title": "Flip TABLE: storing arbitrary data in iNaturalist",
+      "url": "https://exclav.es/2026/06/13/flip-table-storing-arbitrary-data-in-inaturalist/",
+      "score": 4,
+      "comments": 0,
+      "source": "exclav.es"
     }
   ],
   "security": [
+    {
+      "title": "Threat tactic spotlight: Subdomain takeover",
+      "url": "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover/",
+      "date": "2026-06-16 17:53:20",
+      "author": "Matt Gurr"
+    },
     {
       "title": "ICYMI: May 2026 @AWS Security",
       "url": "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security/",
@@ -258,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-2-and-3-reports-are-now-available-with-188-services-in-scope/",
       "date": "2026-06-01 16:07:48",
       "author": "Baj Bajwa"
-    },
-    {
-      "title": "Why and how to migrate to a Transit Gateway-attached AWS Network Firewall",
-      "url": "https://aws.amazon.com/blogs/security/why-and-how-to-migrate-to-a-transit-gateway-attached-aws-network-firewall/",
-      "date": "2026-05-28 22:44:17",
-      "author": "Frank Phillis"
     }
   ]
 }
