@@ -1,200 +1,207 @@
 {
   "tech": [
     {
+      "title": "Mechanical Watch (2022)",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "score": 228,
+      "comments": 29,
+      "source": "ciechanow.ski"
+    },
+    {
+      "title": "Is Fable 5 Back?",
+      "url": "https://isfable5back.com",
+      "score": 44,
+      "comments": 33,
+      "source": "isfable5back.com"
+    },
+    {
+      "title": "Correlated randomness in Slay the Spire 2",
+      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "score": 73,
+      "comments": 29,
+      "source": "tck.mn"
+    },
+    {
       "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "score": 176,
-      "comments": 46,
+      "score": 373,
+      "comments": 108,
       "source": "devblogs.microsoft.com"
     },
     {
       "title": "John Carmack on Fabrice Bellard",
       "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 158,
-      "comments": 85,
+      "score": 483,
+      "comments": 246,
       "source": "twitter.com"
     },
     {
       "title": "A backdoor in a LinkedIn job offer",
       "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1061,
-      "comments": 198,
+      "score": 1353,
+      "comments": 256,
       "source": "roman.pt"
     },
     {
-      "title": "Understanding the rationale behind a rule when trying to circumvent it",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
-      "score": 5,
-      "comments": 0,
-      "source": "devblogs.microsoft.com"
+      "title": "Getting Creative with Perlin Noise Fields",
+      "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
+      "score": 74,
+      "comments": 15,
+      "source": "sighack.com"
     },
     {
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 344,
-      "comments": 175,
-      "source": "richardosgood.com"
+      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
+      "url": "https://trinket.strivemath.org/",
+      "score": 62,
+      "comments": 9,
+      "source": "trinket.strivemath.org"
     },
     {
       "title": "Iroh 1.0",
       "url": "https://www.iroh.computer/blog/v1",
-      "score": 1131,
-      "comments": 342,
+      "score": 1276,
+      "comments": 391,
       "source": "iroh.computer"
     },
     {
-      "title": "Show HN: Garden of Flowers \u2013 an archive of pictorial typography before ASCII art",
-      "url": "https://garden-of-flowers.heikkilotvonen.com/",
-      "score": 58,
-      "comments": 11,
-      "source": "garden-of-flowers.heikkilotvonen.com"
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "score": 473,
+      "comments": 267,
+      "source": "richardosgood.com"
+    },
+    {
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "score": 230,
+      "comments": 129,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Russian artist and Putin critic shot dead in Poland",
+      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o",
+      "score": 48,
+      "comments": 12,
+      "source": "bbc.com"
     },
     {
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "url": "https://tinywind.io",
-      "score": 783,
-      "comments": 152,
+      "score": 913,
+      "comments": 162,
       "source": "tinywind.io"
     },
     {
-      "title": "I hacked into the worst e-bike and fixed it [video]",
-      "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
-      "score": 69,
-      "comments": 28,
-      "source": "youtube.com"
+      "title": "Understanding the rationale behind a rule when trying to circumvent it",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
+      "score": 64,
+      "comments": 20,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "An interview with an Apple emoji designer",
+      "url": "https://shadycharacters.co.uk/2026/06/ollie-wagner/",
+      "score": 6,
+      "comments": 1,
+      "source": "shadycharacters.co.uk"
+    },
+    {
+      "title": "'Wow, it really worked ': 70s TV show causing worldwide panic today",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/16/alternative-3-mockumentary-missing-scientists-conspiracy-50-years-later",
+      "score": 17,
+      "comments": 2,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Unicorn \u2013 The Ultimate CPU Emulator",
+      "url": "https://www.unicorn-engine.org/",
+      "score": 7,
+      "comments": 0,
+      "source": "unicorn-engine.org"
+    },
+    {
+      "title": "SpaceX Is Buying Cursor",
+      "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo",
+      "score": 146,
+      "comments": 158,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Color Photos of Stalin-Era Soviet Union Taken by a US Diplomat",
+      "url": "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/",
+      "score": 65,
+      "comments": 17,
+      "source": "rarehistoricalphotos.com"
     },
     {
       "title": "I Love the Computer",
       "url": "https://michaelenger.com/blog/i-love-the-computer/",
-      "score": 215,
-      "comments": 129,
+      "score": 266,
+      "comments": 150,
       "source": "michaelenger.com"
     },
     {
-      "title": "Humanity isn't ready for the coming intelligence explosion",
-      "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
-      "score": 70,
-      "comments": 177,
-      "source": "economist.com"
+      "title": "Show HN: Garden of Flowers \u2013 an archive of pictorial typography before ASCII art",
+      "url": "https://garden-of-flowers.heikkilotvonen.com/",
+      "score": 101,
+      "comments": 14,
+      "source": "garden-of-flowers.heikkilotvonen.com"
     },
     {
-      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
-      "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-      "score": 104,
-      "comments": 88,
-      "source": "narracomm.com"
-    },
-    {
-      "title": "Why I email complete strangers",
-      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-      "score": 138,
-      "comments": 60,
-      "source": "goodinternetmagazine.com"
-    },
-    {
-      "title": "Cohere's First Model for Developers",
-      "url": "https://cohere.com/blog/north-mini-code",
-      "score": 75,
-      "comments": 17,
-      "source": "cohere.com"
-    },
-    {
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 298,
-      "comments": 52,
-      "source": "rsgm.dev"
+      "title": "I hacked into the worst e-bike and fixed it [video]",
+      "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
+      "score": 127,
+      "comments": 61,
+      "source": "youtube.com"
     },
     {
       "title": "Hetzner Price Adjustment",
       "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-      "score": 414,
-      "comments": 564,
+      "score": 502,
+      "comments": 682,
       "source": "docs.hetzner.com"
     },
     {
       "title": "Peopleless economy? Not technically impossible",
       "url": "https://gmalandrakis.com/writings/ad-economicum.html",
-      "score": 169,
-      "comments": 289,
+      "score": 234,
+      "comments": 429,
       "source": "gmalandrakis.com"
     },
     {
-      "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
-      "url": "https://shonczinner.github.io/posts/embedding-prediction/",
-      "score": 47,
-      "comments": 7,
-      "source": "shonczinner.github.io"
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 338,
+      "comments": 54,
+      "source": "rsgm.dev"
+    },
+    {
+      "title": "Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "score": 180,
+      "comments": 79,
+      "source": "goodinternetmagazine.com"
+    },
+    {
+      "title": "Cohere's First Model for Developers",
+      "url": "https://cohere.com/blog/north-mini-code",
+      "score": 120,
+      "comments": 28,
+      "source": "cohere.com"
     },
     {
       "title": "Fox to buy Roku",
       "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-      "score": 316,
-      "comments": 390,
+      "score": 340,
+      "comments": 410,
       "source": "wsj.com"
     },
     {
       "title": "What job interviews taught me about Kubernetes",
       "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-      "score": 167,
-      "comments": 120,
+      "score": 224,
+      "comments": 172,
       "source": "notnotp.com"
-    },
-    {
-      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-      "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-      "score": 291,
-      "comments": 108,
-      "source": "monash.edu"
-    },
-    {
-      "title": "What every coder should know about gamma (2016)",
-      "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-      "score": 92,
-      "comments": 27,
-      "source": "blog.johnnovak.net"
-    },
-    {
-      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-      "score": 302,
-      "comments": 221,
-      "source": "salesforce.com"
-    },
-    {
-      "title": "The Null Is Always False (Except When It Is True) (2014)",
-      "url": "http://daniellakens.blogspot.com/2014/06/the-null-is-always-false-except-when-it.html",
-      "score": 5,
-      "comments": 0,
-      "source": "daniellakens.blogspot.com"
-    },
-    {
-      "title": "Game Engine White Papers: Commander Keen",
-      "url": "https://forgottenbytes.net/commander_keen.html",
-      "score": 195,
-      "comments": 64,
-      "source": "forgottenbytes.net"
-    },
-    {
-      "title": "How TimescaleDB compresses time-series data",
-      "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-      "score": 148,
-      "comments": 17,
-      "source": "roszigit.com"
-    },
-    {
-      "title": "Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "score": 124,
-      "comments": 81,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-      "url": "https://grassdx.com/",
-      "score": 62,
-      "comments": 55,
-      "source": "grassdx.com"
     }
   ],
   "security": [
