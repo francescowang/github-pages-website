@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "The founder's playbook: Building an AI-native startup",
-      "url": "https://claude.com/blog/the-founders-playbook",
-      "score": 24,
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "score": 327,
+      "comments": 147,
+      "source": "artificialanalysis.ai"
+    },
+    {
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "score": 187,
+      "comments": 93,
+      "source": "wpvip.com"
+    },
+    {
+      "title": "RFC 10008: The new HTTP Query Method",
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "score": 87,
+      "comments": 44,
+      "source": "rfc-editor.org"
+    },
+    {
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "url": "https://cells2pixels.github.io/",
+      "score": 102,
       "comments": 17,
-      "source": "claude.com"
+      "source": "cells2pixels.github.io"
+    },
+    {
+      "title": "MicroUI \u2013 A tiny, portable, immediate-mode UI library written in ANSI C",
+      "url": "https://github.com/rxi/microui",
+      "score": 13,
+      "comments": 4,
+      "source": "github.com"
     },
     {
       "title": "GrapheneOS has been ported to Android 17",
       "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-      "score": 697,
-      "comments": 299,
+      "score": 867,
+      "comments": 447,
       "source": "discuss.grapheneos.org"
+    },
+    {
+      "title": "Hacker News but for Independent Blogs",
+      "url": "https://bubbles.town/",
+      "score": 209,
+      "comments": 72,
+      "source": "bubbles.town"
     },
     {
       "title": "Running local models is good now",
       "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 1252,
-      "comments": 493,
+      "score": 1405,
+      "comments": 545,
       "source": "vickiboykis.com"
+    },
+    {
+      "title": "Want your images back? Sure... That'll be $5!",
+      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "score": 5,
+      "comments": 0,
+      "source": "lutr.dev"
+    },
+    {
+      "title": "A Google ad penalty halved our revenue; fixing it meant becoming a publisher",
+      "url": "https://www.scrumpoker-online.org/en/blog/recovering-from-a-google-ad-penalty/",
+      "score": 3,
+      "comments": 0,
+      "source": "scrumpoker-online.org"
+    },
+    {
+      "title": "Show HN: Capacitor Alarm Clock",
+      "url": "https://github.com/ArcaEge/capacitor-alarm-clock",
+      "score": 55,
+      "comments": 18,
+      "source": "github.com"
+    },
+    {
+      "title": "Abandoned and Little-Known Airfields",
+      "url": "https://airfields-freeman.com/",
+      "score": 30,
+      "comments": 3,
+      "source": "airfields-freeman.com"
     },
     {
       "title": "Humiliating IIS servers for fun and jail time",
       "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "score": 217,
-      "comments": 52,
+      "score": 305,
+      "comments": 71,
       "source": "mll.sh"
     },
     {
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "score": 153,
-      "comments": 68,
-      "source": "writings.stephenwolfram.com"
+      "title": "Map Clustering Is Not My Favorite",
+      "url": "https://blog.greg.technology/2026/06/12/map-clustering-is-not-my-favorite.html",
+      "score": 47,
+      "comments": 19,
+      "source": "blog.greg.technology"
     },
     {
       "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
       "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-      "score": 388,
-      "comments": 182,
+      "score": 474,
+      "comments": 207,
       "source": "mareksuppa.com"
     },
     {
-      "title": "Calvin and Hobbes and the price of integrity",
-      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "score": 398,
-      "comments": 173,
-      "source": "therepublicofletters.substack.com"
-    },
-    {
-      "title": "GPT\u2011NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "score": 197,
-      "comments": 181,
-      "source": "tno.nl"
+      "title": "GLM 5.2 Performance Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-2",
+      "score": 47,
+      "comments": 10,
+      "source": "artificialanalysis.ai"
     },
     {
       "title": "Subterranean fungi networks more than 100 quadrillion km in length",
       "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-      "score": 37,
-      "comments": 3,
+      "score": 102,
+      "comments": 27,
       "source": "theguardian.com"
+    },
+    {
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "score": 478,
+      "comments": 205,
+      "source": "therepublicofletters.substack.com"
     },
     {
       "title": "Has AI already killed self-help nonfiction books?",
       "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "score": 271,
-      "comments": 290,
+      "score": 345,
+      "comments": 400,
       "source": "tim.blog"
+    },
+    {
+      "title": "Wolfram Language and Mathematica version 15",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "score": 184,
+      "comments": 98,
+      "source": "writings.stephenwolfram.com"
+    },
+    {
+      "title": "GPT\u2011NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "score": 229,
+      "comments": 247,
+      "source": "tno.nl"
     },
     {
       "title": "Stop Using JWTs",
       "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-      "score": 360,
-      "comments": 209,
+      "score": 432,
+      "comments": 255,
       "source": "gist.github.com"
     },
     {
-      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-      "score": 187,
-      "comments": 69,
-      "source": "dexerto.com"
+      "title": "From Chesterton's fence to Chesterton's gap",
+      "url": "https://stephantul.github.io/blog/unfence/",
+      "score": 26,
+      "comments": 22,
+      "source": "stephantul.github.io"
+    },
+    {
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "score": 122,
+      "comments": 118,
+      "source": "claude.com"
+    },
+    {
+      "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+      "url": "https://arxiv.org/abs/2606.14806",
+      "score": 48,
+      "comments": 18,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Image Compression",
+      "url": "https://www.makingsoftware.com/chapters/image-compression",
+      "score": 6,
+      "comments": 2,
+      "source": "makingsoftware.com"
     },
     {
       "title": "SpaceX to buy Cursor for $60B",
       "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "score": 996,
-      "comments": 1499,
+      "score": 1058,
+      "comments": 1570,
       "source": "reuters.com"
     },
     {
       "title": "But yak shaving is fun (2019)",
       "url": "https://parksb.github.io/en/article/32.html",
-      "score": 251,
-      "comments": 71,
+      "score": 275,
+      "comments": 84,
       "source": "parksb.github.io"
     },
     {
-      "title": "Chameleon Ultra: a flashdrive sized NFC toolkit",
-      "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
-      "score": 10,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
-      "url": "https://arxiv.org/abs/2606.14806",
-      "score": 15,
-      "comments": 4,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "The Amphibious Villagers of Indonesia",
-      "url": "https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia",
-      "score": 22,
-      "comments": 4,
-      "source": "economist.com"
-    },
-    {
-      "title": "Lattice Triangles Are Rare",
-      "url": "https://axiommath.ai/territory/the-reveal",
-      "score": 10,
-      "comments": 3,
-      "source": "axiommath.ai"
+      "title": "Making 'food out of thin air' (2024)",
+      "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
+      "score": 33,
+      "comments": 8,
+      "source": "noemamag.com"
     },
     {
       "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
       "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
-      "score": 71,
-      "comments": 29,
+      "score": 95,
+      "comments": 43,
       "source": "arstechnica.com"
-    },
-    {
-      "title": "Working in Glass",
-      "url": "https://www.asimov.press/p/glass",
-      "score": 27,
-      "comments": 1,
-      "source": "asimov.press"
-    },
-    {
-      "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
-      "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-      "score": 133,
-      "comments": 124,
-      "source": "gilesthomas.com"
-    },
-    {
-      "title": "A Nipkow Disk Mechanical TV Simulator",
-      "url": "https://analogtv.net/mechanical-lab",
-      "score": 41,
-      "comments": 5,
-      "source": "analogtv.net"
-    },
-    {
-      "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-      "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-      "score": 166,
-      "comments": 28,
-      "source": "qwen.ai"
-    },
-    {
-      "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
-      "url": "https://github.com/nvlabs/cutile-rs",
-      "score": 67,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "NetNewsWire Status",
-      "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-      "score": 52,
-      "comments": 9,
-      "source": "inessential.com"
-    },
-    {
-      "title": "Apple's weird anti-nausea dots cured my car sickness",
-      "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-      "score": 728,
-      "comments": 226,
-      "source": "theverge.com"
-    },
-    {
-      "title": "Mechanical Watch (2022)",
-      "url": "https://ciechanow.ski/mechanical-watch/",
-      "score": 681,
-      "comments": 116,
-      "source": "ciechanow.ski"
-    },
-    {
-      "title": "All about the IBM 1130 Computing System",
-      "url": "http://ibm1130.org/",
-      "score": 30,
-      "comments": 11,
-      "source": "ibm1130.org"
-    },
-    {
-      "title": "Is Meta destroying its engineering organization?",
-      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-      "score": 563,
-      "comments": 490,
-      "source": "newsletter.pragmaticengineer.com"
-    },
-    {
-      "title": "Frood, an Alpine Initramfs NAS (2024)",
-      "url": "https://words.filippo.io/frood/",
-      "score": 49,
-      "comments": 12,
-      "source": "words.filippo.io"
     }
   ],
   "security": [
