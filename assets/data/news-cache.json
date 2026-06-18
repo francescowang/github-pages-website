@@ -1,217 +1,216 @@
 {
   "tech": [
     {
-      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "score": 57,
-      "comments": 1,
-      "source": "rahuljuliato.com"
-    },
-    {
-      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
-      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-      "score": 84,
-      "comments": 30,
-      "source": "kcl.ac.uk"
-    },
-    {
-      "title": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 955,
-      "comments": 670,
-      "source": "midjourney.com"
-    },
-    {
-      "title": "Has W Social switched to closed source?",
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-      "score": 15,
-      "comments": 5,
-      "source": "blog.elenarossini.com"
-    },
-    {
-      "title": "DeepSeek Introduces Vision",
-      "url": "https://chat.deepseek.com/",
-      "score": 240,
-      "comments": 100,
-      "source": "chat.deepseek.com"
-    },
-    {
-      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
-      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-      "score": 20,
-      "comments": 2,
-      "source": "elastic.co"
-    },
-    {
-      "title": "Advanced Compilers: The Self-Guided Online Course",
-      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "score": 20,
-      "comments": 0,
-      "source": "cs.cornell.edu"
-    },
-    {
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 300,
-      "comments": 159,
-      "source": "blog.alexellis.io"
-    },
-    {
-      "title": "Lore \u2013 Open source version control system designed for scalability",
-      "url": "https://lore.org/",
-      "score": 1179,
-      "comments": 623,
-      "source": "lore.org"
-    },
-    {
-      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
-      "score": 41,
-      "comments": 12,
-      "source": "windowslatest.com"
-    },
-    {
-      "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
-      "score": 234,
-      "comments": 116,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "I need your clothes, your boots, and your motorcycle",
-      "url": "https://rbelmont.mameworld.info/?p=1725",
-      "score": 80,
+      "title": "A website that lists websites to submit your website to",
+      "url": "https://www.submission.directory/",
+      "score": 252,
       "comments": 68,
-      "source": "rbelmont.mameworld.info"
-    },
-    {
-      "title": "Vinyl Cache and Varnish Cache",
-      "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
-      "score": 24,
-      "comments": 6,
-      "source": "vinyl-cache.org"
+      "source": "submission.directory"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 9,
-      "comments": 0,
+      "score": 370,
+      "comments": 105,
       "source": "orchidfiles.com"
     },
     {
-      "title": "I hate compilers",
-      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-      "score": 108,
-      "comments": 81,
-      "source": "xeiaso.net"
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "score": 401,
+      "comments": 241,
+      "source": "bluewin.ch"
     },
     {
-      "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 482,
-      "comments": 525,
-      "source": "reuters.com"
+      "title": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
+      "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
+      "score": 60,
+      "comments": 42,
+      "source": "mcsweeneys.net"
     },
     {
-      "title": "Unity vs. Floating Point",
-      "url": "https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/",
-      "score": 3,
-      "comments": 0,
-      "source": "aras-p.info"
+      "title": "The Harajuku Moment",
+      "url": "https://tim.blog/2024/02/09/harajuku-moment/",
+      "score": 43,
+      "comments": 17,
+      "source": "tim.blog"
     },
     {
-      "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
-      "url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
-      "score": 18,
-      "comments": 10,
-      "source": "quantamagazine.org"
+      "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
+      "url": "https://tester.army",
+      "score": 59,
+      "comments": 32,
+      "source": "tester.army"
     },
     {
-      "title": "The 2-Year Apartment Rule",
-      "url": "https://tadaima.bearblog.dev/the-2-year-apartment-rule/",
-      "score": 53,
-      "comments": 132,
-      "source": "tadaima.bearblog.dev"
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "score": 217,
+      "comments": 88,
+      "source": "kcl.ac.uk"
     },
     {
-      "title": "Sogen \u2013 High-performance Windows and Linux userspace emulator",
-      "url": "https://sogen.dev/",
-      "score": 47,
-      "comments": 11,
-      "source": "sogen.dev"
+      "title": "Migrating from GNU Stow to Chezmoi",
+      "url": "https://rednafi.com/misc/chezmoi/",
+      "score": 22,
+      "comments": 20,
+      "source": "rednafi.com"
+    },
+    {
+      "title": "Advanced Compilers: The Self-Guided Online Course",
+      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "score": 192,
+      "comments": 25,
+      "source": "cs.cornell.edu"
+    },
+    {
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "score": 104,
+      "comments": 62,
+      "source": "independent.co.uk"
     },
     {
       "title": "Modos Color Monitor Pushes E-Paper Displays Further",
       "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
-      "score": 6,
-      "comments": 1,
+      "score": 148,
+      "comments": 37,
       "source": "spectrum.ieee.org"
     },
     {
-      "title": "Clojure Hosted on Go",
-      "url": "https://github.com/glojurelang/glojure",
-      "score": 168,
-      "comments": 19,
-      "source": "github.com"
+      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+      "url": "https://gerrymandle.cc/",
+      "score": 64,
+      "comments": 28,
+      "source": "gerrymandle.cc"
     },
     {
-      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-      "url": "https://browser-use.com/posts/firecracker-browser-infra",
-      "score": 294,
-      "comments": 204,
-      "source": "browser-use.com"
+      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "score": 321,
+      "comments": 171,
+      "source": "rahuljuliato.com"
     },
     {
-      "title": "How Madrid built its metro cheaply (2024)",
-      "url": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
-      "score": 178,
-      "comments": 121,
-      "source": "worksinprogress.co"
+      "title": "Has W Social switched to closed source?",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "score": 135,
+      "comments": 87,
+      "source": "blog.elenarossini.com"
     },
     {
-      "title": "Storied Colors \u2013 A catalogue of named colors",
-      "url": "https://storiedcolors.com/",
-      "score": 190,
-      "comments": 45,
-      "source": "storiedcolors.com"
+      "title": "TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants",
+      "url": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
+      "score": 68,
+      "comments": 69,
+      "source": "neutronbytes.com"
     },
     {
-      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-      "url": "https://www.horg.com/horg/?page_id=921",
-      "score": 163,
-      "comments": 40,
-      "source": "horg.com"
+      "title": "Emacs, how it all started (for me)",
+      "url": "https://xvw.lol/en/articles/emacs-start.html",
+      "score": 62,
+      "comments": 22,
+      "source": "xvw.lol"
     },
     {
-      "title": "Smashed Toilet Phone Web Server",
-      "url": "https://www.offthebricks.com/articles/smashed-toilet-phone-web-server",
-      "score": 28,
+      "title": "DeepSeek Introduces Vision",
+      "url": "https://chat.deepseek.com/",
+      "score": 398,
+      "comments": 161,
+      "source": "chat.deepseek.com"
+    },
+    {
+      "title": "The AI Hate Progression",
+      "url": "https://www.xodium.net/2026/06/the-ai-hate-progression.html",
+      "score": 4,
+      "comments": 0,
+      "source": "xodium.net"
+    },
+    {
+      "title": ".gitignore Isn't the Only Way to Ignore Files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "score": 160,
+      "comments": 44,
+      "source": "nelson.cloud"
+    },
+    {
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "score": 420,
+      "comments": 224,
+      "source": "blog.alexellis.io"
+    },
+    {
+      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "score": 407,
+      "comments": 284,
+      "source": "windowslatest.com"
+    },
+    {
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "score": 151,
+      "comments": 138,
+      "source": "blog.ui.com"
+    },
+    {
+      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
+      "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+      "score": 9,
+      "comments": 37,
+      "source": "mroczek.dev"
+    },
+    {
+      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "score": 82,
+      "comments": 33,
+      "source": "elastic.co"
+    },
+    {
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "score": 1213,
+      "comments": 820,
+      "source": "midjourney.com"
+    },
+    {
+      "title": "Migrate from OpenClaw",
+      "url": "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw",
+      "score": 93,
+      "comments": 75,
+      "source": "hermes-agent.nousresearch.com"
+    },
+    {
+      "title": "Unity vs. Floating Point",
+      "url": "https://aras-p.info/blog/2026/06/11/Unity-vs-floating-point/",
+      "score": 42,
       "comments": 14,
-      "source": "offthebricks.com"
+      "source": "aras-p.info"
     },
     {
-      "title": "The Alaska Server",
-      "url": "https://serialport.org/blog/the-alaska-server/",
-      "score": 32,
-      "comments": 10,
-      "source": "serialport.org"
+      "title": "Vinyl Cache and Varnish Cache",
+      "url": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html#org-vinyl-varnish",
+      "score": 71,
+      "comments": 31,
+      "source": "vinyl-cache.org"
     },
     {
-      "title": "RFC 10008: The new HTTP Query Method",
-      "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "score": 389,
-      "comments": 160,
-      "source": "rfc-editor.org"
-    },
-    {
-      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "score": 194,
-      "comments": 89,
-      "source": "github.com"
+      "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+      "url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+      "score": 67,
+      "comments": 40,
+      "source": "quantamagazine.org"
     }
   ],
   "security": [
+    {
+      "title": "Spring 2026 SOC 1 and 2 reports are now available in OSCAL format",
+      "url": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-and-2-reports-are-now-available-in-oscal-format/",
+      "date": "2026-06-18 16:50:34",
+      "author": "Thomas Fischer"
+    },
     {
       "title": "Introducing AWS Continuum: Security at machine speed",
       "url": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/identify-unused-aws-kms-keys-and-prevent-accidental-key-deletions/",
       "date": "2026-06-02 19:01:54",
       "author": "Andrea Rossi"
-    },
-    {
-      "title": "Secure multi-tenant AI agents with Amazon Bedrock AgentCore resource-based policies",
-      "url": "https://aws.amazon.com/blogs/security/secure-multi-tenant-ai-agents-with-amazon-bedrock-agentcore-resource-based-policies/",
-      "date": "2026-06-02 16:00:11",
-      "author": "Satyen Verma"
     }
   ]
 }
