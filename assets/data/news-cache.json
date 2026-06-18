@@ -1,67 +1,151 @@
 {
   "tech": [
     {
-      "title": "Epic Games announces Lore version control system",
+      "title": "Lore \u2013 Open source version control system designed for scalability",
       "url": "https://lore.org/",
-      "score": 606,
-      "comments": 316,
+      "score": 952,
+      "comments": 514,
       "source": "lore.org"
     },
     {
-      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "score": 245,
-      "comments": 231,
-      "source": "techcrunch.com"
+      "title": "Storied Colors \u2013 a catalogue of named colors",
+      "url": "https://storiedcolors.com/",
+      "score": 71,
+      "comments": 15,
+      "source": "storiedcolors.com"
     },
     {
       "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
       "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 121,
-      "comments": 91,
+      "score": 332,
+      "comments": 358,
       "source": "reuters.com"
     },
     {
-      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "score": 70,
-      "comments": 31,
-      "source": "github.com"
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "score": 251,
+      "comments": 168,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "url": "https://www.horg.com/horg/?page_id=921",
+      "score": 20,
+      "comments": 4,
+      "source": "horg.com"
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 625,
-      "comments": 325,
+      "score": 776,
+      "comments": 384,
       "source": "artificialanalysis.ai"
     },
     {
       "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
       "url": "https://browser-use.com/posts/firecracker-browser-infra",
-      "score": 49,
-      "comments": 14,
+      "score": 192,
+      "comments": 124,
       "source": "browser-use.com"
     },
     {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 853,
-      "comments": 449,
-      "source": "wpvip.com"
+      "title": "Loreline \u2013 Tools for writing interactive fiction",
+      "url": "https://loreline.app/en/",
+      "score": 61,
+      "comments": 8,
+      "source": "loreline.app"
     },
     {
-      "title": "RFC 10008: The new HTTP Query Method",
-      "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "score": 238,
-      "comments": 109,
-      "source": "rfc-editor.org"
+      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "score": 145,
+      "comments": 78,
+      "source": "github.com"
+    },
+    {
+      "title": "U.S. science is in chaos",
+      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "score": 644,
+      "comments": 739,
+      "source": "scientificamerican.com"
+    },
+    {
+      "title": "Clojure Hosted on Go",
+      "url": "https://github.com/glojurelang/glojure",
+      "score": 11,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "score": 143,
+      "comments": 64,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "score": 157,
+      "comments": 129,
+      "source": "openrouter.ai"
     },
     {
       "title": "Show HN: An 8-bit live gamecast for baseball",
       "url": "https://ribbie.tv/watch",
-      "score": 114,
-      "comments": 62,
+      "score": 195,
+      "comments": 110,
       "source": "ribbie.tv"
+    },
+    {
+      "title": "RFC 10008: The new HTTP Query Method",
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "score": 315,
+      "comments": 141,
+      "source": "rfc-editor.org"
+    },
+    {
+      "title": "Show HN: We built an 8-bit CPU as 2nd year EE students",
+      "url": "https://github.com/c0rRupT9/STEPLA-1",
+      "score": 14,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "The Competitive Moat That AI Can't Replicate",
+      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+      "score": 113,
+      "comments": 92,
+      "source": "ghostinthedata.info"
+    },
+    {
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "score": 473,
+      "comments": 328,
+      "source": "discuss.grapheneos.org"
+    },
+    {
+      "title": "The Return of Rigorous Full-System Timing Simulation",
+      "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+      "score": 27,
+      "comments": 0,
+      "source": "sigarch.org"
+    },
+    {
+      "title": "Why thinking out loud with someone beats thinking alone",
+      "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+      "score": 154,
+      "comments": 77,
+      "source": "thesignalist.io"
+    },
+    {
+      "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
+      "url": "https://flickey.site",
+      "score": 39,
+      "comments": 17,
+      "source": "flickey.site"
     },
     {
       "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
@@ -71,144 +155,60 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Want your images back? That'll be $5",
-      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "score": 513,
-      "comments": 218,
-      "source": "lutr.dev"
-    },
-    {
-      "title": "U.S. science is in chaos",
-      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-      "score": 326,
-      "comments": 354,
-      "source": "scientificamerican.com"
-    },
-    {
-      "title": "TREX: An AI code reviewer that runs your code",
-      "url": "https://www.greptile.com/blog/trex-code-execution",
-      "score": 18,
-      "comments": 2,
-      "source": "greptile.com"
-    },
-    {
-      "title": "MicroUI \u2013 A tiny, portable, immediate-mode UI library written in ANSI C",
-      "url": "https://github.com/rxi/microui",
-      "score": 123,
-      "comments": 40,
-      "source": "github.com"
-    },
-    {
-      "title": "AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
-      "score": 14,
-      "comments": 2,
-      "source": "openai.com"
-    },
-    {
-      "title": "Why thinking out loud with someone beats thinking alone",
-      "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
-      "score": 73,
-      "comments": 25,
-      "source": "thesignalist.io"
+      "title": "Hacker News but for independent blogs",
+      "url": "https://bubbles.town/",
+      "score": 543,
+      "comments": 178,
+      "source": "bubbles.town"
     },
     {
       "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
       "url": "https://johnowhitaker.github.io/inkwash/about",
-      "score": 99,
-      "comments": 17,
+      "score": 161,
+      "comments": 21,
       "source": "johnowhitaker.github.io"
-    },
-    {
-      "title": "French physicist and media star loses doctorate after plagiarism investigation",
-      "url": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
-      "score": 100,
-      "comments": 89,
-      "source": "science.org"
-    },
-    {
-      "title": "Hacker News but for independent blogs",
-      "url": "https://bubbles.town/",
-      "score": 428,
-      "comments": 144,
-      "source": "bubbles.town"
-    },
-    {
-      "title": "Volkswagen started blocking GrapheneOS users",
-      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-      "score": 275,
-      "comments": 185,
-      "source": "discuss.grapheneos.org"
-    },
-    {
-      "title": "The Competitive Moat That AI Can't Replicate",
-      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-      "score": 15,
-      "comments": 0,
-      "source": "ghostinthedata.info"
-    },
-    {
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "score": 216,
-      "comments": 107,
-      "source": "charitydotwtf.substack.com"
     },
     {
       "title": "Kirkland Roundabouts",
       "url": "https://kirklandroundabouts.com",
-      "score": 104,
-      "comments": 72,
+      "score": 154,
+      "comments": 125,
       "source": "kirklandroundabouts.com"
+    },
+    {
+      "title": "The (real) dead economy theory",
+      "url": "https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/",
+      "score": 49,
+      "comments": 18,
+      "source": "pluralistic.net"
+    },
+    {
+      "title": "MicroUI \u2013 A tiny, portable, immediate-mode UI library written in ANSI C",
+      "url": "https://github.com/rxi/microui",
+      "score": 180,
+      "comments": 69,
+      "source": "github.com"
+    },
+    {
+      "title": "Want your images back? That'll be $5",
+      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "score": 600,
+      "comments": 248,
+      "source": "lutr.dev"
     },
     {
       "title": "Image Compression",
       "url": "https://www.makingsoftware.com/chapters/image-compression",
-      "score": 98,
-      "comments": 13,
+      "score": 155,
+      "comments": 23,
       "source": "makingsoftware.com"
     },
     {
-      "title": "Seventeen Camels and Where They Can Take You",
-      "url": "https://mathenchant.wordpress.com/2026/06/15/seventeen-camels-and-where-they-can-take-you/",
-      "score": 10,
-      "comments": 3,
-      "source": "mathenchant.wordpress.com"
-    },
-    {
-      "title": "Show HN: Deconvolution \u2013 a Rust image deconvolution and restoration crate",
-      "url": "https://github.com/pbkx/deconvolution",
-      "score": 19,
+      "title": "Gliderboy Reinvents Humble Weather Balloon with Flight Home",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-15/-gliderboy-reinvents-weather-balloon-with-return-flight-home",
+      "score": 11,
       "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Abandoned and Little-Known Airfields",
-      "url": "https://airfields-freeman.com/",
-      "score": 125,
-      "comments": 35,
-      "source": "airfields-freeman.com"
-    },
-    {
-      "title": "The founder's playbook: Building an AI-native startup",
-      "url": "https://claude.com/blog/the-founders-playbook",
-      "score": 163,
-      "comments": 134,
-      "source": "claude.com"
-    },
-    {
-      "title": "Why do commercial spaces sit vacant? (2025)",
-      "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
-      "score": 57,
-      "comments": 101,
-      "source": "freerange.city"
-    },
-    {
-      "title": "Show HN: High-Res Neural Cellular Automata",
-      "url": "https://cells2pixels.github.io/",
-      "score": 163,
-      "comments": 39,
-      "source": "cells2pixels.github.io"
+      "source": "bloomberg.com"
     }
   ],
   "security": [
