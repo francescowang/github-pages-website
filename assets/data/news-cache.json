@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Update on Ocean Observatories Initiative",
-      "url": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
-      "score": 53,
-      "comments": 9,
-      "source": "nsf.gov"
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "score": 117,
+      "comments": 47,
+      "source": "greybeam.ai"
     },
     {
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 72,
-      "comments": 26,
-      "source": "blog.modelcontextprotocol.io"
+      "title": "So You Want to Define a Well-Known URI",
+      "url": "https://mnot.net/blog/2026/well_known_uris",
+      "score": 29,
+      "comments": 9,
+      "source": "mnot.net"
+    },
+    {
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 18,
+      "comments": 3,
+      "source": "jvm-weekly.com"
+    },
+    {
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "score": 155,
+      "comments": 17,
+      "source": "news.mit.edu"
+    },
+    {
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "score": 59,
+      "comments": 15,
+      "source": "mickael.canouil.fr"
+    },
+    {
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "score": 31,
+      "comments": 8,
+      "source": "blog.jxmo.io"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 646,
-      "comments": 147,
+      "score": 770,
+      "comments": 197,
       "source": "orchidfiles.com"
     },
     {
-      "title": "Cell-based architecture for resilient payment systems",
-      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-      "score": 78,
-      "comments": 26,
-      "source": "americanexpress.io"
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "score": 183,
+      "comments": 65,
+      "source": "blog.modelcontextprotocol.io"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "score": 70,
+      "comments": 24,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "DARPA Heavy Life Challenge",
+      "url": "https://www.darpa.mil/research/challenges/lift",
+      "score": 16,
+      "comments": 12,
+      "source": "darpa.mil"
+    },
+    {
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "score": 68,
+      "comments": 24,
+      "source": "dfdxlabs.com"
+    },
+    {
+      "title": "Ice water drowning survival of young patient (2025)",
+      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "score": 122,
+      "comments": 80,
+      "source": "jacc.org"
+    },
+    {
+      "title": "Generative AI Is Having Its Herbalife Moment",
+      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+      "score": 26,
+      "comments": 22,
+      "source": "whatwelo.st"
     },
     {
       "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
       "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 246,
-      "comments": 230,
+      "score": 321,
+      "comments": 279,
       "source": "blog.ui.com"
     },
     {
-      "title": "It doesn't matter if it works",
-      "url": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
-      "score": 14,
-      "comments": 2,
-      "source": "henry.codes"
+      "title": "The ISA Doesn't Matter Where It Counts",
+      "url": "https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts",
+      "score": 6,
+      "comments": 3,
+      "source": "chipstrat.com"
     },
     {
-      "title": "Zork name origin got an update on Wikipedia",
-      "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
-      "score": 40,
-      "comments": 6,
-      "source": "dpolakovic.space"
-    },
-    {
-      "title": "Swiss parliament lifts ban on new nuclear power plants",
-      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "score": 675,
-      "comments": 539,
-      "source": "bluewin.ch"
-    },
-    {
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20ac1.8M",
-      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "score": 207,
-      "comments": 80,
-      "source": "thatprivacyguy.com"
+      "title": "Show HN: Talos \u2013 Open-source WASM interpreter for Lean",
+      "url": "https://github.com/cajal-technologies/talos",
+      "score": 48,
+      "comments": 5,
+      "source": "github.com"
     },
     {
       "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "score": 291,
-      "comments": 44,
+      "score": 356,
+      "comments": 51,
       "source": "cs.cornell.edu"
     },
     {
-      "title": "Hospitals and universities repurposing drugs at lower cost",
-      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-      "score": 279,
-      "comments": 119,
-      "source": "kcl.ac.uk"
+      "title": "Cell-based architecture for resilient payment systems",
+      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+      "score": 117,
+      "comments": 47,
+      "source": "americanexpress.io"
     },
     {
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "score": 94,
-      "comments": 70,
-      "source": "wired.com"
+      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+      "url": "https://www.flexport.com/company/careers/",
+      "score": 1,
+      "comments": 0,
+      "source": "flexport.com"
     },
     {
-      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-      "score": 74,
-      "comments": 84,
-      "source": "mroczek.dev"
-    },
-    {
-      "title": "Show HN: Are You in the Weights?",
-      "url": "https://www.intheweights.com/",
-      "score": 161,
-      "comments": 109,
-      "source": "intheweights.com"
-    },
-    {
-      "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
-      "url": "https://tester.army",
-      "score": 95,
-      "comments": 45,
-      "source": "tester.army"
-    },
-    {
-      "title": "Noam Shazeer Joins OpenAI",
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "score": 273,
-      "comments": 254,
-      "source": "twitter.com"
+      "title": "Many Let's Encrypt renewals had errors today",
+      "url": "https://letsencrypt.status.io/#2026",
+      "score": 132,
+      "comments": 80,
+      "source": "letsencrypt.status.io"
     },
     {
       "title": ".gitignore Isn't the only way to ignore files in Git",
       "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 279,
-      "comments": 91,
+      "score": 396,
+      "comments": 124,
       "source": "nelson.cloud"
     },
     {
-      "title": "W Social, public institutions and the theater of European digital sovereignty",
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-      "score": 169,
-      "comments": 116,
-      "source": "blog.elenarossini.com"
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "score": 83,
+      "comments": 66,
+      "source": "arun.is"
     },
     {
-      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
-      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
-      "score": 224,
-      "comments": 64,
-      "source": "spectrum.ieee.org"
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "score": 302,
+      "comments": 132,
+      "source": "kcl.ac.uk"
     },
     {
-      "title": "The AirPods Effect",
-      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "score": 62,
-      "comments": 77,
-      "source": "theescapenewsletter.com"
+      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20ac1.8M",
+      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+      "score": 355,
+      "comments": 192,
+      "source": "thatprivacyguy.com"
     },
     {
-      "title": "Agentic Resource Discovery Specification",
-      "url": "https://agenticresourcediscovery.org/introduction/",
-      "score": 47,
-      "comments": 13,
-      "source": "agenticresourcediscovery.org"
+      "title": "Show HN: Are You in the Weights?",
+      "url": "https://www.intheweights.com/",
+      "score": 323,
+      "comments": 179,
+      "source": "intheweights.com"
     },
     {
       "title": "If your product is Great, it doesn't need to be Good (2010)",
       "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-      "score": 20,
-      "comments": 19,
+      "score": 70,
+      "comments": 40,
       "source": "paulbuchheit.blogspot.com"
     },
     {
-      "title": "Migrating from GNU Stow to Chezmoi",
-      "url": "https://rednafi.com/misc/chezmoi/",
-      "score": 97,
-      "comments": 98,
-      "source": "rednafi.com"
+      "title": "Akse3D \u2013 open-source 3D modelling anyone can master",
+      "url": "https://akse3d-en.skaperiet.no",
+      "score": 12,
+      "comments": 1,
+      "source": "akse3d-en.skaperiet.no"
     },
     {
-      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "url": "https://gerrymandle.cc/",
-      "score": 129,
-      "comments": 62,
-      "source": "gerrymandle.cc"
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "score": 203,
+      "comments": 137,
+      "source": "blog.elenarossini.com"
     },
     {
-      "title": "How Alberta Eradicated Rats",
-      "url": "https://worksinprogress.co/issue/albertas-war-on-rats/",
-      "score": 129,
-      "comments": 95,
-      "source": "worksinprogress.co"
+      "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
+      "url": "https://tester.army",
+      "score": 116,
+      "comments": 55,
+      "source": "tester.army"
     },
     {
-      "title": "The founder of Craigslist has given away half a billion dollars",
-      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-      "score": 312,
-      "comments": 233,
-      "source": "independent.co.uk"
-    },
-    {
-      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "score": 408,
-      "comments": 228,
-      "source": "rahuljuliato.com"
-    },
-    {
-      "title": "Dutch Railways offers unlimited off-peak train travel nationwide for \u20ac49/month",
-      "url": "https://www.ns.nl/en/season-tickets/dal-vrij",
-      "score": 195,
-      "comments": 81,
-      "source": "ns.nl"
-    },
-    {
-      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
-      "url": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
-      "score": 603,
-      "comments": 395,
-      "source": "windowslatest.com"
-    },
-    {
-      "title": "A website that lists websites to submit your website to",
-      "url": "https://www.submission.directory/",
-      "score": 391,
-      "comments": 86,
-      "source": "submission.directory"
+      "title": "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
+      "url": "https://horizons.lambda-combine.net/",
+      "score": 48,
+      "comments": 1,
+      "source": "horizons.lambda-combine.net"
     }
   ],
   "security": [
