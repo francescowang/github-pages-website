@@ -1,186 +1,207 @@
 {
   "tech": [
     {
+      "title": "There Are No Instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 123,
+      "comments": 62,
+      "source": "overreacted.io"
+    },
+    {
+      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "score": 182,
+      "comments": 73,
+      "source": "aiclambake.com"
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "score": 182,
+      "comments": 99,
+      "source": "startupfortune.com"
+    },
+    {
+      "title": "Is AI ruining our skills? Early results are in \u2013 and they're not good",
+      "url": "https://www.nature.com/articles/d41586-026-01947-1",
+      "score": 61,
+      "comments": 42,
+      "source": "nature.com"
+    },
+    {
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "score": 61,
+      "comments": 19,
+      "source": "eff.org"
+    },
+    {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 266,
-      "comments": 121,
+      "score": 459,
+      "comments": 265,
       "source": "jvm-weekly.com"
     },
     {
-      "title": "The room the economy can't see",
-      "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
-      "score": 43,
-      "comments": 16,
-      "source": "wilsoniumite.com"
+      "title": "Google workspace threatening to block Firefox access",
+      "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+      "score": 121,
+      "comments": 50,
+      "source": "tales.fromprod.com"
+    },
+    {
+      "title": "The Productivity J-Curve [pdf] (2018)",
+      "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+      "score": 38,
+      "comments": 10,
+      "source": "ide.mit.edu"
+    },
+    {
+      "title": "Windows 11 update broke the Recycle Bin, OneDrive, and your PC's stability",
+      "url": "https://www.techspot.com/news/112831-microsoft-confirms-weird-recycle-bin-bug-windows-11.html",
+      "score": 18,
+      "comments": 5,
+      "source": "techspot.com"
+    },
+    {
+      "title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
+      "url": "https://spectrum.ieee.org/william-heronemus-wind-energy",
+      "score": 17,
+      "comments": 0,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+      "url": "https://metiq.space",
+      "score": 27,
+      "comments": 6,
+      "source": "metiq.space"
     },
     {
       "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
       "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 253,
-      "comments": 77,
+      "score": 364,
+      "comments": 118,
       "source": "greybeam.ai"
     },
     {
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 236,
-      "comments": 35,
-      "source": "news.mit.edu"
+      "title": "I used sound waves to make espresso. It could cut coffee\u2011brewing energy use by \u00be",
+      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "score": 12,
+      "comments": 0,
+      "source": "theconversation.com"
     },
     {
       "title": "Zen and the Art of Machine Learning Research",
       "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 109,
-      "comments": 35,
+      "score": 196,
+      "comments": 66,
       "source": "blog.jxmo.io"
     },
     {
-      "title": "So You Want to Define a Well-Known URI",
-      "url": "https://mnot.net/blog/2026/well_known_uris",
-      "score": 102,
-      "comments": 48,
-      "source": "mnot.net"
+      "title": "Telescope Ranchers",
+      "url": "https://kottke.org/26/06/telescope-ranchers",
+      "score": 42,
+      "comments": 14,
+      "source": "kottke.org"
     },
     {
       "title": "Ten years of ClickHouse in open source",
       "url": "https://clickhouse.com/blog/open-source-10",
-      "score": 105,
-      "comments": 22,
+      "score": 221,
+      "comments": 64,
       "source": "clickhouse.com"
+    },
+    {
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "score": 313,
+      "comments": 48,
+      "source": "news.mit.edu"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 844,
-      "comments": 218,
+      "score": 906,
+      "comments": 238,
       "source": "orchidfiles.com"
     },
     {
       "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
       "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-      "score": 126,
-      "comments": 47,
+      "score": 183,
+      "comments": 67,
       "source": "mickael.canouil.fr"
-    },
-    {
-      "title": "From Australia to Europe, countries move to curb children's social media access",
-      "url": "https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/",
-      "score": 28,
-      "comments": 35,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Show HN: Modeloop \u2013 From visual algorithms to microcontroller C code",
-      "url": "https://www.modeloop.app/",
-      "score": 8,
-      "comments": 6,
-      "source": "modeloop.app"
     },
     {
       "title": "The AirPods Effect",
       "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "score": 170,
-      "comments": 325,
+      "score": 319,
+      "comments": 561,
       "source": "theescapenewsletter.com"
     },
     {
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 211,
-      "comments": 76,
-      "source": "blog.modelcontextprotocol.io"
+      "title": "Show HN: Modeloop \u2013 From visual algorithms to microcontroller C code",
+      "url": "https://www.modeloop.app/",
+      "score": 27,
+      "comments": 22,
+      "source": "modeloop.app"
     },
     {
-      "title": "SMTP Relay with Web Dashboard",
-      "url": "https://github.com/toinbox/simplerelay",
-      "score": 21,
-      "comments": 2,
+      "title": "Show HN: Pagecast \u2013 Publish Markdown/HTML Reports to Cloudflare Pages",
+      "url": "https://github.com/Amal-David/pagecast",
+      "score": 8,
+      "comments": 3,
       "source": "github.com"
-    },
-    {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "score": 118,
-      "comments": 95,
-      "source": "arun.is"
-    },
-    {
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 360,
-      "comments": 305,
-      "source": "blog.ui.com"
-    },
-    {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "score": 101,
-      "comments": 38,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "score": 389,
-      "comments": 53,
-      "source": "cs.cornell.edu"
-    },
-    {
-      "title": ".gitignore Isn't the only way to ignore files in Git",
-      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 456,
-      "comments": 141,
-      "source": "nelson.cloud"
     },
     {
       "title": "Akse3D \u2013 open-source 3D modelling anyone can master",
       "url": "https://akse3d-en.skaperiet.no",
-      "score": 46,
-      "comments": 6,
+      "score": 113,
+      "comments": 33,
       "source": "akse3d-en.skaperiet.no"
     },
     {
-      "title": "Hospitals and universities repurposing drugs at lower cost",
-      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-      "score": 318,
-      "comments": 146,
-      "source": "kcl.ac.uk"
+      "title": "Reinventing the Renaissance",
+      "url": "https://drb.ie/article/reinventing-the-renaissance/",
+      "score": 25,
+      "comments": 7,
+      "source": "drb.ie"
     },
     {
-      "title": "Norway greenlights first full-scale ship tunnel",
-      "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
-      "score": 41,
-      "comments": 13,
-      "source": "eandt.theiet.org"
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "score": 241,
+      "comments": 95,
+      "source": "blog.modelcontextprotocol.io"
     },
     {
-      "title": "Show HN: Talos \u2013 Open-source WASM interpreter for Lean",
-      "url": "https://github.com/cajal-technologies/talos",
-      "score": 63,
-      "comments": 14,
-      "source": "github.com"
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "score": 158,
+      "comments": 128,
+      "source": "arun.is"
     },
     {
-      "title": "If your product is Great, it doesn't need to be Good (2010)",
-      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-      "score": 101,
-      "comments": 74,
-      "source": "paulbuchheit.blogspot.com"
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "score": 530,
+      "comments": 159,
+      "source": "nelson.cloud"
     },
     {
-      "title": "Cell-based architecture for resilient payment systems",
-      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-      "score": 131,
-      "comments": 53,
-      "source": "americanexpress.io"
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "score": 392,
+      "comments": 328,
+      "source": "blog.ui.com"
     },
     {
-      "title": "W Social, public institutions and the theater of European digital sovereignty",
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-      "score": 229,
-      "comments": 143,
-      "source": "blog.elenarossini.com"
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "score": 415,
+      "comments": 59,
+      "source": "cs.cornell.edu"
     },
     {
       "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
@@ -188,27 +209,6 @@
       "score": 1,
       "comments": 0,
       "source": "flexport.com"
-    },
-    {
-      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
-      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
-      "score": 301,
-      "comments": 71,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Ice water drowning survival of young patient (2025)",
-      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-      "score": 177,
-      "comments": 113,
-      "source": "jacc.org"
-    },
-    {
-      "title": "Show HN: Are You in the Weights?",
-      "url": "https://www.intheweights.com/",
-      "score": 381,
-      "comments": 222,
-      "source": "intheweights.com"
     }
   ],
   "security": [
