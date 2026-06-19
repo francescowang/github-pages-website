@@ -1,130 +1,186 @@
 {
   "tech": [
     {
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 117,
-      "comments": 47,
-      "source": "greybeam.ai"
-    },
-    {
-      "title": "So You Want to Define a Well-Known URI",
-      "url": "https://mnot.net/blog/2026/well_known_uris",
-      "score": 29,
-      "comments": 9,
-      "source": "mnot.net"
-    },
-    {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 18,
-      "comments": 3,
+      "score": 266,
+      "comments": 121,
       "source": "jvm-weekly.com"
+    },
+    {
+      "title": "The room the economy can't see",
+      "url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
+      "score": 43,
+      "comments": 16,
+      "source": "wilsoniumite.com"
+    },
+    {
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "score": 253,
+      "comments": 77,
+      "source": "greybeam.ai"
     },
     {
       "title": "To study how chips work, MIT researchers built their own operating system",
       "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 155,
-      "comments": 17,
+      "score": 236,
+      "comments": 35,
       "source": "news.mit.edu"
-    },
-    {
-      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-      "score": 59,
-      "comments": 15,
-      "source": "mickael.canouil.fr"
     },
     {
       "title": "Zen and the Art of Machine Learning Research",
       "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 31,
-      "comments": 8,
+      "score": 109,
+      "comments": 35,
       "source": "blog.jxmo.io"
+    },
+    {
+      "title": "So You Want to Define a Well-Known URI",
+      "url": "https://mnot.net/blog/2026/well_known_uris",
+      "score": 102,
+      "comments": 48,
+      "source": "mnot.net"
+    },
+    {
+      "title": "Ten years of ClickHouse in open source",
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "score": 105,
+      "comments": 22,
+      "source": "clickhouse.com"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 770,
-      "comments": 197,
+      "score": 844,
+      "comments": 218,
       "source": "orchidfiles.com"
+    },
+    {
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "score": 126,
+      "comments": 47,
+      "source": "mickael.canouil.fr"
+    },
+    {
+      "title": "From Australia to Europe, countries move to curb children's social media access",
+      "url": "https://www.reuters.com/legal/government/australia-europe-countries-move-curb-childrens-social-media-access-2026-06-18/",
+      "score": 28,
+      "comments": 35,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Show HN: Modeloop \u2013 From visual algorithms to microcontroller C code",
+      "url": "https://www.modeloop.app/",
+      "score": 8,
+      "comments": 6,
+      "source": "modeloop.app"
+    },
+    {
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "score": 170,
+      "comments": 325,
+      "source": "theescapenewsletter.com"
     },
     {
       "title": "Zero-Touch OAuth for MCP",
       "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 183,
-      "comments": 65,
+      "score": 211,
+      "comments": 76,
       "source": "blog.modelcontextprotocol.io"
     },
     {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "score": 70,
-      "comments": 24,
-      "source": "simonwillison.net"
+      "title": "SMTP Relay with Web Dashboard",
+      "url": "https://github.com/toinbox/simplerelay",
+      "score": 21,
+      "comments": 2,
+      "source": "github.com"
     },
     {
-      "title": "DARPA Heavy Life Challenge",
-      "url": "https://www.darpa.mil/research/challenges/lift",
-      "score": 16,
-      "comments": 12,
-      "source": "darpa.mil"
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 68,
-      "comments": 24,
-      "source": "dfdxlabs.com"
-    },
-    {
-      "title": "Ice water drowning survival of young patient (2025)",
-      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
-      "score": 122,
-      "comments": 80,
-      "source": "jacc.org"
-    },
-    {
-      "title": "Generative AI Is Having Its Herbalife Moment",
-      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
-      "score": 26,
-      "comments": 22,
-      "source": "whatwelo.st"
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "score": 118,
+      "comments": 95,
+      "source": "arun.is"
     },
     {
       "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
       "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 321,
-      "comments": 279,
+      "score": 360,
+      "comments": 305,
       "source": "blog.ui.com"
     },
     {
-      "title": "The ISA Doesn't Matter Where It Counts",
-      "url": "https://www.chipstrat.com/p/the-isa-doesnt-matter-where-it-counts",
-      "score": 6,
-      "comments": 3,
-      "source": "chipstrat.com"
-    },
-    {
-      "title": "Show HN: Talos \u2013 Open-source WASM interpreter for Lean",
-      "url": "https://github.com/cajal-technologies/talos",
-      "score": 48,
-      "comments": 5,
-      "source": "github.com"
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "score": 101,
+      "comments": 38,
+      "source": "simonwillison.net"
     },
     {
       "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
       "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "score": 356,
-      "comments": 51,
+      "score": 389,
+      "comments": 53,
       "source": "cs.cornell.edu"
+    },
+    {
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "score": 456,
+      "comments": 141,
+      "source": "nelson.cloud"
+    },
+    {
+      "title": "Akse3D \u2013 open-source 3D modelling anyone can master",
+      "url": "https://akse3d-en.skaperiet.no",
+      "score": 46,
+      "comments": 6,
+      "source": "akse3d-en.skaperiet.no"
+    },
+    {
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "score": 318,
+      "comments": 146,
+      "source": "kcl.ac.uk"
+    },
+    {
+      "title": "Norway greenlights first full-scale ship tunnel",
+      "url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+      "score": 41,
+      "comments": 13,
+      "source": "eandt.theiet.org"
+    },
+    {
+      "title": "Show HN: Talos \u2013 Open-source WASM interpreter for Lean",
+      "url": "https://github.com/cajal-technologies/talos",
+      "score": 63,
+      "comments": 14,
+      "source": "github.com"
+    },
+    {
+      "title": "If your product is Great, it doesn't need to be Good (2010)",
+      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+      "score": 101,
+      "comments": 74,
+      "source": "paulbuchheit.blogspot.com"
     },
     {
       "title": "Cell-based architecture for resilient payment systems",
       "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-      "score": 117,
-      "comments": 47,
+      "score": 131,
+      "comments": 53,
       "source": "americanexpress.io"
+    },
+    {
+      "title": "W Social, public institutions and the theater of European digital sovereignty",
+      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "score": 229,
+      "comments": 143,
+      "source": "blog.elenarossini.com"
     },
     {
       "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
@@ -134,81 +190,25 @@
       "source": "flexport.com"
     },
     {
-      "title": "Many Let's Encrypt renewals had errors today",
-      "url": "https://letsencrypt.status.io/#2026",
-      "score": 132,
-      "comments": 80,
-      "source": "letsencrypt.status.io"
+      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "score": 301,
+      "comments": 71,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": ".gitignore Isn't the only way to ignore files in Git",
-      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
-      "score": 396,
-      "comments": 124,
-      "source": "nelson.cloud"
-    },
-    {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "score": 83,
-      "comments": 66,
-      "source": "arun.is"
-    },
-    {
-      "title": "Hospitals and universities repurposing drugs at lower cost",
-      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-      "score": 302,
-      "comments": 132,
-      "source": "kcl.ac.uk"
-    },
-    {
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20ac1.8M",
-      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "score": 355,
-      "comments": 192,
-      "source": "thatprivacyguy.com"
+      "title": "Ice water drowning survival of young patient (2025)",
+      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "score": 177,
+      "comments": 113,
+      "source": "jacc.org"
     },
     {
       "title": "Show HN: Are You in the Weights?",
       "url": "https://www.intheweights.com/",
-      "score": 323,
-      "comments": 179,
+      "score": 381,
+      "comments": 222,
       "source": "intheweights.com"
-    },
-    {
-      "title": "If your product is Great, it doesn't need to be Good (2010)",
-      "url": "http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
-      "score": 70,
-      "comments": 40,
-      "source": "paulbuchheit.blogspot.com"
-    },
-    {
-      "title": "Akse3D \u2013 open-source 3D modelling anyone can master",
-      "url": "https://akse3d-en.skaperiet.no",
-      "score": 12,
-      "comments": 1,
-      "source": "akse3d-en.skaperiet.no"
-    },
-    {
-      "title": "W Social, public institutions and the theater of European digital sovereignty",
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-      "score": 203,
-      "comments": 137,
-      "source": "blog.elenarossini.com"
-    },
-    {
-      "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
-      "url": "https://tester.army",
-      "score": 116,
-      "comments": 55,
-      "source": "tester.army"
-    },
-    {
-      "title": "Horizons JPL Solar System Data Demo and NASA DSN Updates: Datastar, Common Lisp",
-      "url": "https://horizons.lambda-combine.net/",
-      "score": 48,
-      "comments": 1,
-      "source": "horizons.lambda-combine.net"
     }
   ],
   "security": [
