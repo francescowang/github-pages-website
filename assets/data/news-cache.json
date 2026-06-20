@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 381,
-      "comments": 243,
-      "source": "reuters.com"
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "score": 61,
+      "comments": 20,
+      "source": "timwehrle.de"
     },
     {
-      "title": "Hey, N00B, We Didn't Hire You to Complete Tasks",
-      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-      "score": 23,
-      "comments": 4,
-      "source": "newsletter.kentbeck.com"
-    },
-    {
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 166,
-      "comments": 21,
-      "source": "legacy.com"
-    },
-    {
-      "title": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
-      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-      "score": 68,
-      "comments": 28,
-      "source": "nochan.net"
+      "title": "Data Compression Explained (2012)",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "score": 91,
+      "comments": 7,
+      "source": "mattmahoney.net"
     },
     {
       "title": "There are no instances in ATProto",
       "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 325,
-      "comments": 191,
+      "score": 415,
+      "comments": 216,
       "source": "overreacted.io"
     },
     {
-      "title": "I used sound waves to make espresso. It could cut coffee\u2011brewing energy use by \u00be",
-      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
-      "score": 179,
-      "comments": 113,
-      "source": "theconversation.com"
+      "title": "The discovery that changed how scientists think about memory",
+      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+      "score": 29,
+      "comments": 3,
+      "source": "ibm.com"
+    },
+    {
+      "title": "Can you see three trees?",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "score": 57,
+      "comments": 10,
+      "source": "not-ship.com"
+    },
+    {
+      "title": "Surprising economics of load-balanced systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "score": 90,
+      "comments": 21,
+      "source": "brooker.co.za"
+    },
+    {
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "score": 19,
+      "comments": 3,
+      "source": "moultano.wordpress.com"
     },
     {
       "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 619,
-      "comments": 296,
+      "score": 772,
+      "comments": 345,
       "source": "startupfortune.com"
     },
     {
-      "title": "Surprising Economics of Load-Balanced Systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "score": 30,
-      "comments": 13,
-      "source": "brooker.co.za"
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "score": 48,
+      "comments": 8,
+      "source": "space.com"
     },
     {
-      "title": "Americans express unease over SpaceX's influence on retirement savings",
-      "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
-      "score": 115,
-      "comments": 52,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Iran requires insurance on ships using Strait of Hormuz, fees likely to follow",
-      "url": "https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow",
-      "score": 53,
-      "comments": 25,
-      "source": "lloydslist.com"
-    },
-    {
-      "title": "Egyptian Fractions",
-      "url": "https://blog.plover.com/math/egyptian-fractions.html",
-      "score": 60,
-      "comments": 0,
-      "source": "blog.plover.com"
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 535,
-      "comments": 331,
-      "source": "jvm-weekly.com"
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 605,
+      "comments": 417,
+      "source": "reuters.com"
     },
     {
       "title": "How many of the 170k English words do you know?",
       "url": "https://vocabowl-870366514258.us-west1.run.app/",
-      "score": 217,
-      "comments": 342,
+      "score": 331,
+      "comments": 421,
       "source": "vocabowl-870366514258.us-west1.run.app"
     },
     {
-      "title": "Zenzizenzizenzic",
-      "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
-      "score": 59,
-      "comments": 17,
-      "source": "en.wikipedia.org"
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 583,
+      "comments": 360,
+      "source": "jvm-weekly.com"
     },
     {
-      "title": "Digital Printing of Arabic: explaining the problem",
-      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-      "score": 10,
-      "comments": 0,
-      "source": "digitalorientalist.com"
-    },
-    {
-      "title": "A 1976 university experiment spun up the U.S. wind industry",
-      "url": "https://spectrum.ieee.org/william-heronemus-wind-energy",
-      "score": 66,
-      "comments": 5,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "DuckDB Internals Part 1",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 430,
-      "comments": 128,
-      "source": "greybeam.ai"
-    },
-    {
-      "title": "Telescope Ranchers",
-      "url": "https://kottke.org/26/06/telescope-ranchers",
-      "score": 96,
-      "comments": 39,
-      "source": "kottke.org"
-    },
-    {
-      "title": "Google workspace threatening to block Firefox access",
-      "url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-      "score": 407,
-      "comments": 137,
-      "source": "tales.fromprod.com"
-    },
-    {
-      "title": "Court Records Should Be Free",
-      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-      "score": 214,
-      "comments": 34,
-      "source": "eff.org"
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "score": 327,
+      "comments": 36,
+      "source": "legacy.com"
     },
     {
       "title": "A Perceptron in Age of Empires II",
       "url": "https://adewynter.github.io/notes/aoe2-circuits",
-      "score": 17,
-      "comments": 7,
+      "score": 64,
+      "comments": 27,
       "source": "adewynter.github.io"
+    },
+    {
+      "title": "Egyptian Fractions (2006)",
+      "url": "https://blog.plover.com/math/egyptian-fractions.html",
+      "score": 87,
+      "comments": 7,
+      "source": "blog.plover.com"
+    },
+    {
+      "title": "Soccer Arcade Games Through the Years",
+      "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
+      "score": 5,
+      "comments": 0,
+      "source": "arcadeheroes.com"
+    },
+    {
+      "title": "John Jumper to join Anthropic",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "score": 116,
+      "comments": 88,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Court Records Should Be Free",
+      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+      "score": 343,
+      "comments": 71,
+      "source": "eff.org"
+    },
+    {
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "score": 50,
+      "comments": 15,
+      "source": "digitalorientalist.com"
+    },
+    {
+      "title": "Telescope Ranchers",
+      "url": "https://kottke.org/26/06/telescope-ranchers",
+      "score": 117,
+      "comments": 44,
+      "source": "kottke.org"
+    },
+    {
+      "title": "Big Banana Car",
+      "url": "https://bigbananacar.com/",
+      "score": 141,
+      "comments": 75,
+      "source": "bigbananacar.com"
     },
     {
       "title": "AURpocalypse now: a look at the recent AUR attacks",
       "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
-      "score": 26,
-      "comments": 15,
+      "score": 64,
+      "comments": 38,
       "source": "lwn.net"
     },
     {
-      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-      "url": "https://metiq.space",
-      "score": 84,
-      "comments": 25,
-      "source": "metiq.space"
+      "title": "Hey, n00b, we didn't hire you to complete tasks",
+      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+      "score": 155,
+      "comments": 78,
+      "source": "newsletter.kentbeck.com"
     },
     {
       "title": "Zen and the Art of Machine Learning Research",
       "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 234,
-      "comments": 78,
+      "score": 254,
+      "comments": 89,
       "source": "blog.jxmo.io"
+    },
+    {
+      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+      "url": "https://metiq.space",
+      "score": 115,
+      "comments": 30,
+      "source": "metiq.space"
     },
     {
       "title": "Building a robotics research setup that lives next to my desk",
       "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 109,
-      "comments": 39,
+      "score": 142,
+      "comments": 49,
       "source": "dfdxlabs.com"
     },
     {
-      "title": "A new bill takes aim at government pressure to silence lawful online speech",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "score": 232,
-      "comments": 113,
-      "source": "eff.org"
+      "title": "How to feed a dictator",
+      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "score": 128,
+      "comments": 45,
+      "source": "theguardian.com"
     },
     {
-      "title": "How do flocking birds and schools of fish move?",
-      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
-      "score": 6,
-      "comments": 2,
-      "source": "nyu.edu"
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "score": 72,
+      "comments": 16,
+      "source": "arrowtsx.dev"
     },
     {
-      "title": "Ten years of ClickHouse in open source",
-      "url": "https://clickhouse.com/blog/open-source-10",
-      "score": 270,
-      "comments": 71,
-      "source": "clickhouse.com"
-    },
-    {
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 349,
-      "comments": 54,
-      "source": "news.mit.edu"
-    },
-    {
-      "title": "RhinoCollab a plugin for real-time editing for Rhino 3D",
-      "url": "https://rhinocollab.com",
-      "score": 12,
-      "comments": 3,
-      "source": "rhinocollab.com"
+      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+      "score": 191,
+      "comments": 115,
+      "source": "nochan.net"
     }
   ],
   "security": [
