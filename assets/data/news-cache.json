@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "CSSQuake",
+      "url": "https://cssquake.com/",
+      "score": 67,
+      "comments": 15,
+      "source": "cssquake.com"
+    },
+    {
       "title": "I Stored a Website in a Favicon",
       "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "score": 61,
-      "comments": 20,
+      "score": 185,
+      "comments": 70,
       "source": "timwehrle.de"
+    },
+    {
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "score": 198,
+      "comments": 48,
+      "source": "moultano.wordpress.com"
+    },
+    {
+      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+      "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+      "score": 22,
+      "comments": 7,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "The Cold War's Accidental Whale Observatory",
+      "url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
+      "score": 15,
+      "comments": 1,
+      "source": "thereader.mitpress.mit.edu"
     },
     {
       "title": "Data Compression Explained (2012)",
       "url": "https://mattmahoney.net/dc/dce.html",
-      "score": 91,
-      "comments": 7,
+      "score": 146,
+      "comments": 19,
       "source": "mattmahoney.net"
+    },
+    {
+      "title": "Can you see three trees?",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "score": 165,
+      "comments": 89,
+      "source": "not-ship.com"
     },
     {
       "title": "There are no instances in ATProto",
       "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 415,
-      "comments": 216,
+      "score": 471,
+      "comments": 244,
       "source": "overreacted.io"
     },
     {
       "title": "The discovery that changed how scientists think about memory",
       "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-      "score": 29,
-      "comments": 3,
-      "source": "ibm.com"
-    },
-    {
-      "title": "Can you see three trees?",
-      "url": "https://www.not-ship.com/can-you-see-three-trees/",
-      "score": 57,
-      "comments": 10,
-      "source": "not-ship.com"
-    },
-    {
-      "title": "Surprising economics of load-balanced systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "score": 90,
+      "score": 75,
       "comments": 21,
-      "source": "brooker.co.za"
-    },
-    {
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "score": 19,
-      "comments": 3,
-      "source": "moultano.wordpress.com"
-    },
-    {
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 772,
-      "comments": 345,
-      "source": "startupfortune.com"
-    },
-    {
-      "title": "Satellite reveals immense scale of GPS signal tampering",
-      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-      "score": 48,
-      "comments": 8,
-      "source": "space.com"
-    },
-    {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 605,
-      "comments": 417,
-      "source": "reuters.com"
-    },
-    {
-      "title": "How many of the 170k English words do you know?",
-      "url": "https://vocabowl-870366514258.us-west1.run.app/",
-      "score": 331,
-      "comments": 421,
-      "source": "vocabowl-870366514258.us-west1.run.app"
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 583,
-      "comments": 360,
-      "source": "jvm-weekly.com"
-    },
-    {
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 327,
-      "comments": 36,
-      "source": "legacy.com"
-    },
-    {
-      "title": "A Perceptron in Age of Empires II",
-      "url": "https://adewynter.github.io/notes/aoe2-circuits",
-      "score": 64,
-      "comments": 27,
-      "source": "adewynter.github.io"
-    },
-    {
-      "title": "Egyptian Fractions (2006)",
-      "url": "https://blog.plover.com/math/egyptian-fractions.html",
-      "score": 87,
-      "comments": 7,
-      "source": "blog.plover.com"
-    },
-    {
-      "title": "Soccer Arcade Games Through the Years",
-      "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
-      "score": 5,
-      "comments": 0,
-      "source": "arcadeheroes.com"
-    },
-    {
-      "title": "John Jumper to join Anthropic",
-      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "score": 116,
-      "comments": 88,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Court Records Should Be Free",
-      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-      "score": 343,
-      "comments": 71,
-      "source": "eff.org"
-    },
-    {
-      "title": "Digital Printing of Arabic: explaining the problem",
-      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-      "score": 50,
-      "comments": 15,
-      "source": "digitalorientalist.com"
-    },
-    {
-      "title": "Telescope Ranchers",
-      "url": "https://kottke.org/26/06/telescope-ranchers",
-      "score": 117,
-      "comments": 44,
-      "source": "kottke.org"
-    },
-    {
-      "title": "Big Banana Car",
-      "url": "https://bigbananacar.com/",
-      "score": 141,
-      "comments": 75,
-      "source": "bigbananacar.com"
-    },
-    {
-      "title": "AURpocalypse now: a look at the recent AUR attacks",
-      "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
-      "score": 64,
-      "comments": 38,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Hey, n00b, we didn't hire you to complete tasks",
-      "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-      "score": 155,
-      "comments": 78,
-      "source": "newsletter.kentbeck.com"
-    },
-    {
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 254,
-      "comments": 89,
-      "source": "blog.jxmo.io"
-    },
-    {
-      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-      "url": "https://metiq.space",
-      "score": 115,
-      "comments": 30,
-      "source": "metiq.space"
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 142,
-      "comments": 49,
-      "source": "dfdxlabs.com"
-    },
-    {
-      "title": "How to feed a dictator",
-      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
-      "score": 128,
-      "comments": 45,
-      "source": "theguardian.com"
+      "source": "ibm.com"
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 72,
-      "comments": 16,
+      "score": 260,
+      "comments": 102,
       "source": "arrowtsx.dev"
     },
     {
-      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-      "score": 191,
-      "comments": 115,
-      "source": "nochan.net"
+      "title": "Surprising economics of load-balanced systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "score": 126,
+      "comments": 29,
+      "source": "brooker.co.za"
+    },
+    {
+      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+      "url": "https://ironicsans.ghost.io/the-color-strike/",
+      "score": 43,
+      "comments": 11,
+      "source": "ironicsans.ghost.io"
+    },
+    {
+      "title": "LLMs Are Complicated Now",
+      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+      "score": 52,
+      "comments": 10,
+      "source": "ianbarber.blog"
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "score": 860,
+      "comments": 369,
+      "source": "startupfortune.com"
+    },
+    {
+      "title": "How many of the 170k English words do you know?",
+      "url": "https://vocabowl-870366514258.us-west1.run.app/",
+      "score": 401,
+      "comments": 492,
+      "source": "vocabowl-870366514258.us-west1.run.app"
+    },
+    {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 719,
+      "comments": 496,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 609,
+      "comments": 382,
+      "source": "jvm-weekly.com"
+    },
+    {
+      "title": "Soccer Arcade Games Through the Years",
+      "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
+      "score": 27,
+      "comments": 11,
+      "source": "arcadeheroes.com"
+    },
+    {
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "score": 408,
+      "comments": 47,
+      "source": "legacy.com"
+    },
+    {
+      "title": "Satellite reveals immense scale of GPS signal tampering",
+      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "score": 118,
+      "comments": 51,
+      "source": "space.com"
+    },
+    {
+      "title": "A Perceptron in Age of Empires II",
+      "url": "https://adewynter.github.io/notes/aoe2-circuits",
+      "score": 91,
+      "comments": 34,
+      "source": "adewynter.github.io"
+    },
+    {
+      "title": "AURpocalypse now: a look at the recent AUR attacks",
+      "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
+      "score": 93,
+      "comments": 65,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Egyptian Fractions (2006)",
+      "url": "https://blog.plover.com/math/egyptian-fractions.html",
+      "score": 100,
+      "comments": 13,
+      "source": "blog.plover.com"
+    },
+    {
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "score": 269,
+      "comments": 95,
+      "source": "blog.jxmo.io"
+    },
+    {
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "score": 159,
+      "comments": 57,
+      "source": "dfdxlabs.com"
+    },
+    {
+      "title": "Court Records Should Be Free",
+      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+      "score": 406,
+      "comments": 89,
+      "source": "eff.org"
+    },
+    {
+      "title": "John Jumper to join Anthropic",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "score": 146,
+      "comments": 111,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Telescope Ranchers",
+      "url": "https://kottke.org/26/06/telescope-ranchers",
+      "score": 131,
+      "comments": 50,
+      "source": "kottke.org"
+    },
+    {
+      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+      "url": "https://metiq.space",
+      "score": 132,
+      "comments": 35,
+      "source": "metiq.space"
+    },
+    {
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "score": 64,
+      "comments": 41,
+      "source": "digitalorientalist.com"
     }
   ],
   "security": [
