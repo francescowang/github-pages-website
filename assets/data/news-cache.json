@@ -1,214 +1,207 @@
 {
   "tech": [
     {
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "score": 51,
+      "comments": 1,
+      "source": "waxy.org"
+    },
+    {
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "score": 67,
+      "comments": 28,
+      "source": "smpte.org"
+    },
+    {
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "url": "https://www.lispm.net/apps/uhf-x11/",
+      "score": 44,
+      "comments": 6,
+      "source": "lispm.net"
+    },
+    {
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "score": 90,
+      "comments": 22,
+      "source": "neuviemeporte.github.io"
+    },
+    {
       "title": "CSSQuake",
       "url": "https://cssquake.com/",
-      "score": 67,
-      "comments": 15,
+      "score": 355,
+      "comments": 76,
       "source": "cssquake.com"
     },
     {
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "score": 185,
-      "comments": 70,
-      "source": "timwehrle.de"
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "url": "https://github.com/oven-sh/WebKit/pull/249",
+      "score": 25,
+      "comments": 11,
+      "source": "github.com"
+    },
+    {
+      "title": "S\u2011CURVES a field guide to technology adoption \u00b7 1825\u20132026",
+      "url": "https://escurves.com/",
+      "score": 19,
+      "comments": 2,
+      "source": "escurves.com"
+    },
+    {
+      "title": "Show HN: StartupWiki \u2013 A Free Alternative to Crunchbase",
+      "url": "https://startupwiki.tech/",
+      "score": 35,
+      "comments": 7,
+      "source": "startupwiki.tech"
+    },
+    {
+      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "url": "https://github.com/DatanoiseTV/ember-hackernews",
+      "score": 39,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Microcrad \u2013 Micrograd Reimplemented in C",
+      "url": "https://github.com/oraziorillo/microcrad",
+      "score": 32,
+      "comments": 6,
+      "source": "github.com"
+    },
+    {
+      "title": "Vacation With An Artist \u2013 Mini-Apprenticeships with Artists in Their Studios",
+      "url": "https://vawaa.com/",
+      "score": 29,
+      "comments": 2,
+      "source": "vawaa.com"
+    },
+    {
+      "title": "Temporary Cloudflare Accounts for AI Agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "score": 72,
+      "comments": 52,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Web Browsers on PDAS",
+      "url": "https://vale.rocks/posts/pda-browsers",
+      "score": 28,
+      "comments": 9,
+      "source": "vale.rocks"
+    },
+    {
+      "title": "The rise of South Korea\u2019s weapons business",
+      "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
+      "score": 5,
+      "comments": 3,
+      "source": "politico.com"
+    },
+    {
+      "title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server",
+      "url": "https://bootimus.com",
+      "score": 80,
+      "comments": 30,
+      "source": "bootimus.com"
+    },
+    {
+      "title": "VPN ban update for UK households as government looks at 'age-gate'",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+      "score": 205,
+      "comments": 205,
+      "source": "birminghammail.co.uk"
     },
     {
       "title": "Where to Find the Colors Your Screen Can't Show You",
       "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "score": 198,
-      "comments": 48,
+      "score": 360,
+      "comments": 91,
       "source": "moultano.wordpress.com"
     },
     {
-      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
-      "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
-      "score": 22,
-      "comments": 7,
-      "source": "tomshardware.com"
+      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "score": 114,
+      "comments": 50,
+      "source": "techcrunch.com"
     },
     {
-      "title": "The Cold War's Accidental Whale Observatory",
-      "url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
-      "score": 15,
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "url": "https://www.argusred.com/cli",
+      "score": 3,
+      "comments": 0,
+      "source": "argusred.com"
+    },
+    {
+      "title": "Mencius (2016)",
+      "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content",
+      "score": 16,
       "comments": 1,
-      "source": "thereader.mitpress.mit.edu"
+      "source": "scholarworks.iu.edu"
     },
     {
-      "title": "Data Compression Explained (2012)",
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "score": 146,
-      "comments": 19,
-      "source": "mattmahoney.net"
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "score": 261,
+      "comments": 90,
+      "source": "timwehrle.de"
+    },
+    {
+      "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+      "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+      "score": 118,
+      "comments": 57,
+      "source": "extremetech.com"
+    },
+    {
+      "title": "Cargo-Geiger",
+      "url": "https://github.com/geiger-rs/cargo-geiger",
+      "score": 23,
+      "comments": 6,
+      "source": "github.com"
+    },
+    {
+      "title": "The ability to regrow body parts is dormant in mammals, not lost",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
+      "score": 24,
+      "comments": 5,
+      "source": "sciencedaily.com"
     },
     {
       "title": "Can you see three trees?",
       "url": "https://www.not-ship.com/can-you-see-three-trees/",
-      "score": 165,
-      "comments": 89,
+      "score": 273,
+      "comments": 130,
       "source": "not-ship.com"
     },
     {
-      "title": "There are no instances in ATProto",
-      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 471,
-      "comments": 244,
-      "source": "overreacted.io"
-    },
-    {
-      "title": "The discovery that changed how scientists think about memory",
-      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-      "score": 75,
-      "comments": 21,
-      "source": "ibm.com"
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+      "score": 105,
+      "comments": 55,
+      "source": "reuters.com"
     },
     {
       "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
       "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 260,
-      "comments": 102,
+      "score": 436,
+      "comments": 210,
       "source": "arrowtsx.dev"
     },
     {
-      "title": "Surprising economics of load-balanced systems",
-      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-      "score": 126,
-      "comments": 29,
-      "source": "brooker.co.za"
+      "title": "Computed goto for efficient dispatch tables (2012)",
+      "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
+      "score": 35,
+      "comments": 14,
+      "source": "eli.thegreenplace.net"
     },
     {
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "url": "https://ironicsans.ghost.io/the-color-strike/",
-      "score": 43,
-      "comments": 11,
-      "source": "ironicsans.ghost.io"
-    },
-    {
-      "title": "LLMs Are Complicated Now",
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-      "score": 52,
-      "comments": 10,
-      "source": "ianbarber.blog"
-    },
-    {
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 860,
-      "comments": 369,
-      "source": "startupfortune.com"
-    },
-    {
-      "title": "How many of the 170k English words do you know?",
-      "url": "https://vocabowl-870366514258.us-west1.run.app/",
-      "score": 401,
-      "comments": 492,
-      "source": "vocabowl-870366514258.us-west1.run.app"
-    },
-    {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 719,
-      "comments": 496,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 609,
-      "comments": 382,
-      "source": "jvm-weekly.com"
-    },
-    {
-      "title": "Soccer Arcade Games Through the Years",
-      "url": "https://arcadeheroes.com/2026/06/13/world-cup-2026-soccer-arcade/",
-      "score": 27,
-      "comments": 11,
-      "source": "arcadeheroes.com"
-    },
-    {
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-      "score": 408,
-      "comments": 47,
-      "source": "legacy.com"
-    },
-    {
-      "title": "Satellite reveals immense scale of GPS signal tampering",
-      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-      "score": 118,
-      "comments": 51,
-      "source": "space.com"
-    },
-    {
-      "title": "A Perceptron in Age of Empires II",
-      "url": "https://adewynter.github.io/notes/aoe2-circuits",
-      "score": 91,
-      "comments": 34,
-      "source": "adewynter.github.io"
-    },
-    {
-      "title": "AURpocalypse now: a look at the recent AUR attacks",
-      "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
-      "score": 93,
-      "comments": 65,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Egyptian Fractions (2006)",
-      "url": "https://blog.plover.com/math/egyptian-fractions.html",
-      "score": 100,
-      "comments": 13,
-      "source": "blog.plover.com"
-    },
-    {
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 269,
-      "comments": 95,
-      "source": "blog.jxmo.io"
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "score": 159,
-      "comments": 57,
-      "source": "dfdxlabs.com"
-    },
-    {
-      "title": "Court Records Should Be Free",
-      "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-      "score": 406,
-      "comments": 89,
-      "source": "eff.org"
-    },
-    {
-      "title": "John Jumper to join Anthropic",
-      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "score": 146,
-      "comments": 111,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Telescope Ranchers",
-      "url": "https://kottke.org/26/06/telescope-ranchers",
-      "score": 131,
-      "comments": 50,
-      "source": "kottke.org"
-    },
-    {
-      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-      "url": "https://metiq.space",
-      "score": 132,
-      "comments": 35,
-      "source": "metiq.space"
-    },
-    {
-      "title": "Digital Printing of Arabic: explaining the problem",
-      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-      "score": 64,
-      "comments": 41,
-      "source": "digitalorientalist.com"
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 505,
+      "comments": 286,
+      "source": "overreacted.io"
     }
   ],
   "security": [
