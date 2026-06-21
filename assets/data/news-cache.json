@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "The case against geometric algebra (2024)",
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "score": 25,
-      "comments": 3,
-      "source": "alexkritchevsky.com"
+      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "score": 206,
+      "comments": 143,
+      "source": "sandimetz.com"
+    },
+    {
+      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "score": 40,
+      "comments": 9,
+      "source": "openjsf.org"
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "score": 77,
+      "comments": 32,
+      "source": "norvig.com"
     },
     {
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
       "url": "https://www.beyondallreason.info",
-      "score": 16,
-      "comments": 3,
+      "score": 308,
+      "comments": 166,
       "source": "beyondallreason.info"
     },
     {
-      "title": "A 3D voxel game engine written in APL",
-      "url": "https://github.com/namgyaaal/avoxelgame",
-      "score": 74,
-      "comments": 7,
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "score": 36,
+      "comments": 10,
+      "source": "brandur.org"
+    },
+    {
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "score": 177,
+      "comments": 160,
+      "source": "support.claude.com"
+    },
+    {
+      "title": "The Commodore Callback 8020 smart flip phone",
+      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+      "score": 88,
+      "comments": 62,
+      "source": "wired.me"
+    },
+    {
+      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+      "score": 19,
+      "comments": 0,
+      "source": "indianspeedster.github.io"
+    },
+    {
+      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+      "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "An Embedded Linux on a Single Floppy",
+      "url": "https://github.com/w84death/floppinux",
+      "score": 11,
+      "comments": 5,
       "source": "github.com"
-    },
-    {
-      "title": "Google Hits 50% IPv6",
-      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-      "score": 189,
-      "comments": 188,
-      "source": "blog.apnic.net"
-    },
-    {
-      "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "score": 356,
-      "comments": 138,
-      "source": "github.com"
-    },
-    {
-      "title": "Zigzag Decoding with AVX-512",
-      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-      "score": 90,
-      "comments": 17,
-      "source": "zeux.io"
-    },
-    {
-      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
-      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
-      "score": 103,
-      "comments": 9,
-      "source": "taoofmac.com"
-    },
-    {
-      "title": "Windows UI evolution: Clicking an unassociated file",
-      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-      "score": 58,
-      "comments": 31,
-      "source": "movq.de"
-    },
-    {
-      "title": "Renting a sewing machine from the library",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 255,
-      "comments": 146,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Epoll vs. io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 188,
-      "comments": 46,
-      "source": "sibexi.co"
-    },
-    {
-      "title": "A tale of two path separators",
-      "url": "https://alexwlchan.net/2021/slashes/",
-      "score": 23,
-      "comments": 6,
-      "source": "alexwlchan.net"
-    },
-    {
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 238,
-      "comments": 68,
-      "source": "cell.com"
-    },
-    {
-      "title": "Developers don't understand CORS (2019)",
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "score": 242,
-      "comments": 168,
-      "source": "fosterelli.co"
     },
     {
       "title": "15-minute at-home Lyme disease tick test",
       "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "score": 139,
-      "comments": 91,
+      "score": 186,
+      "comments": 133,
       "source": "bostonglobe.com"
     },
     {
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 267,
-      "comments": 90,
-      "source": "smpte.org"
+      "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 466,
+      "comments": 186,
+      "source": "github.com"
     },
     {
-      "title": "Cosmodial Sky Atlas",
-      "url": "https://frankforce.com/cosmodial-sky-atlas/",
-      "score": 5,
-      "comments": 2,
-      "source": "frankforce.com"
+      "title": "System call instrumentation on Linux/x86\u201164 using memory\u2011indirect calls, part I",
+      "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+      "score": 22,
+      "comments": 9,
+      "source": "humprog.org"
     },
     {
-      "title": "Proportional-Integral-Derivative Controllers",
-      "url": "https://en.wikipedia.org/wiki/PID_controller",
-      "score": 42,
-      "comments": 17,
-      "source": "en.wikipedia.org"
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 302,
+      "comments": 238,
+      "source": "fosterelli.co"
     },
     {
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 262,
-      "comments": 68,
-      "source": "neuviemeporte.github.io"
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "score": 120,
+      "comments": 10,
+      "source": "github.com"
     },
     {
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "url": "https://www.lispm.net/apps/uhf-x11/",
-      "score": 211,
-      "comments": 45,
-      "source": "lispm.net"
-    },
-    {
-      "title": "Unauthorized alert sent to cell phones across Brazil",
-      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-      "score": 146,
-      "comments": 111,
-      "source": "cnn.com"
-    },
-    {
-      "title": "Rare medieval bookmark exceeds expectations at auction",
-      "url": "https://www.thehistoryblog.com/archives/76314",
-      "score": 12,
-      "comments": 4,
-      "source": "thehistoryblog.com"
+      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+      "score": 76,
+      "comments": 48,
+      "source": "cleantechnica.com"
     },
     {
       "title": "Show HN: TownSquare, a tiny presence layer for websites",
       "url": "https://townsquare.cauenapier.com/",
-      "score": 202,
-      "comments": 109,
+      "score": 220,
+      "comments": 129,
       "source": "townsquare.cauenapier.com"
     },
     {
-      "title": "Building reliable agentic AI systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "score": 114,
-      "comments": 26,
-      "source": "martinfowler.com"
+      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
+      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
+      "score": 175,
+      "comments": 24,
+      "source": "taoofmac.com"
     },
     {
-      "title": "Guide to the TD4 4-bit DIY CPU",
-      "url": "https://www.philipzucker.com/td4-4bit-cpu/",
-      "score": 45,
-      "comments": 4,
-      "source": "philipzucker.com"
+      "title": "Two Qwen3 models on one DGX Spark: the residency math",
+      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
+      "score": 64,
+      "comments": 29,
+      "source": "devashish.me"
     },
     {
-      "title": "Whole cross-sectional human ultrasound tomography",
-      "url": "https://www.nature.com/articles/s41551-026-01660-4",
-      "score": 84,
-      "comments": 13,
-      "source": "nature.com"
+      "title": "The early hiring funnel is now breaking on both ends",
+      "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+      "score": 52,
+      "comments": 73,
+      "source": "hbr.org"
     },
     {
-      "title": "100 Greatest Bird Names of All Time",
-      "url": "https://birdhistory.substack.com/p/the-100-greatest-bird-names-of-all",
-      "score": 5,
-      "comments": 0,
-      "source": "birdhistory.substack.com"
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 332,
+      "comments": 96,
+      "source": "cell.com"
     },
     {
-      "title": "Alice is impatient",
-      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-      "score": 109,
-      "comments": 35,
-      "source": "brooker.co.za"
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 306,
+      "comments": 180,
+      "source": "bbc.com"
     },
     {
-      "title": "Temporary Cloudflare accounts for AI agents",
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
-      "score": 223,
-      "comments": 118,
-      "source": "blog.cloudflare.com"
+      "title": "Excessive nil pointer checks in Go",
+      "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+      "score": 55,
+      "comments": 52,
+      "source": "konradreiche.com"
     },
     {
-      "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
-      "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-      "score": 237,
-      "comments": 228,
-      "source": "phoronix.com"
+      "title": "Show HN: Pulse \u2013 Dashboard for Claude Code, approve tool calls from your phone",
+      "url": "https://github.com/nikitadoudikov/claude-pulse",
+      "score": 11,
+      "comments": 3,
+      "source": "github.com"
     },
     {
-      "title": "Project Fetch: Phase Two",
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "score": 67,
-      "comments": 22,
-      "source": "anthropic.com"
+      "title": "The brain was not designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "score": 291,
+      "comments": 257,
+      "source": "sciencedaily.com"
+    },
+    {
+      "title": "Windows UI evolution: Clicking an unassociated file",
+      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+      "score": 115,
+      "comments": 79,
+      "source": "movq.de"
+    },
+    {
+      "title": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 231,
+      "comments": 56,
+      "source": "sibexi.co"
+    },
+    {
+      "title": "Zigzag Decoding with AVX-512",
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "score": 115,
+      "comments": 21,
+      "source": "zeux.io"
+    },
+    {
+      "title": "The case against geometric algebra (2024)",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "score": 108,
+      "comments": 93,
+      "source": "alexkritchevsky.com"
+    },
+    {
+      "title": "The 100k whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "score": 140,
+      "comments": 81,
+      "source": "lcamtuf.substack.com"
     }
   ],
   "security": [
