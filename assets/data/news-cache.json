@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Pre-2022 Books",
-      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
-      "score": 149,
-      "comments": 76,
-      "source": "notes.lorenzogravina.com"
+      "title": "Zigzag Decoding with AVX-512",
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "score": 53,
+      "comments": 0,
+      "source": "zeux.io"
     },
     {
-      "title": "Not just books: renting a sewing machine from the library can improve democracy",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 70,
-      "comments": 25,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Epoll vs. Io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 35,
-      "comments": 7,
-      "source": "sibexi.co"
-    },
-    {
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "url": "https://townsquare.cauenapier.com/",
-      "score": 32,
-      "comments": 15,
-      "source": "townsquare.cauenapier.com"
-    },
-    {
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 30,
-      "comments": 1,
-      "source": "cell.com"
-    },
-    {
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 224,
-      "comments": 59,
-      "source": "smpte.org"
-    },
-    {
-      "title": "Alice is impatient",
-      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-      "score": 48,
-      "comments": 9,
-      "source": "brooker.co.za"
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 141,
+      "comments": 57,
+      "source": "fosterelli.co"
     },
     {
       "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
       "url": "https://github.com/mysk-research/loupe",
-      "score": 29,
-      "comments": 4,
+      "score": 226,
+      "comments": 64,
       "source": "github.com"
     },
     {
-      "title": "Project Fetch: Phase Two",
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "score": 15,
-      "comments": 0,
-      "source": "anthropic.com"
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 203,
+      "comments": 103,
+      "source": "bbc.com"
+    },
+    {
+      "title": "The 100k Whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "score": 60,
+      "comments": 25,
+      "source": "lcamtuf.substack.com"
+    },
+    {
+      "title": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 132,
+      "comments": 36,
+      "source": "sibexi.co"
+    },
+    {
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "score": 66,
+      "comments": 13,
+      "source": "martinfowler.com"
+    },
+    {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 163,
+      "comments": 35,
+      "source": "cell.com"
+    },
+    {
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "url": "https://townsquare.cauenapier.com/",
+      "score": 149,
+      "comments": 79,
+      "source": "townsquare.cauenapier.com"
+    },
+    {
+      "title": "15-minute at-home Lyme disease tick test",
+      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "score": 94,
+      "comments": 39,
+      "source": "bostonglobe.com"
+    },
+    {
+      "title": "Guide to the TD4 4-bit DIY CPU",
+      "url": "https://www.philipzucker.com/td4-4bit-cpu/",
+      "score": 27,
+      "comments": 3,
+      "source": "philipzucker.com"
+    },
+    {
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "score": 249,
+      "comments": 73,
+      "source": "smpte.org"
+    },
+    {
+      "title": "Public Service Announcement: Don't Say You Use AI for Writing",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "score": 9,
+      "comments": 1,
+      "source": "satisfice.com"
+    },
+    {
+      "title": "Your brain was never designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "score": 129,
+      "comments": 85,
+      "source": "sciencedaily.com"
     },
     {
       "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
       "url": "https://www.lispm.net/apps/uhf-x11/",
-      "score": 155,
-      "comments": 23,
+      "score": 192,
+      "comments": 37,
       "source": "lispm.net"
+    },
+    {
+      "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+      "url": "https://spectrum.ieee.org/alan-turings-delilah",
+      "score": 10,
+      "comments": 1,
+      "source": "spectrum.ieee.org"
     },
     {
       "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
       "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 196,
-      "comments": 57,
+      "score": 236,
+      "comments": 62,
       "source": "neuviemeporte.github.io"
     },
     {
-      "title": "CSSQuake",
-      "url": "https://cssquake.com/",
-      "score": 454,
-      "comments": 95,
-      "source": "cssquake.com"
+      "title": "When I reject AI code even if it works",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "score": 155,
+      "comments": 85,
+      "source": "vinibrasil.com"
     },
     {
-      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-      "score": 28,
-      "comments": 5,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "url": "https://clickhouse.com/blog/postgresbench",
-      "score": 74,
-      "comments": 19,
-      "source": "clickhouse.com"
-    },
-    {
-      "title": "Inference cost at scale with napkin math",
-      "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
-      "score": 56,
-      "comments": 14,
-      "source": "injuly.in"
-    },
-    {
-      "title": "Show HN: StartupWiki \u2013 A Free Alternative to Crunchbase",
-      "url": "https://startupwiki.tech/",
-      "score": 150,
-      "comments": 47,
-      "source": "startupwiki.tech"
-    },
-    {
-      "title": "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
-      "url": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
-      "score": 143,
-      "comments": 60,
-      "source": "esquire.com"
-    },
-    {
-      "title": "The Wholesale Plagiarism of Obscure Sorrows",
-      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-      "score": 312,
-      "comments": 134,
-      "source": "waxy.org"
-    },
-    {
-      "title": "The rise of South Korea\u2019s weapons business",
-      "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
-      "score": 105,
-      "comments": 38,
-      "source": "politico.com"
-    },
-    {
-      "title": "Show HN: Submarius \u2013 Global water clarity for divers",
-      "url": "https://submarius.com",
-      "score": 7,
-      "comments": 0,
-      "source": "submarius.com"
+      "title": "Excessive nil pointer checks in Go",
+      "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+      "score": 13,
+      "comments": 8,
+      "source": "konradreiche.com"
     },
     {
       "title": "Unauthorized alert sent to cell phones across Brazil",
       "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-      "score": 78,
-      "comments": 49,
+      "score": 120,
+      "comments": 86,
       "source": "cnn.com"
     },
     {
-      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-      "url": "https://github.com/oven-sh/WebKit/pull/249",
-      "score": 111,
-      "comments": 196,
-      "source": "github.com"
-    },
-    {
-      "title": "Temporary Cloudflare accounts for AI agents",
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
-      "score": 161,
-      "comments": 93,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Supermarket giant Tesco sues VMware for breach of contract",
-      "url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
-      "score": 77,
-      "comments": 20,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
-      "url": "https://github.com/overflowy/make-look-scanned",
-      "score": 78,
-      "comments": 40,
-      "source": "github.com"
+      "title": "Armstrong Effect",
+      "url": "https://en.wikipedia.org/wiki/Armstrong_effect",
+      "score": 23,
+      "comments": 1,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "Whole cross-sectional human ultrasound tomography",
       "url": "https://www.nature.com/articles/s41551-026-01660-4",
-      "score": 9,
-      "comments": 2,
+      "score": 63,
+      "comments": 11,
       "source": "nature.com"
     },
     {
-      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-      "url": "https://www.argusred.com/cli",
-      "score": 70,
-      "comments": 32,
-      "source": "argusred.com"
+      "title": "NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage",
+      "url": "https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/",
+      "score": 35,
+      "comments": 2,
+      "source": "countryroadsmagazine.com"
     },
     {
-      "title": "Why has the pointe shoe been so resistant to change?",
-      "url": "https://dancemagazine.com/pointe-shoe-innovation/",
-      "score": 47,
-      "comments": 47,
-      "source": "dancemagazine.com"
+      "title": "Alice is impatient",
+      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "score": 85,
+      "comments": 25,
+      "source": "brooker.co.za"
     },
     {
-      "title": "Show HN: Tiny \u2013 An interpeted dynamic langauge with inline Go native functions",
-      "url": "https://github.com/confh/Tiny",
-      "score": 31,
-      "comments": 5,
-      "source": "github.com"
+      "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
+      "url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+      "score": 179,
+      "comments": 152,
+      "source": "phoronix.com"
     },
     {
-      "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
-      "url": "https://mitchivin.com/",
-      "score": 48,
-      "comments": 23,
-      "source": "mitchivin.com"
+      "title": "Project Fetch: Phase Two",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "score": 54,
+      "comments": 20,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "score": 203,
+      "comments": 106,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Show HN: StartupWiki \u2013 A Free Alternative to Crunchbase",
+      "url": "https://startupwiki.tech/",
+      "score": 192,
+      "comments": 59,
+      "source": "startupwiki.tech"
+    },
+    {
+      "title": "Proportional-Integral-Derivative Controllers",
+      "url": "https://en.wikipedia.org/wiki/PID_controller",
+      "score": 20,
+      "comments": 7,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "The rise of South Korea\u2019s weapons business",
+      "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
+      "score": 137,
+      "comments": 49,
+      "source": "politico.com"
     }
   ],
   "security": [
