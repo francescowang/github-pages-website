@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
-      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-      "score": 51,
+      "title": "Pre-2022 Books",
+      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+      "score": 149,
+      "comments": 76,
+      "source": "notes.lorenzogravina.com"
+    },
+    {
+      "title": "Not just books: renting a sewing machine from the library can improve democracy",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 70,
+      "comments": 25,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Epoll vs. Io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 35,
+      "comments": 7,
+      "source": "sibexi.co"
+    },
+    {
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "url": "https://townsquare.cauenapier.com/",
+      "score": 32,
+      "comments": 15,
+      "source": "townsquare.cauenapier.com"
+    },
+    {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "score": 30,
       "comments": 1,
-      "source": "waxy.org"
+      "source": "cell.com"
     },
     {
       "title": "SMPTE Makes Its Standards Freely Accessible",
       "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "score": 67,
-      "comments": 28,
+      "score": 224,
+      "comments": 59,
       "source": "smpte.org"
+    },
+    {
+      "title": "Alice is impatient",
+      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "score": 48,
+      "comments": 9,
+      "source": "brooker.co.za"
+    },
+    {
+      "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 29,
+      "comments": 4,
+      "source": "github.com"
+    },
+    {
+      "title": "Project Fetch: Phase Two",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "score": 15,
+      "comments": 0,
+      "source": "anthropic.com"
     },
     {
       "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
       "url": "https://www.lispm.net/apps/uhf-x11/",
-      "score": 44,
-      "comments": 6,
+      "score": 155,
+      "comments": 23,
       "source": "lispm.net"
     },
     {
       "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
       "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "score": 90,
-      "comments": 22,
+      "score": 196,
+      "comments": 57,
       "source": "neuviemeporte.github.io"
     },
     {
       "title": "CSSQuake",
       "url": "https://cssquake.com/",
-      "score": 355,
-      "comments": 76,
+      "score": 454,
+      "comments": 95,
       "source": "cssquake.com"
     },
     {
-      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
-      "url": "https://github.com/oven-sh/WebKit/pull/249",
-      "score": 25,
-      "comments": 11,
-      "source": "github.com"
+      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+      "score": 28,
+      "comments": 5,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "S\u2011CURVES a field guide to technology adoption \u00b7 1825\u20132026",
-      "url": "https://escurves.com/",
-      "score": 19,
-      "comments": 2,
-      "source": "escurves.com"
+      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "url": "https://clickhouse.com/blog/postgresbench",
+      "score": 74,
+      "comments": 19,
+      "source": "clickhouse.com"
+    },
+    {
+      "title": "Inference cost at scale with napkin math",
+      "url": "https://injuly.in/blog/napkin-inference-cost/index.html",
+      "score": 56,
+      "comments": 14,
+      "source": "injuly.in"
     },
     {
       "title": "Show HN: StartupWiki \u2013 A Free Alternative to Crunchbase",
       "url": "https://startupwiki.tech/",
-      "score": 35,
-      "comments": 7,
+      "score": 150,
+      "comments": 47,
       "source": "startupwiki.tech"
     },
     {
-      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
-      "url": "https://github.com/DatanoiseTV/ember-hackernews",
-      "score": 39,
-      "comments": 8,
-      "source": "github.com"
+      "title": "Turns Out, There Is a Cabal of Elite Crazies Trying to Control the World",
+      "url": "https://www.esquire.com/news-politics/politics/a71619211/peter-thiel-dialog-club-wired-report/",
+      "score": 143,
+      "comments": 60,
+      "source": "esquire.com"
     },
     {
-      "title": "Show HN: Microcrad \u2013 Micrograd Reimplemented in C",
-      "url": "https://github.com/oraziorillo/microcrad",
-      "score": 32,
-      "comments": 6,
-      "source": "github.com"
-    },
-    {
-      "title": "Vacation With An Artist \u2013 Mini-Apprenticeships with Artists in Their Studios",
-      "url": "https://vawaa.com/",
-      "score": 29,
-      "comments": 2,
-      "source": "vawaa.com"
-    },
-    {
-      "title": "Temporary Cloudflare Accounts for AI Agents",
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
-      "score": 72,
-      "comments": 52,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Web Browsers on PDAS",
-      "url": "https://vale.rocks/posts/pda-browsers",
-      "score": 28,
-      "comments": 9,
-      "source": "vale.rocks"
+      "title": "The Wholesale Plagiarism of Obscure Sorrows",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "score": 312,
+      "comments": 134,
+      "source": "waxy.org"
     },
     {
       "title": "The rise of South Korea\u2019s weapons business",
       "url": "https://www.politico.com/news/magazine/2026/06/20/south-korea-weapons-dealer-trump-00959559",
-      "score": 5,
-      "comments": 3,
+      "score": 105,
+      "comments": 38,
       "source": "politico.com"
     },
     {
-      "title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server",
-      "url": "https://bootimus.com",
-      "score": 80,
-      "comments": 30,
-      "source": "bootimus.com"
+      "title": "Show HN: Submarius \u2013 Global water clarity for divers",
+      "url": "https://submarius.com",
+      "score": 7,
+      "comments": 0,
+      "source": "submarius.com"
     },
     {
-      "title": "VPN ban update for UK households as government looks at 'age-gate'",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
-      "score": 205,
-      "comments": 205,
-      "source": "birminghammail.co.uk"
+      "title": "Unauthorized alert sent to cell phones across Brazil",
+      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+      "score": 78,
+      "comments": 49,
+      "source": "cnn.com"
     },
     {
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
-      "score": 360,
-      "comments": 91,
-      "source": "moultano.wordpress.com"
+      "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+      "url": "https://github.com/oven-sh/WebKit/pull/249",
+      "score": 111,
+      "comments": 196,
+      "source": "github.com"
     },
     {
-      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "score": 114,
-      "comments": 50,
-      "source": "techcrunch.com"
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "score": 161,
+      "comments": 93,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Supermarket giant Tesco sues VMware for breach of contract",
+      "url": "https://www.theregister.com/software/2025/09/03/supermarket-giant-tesco-sues-vmware-for-breach-of-contract/1420651",
+      "score": 77,
+      "comments": 20,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "score": 78,
+      "comments": 40,
+      "source": "github.com"
+    },
+    {
+      "title": "Whole cross-sectional human ultrasound tomography",
+      "url": "https://www.nature.com/articles/s41551-026-01660-4",
+      "score": 9,
+      "comments": 2,
+      "source": "nature.com"
     },
     {
       "title": "Show HN: We post-trained a model that pen tests instead of refusing",
       "url": "https://www.argusred.com/cli",
-      "score": 3,
-      "comments": 0,
+      "score": 70,
+      "comments": 32,
       "source": "argusred.com"
     },
     {
-      "title": "Mencius (2016)",
-      "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/265d73a0-6bfa-45df-92ff-4e7d3f8be4b1/content",
-      "score": 16,
-      "comments": 1,
-      "source": "scholarworks.iu.edu"
+      "title": "Why has the pointe shoe been so resistant to change?",
+      "url": "https://dancemagazine.com/pointe-shoe-innovation/",
+      "score": 47,
+      "comments": 47,
+      "source": "dancemagazine.com"
     },
     {
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-      "score": 261,
-      "comments": 90,
-      "source": "timwehrle.de"
-    },
-    {
-      "title": "Windows 11 New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
-      "url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
-      "score": 118,
-      "comments": 57,
-      "source": "extremetech.com"
-    },
-    {
-      "title": "Cargo-Geiger",
-      "url": "https://github.com/geiger-rs/cargo-geiger",
-      "score": 23,
-      "comments": 6,
+      "title": "Show HN: Tiny \u2013 An interpeted dynamic langauge with inline Go native functions",
+      "url": "https://github.com/confh/Tiny",
+      "score": 31,
+      "comments": 5,
       "source": "github.com"
     },
     {
-      "title": "The ability to regrow body parts is dormant in mammals, not lost",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260617032207.htm",
-      "score": 24,
-      "comments": 5,
-      "source": "sciencedaily.com"
-    },
-    {
-      "title": "Can you see three trees?",
-      "url": "https://www.not-ship.com/can-you-see-three-trees/",
-      "score": 273,
-      "comments": 130,
-      "source": "not-ship.com"
-    },
-    {
-      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
-      "score": 105,
-      "comments": 55,
-      "source": "reuters.com"
-    },
-    {
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "score": 436,
-      "comments": 210,
-      "source": "arrowtsx.dev"
-    },
-    {
-      "title": "Computed goto for efficient dispatch tables (2012)",
-      "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
-      "score": 35,
-      "comments": 14,
-      "source": "eli.thegreenplace.net"
-    },
-    {
-      "title": "There are no instances in ATProto",
-      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 505,
-      "comments": 286,
-      "source": "overreacted.io"
+      "title": "Show HN: My Windows XP portfolio with working Game Boy and iPod",
+      "url": "https://mitchivin.com/",
+      "score": 48,
+      "comments": 23,
+      "source": "mitchivin.com"
     }
   ],
   "security": [
