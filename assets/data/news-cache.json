@@ -1,60 +1,151 @@
 {
   "tech": [
     {
-      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
-      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-      "score": 206,
-      "comments": 143,
-      "source": "sandimetz.com"
+      "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "score": 163,
+      "comments": 56,
+      "source": "apertvs.ai"
     },
     {
-      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
-      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "score": 40,
+      "title": "Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6",
+      "url": "https://status.claude.com/incidents/lv35v0q9nsj2",
+      "score": 23,
+      "comments": 12,
+      "source": "status.claude.com"
+    },
+    {
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "score": 172,
+      "comments": 67,
+      "source": "david.newgas.net"
+    },
+    {
+      "title": "Everything is logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "score": 86,
+      "comments": 11,
+      "source": "alexkritchevsky.com"
+    },
+    {
+      "title": "JSON-LD explained for personal websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "score": 152,
+      "comments": 39,
+      "source": "hawksley.dev"
+    },
+    {
+      "title": "PowerFox Browser",
+      "url": "https://powerfox.jazzzny.me/",
+      "score": 60,
+      "comments": 17,
+      "source": "powerfox.jazzzny.me"
+    },
+    {
+      "title": "I was wrong about the Midjourney ultra-sound scanner",
+      "url": "https://twitter.com/MattZirwas/status/2068365802491834541",
+      "score": 15,
       "comments": 9,
-      "source": "openjsf.org"
+      "source": "twitter.com"
     },
     {
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "url": "https://norvig.com/lispy.html",
-      "score": 77,
-      "comments": 32,
-      "source": "norvig.com"
-    },
-    {
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "url": "https://www.beyondallreason.info",
-      "score": 308,
-      "comments": 166,
-      "source": "beyondallreason.info"
-    },
-    {
-      "title": "The Minimum Viable Unit of Saleable Software",
-      "url": "https://brandur.org/minimum-viable-unit",
-      "score": 36,
-      "comments": 10,
-      "source": "brandur.org"
+      "title": "Show HN: Recall \u2013 fully-local project memory for Claude Code",
+      "url": "https://github.com/raiyanyahya/recall",
+      "score": 60,
+      "comments": 51,
+      "source": "github.com"
     },
     {
       "title": "Identity verification on Claude",
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 177,
-      "comments": 160,
+      "score": 545,
+      "comments": 497,
       "source": "support.claude.com"
     },
     {
-      "title": "The Commodore Callback 8020 smart flip phone",
-      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
-      "score": 88,
-      "comments": 62,
-      "source": "wired.me"
+      "title": "Simple hard way to conjugate Japanese verbs",
+      "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
+      "score": 25,
+      "comments": 19,
+      "source": "underreacted.leaflet.pub"
     },
     {
-      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
-      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
-      "score": 19,
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "score": 425,
+      "comments": 252,
+      "source": "beyondallreason.info"
+    },
+    {
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "score": 419,
+      "comments": 284,
+      "source": "sandimetz.com"
+    },
+    {
+      "title": "I Play Video Games with Spinal Muscular Atrophy",
+      "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
+      "score": 18,
+      "comments": 2,
+      "source": "openassistivetech.org"
+    },
+    {
+      "title": "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
+      "url": "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds",
+      "score": 130,
+      "comments": 63,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "The minimum viable unit of saleable software",
+      "url": "https://brandur.org/minimum-viable-unit",
+      "score": 120,
+      "comments": 49,
+      "source": "brandur.org"
+    },
+    {
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "score": 85,
+      "comments": 44,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Petition against Meta's employee training data collection for ML models",
+      "url": "https://mcipetition.com/",
+      "score": 6,
       "comments": 0,
-      "source": "indianspeedster.github.io"
+      "source": "mcipetition.com"
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "url": "https://norvig.com/lispy.html",
+      "score": 161,
+      "comments": 55,
+      "source": "norvig.com"
+    },
+    {
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "score": 21,
+      "comments": 5,
+      "source": "marble.onl"
+    },
+    {
+      "title": "Show HN: Criterion Closet as a website \u2013 pull any of 1,247 films off the shelf",
+      "url": "https://the-criterion-closet.vercel.app",
+      "score": 35,
+      "comments": 9,
+      "source": "the-criterion-closet.vercel.app"
+    },
+    {
+      "title": "Show HN: MiniPCs.zip \u2013 Charting the Pareto frontier of Mini PCs",
+      "url": "https://minipcs.zip",
+      "score": 8,
+      "comments": 3,
+      "source": "minipcs.zip"
     },
     {
       "title": "Wildcard (YC W25) is hiring an applied ML engineer",
@@ -64,151 +155,60 @@
       "source": "ycombinator.com"
     },
     {
+      "title": "Ask for no, don't ask for yes (2022)",
+      "url": "https://www.mooreds.com/wordpress/archives/3518",
+      "score": 101,
+      "comments": 44,
+      "source": "mooreds.com"
+    },
+    {
       "title": "An Embedded Linux on a Single Floppy",
       "url": "https://github.com/w84death/floppinux",
-      "score": 11,
-      "comments": 5,
-      "source": "github.com"
-    },
-    {
-      "title": "15-minute at-home Lyme disease tick test",
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "score": 186,
-      "comments": 133,
-      "source": "bostonglobe.com"
-    },
-    {
-      "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "score": 466,
-      "comments": 186,
-      "source": "github.com"
-    },
-    {
-      "title": "System call instrumentation on Linux/x86\u201164 using memory\u2011indirect calls, part I",
-      "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
-      "score": 22,
-      "comments": 9,
-      "source": "humprog.org"
-    },
-    {
-      "title": "Developers don't understand CORS (2019)",
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "score": 302,
-      "comments": 238,
-      "source": "fosterelli.co"
-    },
-    {
-      "title": "A 3D voxel game engine written in APL",
-      "url": "https://github.com/namgyaaal/avoxelgame",
-      "score": 120,
-      "comments": 10,
-      "source": "github.com"
-    },
-    {
-      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-      "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-      "score": 76,
-      "comments": 48,
-      "source": "cleantechnica.com"
-    },
-    {
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "url": "https://townsquare.cauenapier.com/",
-      "score": 220,
-      "comments": 129,
-      "source": "townsquare.cauenapier.com"
-    },
-    {
-      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
-      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
-      "score": 175,
+      "score": 58,
       "comments": 24,
-      "source": "taoofmac.com"
-    },
-    {
-      "title": "Two Qwen3 models on one DGX Spark: the residency math",
-      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
-      "score": 64,
-      "comments": 29,
-      "source": "devashish.me"
-    },
-    {
-      "title": "The early hiring funnel is now breaking on both ends",
-      "url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
-      "score": 52,
-      "comments": 73,
-      "source": "hbr.org"
-    },
-    {
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "score": 332,
-      "comments": 96,
-      "source": "cell.com"
-    },
-    {
-      "title": "Renting a sewing machine from the library",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 306,
-      "comments": 180,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Excessive nil pointer checks in Go",
-      "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
-      "score": 55,
-      "comments": 52,
-      "source": "konradreiche.com"
-    },
-    {
-      "title": "Show HN: Pulse \u2013 Dashboard for Claude Code, approve tool calls from your phone",
-      "url": "https://github.com/nikitadoudikov/claude-pulse",
-      "score": 11,
-      "comments": 3,
       "source": "github.com"
     },
     {
-      "title": "The brain was not designed for this much bad news",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "score": 291,
-      "comments": 257,
-      "source": "sciencedaily.com"
+      "title": "Show HN: Teach your kids perfect pitch",
+      "url": "https://github.com/paytonjjones/bsharp",
+      "score": 45,
+      "comments": 30,
+      "source": "github.com"
     },
     {
-      "title": "Windows UI evolution: Clicking an unassociated file",
-      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-      "score": 115,
-      "comments": 79,
-      "source": "movq.de"
+      "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
+      "score": 40,
+      "comments": 10,
+      "source": "minecraft.net"
     },
     {
-      "title": "Epoll vs. io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 231,
-      "comments": 56,
-      "source": "sibexi.co"
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "url": "https://clevercrow.io",
+      "score": 32,
+      "comments": 45,
+      "source": "clevercrow.io"
     },
     {
-      "title": "Zigzag Decoding with AVX-512",
-      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-      "score": 115,
-      "comments": 21,
-      "source": "zeux.io"
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "score": 5,
+      "comments": 0,
+      "source": "teachmecoolstuff.com"
     },
     {
-      "title": "The case against geometric algebra (2024)",
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "score": 108,
-      "comments": 93,
-      "source": "alexkritchevsky.com"
+      "title": "Show HN: HN Game Stories \u2013 mini-documentary of games that hit the front page",
+      "url": "https://video.intellios.ai",
+      "score": 3,
+      "comments": 0,
+      "source": "video.intellios.ai"
     },
     {
-      "title": "The 100k whys of AI",
-      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "score": 140,
-      "comments": 81,
-      "source": "lcamtuf.substack.com"
+      "title": "New Super Pac Aims to Rally Tech Workers to Help Limit A.I",
+      "url": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html",
+      "score": 10,
+      "comments": 0,
+      "source": "nytimes.com"
     }
   ],
   "security": [
