@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "Pledging Another $400k to the Zig Software Foundation",
-      "url": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 34,
-      "comments": 0,
-      "source": "mitchellh.com"
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/hardware/steammachine",
+      "score": 391,
+      "comments": 350,
+      "source": "store.steampowered.com"
     },
     {
-      "title": "window.showDirectoryPicker opens up a whole new world",
-      "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-      "score": 38,
-      "comments": 29,
-      "source": "steveharrison.dev"
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "score": 146,
+      "comments": 36,
+      "source": "hustvl.github.io"
     },
     {
       "title": "Deno Desktop",
       "url": "https://docs.deno.com/runtime/desktop/",
-      "score": 685,
-      "comments": 261,
+      "score": 912,
+      "comments": 337,
       "source": "docs.deno.com"
     },
     {
-      "title": "GLM 5.2 vs. Opus",
-      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 262,
-      "comments": 201,
-      "source": "techstackups.com"
+      "title": "Show HN: Oak \u2013 Git replacement designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "score": 69,
+      "comments": 82,
+      "source": "oak.space"
+    },
+    {
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "score": 46,
+      "comments": 12,
+      "source": "blog.dahl.dev"
+    },
+    {
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://role-confusion.github.io",
+      "score": 69,
+      "comments": 38,
+      "source": "role-confusion.github.io"
+    },
+    {
+      "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
+      "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
+      "score": 49,
+      "comments": 21,
+      "source": "youtube.com"
     },
     {
       "title": "Codex logging bug may write TBs to local SSDs",
       "url": "https://github.com/openai/codex/issues/28224",
-      "score": 239,
-      "comments": 133,
+      "score": 378,
+      "comments": 208,
       "source": "github.com"
+    },
+    {
+      "title": "Pledging another $400k to the Zig software foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "score": 586,
+      "comments": 189,
+      "source": "mitchellh.com"
+    },
+    {
+      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+      "url": "https://jobs.ashbyhq.com/charge-robotics",
+      "score": 1,
+      "comments": 0,
+      "source": "jobs.ashbyhq.com"
+    },
+    {
+      "title": "The text in Claude Code\u2019s \u201cExtended Thinking\u201d output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 213,
+      "comments": 154,
+      "source": "patrickmccanna.net"
+    },
+    {
+      "title": "Bain tests software takeover targets by vibecoding AI replicas",
+      "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+      "score": 17,
+      "comments": 32,
+      "source": "ft.com"
+    },
+    {
+      "title": "Finding the Best Dog Treat with Statistics",
+      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "score": 21,
+      "comments": 4,
+      "source": "wespiser.com"
+    },
+    {
+      "title": "GLM 5.2 vs. Opus",
+      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+      "score": 405,
+      "comments": 280,
+      "source": "techstackups.com"
+    },
+    {
+      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+      "score": 54,
+      "comments": 9,
+      "source": "righto.com"
+    },
+    {
+      "title": "DisplayMate",
+      "url": "https://www.displaymate.com/",
+      "score": 40,
+      "comments": 13,
+      "source": "displaymate.com"
+    },
+    {
+      "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+      "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+      "score": 85,
+      "comments": 37,
+      "source": "gizmodo.com"
+    },
+    {
+      "title": "Blogger defeats photographer's copyright claim",
+      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+      "score": 29,
+      "comments": 8,
+      "source": "blog.ericgoldman.org"
+    },
+    {
+      "title": "How it feels to practice for IOAI in Iran",
+      "url": "https://howitfeels.netlify.app/",
+      "score": 16,
+      "comments": 0,
+      "source": "howitfeels.netlify.app"
+    },
+    {
+      "title": "window.showDirectoryPicker opens up a whole new world",
+      "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+      "score": 78,
+      "comments": 82,
+      "source": "steveharrison.dev"
+    },
+    {
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "score": 77,
+      "comments": 69,
+      "source": "puzzlelair.com"
+    },
+    {
+      "title": "NSF slashes research programs to support new tech initiative, insiders say",
+      "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+      "score": 104,
+      "comments": 41,
+      "source": "science.org"
     },
     {
       "title": "Help I accidentally a wigglegram",
       "url": "https://lmao.center/blog/wiggle-accidents/",
-      "score": 365,
-      "comments": 78,
+      "score": 439,
+      "comments": 111,
       "source": "lmao.center"
     },
     {
-      "title": "Did my old job only exist because of fraud?",
-      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 682,
-      "comments": 300,
-      "source": "david.newgas.net"
+      "title": "Alan Greenspan has died",
+      "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
+      "score": 147,
+      "comments": 153,
+      "source": "washingtonpost.com"
     },
     {
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "score": 141,
-      "comments": 57,
-      "source": "people.idsia.ch"
+      "title": "Granularity comes at a cost",
+      "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
+      "score": 39,
+      "comments": 6,
+      "source": "sidhantbansal.com"
     },
     {
-      "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 461,
-      "comments": 158,
-      "source": "apertvs.ai"
+      "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
+      "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
+      "score": 77,
+      "comments": 71,
+      "source": "chevron.com"
     },
     {
-      "title": "Investors get real-time view of UK bond market activity for the first time",
-      "url": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
-      "score": 65,
-      "comments": 32,
-      "source": "fca.org.uk"
+      "title": "Show HN: Selector Forge \u2013 browser extension for AI-generated resilient selectors",
+      "url": "https://github.com/Intuned/selector-forge",
+      "score": 22,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "url": "https://clevercrow.io",
+      "score": 42,
+      "comments": 61,
+      "source": "clevercrow.io"
+    },
+    {
+      "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
+      "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
+      "score": 103,
+      "comments": 43,
+      "source": "wsj.com"
     },
     {
       "title": "There is minimal downside to switching to open models",
       "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "score": 299,
-      "comments": 252,
+      "score": 364,
+      "comments": 296,
       "source": "marble.onl"
-    },
-    {
-      "title": "Sakana Fugu",
-      "url": "https://sakana.ai/fugu/",
-      "score": 159,
-      "comments": 93,
-      "source": "sakana.ai"
-    },
-    {
-      "title": "Manticore Search 27.1.5: Auth, sharding, conversational and faster vector search",
-      "url": "https://manticoresearch.com/blog/manticore-search-27-1-5/",
-      "score": 21,
-      "comments": 0,
-      "source": "manticoresearch.com"
-    },
-    {
-      "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
-      "url": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
-      "score": 45,
-      "comments": 5,
-      "source": "davidrevoy.com"
-    },
-    {
-      "title": "Becoming a dad changes men's brains",
-      "url": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
-      "score": 28,
-      "comments": 9,
-      "source": "scientificamerican.com"
-    },
-    {
-      "title": "Maria Isabel S\u00e1nchez Vegara on Her 100th \"Little People, Big Dreams\" Book",
-      "url": "https://www.amightygirl.com/blog?p=36753",
-      "score": 7,
-      "comments": 0,
-      "source": "amightygirl.com"
-    },
-    {
-      "title": "Memory Safe Inline Assembly",
-      "url": "https://fil-c.org/inlineasm",
-      "score": 140,
-      "comments": 31,
-      "source": "fil-c.org"
-    },
-    {
-      "title": "My 1992 view of the problems of computer programming in 1992",
-      "url": "https://blog.plover.com/prog/fortran-i.html",
-      "score": 58,
-      "comments": 20,
-      "source": "blog.plover.com"
-    },
-    {
-      "title": "Everything is logarithms",
-      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-      "score": 255,
-      "comments": 55,
-      "source": "alexkritchevsky.com"
-    },
-    {
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "score": 173,
-      "comments": 34,
-      "source": "teachmecoolstuff.com"
-    },
-    {
-      "title": "Lisp in the Rust Type System",
-      "url": "https://github.com/playX18/lisp-in-types/",
-      "score": 86,
-      "comments": 6,
-      "source": "github.com"
-    },
-    {
-      "title": "JSON-LD explained for personal websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "score": 244,
-      "comments": 76,
-      "source": "hawksley.dev"
-    },
-    {
-      "title": "Danish privacy activist Lars Andersen raided by police",
-      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-      "score": 326,
-      "comments": 276,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Alan Greenspan Dies at 100; Led Fed During Boom Before 2008 Bust",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/alan-greenspan-dies-at-100-led-fed-during-boom-before-2008-bust",
-      "score": 34,
-      "comments": 3,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "How I play video games with spinal muscular atrophy",
-      "url": "https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/",
-      "score": 139,
-      "comments": 18,
-      "source": "openassistivetech.org"
-    },
-    {
-      "title": "Writing Postcards with a 3D Printer",
-      "url": "https://severinbucher.com/posts/writing-postcards-with-a-3d-printer/",
-      "score": 34,
-      "comments": 17,
-      "source": "severinbucher.com"
-    },
-    {
-      "title": "Japanese verb conjugation the simple hard way",
-      "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
-      "score": 127,
-      "comments": 198,
-      "source": "underreacted.leaflet.pub"
-    },
-    {
-      "title": "Efficient C++ Programming for Modern 64-bit CPUs: Chapter 4/part 2",
-      "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
-      "score": 81,
-      "comments": 17,
-      "source": "6it.dev"
-    },
-    {
-      "title": "Show HN: Teach your kids perfect pitch",
-      "url": "https://github.com/paytonjjones/bsharp",
-      "score": 168,
-      "comments": 113,
-      "source": "github.com"
-    },
-    {
-      "title": "Minecraft: Java Edition 26.2, the first version with Vulkan 1.2",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-2",
-      "score": 177,
-      "comments": 77,
-      "source": "minecraft.net"
     }
   ],
   "security": [
+    {
+      "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
+      "url": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/",
+      "date": "2026-06-22 15:53:05",
+      "author": "Meriem SMACHE"
+    },
     {
       "title": "Accelerate security investigations with Kiro CLI",
       "url": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/gain-visibility-into-ddos-attacks-with-flow-logs-in-aws-shield-advanced/",
       "date": "2026-06-04 19:21:34",
       "author": "Ken Kitts"
-    },
-    {
-      "title": "Customize federated sign-in with new Amazon Cognito Lambda trigger",
-      "url": "https://aws.amazon.com/blogs/security/customize-federated-sign-in-with-new-amazon-cognito-lambda-trigger/",
-      "date": "2026-06-04 15:49:15",
-      "author": "Abrom Douglas"
     }
   ]
 }
