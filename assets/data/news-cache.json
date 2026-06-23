@@ -3,93 +3,177 @@
     {
       "title": "Steam Machine launches today",
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1144,
-      "comments": 1024,
+      "score": 1472,
+      "comments": 1297,
       "source": "store.steampowered.com"
     },
     {
-      "title": "Runing GLM-5.2 on local hardware",
+      "title": "Will It Mythos?",
+      "url": "https://swelljoe.com/post/will-it-mythos/",
+      "score": 112,
+      "comments": 62,
+      "source": "swelljoe.com"
+    },
+    {
+      "title": "GLM-5.2 \u2013 How to Run Locally",
       "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 139,
-      "comments": 55,
+      "score": 325,
+      "comments": 144,
       "source": "unsloth.ai"
+    },
+    {
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "score": 134,
+      "comments": 45,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "score": 200,
+      "comments": 155,
+      "source": "wsj.com"
+    },
+    {
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "score": 125,
+      "comments": 46,
+      "source": "jchri.st"
+    },
+    {
+      "title": "An Introduction to YOLO26",
+      "url": "https://blog.roboflow.com/yolo26/",
+      "score": 58,
+      "comments": 15,
+      "source": "blog.roboflow.com"
+    },
+    {
+      "title": "The new HTTP QUERY method explained",
+      "url": "https://kreya.app/blog/new-http-query-method-explained/",
+      "score": 13,
+      "comments": 2,
+      "source": "kreya.app"
+    },
+    {
+      "title": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "score": 50,
+      "comments": 14,
+      "source": "openai.com"
     },
     {
       "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
       "url": "https://github.com/dorukkumkumoglu/optocamzero",
-      "score": 90,
-      "comments": 21,
+      "score": 158,
+      "comments": 40,
       "source": "github.com"
     },
     {
-      "title": "Cyberdecks, going analog, and convivial technology",
-      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-      "score": 15,
-      "comments": 6,
-      "source": "blog.hydroponictrash.solar"
-    },
-    {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "score": 96,
-      "comments": 62,
-      "source": "crunchydata.com"
+      "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "url": "https://arxiv.org/abs/2606.03748",
+      "score": 31,
+      "comments": 3,
+      "source": "arxiv.org"
     },
     {
       "title": "My Mathematical Regression",
       "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "score": 189,
-      "comments": 67,
+      "score": 270,
+      "comments": 103,
       "source": "blog.dahl.dev"
     },
     {
-      "title": "Japanese symbols that speak without words",
-      "url": "https://arun.is/blog/japan-symbols/",
-      "score": 89,
-      "comments": 31,
-      "source": "arun.is"
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "score": 88,
+      "comments": 45,
+      "source": "blog.hydroponictrash.solar"
     },
     {
       "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
       "url": "https://hustvl.github.io/Moebius/",
-      "score": 218,
-      "comments": 64,
+      "score": 275,
+      "comments": 69,
       "source": "hustvl.github.io"
     },
     {
-      "title": "Is it time for a new Embedded Linux build system?",
-      "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-      "score": 23,
-      "comments": 14,
-      "source": "yoebuild.org"
+      "title": "Japanese symbols that speak without words",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "score": 164,
+      "comments": 86,
+      "source": "arun.is"
+    },
+    {
+      "title": "Windows NT for GameCube/Wii",
+      "url": "https://github.com/Wack0/entii-for-workcubes",
+      "score": 54,
+      "comments": 9,
+      "source": "github.com"
     },
     {
       "title": "Show HN: Oak \u2013 Git alternative designed for agents",
       "url": "https://oak.space/oak/oak",
-      "score": 142,
-      "comments": 133,
+      "score": 179,
+      "comments": 161,
       "source": "oak.space"
     },
     {
       "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
       "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "score": 253,
-      "comments": 122,
+      "score": 436,
+      "comments": 281,
       "source": "cbc.ca"
+    },
+    {
+      "title": "Package Managers need global hooks",
+      "url": "https://captnemo.in/blog/2026/06/17/package-managers-need-hooks/",
+      "score": 16,
+      "comments": 21,
+      "source": "captnemo.in"
+    },
+    {
+      "title": "How Lume Works: The Retrieval Primitives",
+      "url": "https://deepbluedynamics.com/blog/lume-retrieval-primitives",
+      "score": 4,
+      "comments": 0,
+      "source": "deepbluedynamics.com"
+    },
+    {
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "score": 483,
+      "comments": 198,
+      "source": "ipvm.com"
+    },
+    {
+      "title": "1,700 free online courses from top universities",
+      "url": "https://www.openculture.com/freeonlinecourses",
+      "score": 166,
+      "comments": 32,
+      "source": "openculture.com"
     },
     {
       "title": "Canyon HUD helmet for road riding",
       "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
-      "score": 55,
-      "comments": 62,
+      "score": 89,
+      "comments": 101,
       "source": "media-centre.canyon.com"
     },
     {
-      "title": "Fable 5 wrote a Windows kernel in 38 minutes",
-      "url": "https://tolmo.com/blog/when-the-model-writes-the-kernel/",
-      "score": 4,
-      "comments": 1,
-      "source": "tolmo.com"
+      "title": "ytr: YouTube Radio for Emacs",
+      "url": "https://xenodium.com/ytr-youtube-radio-for-emacs",
+      "score": 101,
+      "comments": 9,
+      "source": "xenodium.com"
+    },
+    {
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "score": 180,
+      "comments": 112,
+      "source": "puzzlelair.com"
     },
     {
       "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
@@ -99,116 +183,25 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
-      "url": "https://ipvm.com/reports/police-chiefs-track",
-      "score": 301,
-      "comments": 111,
-      "source": "ipvm.com"
-    },
-    {
-      "title": "Job application asked for my SAT scores",
-      "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
-      "score": 58,
-      "comments": 149,
-      "source": "mrmarket.lol"
-    },
-    {
-      "title": "DisplayMate",
-      "url": "https://www.displaymate.com/",
-      "score": 88,
-      "comments": 26,
-      "source": "displaymate.com"
-    },
-    {
-      "title": "PivCo-Huffman \"Merge\" Operations",
-      "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
-      "score": 30,
-      "comments": 1,
-      "source": "fgiesen.wordpress.com"
-    },
-    {
-      "title": "Finding the Best Dog Treat with Statistics",
-      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-      "score": 76,
-      "comments": 19,
-      "source": "wespiser.com"
-    },
-    {
-      "title": "Prompt Injection as Role Confusion",
-      "url": "https://role-confusion.github.io",
-      "score": 142,
-      "comments": 78,
-      "source": "role-confusion.github.io"
-    },
-    {
-      "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
-      "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
-      "score": 86,
-      "comments": 37,
-      "source": "youtube.com"
-    },
-    {
-      "title": "How do flocking birds and schools of fish move?",
-      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
-      "score": 12,
-      "comments": 4,
-      "source": "nyu.edu"
-    },
-    {
-      "title": "Pledging another $400k to the Zig software foundation",
-      "url": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 716,
-      "comments": 242,
-      "source": "mitchellh.com"
-    },
-    {
-      "title": "Linux and Secure Boot certificate expiration (2025)",
-      "url": "https://lwn.net/Articles/1029767/",
-      "score": 100,
-      "comments": 50,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
-      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-      "score": 79,
-      "comments": 16,
-      "source": "righto.com"
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "score": 525,
+      "comments": 121,
+      "source": "lmao.center"
     },
     {
       "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
       "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-      "score": 115,
-      "comments": 107,
+      "score": 141,
+      "comments": 126,
       "source": "chevron.com"
-    },
-    {
-      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-      "url": "https://puzzlelair.com/",
-      "score": 134,
-      "comments": 95,
-      "source": "puzzlelair.com"
     },
     {
       "title": "Deno Desktop",
       "url": "https://docs.deno.com/runtime/desktop/",
-      "score": 1013,
-      "comments": 368,
+      "score": 1057,
+      "comments": 381,
       "source": "docs.deno.com"
-    },
-    {
-      "title": "Help I accidentally a wigglegram",
-      "url": "https://lmao.center/blog/wiggle-accidents/",
-      "score": 481,
-      "comments": 120,
-      "source": "lmao.center"
-    },
-    {
-      "title": "The text in Claude Code\u2019s \u201cExtended Thinking\u201d output",
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "score": 270,
-      "comments": 187,
-      "source": "patrickmccanna.net"
     }
   ],
   "security": [
