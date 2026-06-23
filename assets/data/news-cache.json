@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Steam Machine",
-      "url": "https://store.steampowered.com/hardware/steammachine",
-      "score": 391,
-      "comments": 350,
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 1144,
+      "comments": 1024,
       "source": "store.steampowered.com"
     },
     {
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
-      "score": 146,
-      "comments": 36,
-      "source": "hustvl.github.io"
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "score": 139,
+      "comments": 55,
+      "source": "unsloth.ai"
     },
     {
-      "title": "Deno Desktop",
-      "url": "https://docs.deno.com/runtime/desktop/",
-      "score": 912,
-      "comments": 337,
-      "source": "docs.deno.com"
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "score": 90,
+      "comments": 21,
+      "source": "github.com"
     },
     {
-      "title": "Show HN: Oak \u2013 Git replacement designed for agents",
-      "url": "https://oak.space/oak/oak",
-      "score": 69,
-      "comments": 82,
-      "source": "oak.space"
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "score": 15,
+      "comments": 6,
+      "source": "blog.hydroponictrash.solar"
+    },
+    {
+      "title": "British Columbia, Time Zones, and Postgres",
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "score": 96,
+      "comments": 62,
+      "source": "crunchydata.com"
     },
     {
       "title": "My Mathematical Regression",
       "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "score": 46,
-      "comments": 12,
+      "score": 189,
+      "comments": 67,
       "source": "blog.dahl.dev"
+    },
+    {
+      "title": "Japanese symbols that speak without words",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "score": 89,
+      "comments": 31,
+      "source": "arun.is"
+    },
+    {
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "score": 218,
+      "comments": 64,
+      "source": "hustvl.github.io"
+    },
+    {
+      "title": "Is it time for a new Embedded Linux build system?",
+      "url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+      "score": 23,
+      "comments": 14,
+      "source": "yoebuild.org"
+    },
+    {
+      "title": "Show HN: Oak \u2013 Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "score": 142,
+      "comments": 133,
+      "source": "oak.space"
+    },
+    {
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "score": 253,
+      "comments": 122,
+      "source": "cbc.ca"
+    },
+    {
+      "title": "Canyon HUD helmet for road riding",
+      "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
+      "score": 55,
+      "comments": 62,
+      "source": "media-centre.canyon.com"
+    },
+    {
+      "title": "Fable 5 wrote a Windows kernel in 38 minutes",
+      "url": "https://tolmo.com/blog/when-the-model-writes-the-kernel/",
+      "score": 4,
+      "comments": 1,
+      "source": "tolmo.com"
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "score": 301,
+      "comments": 111,
+      "source": "ipvm.com"
+    },
+    {
+      "title": "Job application asked for my SAT scores",
+      "url": "https://mrmarket.lol/job-application-asked-for-my-sat-scores/",
+      "score": 58,
+      "comments": 149,
+      "source": "mrmarket.lol"
+    },
+    {
+      "title": "DisplayMate",
+      "url": "https://www.displaymate.com/",
+      "score": 88,
+      "comments": 26,
+      "source": "displaymate.com"
+    },
+    {
+      "title": "PivCo-Huffman \"Merge\" Operations",
+      "url": "https://fgiesen.wordpress.com/2026/06/21/pivco-huffman-merge-operations/",
+      "score": 30,
+      "comments": 1,
+      "source": "fgiesen.wordpress.com"
+    },
+    {
+      "title": "Finding the Best Dog Treat with Statistics",
+      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "score": 76,
+      "comments": 19,
+      "source": "wespiser.com"
     },
     {
       "title": "Prompt Injection as Role Confusion",
       "url": "https://role-confusion.github.io",
-      "score": 69,
-      "comments": 38,
+      "score": 142,
+      "comments": 78,
       "source": "role-confusion.github.io"
     },
     {
       "title": "Nintendo Wii U games running from a 1980's Bernoulli disk [video]",
       "url": "https://www.youtube.com/watch?v=8GZDOpV2OXk",
-      "score": 49,
-      "comments": 21,
+      "score": 86,
+      "comments": 37,
       "source": "youtube.com"
     },
     {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "url": "https://github.com/openai/codex/issues/28224",
-      "score": 378,
-      "comments": 208,
-      "source": "github.com"
+      "title": "How do flocking birds and schools of fish move?",
+      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
+      "score": 12,
+      "comments": 4,
+      "source": "nyu.edu"
     },
     {
       "title": "Pledging another $400k to the Zig software foundation",
       "url": "https://mitchellh.com/writing/zig-donation-2026",
-      "score": 586,
-      "comments": 189,
+      "score": 716,
+      "comments": 242,
       "source": "mitchellh.com"
     },
     {
-      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
-      "url": "https://jobs.ashbyhq.com/charge-robotics",
-      "score": 1,
-      "comments": 0,
-      "source": "jobs.ashbyhq.com"
-    },
-    {
-      "title": "The text in Claude Code\u2019s \u201cExtended Thinking\u201d output",
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "score": 213,
-      "comments": 154,
-      "source": "patrickmccanna.net"
-    },
-    {
-      "title": "Bain tests software takeover targets by vibecoding AI replicas",
-      "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
-      "score": 17,
-      "comments": 32,
-      "source": "ft.com"
-    },
-    {
-      "title": "Finding the Best Dog Treat with Statistics",
-      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-      "score": 21,
-      "comments": 4,
-      "source": "wespiser.com"
-    },
-    {
-      "title": "GLM 5.2 vs. Opus",
-      "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-      "score": 405,
-      "comments": 280,
-      "source": "techstackups.com"
+      "title": "Linux and Secure Boot certificate expiration (2025)",
+      "url": "https://lwn.net/Articles/1029767/",
+      "score": 100,
+      "comments": 50,
+      "source": "lwn.net"
     },
     {
       "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
       "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
-      "score": 54,
-      "comments": 9,
+      "score": 79,
+      "comments": 16,
       "source": "righto.com"
-    },
-    {
-      "title": "DisplayMate",
-      "url": "https://www.displaymate.com/",
-      "score": 40,
-      "comments": 13,
-      "source": "displaymate.com"
-    },
-    {
-      "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
-      "url": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
-      "score": 85,
-      "comments": 37,
-      "source": "gizmodo.com"
-    },
-    {
-      "title": "Blogger defeats photographer's copyright claim",
-      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
-      "score": 29,
-      "comments": 8,
-      "source": "blog.ericgoldman.org"
-    },
-    {
-      "title": "How it feels to practice for IOAI in Iran",
-      "url": "https://howitfeels.netlify.app/",
-      "score": 16,
-      "comments": 0,
-      "source": "howitfeels.netlify.app"
-    },
-    {
-      "title": "window.showDirectoryPicker opens up a whole new world",
-      "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-      "score": 78,
-      "comments": 82,
-      "source": "steveharrison.dev"
-    },
-    {
-      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
-      "url": "https://puzzlelair.com/",
-      "score": 77,
-      "comments": 69,
-      "source": "puzzlelair.com"
-    },
-    {
-      "title": "NSF slashes research programs to support new tech initiative, insiders say",
-      "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
-      "score": 104,
-      "comments": 41,
-      "source": "science.org"
-    },
-    {
-      "title": "Help I accidentally a wigglegram",
-      "url": "https://lmao.center/blog/wiggle-accidents/",
-      "score": 439,
-      "comments": 111,
-      "source": "lmao.center"
-    },
-    {
-      "title": "Alan Greenspan has died",
-      "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
-      "score": 147,
-      "comments": 153,
-      "source": "washingtonpost.com"
-    },
-    {
-      "title": "Granularity comes at a cost",
-      "url": "https://www.sidhantbansal.com/2026/Granularity-comes-at-a-cost/",
-      "score": 39,
-      "comments": 6,
-      "source": "sidhantbansal.com"
     },
     {
       "title": "Chevron signs 20-year power agreement with Microsoft for West Texas data center",
       "url": "https://www.chevron.com/newsroom/2026/q2/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center",
-      "score": 77,
-      "comments": 71,
+      "score": 115,
+      "comments": 107,
       "source": "chevron.com"
     },
     {
-      "title": "Show HN: Selector Forge \u2013 browser extension for AI-generated resilient selectors",
-      "url": "https://github.com/Intuned/selector-forge",
-      "score": 22,
-      "comments": 0,
-      "source": "github.com"
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "score": 134,
+      "comments": 95,
+      "source": "puzzlelair.com"
     },
     {
-      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-      "url": "https://clevercrow.io",
-      "score": 42,
-      "comments": 61,
-      "source": "clevercrow.io"
+      "title": "Deno Desktop",
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "score": 1013,
+      "comments": 368,
+      "source": "docs.deno.com"
     },
     {
-      "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
-      "url": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
-      "score": 103,
-      "comments": 43,
-      "source": "wsj.com"
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "score": 481,
+      "comments": 120,
+      "source": "lmao.center"
     },
     {
-      "title": "There is minimal downside to switching to open models",
-      "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "score": 364,
-      "comments": 296,
-      "source": "marble.onl"
+      "title": "The text in Claude Code\u2019s \u201cExtended Thinking\u201d output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 270,
+      "comments": 187,
+      "source": "patrickmccanna.net"
     }
   ],
   "security": [
