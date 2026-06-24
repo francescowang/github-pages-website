@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Jerry's Map",
-      "url": "http://www.jerrysmap.com/the-map",
-      "score": 311,
-      "comments": 46,
-      "source": "jerrysmap.com"
-    },
-    {
-      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-      "score": 37,
-      "comments": 11,
-      "source": "thedrive.com"
-    },
-    {
       "title": "Vulnerability reports are not special anymore",
       "url": "https://words.filippo.io/vuln-reports/",
-      "score": 14,
-      "comments": 0,
+      "score": 213,
+      "comments": 116,
       "source": "words.filippo.io"
+    },
+    {
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "score": 432,
+      "comments": 51,
+      "source": "jerrysmap.com"
     },
     {
       "title": "FUTO Swipe \u2013 A new swipe typing model",
       "url": "https://swipe.futo.tech/",
-      "score": 235,
-      "comments": 77,
+      "score": 468,
+      "comments": 144,
       "source": "swipe.futo.tech"
     },
     {
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 164,
-      "comments": 50,
-      "source": "swiftpackageindex.com"
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "score": 64,
+      "comments": 10,
+      "source": "arxiv.org"
     },
     {
-      "title": "Printing Gaussian Splats",
-      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "score": 153,
-      "comments": 13,
-      "source": "patreon.com"
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "score": 64,
+      "comments": 18,
+      "source": "gitlab.com"
+    },
+    {
+      "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn",
+      "score": 1,
+      "comments": 0,
+      "source": "ashbyhq.com"
     },
     {
       "title": "In memory of the man who put red and green squiggles under words",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 117,
-      "comments": 9,
+      "score": 318,
+      "comments": 42,
       "source": "devblogs.microsoft.com"
     },
     {
-      "title": "Extreme Heat conference cancelled due to extreme heat warning",
-      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
-      "score": 79,
-      "comments": 13,
-      "source": "lse.ac.uk"
+      "title": "Show HN: An ASCII 3D Rendering Engine",
+      "url": "https://glyphcss.com",
+      "score": 63,
+      "comments": 21,
+      "source": "glyphcss.com"
     },
     {
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "title": "Remaking BBC test cards to teach you video processing",
+      "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
+      "score": 19,
+      "comments": 0,
+      "source": "youtube.com"
+    },
+    {
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
       "score": 50,
-      "comments": 13,
-      "source": "ps.tc"
+      "comments": 17,
+      "source": "gist.github.com"
     },
     {
-      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "score": 316,
-      "comments": 61,
-      "source": "tikz.dev"
-    },
-    {
-      "title": "Inventing the Future, One Lisp Machine at a Time",
-      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
-      "score": 68,
-      "comments": 3,
-      "source": "patrickdomanico.com"
-    },
-    {
-      "title": "The Coming Loop",
-      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "score": 312,
-      "comments": 220,
-      "source": "lucumr.pocoo.org"
-    },
-    {
-      "title": "The worthlessness of Vitamin D is mildly exaggerated",
-      "url": "https://dynomight.net/vitamin-d/",
-      "score": 190,
-      "comments": 139,
-      "source": "dynomight.net"
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "score": 263,
+      "comments": 29,
+      "source": "patreon.com"
     },
     {
       "title": "Rhombus Language 1.0",
       "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
-      "score": 59,
-      "comments": 7,
+      "score": 139,
+      "comments": 32,
       "source": "blog.racket-lang.org"
     },
     {
-      "title": "Unlimited OCR: One-shot long-horizon parsing",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "score": 433,
-      "comments": 100,
-      "source": "github.com"
-    },
-    {
-      "title": "F* file system \u2013 file search that reads SSD directly bypassing OS kernel",
-      "url": "https://github.com/dmtrKovalenko/ffs",
-      "score": 28,
-      "comments": 28,
-      "source": "github.com"
-    },
-    {
-      "title": "Don't verify email addresses by sending spam to them",
-      "url": "https://milek7.pl/mailverifyspam/",
-      "score": 130,
-      "comments": 39,
-      "source": "milek7.pl"
-    },
-    {
-      "title": "AI has already killed academia as we know it?",
-      "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
-      "score": 51,
-      "comments": 35,
-      "source": "truths-and-loves.ghost.io"
-    },
-    {
-      "title": "Trains halted across Germany because of communication system problem",
-      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
-      "score": 136,
-      "comments": 135,
-      "source": "apnews.com"
-    },
-    {
-      "title": "Show HN: FastUbu \u2013 An Ultrafast Video Archive",
-      "url": "https://fastubu.com/",
-      "score": 7,
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "score": 31,
       "comments": 0,
-      "source": "fastubu.com"
+      "source": "github.com"
+    },
+    {
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "score": 132,
+      "comments": 26,
+      "source": "ps.tc"
+    },
+    {
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "score": 196,
+      "comments": 66,
+      "source": "swiftpackageindex.com"
+    },
+    {
+      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "score": 374,
+      "comments": 70,
+      "source": "tikz.dev"
+    },
+    {
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "score": 144,
+      "comments": 81,
+      "source": "thedrive.com"
+    },
+    {
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "url": "https://dynomight.net/vitamin-d/",
+      "score": 272,
+      "comments": 187,
+      "source": "dynomight.net"
+    },
+    {
+      "title": "Lithp.py (~2008)",
+      "url": "https://fogus.me/fun/lithp/",
+      "score": 10,
+      "comments": 2,
+      "source": "fogus.me"
+    },
+    {
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "score": 203,
+      "comments": 116,
+      "source": "wired.com"
     },
     {
       "title": "Dirty Little Zine \u2013 a tool for making an 8 page printable Zine",
       "url": "https://dirtylittlezine.com/",
-      "score": 47,
-      "comments": 2,
+      "score": 109,
+      "comments": 12,
       "source": "dirtylittlezine.com"
     },
     {
-      "title": "Wolves are reconquering Europe. Can people learn to live with them?",
-      "url": "https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them",
-      "score": 31,
-      "comments": 19,
-      "source": "science.org"
+      "title": "The Teensy Executable Revisited",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+      "score": 28,
+      "comments": 3,
+      "source": "muppetlabs.com"
+    },
+    {
+      "title": "Inventing the Future, One Lisp Machine at a Time",
+      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+      "score": 95,
+      "comments": 10,
+      "source": "patrickdomanico.com"
     },
     {
       "title": "Millimeter wave technology drills 100 meters into granite",
       "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
-      "score": 85,
-      "comments": 14,
+      "score": 134,
+      "comments": 38,
       "source": "thinkgeoenergy.com"
     },
     {
-      "title": "I can haz smoller NixOS ISOs?",
-      "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-      "score": 9,
-      "comments": 5,
-      "source": "natkr.com"
-    },
-    {
-      "title": "Five monitors on a Commodore 128 [video]",
-      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "score": 103,
-      "comments": 19,
-      "source": "youtube.com"
-    },
-    {
-      "title": "The Low-Tech AI of Elden Ring",
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 99,
-      "comments": 52,
-      "source": "nega.tv"
+      "title": "The war on terror primed America for autocracy",
+      "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+      "score": 182,
+      "comments": 136,
+      "source": "economist.com"
     },
     {
       "title": "Fired by Google for creating the Google workspace CLI",
       "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-      "score": 244,
-      "comments": 171,
+      "score": 453,
+      "comments": 272,
       "source": "twitter.com"
     },
     {
-      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
-      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
-      "score": 90,
-      "comments": 27,
-      "source": "semiconductor.samsung.com"
+      "title": "The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "score": 136,
+      "comments": 67,
+      "source": "nega.tv"
     },
     {
-      "title": "Show HN: Monolisa v3 \u2013 a typeface for developers and creatives",
-      "url": "https://www.monolisa.dev/",
-      "score": 41,
-      "comments": 6,
-      "source": "monolisa.dev"
+      "title": "F* file system \u2013 file search that reads SSD directly bypassing OS kernel",
+      "url": "https://github.com/dmtrKovalenko/ffs",
+      "score": 56,
+      "comments": 38,
+      "source": "github.com"
     },
     {
-      "title": "California AB 2047 makes 3D printers off-limits to students, educators, business",
-      "url": "https://www.the3dprintingnerd.com/ab2047",
-      "score": 212,
-      "comments": 142,
-      "source": "the3dprintingnerd.com"
+      "title": "Five monitors on a Commodore 128 [video]",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "score": 122,
+      "comments": 21,
+      "source": "youtube.com"
+    },
+    {
+      "title": "QSOE: QNX-inspired OS with dual-kernel architecture",
+      "url": "https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html",
+      "score": 39,
+      "comments": 15,
+      "source": "qsoe-dev.blogspot.com"
     }
   ],
   "security": [
