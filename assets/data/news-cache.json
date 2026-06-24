@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "F3",
-      "url": "https://github.com/future-file-format/f3",
-      "score": 342,
-      "comments": 92,
-      "source": "github.com"
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "score": 311,
+      "comments": 46,
+      "source": "jerrysmap.com"
     },
     {
-      "title": "San Diego photologs from the 1970s",
-      "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-      "score": 73,
-      "comments": 12,
-      "source": "beautifulpublicdata.com"
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "score": 37,
+      "comments": 11,
+      "source": "thedrive.com"
     },
     {
-      "title": "Swift Package Index Joins Apple",
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "score": 14,
+      "comments": 0,
+      "source": "words.filippo.io"
+    },
+    {
+      "title": "FUTO Swipe \u2013 A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 235,
+      "comments": 77,
+      "source": "swipe.futo.tech"
+    },
+    {
+      "title": "Swift Package Index joins Apple",
       "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 32,
-      "comments": 3,
+      "score": 164,
+      "comments": 50,
       "source": "swiftpackageindex.com"
     },
     {
-      "title": "The truth about being a manager",
-      "url": "https://sofiakodar.github.io/posts/becomingmanager/",
-      "score": 45,
-      "comments": 27,
-      "source": "sofiakodar.github.io"
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "score": 153,
+      "comments": 13,
+      "source": "patreon.com"
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 117,
+      "comments": 9,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Extreme Heat conference cancelled due to extreme heat warning",
+      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+      "score": 79,
+      "comments": 13,
+      "source": "lse.ac.uk"
+    },
+    {
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "score": 50,
+      "comments": 13,
+      "source": "ps.tc"
     },
     {
       "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
       "url": "https://tikz.dev/editor/",
-      "score": 240,
-      "comments": 46,
+      "score": 316,
+      "comments": 61,
       "source": "tikz.dev"
     },
     {
-      "title": "I am a person who will look at the Steam Machine and cry",
-      "url": "https://blog.zarfhome.com/2026/06/steam-machine-oh-no",
-      "score": 13,
-      "comments": 16,
-      "source": "blog.zarfhome.com"
-    },
-    {
-      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "score": 352,
-      "comments": 87,
-      "source": "github.com"
-    },
-    {
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "url": "https://lift4d.github.io/",
-      "score": 75,
-      "comments": 6,
-      "source": "lift4d.github.io"
-    },
-    {
-      "title": "Five monitors on a Commodore 128 [video]",
-      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-      "score": 51,
-      "comments": 10,
-      "source": "youtube.com"
+      "title": "Inventing the Future, One Lisp Machine at a Time",
+      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+      "score": 68,
+      "comments": 3,
+      "source": "patrickdomanico.com"
     },
     {
       "title": "The Coming Loop",
       "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "score": 188,
-      "comments": 152,
+      "score": 312,
+      "comments": 220,
       "source": "lucumr.pocoo.org"
     },
     {
-      "title": "Jerry's Map",
-      "url": "http://www.jerrysmap.com/the-map",
-      "score": 3,
-      "comments": 0,
-      "source": "jerrysmap.com"
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "url": "https://dynomight.net/vitamin-d/",
+      "score": 190,
+      "comments": 139,
+      "source": "dynomight.net"
     },
     {
-      "title": "Samsung Demonstrates 3D Stacked FETs with Triple Nanosheet Channels at 42nm",
-      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
-      "score": 42,
-      "comments": 14,
-      "source": "semiconductor.samsung.com"
+      "title": "Rhombus Language 1.0",
+      "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
+      "score": 59,
+      "comments": 7,
+      "source": "blog.racket-lang.org"
     },
     {
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "score": 306,
-      "comments": 81,
-      "source": "mistral.ai"
-    },
-    {
-      "title": "Elevated error rate across multiple models",
-      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "score": 179,
-      "comments": 225,
-      "source": "status.claude.com"
-    },
-    {
-      "title": "Plotnine",
-      "url": "https://plotnine.org/",
-      "score": 217,
-      "comments": 66,
-      "source": "plotnine.org"
-    },
-    {
-      "title": "Performance Improvements in Libffi",
-      "url": "https://atgreen.github.io/repl-yell/posts/libffi-plan-cache/",
-      "score": 14,
-      "comments": 4,
-      "source": "atgreen.github.io"
-    },
-    {
-      "title": "Show HN: Bun-sqlgen \u2013 Type-safe raw SQL for Bun, no ORM",
-      "url": "https://github.com/ilbertt/bun-sqlgen",
-      "score": 45,
-      "comments": 22,
+      "title": "Unlimited OCR: One-shot long-horizon parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "score": 433,
+      "comments": 100,
       "source": "github.com"
     },
     {
-      "title": "MSG Made Dossier on Activists Who Opposed Facial Recognition",
-      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-      "score": 226,
-      "comments": 63,
-      "source": "404media.co"
+      "title": "F* file system \u2013 file search that reads SSD directly bypassing OS kernel",
+      "url": "https://github.com/dmtrKovalenko/ffs",
+      "score": 28,
+      "comments": 28,
+      "source": "github.com"
     },
     {
-      "title": "Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "score": 94,
-      "comments": 42,
-      "source": "anthropic.com"
+      "title": "Don't verify email addresses by sending spam to them",
+      "url": "https://milek7.pl/mailverifyspam/",
+      "score": 130,
+      "comments": 39,
+      "source": "milek7.pl"
     },
     {
-      "title": "The deadly rise of giant trucks and SUVs",
-      "url": "https://www.nytimes.com/interactive/2026/06/21/us/trucks-suv-pedestrian-crashes.html",
-      "score": 67,
-      "comments": 223,
-      "source": "nytimes.com"
+      "title": "AI has already killed academia as we know it?",
+      "url": "https://truths-and-loves.ghost.io/ai-has-already-killed-academia-as-we-know-it/",
+      "score": 51,
+      "comments": 35,
+      "source": "truths-and-loves.ghost.io"
     },
     {
-      "title": "GLM-5.2 \u2013 How to Run Locally",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 559,
-      "comments": 266,
-      "source": "unsloth.ai"
+      "title": "Trains halted across Germany because of communication system problem",
+      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+      "score": 136,
+      "comments": 135,
+      "source": "apnews.com"
+    },
+    {
+      "title": "Show HN: FastUbu \u2013 An Ultrafast Video Archive",
+      "url": "https://fastubu.com/",
+      "score": 7,
+      "comments": 0,
+      "source": "fastubu.com"
+    },
+    {
+      "title": "Dirty Little Zine \u2013 a tool for making an 8 page printable Zine",
+      "url": "https://dirtylittlezine.com/",
+      "score": 47,
+      "comments": 2,
+      "source": "dirtylittlezine.com"
+    },
+    {
+      "title": "Wolves are reconquering Europe. Can people learn to live with them?",
+      "url": "https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them",
+      "score": 31,
+      "comments": 19,
+      "source": "science.org"
+    },
+    {
+      "title": "Millimeter wave technology drills 100 meters into granite",
+      "url": "https://www.thinkgeoenergy.com/quaise-energy-achieves-100-meters-of-drilling-using-millimeter-wave-technology/",
+      "score": 85,
+      "comments": 14,
+      "source": "thinkgeoenergy.com"
+    },
+    {
+      "title": "I can haz smoller NixOS ISOs?",
+      "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+      "score": 9,
+      "comments": 5,
+      "source": "natkr.com"
+    },
+    {
+      "title": "Five monitors on a Commodore 128 [video]",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "score": 103,
+      "comments": 19,
+      "source": "youtube.com"
     },
     {
       "title": "The Low-Tech AI of Elden Ring",
       "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "score": 51,
-      "comments": 31,
+      "score": 99,
+      "comments": 52,
       "source": "nega.tv"
     },
     {
-      "title": "Finding the best dog treat with statistics",
-      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
-      "score": 110,
-      "comments": 46,
-      "source": "wespiser.com"
+      "title": "Fired by Google for creating the Google workspace CLI",
+      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+      "score": 244,
+      "comments": 171,
+      "source": "twitter.com"
     },
     {
-      "title": "Will It Mythos?",
-      "url": "https://swelljoe.com/post/will-it-mythos/",
-      "score": 277,
-      "comments": 199,
-      "source": "swelljoe.com"
+      "title": "Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm",
+      "url": "https://semiconductor.samsung.com/news-events/tech-blog/from-gaa-to-3d-stacked-fet-expanding-the-transistor-into-the-third-dimension/",
+      "score": 90,
+      "comments": 27,
+      "source": "semiconductor.samsung.com"
     },
     {
-      "title": "Open Source for IBM Z and LinuxONE",
-      "url": "https://community.ibm.com/community/user/blogs/elizabeth-k-joseph1/2026/06/18/linuxone-open-source-report-may-2026",
+      "title": "Show HN: Monolisa v3 \u2013 a typeface for developers and creatives",
+      "url": "https://www.monolisa.dev/",
       "score": 41,
       "comments": 6,
-      "source": "community.ibm.com"
+      "source": "monolisa.dev"
     },
     {
-      "title": "Show HN: Treedocs: Documentation that automatically checks for staleness",
-      "url": "https://dandylyons.github.io/treedocs/",
-      "score": 25,
-      "comments": 17,
-      "source": "dandylyons.github.io"
-    },
-    {
-      "title": "What we call \"age verification\" is actually mass surveillance",
-      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-      "score": 512,
-      "comments": 301,
-      "source": "pluralistic.net"
-    },
-    {
-      "title": "80386 Early Start Memory Access",
-      "url": "https://nand2mario.github.io/posts/2026/80386_early_start/",
-      "score": 31,
-      "comments": 3,
-      "source": "nand2mario.github.io"
-    },
-    {
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
-      "score": 342,
-      "comments": 175,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Lossless GIF recompression via exhaustive search",
-      "url": "https://blog.arusekk.pl/posts/lossless-gif-recompression/",
-      "score": 42,
-      "comments": 9,
-      "source": "blog.arusekk.pl"
+      "title": "California AB 2047 makes 3D printers off-limits to students, educators, business",
+      "url": "https://www.the3dprintingnerd.com/ab2047",
+      "score": 212,
+      "comments": 142,
+      "source": "the3dprintingnerd.com"
     }
   ],
   "security": [
