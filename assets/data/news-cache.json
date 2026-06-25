@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Dolphin Emulator Progress Release 2606",
+      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "score": 120,
+      "comments": 12,
+      "source": "dolphin-emu.org"
+    },
+    {
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "score": 86,
-      "comments": 23,
+      "score": 358,
+      "comments": 129,
       "source": "hl2.slqnt.dev"
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 320,
-      "comments": 545,
+      "score": 528,
+      "comments": 884,
       "source": "reuters.com"
     },
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 656,
-      "comments": 370,
+      "score": 737,
+      "comments": 422,
       "source": "techcrunch.com"
+    },
+    {
+      "title": "LastPass notifies users of yet another data breach",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "score": 90,
+      "comments": 35,
+      "source": "9to5mac.com"
+    },
+    {
+      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "score": 118,
+      "comments": 23,
+      "source": "github.com"
     },
     {
       "title": "Cloudflare launched self-managed OAuth for all",
       "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 114,
-      "comments": 42,
+      "score": 226,
+      "comments": 96,
       "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "url": "https://markdy.com",
-      "score": 27,
-      "comments": 2,
-      "source": "markdy.com"
     },
     {
       "title": "Blogging can just be stating the obvious",
       "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 186,
-      "comments": 64,
+      "score": 286,
+      "comments": 98,
       "source": "blog.jim-nielsen.com"
     },
     {
       "title": "LuaJIT 3.0 proposed syntax extensions",
       "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 131,
-      "comments": 75,
+      "score": 177,
+      "comments": 101,
       "source": "github.com"
     },
     {
-      "title": "Dostoyevsky isn't difficult",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "score": 126,
-      "comments": 105,
-      "source": "autodidacts.io"
-    },
-    {
-      "title": "Zombie unicorns are haunting Silicon Valley",
-      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-      "score": 77,
-      "comments": 29,
-      "source": "economist.com"
-    },
-    {
-      "title": "Medical students are using popular research tool to pump out misleading studies",
-      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "score": 28,
-      "comments": 10,
-      "source": "science.org"
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "score": 117,
+      "comments": 129,
+      "source": "utaw.tech"
     },
     {
       "title": "45\u00b0C cooling design cuts data center water use to near zero",
       "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 290,
-      "comments": 183,
+      "score": 379,
+      "comments": 281,
       "source": "blogs.nvidia.com"
     },
     {
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 187,
-      "comments": 56,
-      "source": "reuters.com"
+      "title": "Medical students are using popular research tool to pump out misleading studies",
+      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+      "score": 82,
+      "comments": 39,
+      "source": "science.org"
     },
     {
-      "title": "Mixing Visual and Textual Code",
-      "url": "https://arxiv.org/abs/2603.15855",
-      "score": 43,
-      "comments": 11,
-      "source": "arxiv.org"
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "url": "https://markdy.com",
+      "score": 94,
+      "comments": 48,
+      "source": "markdy.com"
     },
     {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 377,
-      "comments": 60,
-      "source": "rubyllm.com"
+      "title": "Show HN: StartupsBR \u2013 A map of Brazilian startups",
+      "url": "https://www.startupsbr.com/sao-paulo",
+      "score": 27,
+      "comments": 10,
+      "source": "startupsbr.com"
     },
     {
       "title": "GLM-5.2 is a step change for open agents",
       "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 202,
-      "comments": 111,
+      "score": 271,
+      "comments": 163,
       "source": "interconnects.ai"
     },
     {
-      "title": "The Unbearable Cheapness of Open Weight Models",
-      "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-      "score": 27,
-      "comments": 4,
-      "source": "jamesoclaire.com"
+      "title": "Dostoyevsky isn't difficult",
+      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+      "score": 169,
+      "comments": 200,
+      "source": "autodidacts.io"
+    },
+    {
+      "title": "Lies, Damn Lies and Database Benchmarks",
+      "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
+      "score": 22,
+      "comments": 5,
+      "source": "questdb.com"
+    },
+    {
+      "title": "Words, Words, Words",
+      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+      "score": 17,
+      "comments": 8,
+      "source": "aeon.co"
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "score": 405,
+      "comments": 70,
+      "source": "rubyllm.com"
+    },
+    {
+      "title": "Qualcomm to Acquire Modular",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "score": 210,
+      "comments": 78,
+      "source": "reuters.com"
     },
     {
       "title": "PR spam today looks like email spam in the early 2000s",
       "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 208,
-      "comments": 121,
+      "score": 236,
+      "comments": 136,
       "source": "greptile.com"
+    },
+    {
+      "title": "Show HN: Nimic \u2013 Pure Python as a systems language with AOT compilation",
+      "url": "https://github.com/dima-quant/nimic",
+      "score": 23,
+      "comments": 19,
+      "source": "github.com"
+    },
+    {
+      "title": "The Xteink X4 E-Ink Reader",
+      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+      "score": 276,
+      "comments": 157,
+      "source": "blog.omgmog.net"
     },
     {
       "title": "Computer use in Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 207,
-      "comments": 129,
+      "score": 228,
+      "comments": 148,
       "source": "blog.google"
     },
     {
       "title": "Show HN: Write SaaS apps where users control where their data is stored",
       "url": "https://github.com/wolfoo2931/linkedrecords/",
-      "score": 37,
-      "comments": 18,
+      "score": 58,
+      "comments": 29,
       "source": "github.com"
+    },
+    {
+      "title": "Mixing Visual and Textual Code",
+      "url": "https://arxiv.org/abs/2603.15855",
+      "score": 56,
+      "comments": 30,
+      "source": "arxiv.org"
     },
     {
       "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
       "url": "https://tedium.co/2026/06/22/matts-script-archive-retrospective/",
-      "score": 39,
-      "comments": 10,
+      "score": 67,
+      "comments": 18,
       "source": "tedium.co"
-    },
-    {
-      "title": "The Xteink X4 E-Ink Reader",
-      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "score": 221,
-      "comments": 127,
-      "source": "blog.omgmog.net"
-    },
-    {
-      "title": "Show HN: Brain Frog \u2013 Can you be random enough for 11 lines of JavaScript?",
-      "url": "https://brainfrog.lol",
-      "score": 27,
-      "comments": 23,
-      "source": "brainfrog.lol"
-    },
-    {
-      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
-      "url": "https://github.com/BohemiaInteractive/CWR",
-      "score": 8,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Ending respiratory infections",
-      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
-      "score": 135,
-      "comments": 61,
-      "source": "blog.interceptfund.com"
-    },
-    {
-      "title": "Show HN: Nub \u2013 A Bun-like all-in-one toolkit for Node.js",
-      "url": "https://github.com/nubjs/nub",
-      "score": 230,
-      "comments": 66,
-      "source": "github.com"
-    },
-    {
-      "title": "15 sorting algorithms in 6 minutes (2013) [video]",
-      "url": "https://www.youtube.com/watch?v=kPRA0W1kECg",
-      "score": 21,
-      "comments": 2,
-      "source": "youtube.com"
     },
     {
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 312,
-      "comments": 60,
+      "score": 354,
+      "comments": 66,
       "source": "labs.iximiuz.com"
     },
     {
-      "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
-      "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
-      "score": 88,
-      "comments": 34,
-      "source": "usenix.org"
+      "title": "Show HN: Nub \u2013 A Bun-like all-in-one toolkit for Node.js",
+      "url": "https://github.com/nubjs/nub",
+      "score": 255,
+      "comments": 72,
+      "source": "github.com"
     },
     {
-      "title": "Exploring the internal representations of Pangram 3.3.2",
-      "url": "https://www.pangram.com/pangram-space",
-      "score": 24,
-      "comments": 5,
-      "source": "pangram.com"
-    },
-    {
-      "title": "Krea 2: SOTA open-weights 12B image model",
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "score": 370,
-      "comments": 40,
-      "source": "krea.ai"
+      "title": "Zombie unicorns are haunting Silicon Valley",
+      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+      "score": 132,
+      "comments": 78,
+      "source": "economist.com"
     }
   ],
   "security": [
