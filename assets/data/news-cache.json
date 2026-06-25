@@ -3,215 +3,221 @@
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 106,
-      "comments": 98,
+      "score": 489,
+      "comments": 307,
       "source": "techcrunch.com"
+    },
+    {
+      "title": "Blogging Can Just Be Stating the Obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "score": 22,
+      "comments": 1,
+      "source": "blog.jim-nielsen.com"
+    },
+    {
+      "title": "Qualcomm to Acquire Modular",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "score": 128,
+      "comments": 32,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "score": 14,
+      "comments": 4,
+      "source": "reuters.com"
     },
     {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
       "url": "https://rubyllm.com/",
-      "score": 234,
-      "comments": 33,
+      "score": 338,
+      "comments": 52,
       "source": "rubyllm.com"
-    },
-    {
-      "title": "NSA lost access to Mythos amid Anthropic dispute",
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-      "score": 69,
-      "comments": 30,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "There are a few things that I look back on as my mistakes in the early days",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "score": 341,
-      "comments": 167,
-      "source": "twitter.com"
     },
     {
       "title": "We\u2019re making Bunny DNS free",
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "score": 692,
-      "comments": 221,
+      "score": 841,
+      "comments": 255,
       "source": "bunny.net"
-    },
-    {
-      "title": "The Xteink X4 E-Ink Reader",
-      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "score": 58,
-      "comments": 34,
-      "source": "blog.omgmog.net"
     },
     {
       "title": "PR spam today looks like email spam in the early 2000s",
       "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 64,
-      "comments": 52,
+      "score": 174,
+      "comments": 99,
       "source": "greptile.com"
-    },
-    {
-      "title": "I taught a bucket to speak Git",
-      "url": "https://www.tigrisdata.com/blog/objgit/",
-      "score": 44,
-      "comments": 4,
-      "source": "tigrisdata.com"
     },
     {
       "title": "Computer use in Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 43,
-      "comments": 14,
+      "score": 159,
+      "comments": 100,
       "source": "blog.google"
+    },
+    {
+      "title": "45\u00b0C cooling design cuts data center water use to near zero",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "score": 172,
+      "comments": 123,
+      "source": "blogs.nvidia.com"
+    },
+    {
+      "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
+      "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
+      "score": 57,
+      "comments": 22,
+      "source": "usenix.org"
+    },
+    {
+      "title": "GLM-5.2 is a step change for open agents",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "score": 115,
+      "comments": 60,
+      "source": "interconnects.ai"
+    },
+    {
+      "title": "The Xteink X4 E-Ink Reader",
+      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+      "score": 162,
+      "comments": 105,
+      "source": "blog.omgmog.net"
+    },
+    {
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "score": 479,
+      "comments": 237,
+      "source": "twitter.com"
     },
     {
       "title": "Show HN: Nub \u2013 A Bun-like all-in-one toolkit for Node.js",
       "url": "https://github.com/nubjs/nub",
-      "score": 135,
-      "comments": 30,
+      "score": 193,
+      "comments": 55,
       "source": "github.com"
-    },
-    {
-      "title": "Pull request limits are cutting down the noise",
-      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-      "score": 26,
-      "comments": 10,
-      "source": "github.blog"
     },
     {
       "title": "Stealing Is a Skill",
       "url": "https://ben-mini.com/2026/stealing-is-a-skill",
-      "score": 129,
-      "comments": 86,
+      "score": 207,
+      "comments": 123,
       "source": "ben-mini.com"
     },
     {
       "title": "Krea 2: SOTA open-weights 12B image model",
       "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "score": 209,
-      "comments": 29,
+      "score": 332,
+      "comments": 35,
       "source": "krea.ai"
     },
     {
-      "title": "Running Windows Games on a Hobby OS with Wine",
-      "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-      "score": 57,
-      "comments": 19,
-      "source": "astral-os.org"
+      "title": "It's Only When You Look Back",
+      "url": "https://www.markround.com/blog/2026/06/17/25-its-only-when-you-look-back/",
+      "score": 10,
+      "comments": 3,
+      "source": "markround.com"
     },
     {
-      "title": "Genuinely, my all-time favourite image: Mamenchisaurus hochuanensis",
-      "url": "https://svpow.com/2026/06/04/genuinely-my-all-time-favourite-image-mamenchisaurus-hochuanensis/",
-      "score": 60,
-      "comments": 21,
-      "source": "svpow.com"
+      "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+      "url": "https://lookaway.com",
+      "score": 50,
+      "comments": 9,
+      "source": "lookaway.com"
     },
     {
-      "title": "Show HN: Monolisa v3 \u2013 a typeface for developers and creatives",
-      "url": "https://www.monolisa.dev/",
-      "score": 109,
-      "comments": 29,
-      "source": "monolisa.dev"
+      "title": "I can haz smoller NixOS ISOs?",
+      "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
+      "score": 76,
+      "comments": 23,
+      "source": "natkr.com"
+    },
+    {
+      "title": "Dostoyevsky isn't difficult",
+      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
+      "score": 5,
+      "comments": 2,
+      "source": "autodidacts.io"
+    },
+    {
+      "title": "GitHub shouldn't be a dependency for publishing Rust on crates.io",
+      "url": "https://infosec.exchange/@mttaggart/116806641273303255",
+      "score": 139,
+      "comments": 51,
+      "source": "infosec.exchange"
+    },
+    {
+      "title": "PostgreSQL is enough (2024)",
+      "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
+      "score": 85,
+      "comments": 59,
+      "source": "gist.github.com"
     },
     {
       "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
       "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 177,
-      "comments": 36,
+      "score": 263,
+      "comments": 55,
       "source": "labs.iximiuz.com"
     },
     {
-      "title": "How a Microsecond-Level Low-Latency Engine Works",
-      "url": "https://medium.com/@DolphinDB_Inc/c-speed-without-c-pain-inside-a-microsecond-level-low-latency-engine-a634f260a4ee",
-      "score": 4,
+      "title": "How the Fifth Lateran Council unlocked financial theory",
+      "url": "https://sebastiangarren.com/2026/06/17/lending-is-meritorious-and-should-be-praised-how-the-fifth-lateran-council-unlocked-financial-theory/",
+      "score": 50,
+      "comments": 8,
+      "source": "sebastiangarren.com"
+    },
+    {
+      "title": "Robotics Teams Are Rebuilding the Data Stack from Scratch",
+      "url": "https://rerun.io/blog/data-layer-tax",
+      "score": 22,
       "comments": 0,
-      "source": "medium.com"
+      "source": "rerun.io"
     },
     {
-      "title": "Show HN: peerd \u2013 AI agent harness that runs entirely in your browser",
-      "url": "https://github.com/NotASithLord/peerd",
-      "score": 30,
-      "comments": 14,
-      "source": "github.com"
+      "title": "Pondering routing more of my traffic via nodes outside the UK",
+      "url": "https://neilzone.co.uk/2026/06/pondering-routing-more-of-my-traffic-via-nodes-outside-the-uk-because-of-the-direction-of-uk-online-safety-policy/",
+      "score": 52,
+      "comments": 39,
+      "source": "neilzone.co.uk"
     },
     {
-      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-      "score": 103,
-      "comments": 40,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Why eval startups fail (2025)",
-      "url": "https://thomasliao.com/eval-startups",
-      "score": 64,
-      "comments": 47,
-      "source": "thomasliao.com"
-    },
-    {
-      "title": "Too many R packages: CRAN is inundated with submissions",
-      "url": "https://rworks.dev/posts/too-many-R-packages/",
-      "score": 79,
-      "comments": 62,
-      "source": "rworks.dev"
-    },
-    {
-      "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself",
-      "url": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
-      "score": 15,
-      "comments": 15,
-      "source": "werd.io"
-    },
-    {
-      "title": "Show HN: Pure Effect \u2013 Reproduce production bugs on your laptop without a DB",
-      "url": "https://pure-effect.org",
-      "score": 43,
-      "comments": 10,
-      "source": "pure-effect.org"
-    },
-    {
-      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-      "score": 113,
-      "comments": 78,
-      "source": "techstrong.ai"
-    },
-    {
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "score": 73,
-      "comments": 20,
-      "source": "haystack.deepset.ai"
-    },
-    {
-      "title": "Founding a company in Germany: \u20ac9600, 152 days and I still can't send an invoice",
-      "url": "https://paolino.me/founding-a-company-in-germany/",
-      "score": 489,
-      "comments": 578,
-      "source": "paolino.me"
-    },
-    {
-      "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
-      "url": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn",
-      "score": 1,
-      "comments": 0,
-      "source": "ashbyhq.com"
-    },
-    {
-      "title": "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
-      "url": "https://www.dijkstrascry.com/inventory",
-      "score": 29,
+      "title": "Show HN: Wordit \u2013 Change One Letter, Keep the Chain Going",
+      "url": "https://victorribeiro.com/wordit/",
+      "score": 8,
       "comments": 5,
-      "source": "dijkstrascry.com"
+      "source": "victorribeiro.com"
     },
     {
-      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-      "score": 235,
-      "comments": 111,
-      "source": "gitlab.com"
+      "title": "Show HN: Monolisa v3 \u2013 a typeface for developers and creatives",
+      "url": "https://www.monolisa.dev/",
+      "score": 158,
+      "comments": 56,
+      "source": "monolisa.dev"
+    },
+    {
+      "title": "Running Windows Games on a Hobby OS with Wine",
+      "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
+      "score": 98,
+      "comments": 31,
+      "source": "astral-os.org"
+    },
+    {
+      "title": "Exploiting vulnerabilities in Johnson and Johnson web apps",
+      "url": "https://eaton-works.com/2026/06/24/jnj-webapp-hacks/",
+      "score": 64,
+      "comments": 3,
+      "source": "eaton-works.com"
     }
   ],
   "security": [
+    {
+      "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
+      "url": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/",
+      "date": "2026-06-24 20:01:47",
+      "author": "Swara Gandhi"
+    },
     {
       "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
       "url": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure/",
       "date": "2026-06-04 21:45:42",
       "author": "Howie Li"
-    },
-    {
-      "title": "Gain visibility into DDoS attacks with flow logs in AWS Shield Advanced",
-      "url": "https://aws.amazon.com/blogs/security/gain-visibility-into-ddos-attacks-with-flow-logs-in-aws-shield-advanced/",
-      "date": "2026-06-04 19:21:34",
-      "author": "Ken Kitts"
     }
   ]
 }
