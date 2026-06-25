@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Dolphin Emulator Progress Release 2606",
-      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "title": "A Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 281,
+      "comments": 76,
+      "source": "scrollprize.org"
+    },
+    {
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "score": 98,
+      "comments": 57,
+      "source": "newsroom.ibm.com"
+    },
+    {
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "score": 47,
+      "comments": 13,
+      "source": "explorer.oxide.computer"
+    },
+    {
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "score": 145,
+      "comments": 40,
+      "source": "ziglang.org"
+    },
+    {
+      "title": "I built a GPU back end for Emacs",
+      "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
+      "score": 75,
+      "comments": 24,
+      "source": "en.andros.dev"
+    },
+    {
+      "title": "OS9Map",
+      "url": "https://yllan.org/software/OS9Map/",
+      "score": 77,
+      "comments": 9,
+      "source": "yllan.org"
+    },
+    {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 356,
+      "comments": 560,
+      "source": "reuters.com"
+    },
+    {
+      "title": "You can't unit test for taste",
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "score": 196,
+      "comments": 81,
+      "source": "dev.karltryggvason.com"
+    },
+    {
+      "title": "Show HN: Chess-Inspired Roguelike",
+      "url": "https://princechazz.com",
+      "score": 39,
+      "comments": 10,
+      "source": "princechazz.com"
+    },
+    {
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "url": "https://hackernewstrends.com",
+      "score": 469,
+      "comments": 127,
+      "source": "hackernewstrends.com"
+    },
+    {
+      "title": "Windows 10 quietly gets one more year of support and updates",
+      "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
       "score": 120,
-      "comments": 12,
-      "source": "dolphin-emu.org"
+      "comments": 81,
+      "source": "neowin.net"
     },
     {
       "title": "Half-Life 2 in a Browser",
       "url": "https://hl2.slqnt.dev/",
-      "score": 358,
-      "comments": 129,
+      "score": 578,
+      "comments": 232,
       "source": "hl2.slqnt.dev"
+    },
+    {
+      "title": "Tw-fade: pure CSS scroll-driven edge masking",
+      "url": "https://pete.design/tw-fade",
+      "score": 50,
+      "comments": 18,
+      "source": "pete.design"
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 528,
-      "comments": 884,
+      "score": 719,
+      "comments": 1159,
       "source": "reuters.com"
     },
     {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 737,
-      "comments": 422,
-      "source": "techcrunch.com"
+      "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
+      "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
+      "score": 25,
+      "comments": 4,
+      "source": "medicalxpress.com"
+    },
+    {
+      "title": "52-hertz whale",
+      "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
+      "score": 48,
+      "comments": 5,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Physicists Track and Trap the Elusive Neutrino",
+      "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
+      "score": 25,
+      "comments": 3,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "How to get your first customers [video]",
+      "url": "https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers",
+      "score": 46,
+      "comments": 12,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "score": 29,
+      "comments": 7,
+      "source": "github.com"
     },
     {
       "title": "LastPass notifies users of yet another data breach",
       "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "score": 90,
-      "comments": 35,
+      "score": 391,
+      "comments": 171,
       "source": "9to5mac.com"
     },
     {
-      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
-      "url": "https://github.com/BohemiaInteractive/CWR",
-      "score": 118,
-      "comments": 23,
-      "source": "github.com"
+      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "url": "https://lingochunk.com/try",
+      "score": 59,
+      "comments": 27,
+      "source": "lingochunk.com"
+    },
+    {
+      "title": "The disappearance of Japan's animators",
+      "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+      "score": 74,
+      "comments": 63,
+      "source": "economist.com"
     },
     {
       "title": "Cloudflare launched self-managed OAuth for all",
       "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 226,
-      "comments": 96,
+      "score": 319,
+      "comments": 137,
       "source": "blog.cloudflare.com"
     },
     {
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 286,
-      "comments": 98,
-      "source": "blog.jim-nielsen.com"
+      "title": "Show HN: MiniPCs.zip \u2013 Charting the Pareto frontier of Mini PCs",
+      "url": "https://minipcs.zip",
+      "score": 69,
+      "comments": 28,
+      "source": "minipcs.zip"
     },
     {
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 177,
-      "comments": 101,
-      "source": "github.com"
+      "title": "Political bias in AI: Where the AI models stand",
+      "url": "https://trakkr.ai/bias",
+      "score": 42,
+      "comments": 107,
+      "source": "trakkr.ai"
     },
     {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "score": 117,
-      "comments": 129,
-      "source": "utaw.tech"
-    },
-    {
-      "title": "45\u00b0C cooling design cuts data center water use to near zero",
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "score": 379,
-      "comments": 281,
-      "source": "blogs.nvidia.com"
-    },
-    {
-      "title": "Medical students are using popular research tool to pump out misleading studies",
-      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "score": 82,
-      "comments": 39,
-      "source": "science.org"
-    },
-    {
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "url": "https://markdy.com",
-      "score": 94,
-      "comments": 48,
-      "source": "markdy.com"
-    },
-    {
-      "title": "Show HN: StartupsBR \u2013 A map of Brazilian startups",
-      "url": "https://www.startupsbr.com/sao-paulo",
-      "score": 27,
-      "comments": 10,
-      "source": "startupsbr.com"
-    },
-    {
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 271,
-      "comments": 163,
-      "source": "interconnects.ai"
-    },
-    {
-      "title": "Dostoyevsky isn't difficult",
-      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
-      "score": 169,
-      "comments": 200,
-      "source": "autodidacts.io"
-    },
-    {
-      "title": "Lies, Damn Lies and Database Benchmarks",
-      "url": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
-      "score": 22,
-      "comments": 5,
-      "source": "questdb.com"
-    },
-    {
-      "title": "Words, Words, Words",
-      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
-      "score": 17,
-      "comments": 8,
-      "source": "aeon.co"
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 405,
-      "comments": 70,
-      "source": "rubyllm.com"
-    },
-    {
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "score": 210,
-      "comments": 78,
-      "source": "reuters.com"
-    },
-    {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 236,
-      "comments": 136,
-      "source": "greptile.com"
-    },
-    {
-      "title": "Show HN: Nimic \u2013 Pure Python as a systems language with AOT compilation",
-      "url": "https://github.com/dima-quant/nimic",
-      "score": 23,
-      "comments": 19,
-      "source": "github.com"
-    },
-    {
-      "title": "The Xteink X4 E-Ink Reader",
-      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-      "score": 276,
-      "comments": 157,
-      "source": "blog.omgmog.net"
-    },
-    {
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 228,
-      "comments": 148,
-      "source": "blog.google"
-    },
-    {
-      "title": "Show HN: Write SaaS apps where users control where their data is stored",
-      "url": "https://github.com/wolfoo2931/linkedrecords/",
-      "score": 58,
-      "comments": 29,
-      "source": "github.com"
+      "title": "Show HN: Bible as RAG Database",
+      "url": "https://www.crosscanon.com/",
+      "score": 103,
+      "comments": 66,
+      "source": "crosscanon.com"
     },
     {
       "title": "Mixing Visual and Textual Code",
       "url": "https://arxiv.org/abs/2603.15855",
-      "score": 56,
-      "comments": 30,
+      "score": 63,
+      "comments": 41,
       "source": "arxiv.org"
     },
     {
-      "title": "Matt's Script Archive: The Scripts That Reshaped the Web",
-      "url": "https://tedium.co/2026/06/22/matts-script-archive-retrospective/",
-      "score": 67,
-      "comments": 18,
-      "source": "tedium.co"
+      "title": "Blogging can just be stating the obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "score": 403,
+      "comments": 122,
+      "source": "blog.jim-nielsen.com"
     },
     {
-      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-      "url": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
-      "score": 354,
-      "comments": 66,
-      "source": "labs.iximiuz.com"
-    },
-    {
-      "title": "Show HN: Nub \u2013 A Bun-like all-in-one toolkit for Node.js",
-      "url": "https://github.com/nubjs/nub",
-      "score": 255,
-      "comments": 72,
-      "source": "github.com"
-    },
-    {
-      "title": "Zombie unicorns are haunting Silicon Valley",
-      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-      "score": 132,
-      "comments": 78,
-      "source": "economist.com"
+      "title": "European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
+      "url": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127",
+      "score": 36,
+      "comments": 9,
+      "source": "theregister.com"
     }
   ],
   "security": [
