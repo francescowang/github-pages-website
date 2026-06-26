@@ -1,67 +1,151 @@
 {
   "tech": [
     {
-      "title": "A Herculaneum scroll has been read for the first time",
+      "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 281,
-      "comments": 76,
+      "score": 932,
+      "comments": 208,
       "source": "scrollprize.org"
     },
     {
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "score": 98,
-      "comments": 57,
-      "source": "newsroom.ibm.com"
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "score": 327,
+      "comments": 151,
+      "source": "expression.fire.org"
+    },
+    {
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "score": 101,
+      "comments": 27,
+      "source": "unconv.ai"
+    },
+    {
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "score": 80,
+      "comments": 18,
+      "source": "github.com"
     },
     {
       "title": "Oxide computer 3D rack guided tour",
       "url": "https://explorer.oxide.computer/",
-      "score": 47,
-      "comments": 13,
+      "score": 284,
+      "comments": 116,
       "source": "explorer.oxide.computer"
     },
     {
-      "title": "Zig's new bitCast semantics and LLVM back end improvements",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-      "score": 145,
-      "comments": 40,
-      "source": "ziglang.org"
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "url": "https://gchandbook.org/",
+      "score": 24,
+      "comments": 3,
+      "source": "gchandbook.org"
     },
     {
-      "title": "I built a GPU back end for Emacs",
-      "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
-      "score": 75,
-      "comments": 24,
-      "source": "en.andros.dev"
+      "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "score": 191,
+      "comments": 85,
+      "source": "github.com"
     },
     {
-      "title": "OS9Map",
-      "url": "https://yllan.org/software/OS9Map/",
-      "score": 77,
-      "comments": 9,
-      "source": "yllan.org"
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "score": 254,
+      "comments": 146,
+      "source": "newsroom.ibm.com"
     },
     {
-      "title": "Apple raises prices of MacBooks, iPads",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 356,
-      "comments": 560,
-      "source": "reuters.com"
+      "title": "An oral history of Bank Python (2021)",
+      "url": "https://calpaterson.com/bank-python.html",
+      "score": 64,
+      "comments": 18,
+      "source": "calpaterson.com"
     },
     {
-      "title": "You can't unit test for taste",
-      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "score": 196,
-      "comments": 81,
-      "source": "dev.karltryggvason.com"
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 334,
+      "comments": 33,
+      "source": "om.co"
+    },
+    {
+      "title": "Migrating from Proxmox to NixOS and Incus",
+      "url": "https://www.nijho.lt/post/proxmox-to-nixos/",
+      "score": 39,
+      "comments": 21,
+      "source": "nijho.lt"
     },
     {
       "title": "Show HN: Chess-Inspired Roguelike",
       "url": "https://princechazz.com",
-      "score": 39,
-      "comments": 10,
+      "score": 211,
+      "comments": 71,
       "source": "princechazz.com"
+    },
+    {
+      "title": "Parallel Parentheses Matching",
+      "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+      "score": 44,
+      "comments": 8,
+      "source": "williamdue.github.io"
+    },
+    {
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "score": 211,
+      "comments": 83,
+      "source": "ziglang.org"
+    },
+    {
+      "title": "OS9Map",
+      "url": "https://yllan.org/software/OS9Map/",
+      "score": 177,
+      "comments": 27,
+      "source": "yllan.org"
+    },
+    {
+      "title": "The Doorman's Fallacy in action",
+      "url": "https://rozumem.xyz/posts/17",
+      "score": 46,
+      "comments": 73,
+      "source": "rozumem.xyz"
+    },
+    {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 614,
+      "comments": 882,
+      "source": "reuters.com"
+    },
+    {
+      "title": "The last Romans are still around",
+      "url": "https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/",
+      "score": 33,
+      "comments": 55,
+      "source": "signoregalilei.com"
+    },
+    {
+      "title": "The annotated PyTorch training loop",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "score": 59,
+      "comments": 10,
+      "source": "idlemachines.co.uk"
+    },
+    {
+      "title": "Military branches restore flu shot requirement after virus swept through base",
+      "url": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+      "score": 79,
+      "comments": 30,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "You can't unit test for taste",
+      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+      "score": 240,
+      "comments": 117,
+      "source": "dev.karltryggvason.com"
     },
     {
       "title": "Besimple AI (YC P25) Is Hiring",
@@ -71,144 +155,60 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "url": "https://hackernewstrends.com",
-      "score": 469,
-      "comments": 127,
-      "source": "hackernewstrends.com"
+      "title": "GloriousEggroll's Proton has been rebased on Proton 11",
+      "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+      "score": 52,
+      "comments": 22,
+      "source": "github.com"
     },
     {
-      "title": "Windows 10 quietly gets one more year of support and updates",
-      "url": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
-      "score": 120,
-      "comments": 81,
-      "source": "neowin.net"
-    },
-    {
-      "title": "Half-Life 2 in a Browser",
-      "url": "https://hl2.slqnt.dev/",
-      "score": 578,
-      "comments": 232,
-      "source": "hl2.slqnt.dev"
-    },
-    {
-      "title": "Tw-fade: pure CSS scroll-driven edge masking",
-      "url": "https://pete.design/tw-fade",
-      "score": 50,
-      "comments": 18,
-      "source": "pete.design"
-    },
-    {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 719,
-      "comments": 1159,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Early adversity leaves lasting molecular imprint across the body: primate study",
-      "url": "https://medicalxpress.com/news/2026-06-early-life-adversity-molecular-imprint.html",
-      "score": 25,
-      "comments": 4,
-      "source": "medicalxpress.com"
-    },
-    {
-      "title": "52-hertz whale",
-      "url": "https://en.wikipedia.org/wiki/52-hertz_whale",
-      "score": 48,
-      "comments": 5,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Physicists Track and Trap the Elusive Neutrino",
-      "url": "https://www.quantamagazine.org/how-physicists-track-and-trap-the-elusive-neutrino-20260624/",
-      "score": 25,
-      "comments": 3,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "How to get your first customers [video]",
-      "url": "https://www.ycombinator.com/library/SF-how-to-get-your-first-10-customers",
-      "score": 46,
-      "comments": 12,
-      "source": "ycombinator.com"
+      "title": "What is the mechanical world picture?",
+      "url": "http://edwardfeser.blogspot.com/2026/06/what-is-mechanical-world-picture.html",
+      "score": 5,
+      "comments": 0,
+      "source": "edwardfeser.blogspot.com"
     },
     {
       "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
       "url": "https://github.com/decrazyo/anes",
-      "score": 29,
-      "comments": 7,
+      "score": 96,
+      "comments": 32,
       "source": "github.com"
-    },
-    {
-      "title": "LastPass notifies users of yet another data breach",
-      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
-      "score": 391,
-      "comments": 171,
-      "source": "9to5mac.com"
-    },
-    {
-      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
-      "url": "https://lingochunk.com/try",
-      "score": 59,
-      "comments": 27,
-      "source": "lingochunk.com"
     },
     {
       "title": "The disappearance of Japan's animators",
       "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
-      "score": 74,
-      "comments": 63,
+      "score": 143,
+      "comments": 115,
       "source": "economist.com"
-    },
-    {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 319,
-      "comments": 137,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Show HN: MiniPCs.zip \u2013 Charting the Pareto frontier of Mini PCs",
-      "url": "https://minipcs.zip",
-      "score": 69,
-      "comments": 28,
-      "source": "minipcs.zip"
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
       "url": "https://trakkr.ai/bias",
-      "score": 42,
-      "comments": 107,
+      "score": 114,
+      "comments": 229,
       "source": "trakkr.ai"
     },
     {
-      "title": "Show HN: Bible as RAG Database",
-      "url": "https://www.crosscanon.com/",
-      "score": 103,
-      "comments": 66,
-      "source": "crosscanon.com"
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "url": "https://hackernewstrends.com",
+      "score": 649,
+      "comments": 144,
+      "source": "hackernewstrends.com"
     },
     {
-      "title": "Mixing Visual and Textual Code",
-      "url": "https://arxiv.org/abs/2603.15855",
-      "score": 63,
-      "comments": 41,
-      "source": "arxiv.org"
+      "title": "RRB-Trees: Efficient Immutable Vectors (2012) [pdf]",
+      "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/e5d662ea-1e8d-4dda-b917-8cbb8bb40bf9/content",
+      "score": 34,
+      "comments": 7,
+      "source": "infoscience.epfl.ch"
     },
     {
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 403,
-      "comments": 122,
-      "source": "blog.jim-nielsen.com"
-    },
-    {
-      "title": "European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
-      "url": "https://www.theregister.com/legal/2026/06/25/european-commission-lines-up-amazon-and-microsoft-for-cloud-gatekeeper-status/5262127",
-      "score": 36,
-      "comments": 9,
-      "source": "theregister.com"
+      "title": "Record type inference for dummies",
+      "url": "http://haskellforall.com/2026/06/record-type-inference-for-dummies",
+      "score": 4,
+      "comments": 0,
+      "source": "haskellforall.com"
     }
   ],
   "security": [
