@@ -1,88 +1,179 @@
 {
   "tech": [
     {
+      "title": "OpenTTD 16.0-Beta1",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "score": 67,
+      "comments": 7,
+      "source": "openttd.org"
+    },
+    {
       "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 792,
-      "comments": 490,
+      "score": 951,
+      "comments": 584,
       "source": "openai.com"
+    },
+    {
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "score": 57,
+      "comments": 19,
+      "source": "sfwriter.com"
     },
     {
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
       "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "score": 46,
-      "comments": 6,
+      "score": 206,
+      "comments": 94,
       "source": "physics.stackexchange.com"
     },
     {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "url": "https://github.com/Tessil/hopscotch-map",
-      "score": 53,
-      "comments": 8,
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "url": "https://github.com/schlae/IBM_MCGA",
+      "score": 12,
+      "comments": 3,
       "source": "github.com"
     },
     {
-      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-      "score": 158,
-      "comments": 98,
-      "source": "reuters.com"
+      "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "score": 365,
+      "comments": 362,
+      "source": "semafor.com"
     },
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 776,
-      "comments": 885,
-      "source": "washingtonpost.com"
+      "title": "Show HN: Hacker News on a train station-style flip board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "score": 55,
+      "comments": 10,
+      "source": "popflame.quickish.space"
+    },
+    {
+      "title": "Fusion Programming Language",
+      "url": "https://fusion-lang.org/",
+      "score": 45,
+      "comments": 19,
+      "source": "fusion-lang.org"
+    },
+    {
+      "title": "Hellishly Slow Level 13 Deflate Compression",
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "score": 41,
+      "comments": 11,
+      "source": "kirill.korins.ky"
     },
     {
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "score": 250,
-      "comments": 143,
+      "score": 314,
+      "comments": 179,
       "source": "aws.amazon.com"
     },
     {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "score": 103,
-      "comments": 88,
-      "source": "blog.doubleword.ai"
-    },
-    {
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "score": 177,
-      "comments": 48,
-      "source": "eff.org"
-    },
-    {
-      "title": "A Tiny Compiler for Data-Parallel Kernels",
-      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-      "score": 17,
+      "title": "SCC Technical Assistance Program",
+      "url": "https://nerocam.com/scc_tap.asp",
+      "score": 10,
       "comments": 1,
-      "source": "healeycodes.com"
+      "source": "nerocam.com"
+    },
+    {
+      "title": "Foreign funds help make housing unaffordable: research",
+      "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+      "score": 55,
+      "comments": 16,
+      "source": "news.mccombs.utexas.edu"
     },
     {
       "title": "AI in mathematics is forcing big questions",
       "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 25,
-      "comments": 5,
+      "score": 104,
+      "comments": 69,
       "source": "spectrum.ieee.org"
     },
     {
-      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-      "score": 66,
-      "comments": 6,
-      "source": "svpow.com"
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "score": 965,
+      "comments": 1027,
+      "source": "washingtonpost.com"
+    },
+    {
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+      "score": 26,
+      "comments": 7,
+      "source": "grack.com"
     },
     {
       "title": "Show HN: DBOSify \u2013 Drop-in Temporal replacement built on Postgres",
       "url": "https://github.com/dbos-inc/dbosify-py",
-      "score": 9,
-      "comments": 2,
+      "score": 50,
+      "comments": 8,
       "source": "github.com"
+    },
+    {
+      "title": "Om",
+      "url": "https://daringfireball.net/2026/06/om",
+      "score": 302,
+      "comments": 15,
+      "source": "daringfireball.net"
+    },
+    {
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "score": 350,
+      "comments": 120,
+      "source": "eff.org"
+    },
+    {
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "url": "https://github.com/Tessil/hopscotch-map",
+      "score": 87,
+      "comments": 14,
+      "source": "github.com"
+    },
+    {
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "score": 181,
+      "comments": 153,
+      "source": "blog.doubleword.ai"
+    },
+    {
+      "title": "Building apps using TanStack Start",
+      "url": "https://lovable.dev/blog/building-apps-using-tanstack-start",
+      "score": 4,
+      "comments": 0,
+      "source": "lovable.dev"
+    },
+    {
+      "title": "Ultrasound imaging of the brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "score": 265,
+      "comments": 111,
+      "source": "alephneuro.com"
+    },
+    {
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "score": 162,
+      "comments": 95,
+      "source": "github.com"
+    },
+    {
+      "title": "Making Sense of Proof by Contradiction [pdf]",
+      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+      "score": 30,
+      "comments": 8,
+      "source": "foster77.co.uk"
+    },
+    {
+      "title": "What Is a Nomogram and Why Would It Interest Me?",
+      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+      "score": 106,
+      "comments": 18,
+      "source": "lefakkomies.github.io"
     },
     {
       "title": "Hightouch (YC S19) Is Hiring",
@@ -92,116 +183,32 @@
       "source": "hightouch.com"
     },
     {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "score": 137,
-      "comments": 86,
-      "source": "github.com"
-    },
-    {
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "score": 229,
-      "comments": 92,
-      "source": "alephneuro.com"
-    },
-    {
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "score": 78,
-      "comments": 14,
-      "source": "lefakkomies.github.io"
-    },
-    {
-      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-      "score": 137,
-      "comments": 84,
-      "source": "kotaku.com"
-    },
-    {
-      "title": "A human postmortem of the 1996 AOL outage",
-      "url": "https://ngrok.com/blog/aol-was-down-1996",
-      "score": 34,
-      "comments": 7,
-      "source": "ngrok.com"
-    },
-    {
-      "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
-      "url": "https://gossamer-lang.org/",
-      "score": 65,
-      "comments": 55,
-      "source": "gossamer-lang.org"
-    },
-    {
-      "title": "Om",
-      "url": "https://daringfireball.net/2026/06/om",
-      "score": 22,
-      "comments": 1,
-      "source": "daringfireball.net"
-    },
-    {
       "title": "Long Wave radio era set to end with Droitwich switch-off",
       "url": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
-      "score": 44,
-      "comments": 20,
+      "score": 76,
+      "comments": 33,
       "source": "bbc.com"
     },
     {
-      "title": "Lippmann Photography",
-      "url": "https://www.jonhilty.com/lippmann",
-      "score": 14,
-      "comments": 0,
-      "source": "jonhilty.com"
+      "title": "A Tiny Compiler for Data-Parallel Kernels",
+      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+      "score": 38,
+      "comments": 4,
+      "source": "healeycodes.com"
     },
     {
       "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
       "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-      "score": 41,
-      "comments": 5,
+      "score": 88,
+      "comments": 15,
       "source": "acoup.blog"
     },
     {
-      "title": "Show HN: Autofit2 \u2013 End-to-end pipeline for multilingual text classification",
-      "url": "https://github.com/neospe/autofit2",
-      "score": 13,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Modern GPU Programming for MLSys",
-      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-      "score": 56,
-      "comments": 9,
-      "source": "mlc.ai"
-    },
-    {
-      "title": "The Art of Kite Flying (1430\u20131929)",
-      "url": "https://publicdomainreview.org/collection/art-of-kite-flying/",
-      "score": 24,
-      "comments": 10,
-      "source": "publicdomainreview.org"
-    },
-    {
-      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
-      "url": "https://www.swiftlatex.com/",
-      "score": 84,
-      "comments": 30,
-      "source": "swiftlatex.com"
-    },
-    {
-      "title": "My Steam Machine is a 50ft HDMI cable",
-      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
-      "score": 159,
-      "comments": 154,
-      "source": "blog.matthewbrunelle.com"
-    },
-    {
-      "title": "Data centers trigger voter backlash",
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "score": 156,
-      "comments": 279,
-      "source": "newsweek.com"
+      "title": "A human postmortem of the 1996 AOL outage",
+      "url": "https://ngrok.com/blog/aol-was-down-1996",
+      "score": 62,
+      "comments": 14,
+      "source": "ngrok.com"
     }
   ],
   "security": [
