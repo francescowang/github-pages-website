@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 411,
-      "comments": 125,
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "score": 316,
+      "comments": 133,
       "source": "github.com"
+    },
+    {
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "score": 361,
+      "comments": 74,
+      "source": "openra.net"
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "score": 662,
+      "comments": 251,
+      "source": "github.com"
+    },
+    {
+      "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "score": 32,
+      "comments": 11,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "score": 128,
+      "comments": 36,
+      "source": "danluu.com"
     },
     {
       "title": "Fintech Engineering Handbook",
       "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 98,
-      "comments": 30,
+      "score": 348,
+      "comments": 113,
       "source": "w.pitula.me"
     },
     {
-      "title": "Beer CSS \u2013 Build material design in record time",
-      "url": "https://www.beercss.com",
-      "score": 53,
-      "comments": 12,
-      "source": "beercss.com"
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "score": 70,
+      "comments": 22,
+      "source": "cephalosec.com"
     },
     {
-      "title": "Long Wave radio era set to end with switch-off",
-      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-      "score": 65,
-      "comments": 73,
-      "source": "economist.com"
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "score": 348,
+      "comments": 128,
+      "source": "pluralistic.net"
+    },
+    {
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "score": 1,
+      "comments": 0,
+      "source": "jobs.ashbyhq.com"
+    },
+    {
+      "title": "One man, two kernels, and a lot of RISC-V",
+      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+      "score": 39,
+      "comments": 4,
+      "source": "theregister.com"
+    },
+    {
+      "title": "If you can't hold it, you don't own it",
+      "url": "https://dervis.de/physical/",
+      "score": 236,
+      "comments": 156,
+      "source": "dervis.de"
+    },
+    {
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "score": 64,
+      "comments": 22,
+      "source": "sciencedirect.com"
     },
     {
       "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 1030,
-      "comments": 648,
+      "score": 1088,
+      "comments": 693,
       "source": "openai.com"
+    },
+    {
+      "title": "Long Wave radio era set to end with switch-off",
+      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+      "score": 135,
+      "comments": 119,
+      "source": "economist.com"
+    },
+    {
+      "title": "How Many Elementary Particles Are There, Really?",
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "score": 82,
+      "comments": 64,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Researchers have developed pixels that can emit and analyse light together",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
+      "score": 18,
+      "comments": 11,
+      "source": "ethz.ch"
     },
     {
       "title": "Linux on Older Hardware: The Complete Revival Guide",
       "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-      "score": 89,
-      "comments": 40,
+      "score": 161,
+      "comments": 91,
       "source": "fosslinux.com"
     },
     {
-      "title": "Nox Metals (YC S25) Is Hiring SWE",
-      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
-      "score": 1,
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+      "score": 27,
+      "comments": 8,
+      "source": "blog.mrcroxx.com"
+    },
+    {
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "score": 3,
       "comments": 0,
-      "source": "ycombinator.com"
+      "source": "cauenapier.com"
     },
     {
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "url": "https://www.sfwriter.com/wordstar.htm",
-      "score": 111,
-      "comments": 48,
-      "source": "sfwriter.com"
+      "title": "Beer CSS \u2013 Build material design in record time",
+      "url": "https://www.beercss.com",
+      "score": 108,
+      "comments": 56,
+      "source": "beercss.com"
     },
     {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "score": 267,
-      "comments": 125,
-      "source": "physics.stackexchange.com"
-    },
-    {
-      "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
-      "url": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
-      "score": 23,
-      "comments": 1,
-      "source": "medium.com"
+      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "score": 166,
+      "comments": 37,
+      "source": "arstechnica.com"
     },
     {
       "title": "The US Army Issued Ocarinas to Soldiers in World War II",
       "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
-      "score": 21,
-      "comments": 11,
+      "score": 99,
+      "comments": 57,
       "source": "flutetunes.com"
     },
     {
-      "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "score": 474,
-      "comments": 591,
-      "source": "semafor.com"
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "score": 323,
+      "comments": 172,
+      "source": "physics.stackexchange.com"
     },
     {
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "score": 343,
-      "comments": 189,
-      "source": "aws.amazon.com"
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "score": 154,
+      "comments": 81,
+      "source": "sfwriter.com"
     },
     {
-      "title": "OpenTTD 16.0-Beta1",
-      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-      "score": 190,
-      "comments": 33,
-      "source": "openttd.org"
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "score": 28,
+      "comments": 11,
+      "source": "arstechnica.com"
     },
     {
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 151,
-      "comments": 114,
-      "source": "spectrum.ieee.org"
+      "title": "Underarm Bowling Incident of 1981",
+      "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+      "score": 106,
+      "comments": 87,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "Cultures of Making and Relating",
       "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
-      "score": 6,
-      "comments": 0,
+      "score": 37,
+      "comments": 2,
       "source": "blog.khinsen.net"
     },
     {
-      "title": "Jest/Vitest interactive course (runs in the browser)",
-      "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
-      "score": 15,
-      "comments": 7,
-      "source": "howtotestfrontend.com"
-    },
-    {
-      "title": "Hellishly Slow Level 13 Deflate Compression",
-      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-      "score": 71,
-      "comments": 20,
-      "source": "kirill.korins.ky"
-    },
-    {
-      "title": "Fusion Programming Language",
-      "url": "https://fusion-lang.org/",
-      "score": 89,
-      "comments": 37,
-      "source": "fusion-lang.org"
+      "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+      "url": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
+      "score": 50,
+      "comments": 2,
+      "source": "medium.com"
     },
     {
       "title": "Anatomy of a Failed (Nation-State?) Attack",
       "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-      "score": 78,
-      "comments": 12,
+      "score": 128,
+      "comments": 26,
       "source": "grack.com"
     },
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 1071,
-      "comments": 1124,
-      "source": "washingtonpost.com"
-    },
-    {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "score": 232,
-      "comments": 185,
-      "source": "blog.doubleword.ai"
-    },
-    {
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "score": 292,
-      "comments": 114,
-      "source": "alephneuro.com"
-    },
-    {
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "score": 80,
-      "comments": 18,
-      "source": "popflame.quickish.space"
-    },
-    {
-      "title": "IBM MCGA Gate Array Reverse Engineering",
-      "url": "https://github.com/schlae/IBM_MCGA",
-      "score": 42,
-      "comments": 8,
-      "source": "github.com"
-    },
-    {
-      "title": "Foreign funds help make housing unaffordable: research",
-      "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-      "score": 95,
-      "comments": 29,
-      "source": "news.mccombs.utexas.edu"
-    },
-    {
-      "title": "Om",
-      "url": "https://daringfireball.net/2026/06/om",
-      "score": 417,
-      "comments": 19,
-      "source": "daringfireball.net"
-    },
-    {
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "score": 425,
-      "comments": 149,
-      "source": "eff.org"
-    },
-    {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "score": 178,
-      "comments": 99,
-      "source": "github.com"
-    },
-    {
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "score": 133,
-      "comments": 20,
-      "source": "lefakkomies.github.io"
+      "title": "Jest/Vitest interactive course (runs in the browser)",
+      "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+      "score": 45,
+      "comments": 11,
+      "source": "howtotestfrontend.com"
     }
   ],
   "security": [
