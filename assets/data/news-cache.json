@@ -1,207 +1,207 @@
 {
   "tech": [
     {
+      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 792,
+      "comments": 490,
+      "source": "openai.com"
+    },
+    {
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "score": 46,
+      "comments": 6,
+      "source": "physics.stackexchange.com"
+    },
+    {
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "url": "https://github.com/Tessil/hopscotch-map",
+      "score": 53,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "score": 158,
+      "comments": 98,
+      "source": "reuters.com"
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "score": 776,
+      "comments": 885,
+      "source": "washingtonpost.com"
+    },
+    {
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "score": 138,
-      "comments": 77,
+      "score": 250,
+      "comments": 143,
       "source": "aws.amazon.com"
+    },
+    {
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "score": 103,
+      "comments": 88,
+      "source": "blog.doubleword.ai"
+    },
+    {
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "score": 177,
+      "comments": 48,
+      "source": "eff.org"
+    },
+    {
+      "title": "A Tiny Compiler for Data-Parallel Kernels",
+      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+      "score": 17,
+      "comments": 1,
+      "source": "healeycodes.com"
+    },
+    {
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "score": 25,
+      "comments": 5,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+      "score": 66,
+      "comments": 6,
+      "source": "svpow.com"
+    },
+    {
+      "title": "Show HN: DBOSify \u2013 Drop-in Temporal replacement built on Postgres",
+      "url": "https://github.com/dbos-inc/dbosify-py",
+      "score": 9,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers#open-positions",
+      "score": 1,
+      "comments": 0,
+      "source": "hightouch.com"
     },
     {
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
       "url": "https://github.com/workweave/router",
-      "score": 57,
-      "comments": 42,
+      "score": 137,
+      "comments": 86,
       "source": "github.com"
     },
     {
       "title": "Ultrasound imaging of the brain",
       "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "score": 144,
-      "comments": 53,
+      "score": 229,
+      "comments": 92,
       "source": "alephneuro.com"
-    },
-    {
-      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 319,
-      "comments": 299,
-      "source": "openai.com"
-    },
-    {
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 1209,
-      "comments": 143,
-      "source": "om.co"
-    },
-    {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "score": 1570,
-      "comments": 344,
-      "source": "scrollprize.org"
-    },
-    {
-      "title": "Modern GPU Programming for MLSys",
-      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-      "score": 9,
-      "comments": 1,
-      "source": "mlc.ai"
-    },
-    {
-      "title": "Springer Nature has removed two studies by Max Planck",
-      "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-      "score": 270,
-      "comments": 122,
-      "source": "science.org"
-    },
-    {
-      "title": "Liva AI (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "A US military exercise to launch a satellite on short notice",
-      "url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
-      "score": 88,
-      "comments": 49,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "What is a Lithium-ion capacitor?",
-      "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
-      "score": 11,
-      "comments": 1,
-      "source": "jtekt.co.jp"
-    },
-    {
-      "title": "Libre Barcode Project",
-      "url": "https://graphicore.github.io/librebarcode/",
-      "score": 257,
-      "comments": 44,
-      "source": "graphicore.github.io"
-    },
-    {
-      "title": "Incident CVE-2026-LGTM",
-      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "score": 408,
-      "comments": 73,
-      "source": "nesbitt.io"
-    },
-    {
-      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
-      "url": "https://www.swiftlatex.com/",
-      "score": 41,
-      "comments": 11,
-      "source": "swiftlatex.com"
-    },
-    {
-      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
-      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
-      "score": 218,
-      "comments": 65,
-      "source": "classicfm.com"
-    },
-    {
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "score": 315,
-      "comments": 148,
-      "source": "fernandoi.cl"
-    },
-    {
-      "title": "'Cost Me the Election': Data Centers Trigger Voter Backlash",
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "score": 31,
-      "comments": 24,
-      "source": "newsweek.com"
-    },
-    {
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "score": 287,
-      "comments": 166,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "Bipartite Matching Is in NC",
-      "url": "https://scottaaronson.blog/?p=9851",
-      "score": 92,
-      "comments": 13,
-      "source": "scottaaronson.blog"
     },
     {
       "title": "What Is a Nomogram and Why Would It Interest Me?",
       "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "score": 4,
-      "comments": 0,
+      "score": 78,
+      "comments": 14,
       "source": "lefakkomies.github.io"
     },
     {
-      "title": "Show HN: WebBase-III \u2013 dBASE III rebuilt in the browser with its own interpreter",
-      "url": "https://github.com/DDecoene/WebBaseIII",
-      "score": 59,
-      "comments": 15,
-      "source": "github.com"
+      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
+      "score": 137,
+      "comments": 84,
+      "source": "kotaku.com"
     },
     {
-      "title": "Jolla Phone (October 2026)",
-      "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-      "score": 191,
-      "comments": 115,
-      "source": "commerce.jolla.com"
+      "title": "A human postmortem of the 1996 AOL outage",
+      "url": "https://ngrok.com/blog/aol-was-down-1996",
+      "score": 34,
+      "comments": 7,
+      "source": "ngrok.com"
     },
     {
-      "title": "U.S. government will decide who gets to use latest upgrade to ChatGPT",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 9,
+      "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+      "url": "https://gossamer-lang.org/",
+      "score": 65,
+      "comments": 55,
+      "source": "gossamer-lang.org"
+    },
+    {
+      "title": "Om",
+      "url": "https://daringfireball.net/2026/06/om",
+      "score": 22,
       "comments": 1,
-      "source": "washingtonpost.com"
+      "source": "daringfireball.net"
     },
     {
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "url": "https://github.com/plbrault/youre-the-os",
-      "score": 330,
-      "comments": 71,
+      "title": "Long Wave radio era set to end with Droitwich switch-off",
+      "url": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
+      "score": 44,
+      "comments": 20,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Lippmann Photography",
+      "url": "https://www.jonhilty.com/lippmann",
+      "score": 14,
+      "comments": 0,
+      "source": "jonhilty.com"
+    },
+    {
+      "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+      "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+      "score": 41,
+      "comments": 5,
+      "source": "acoup.blog"
+    },
+    {
+      "title": "Show HN: Autofit2 \u2013 End-to-end pipeline for multilingual text classification",
+      "url": "https://github.com/neospe/autofit2",
+      "score": 13,
+      "comments": 1,
       "source": "github.com"
     },
     {
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 1020,
-      "comments": 516,
-      "source": "expression.fire.org"
+      "title": "Modern GPU Programming for MLSys",
+      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+      "score": 56,
+      "comments": 9,
+      "source": "mlc.ai"
     },
     {
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
-      "url": "https://gchandbook.org/",
-      "score": 221,
-      "comments": 46,
-      "source": "gchandbook.org"
+      "title": "The Art of Kite Flying (1430\u20131929)",
+      "url": "https://publicdomainreview.org/collection/art-of-kite-flying/",
+      "score": 24,
+      "comments": 10,
+      "source": "publicdomainreview.org"
     },
     {
-      "title": "FEXPRs vs. vtable: how LispE interpreter works",
-      "url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
-      "score": 69,
-      "comments": 6,
-      "source": "github.com"
+      "title": "LaTeX.wasm: LaTeX Engines in Browsers",
+      "url": "https://www.swiftlatex.com/",
+      "score": 84,
+      "comments": 30,
+      "source": "swiftlatex.com"
     },
     {
-      "title": "Oxide computer 3D rack guided tour",
-      "url": "https://explorer.oxide.computer/",
-      "score": 450,
-      "comments": 195,
-      "source": "explorer.oxide.computer"
+      "title": "My Steam Machine is a 50ft HDMI cable",
+      "url": "https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/",
+      "score": 159,
+      "comments": 154,
+      "source": "blog.matthewbrunelle.com"
     },
     {
-      "title": "We all depend on open source. We will defend it together",
-      "url": "https://akrites.org/letter/",
-      "score": 411,
-      "comments": 198,
-      "source": "akrites.org"
+      "title": "Data centers trigger voter backlash",
+      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
+      "score": 156,
+      "comments": 279,
+      "source": "newsweek.com"
     }
   ],
   "security": [
