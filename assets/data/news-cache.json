@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "url": "https://ipcrawl.com/",
-      "score": 224,
-      "comments": 115,
-      "source": "ipcrawl.com"
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "score": 168,
+      "comments": 41,
+      "source": "marfapublicradio.org"
+    },
+    {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "score": 39,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "score": 104,
+      "comments": 34,
+      "source": "decomp-academy.dev"
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "score": 107,
+      "comments": 23,
+      "source": "github.com"
+    },
+    {
+      "title": "Bashblog \u2013 a single bash script to create blogs",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "score": 15,
+      "comments": 0,
+      "source": "github.com"
     },
     {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
-      "score": 643,
-      "comments": 249,
+      "score": 775,
+      "comments": 302,
       "source": "github.com"
     },
     {
       "title": "OpenRA",
       "url": "https://www.openra.net/",
-      "score": 560,
-      "comments": 109,
+      "score": 662,
+      "comments": 128,
       "source": "openra.net"
     },
     {
       "title": "Choosing a Public DNS Resolver",
       "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 31,
-      "comments": 7,
+      "score": 132,
+      "comments": 42,
       "source": "evilbit.de"
     },
     {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 718,
-      "comments": 295,
-      "source": "github.com"
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "score": 146,
+      "comments": 81,
+      "source": "the-independent.com"
     },
     {
-      "title": "AI learns the \u201cdark art\u201d of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "score": 179,
-      "comments": 117,
-      "source": "spectrum.ieee.org"
+      "title": "Engineering for Bounded Cognition",
+      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "score": 16,
+      "comments": 2,
+      "source": "shapeofthesystem.com"
     },
     {
-      "title": "Enhancing X11 Application Security with LXC",
-      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-      "score": 24,
-      "comments": 7,
-      "source": "dobrowolski.dev"
+      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "score": 41,
+      "comments": 32,
+      "source": "thedailyeconomy.org"
     },
     {
       "title": "Fintech Engineering Handbook",
       "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 462,
-      "comments": 156,
+      "score": 538,
+      "comments": 170,
       "source": "w.pitula.me"
     },
     {
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "score": 147,
-      "comments": 67,
-      "source": "cauenapier.com"
+      "title": "Space Shuttle Endeavour's 20-story vertical display",
+      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
+      "score": 48,
+      "comments": 6,
+      "source": "californiasciencecenter.org"
     },
     {
       "title": "The case for physical media ownership",
       "url": "https://dervis.de/physical/",
-      "score": 359,
-      "comments": 232,
+      "score": 414,
+      "comments": 269,
       "source": "dervis.de"
     },
     {
-      "title": "Suspicious Discontinuities (2020)",
-      "url": "https://danluu.com/discontinuities/",
-      "score": 210,
-      "comments": 58,
-      "source": "danluu.com"
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+      "score": 51,
+      "comments": 4,
+      "source": "clickhouse.com"
     },
     {
-      "title": "Show HN: Adrafinil \u2013 keep a lid-closed Mac awake only while agents work",
-      "url": "https://github.com/kageroumado/adrafinil",
-      "score": 77,
-      "comments": 48,
-      "source": "github.com"
+      "title": "Regular expressions that work \"everywhere\"",
+      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+      "score": 44,
+      "comments": 21,
+      "source": "johndcook.com"
     },
     {
-      "title": "Paradise Revisited: What Darwin Saw in the Gal\u00e1pagos",
-      "url": "https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/",
-      "score": 32,
-      "comments": 0,
-      "source": "theatlantic.com"
+      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+      "score": 130,
+      "comments": 83,
+      "source": "thedrive.com"
     },
     {
-      "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
-      "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
-      "score": 18,
-      "comments": 5,
-      "source": "knob.monster"
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
+      "score": 207,
+      "comments": 87,
+      "source": "cauenapier.com"
     },
     {
-      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-      "score": 150,
-      "comments": 74,
-      "source": "sciencedirect.com"
-    },
-    {
-      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-      "score": 129,
-      "comments": 39,
-      "source": "cephalosec.com"
+      "title": "Turning music into a chore is how I became a musician (2022)",
+      "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+      "score": 28,
+      "comments": 7,
+      "source": "the.scapegoat.dev"
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "score": 123,
-      "comments": 119,
+      "score": 213,
+      "comments": 161,
       "source": "techcrunch.com"
     },
     {
-      "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
-      "url": "https://starglyphs.com",
-      "score": 8,
-      "comments": 2,
-      "source": "starglyphs.com"
+      "title": "AI learns the \u201cdark art\u201d of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "score": 225,
+      "comments": 148,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "Michigan spent $1.8B and only created 602 jobs",
-      "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
-      "score": 88,
-      "comments": 34,
-      "source": "msn.com"
+      "title": "Enhancing X11 Application Security with LXC (2025)",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "score": 61,
+      "comments": 29,
+      "source": "dobrowolski.dev"
     },
     {
-      "title": "The eerie interface of man and machine (Life Magazine, October 1967)",
-      "url": "https://blog.jgc.org/2026/06/the-eerie-interface-of-man-and-machine.html",
-      "score": 26,
-      "comments": 1,
-      "source": "blog.jgc.org"
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "score": 180,
+      "comments": 101,
+      "source": "jayacunzo.com"
     },
     {
-      "title": "One man, two kernels, and a lot of RISC-V",
-      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
-      "score": 74,
-      "comments": 5,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Supabase (YC S20) Is Hiring for Multigres",
-      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
-      "score": 1,
+      "title": "Reflecting to optimise",
+      "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+      "score": 3,
       "comments": 0,
-      "source": "jobs.ashbyhq.com"
+      "source": "magnusross.github.io"
     },
     {
-      "title": "Long Wave radio era set to end with switch-off",
-      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-      "score": 167,
-      "comments": 155,
-      "source": "economist.com"
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "score": 229,
+      "comments": 74,
+      "source": "danluu.com"
     },
     {
-      "title": "How H-E-B became Texas' most beloved brand (2024)",
-      "url": "https://texashighways.com/culture/how-heb-became-texas-most-beloved-brand/",
-      "score": 88,
-      "comments": 84,
-      "source": "texashighways.com"
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "score": 188,
+      "comments": 99,
+      "source": "sciencedirect.com"
     },
     {
-      "title": "Zuckerberg's war on whistleblowers",
-      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
-      "score": 623,
-      "comments": 229,
-      "source": "pluralistic.net"
-    },
-    {
-      "title": "Remembering the life and artwork of Ron Spears",
-      "url": "https://magic.wizards.com/en/news/feature/remembering-the-life-and-artwork-of-ron-spears",
-      "score": 6,
-      "comments": 0,
-      "source": "magic.wizards.com"
-    },
-    {
-      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
-      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
-      "score": 148,
-      "comments": 71,
-      "source": "flutetunes.com"
-    },
-    {
-      "title": "Codeberg Is Down",
-      "url": "https://social.anoxinon.de/@codebergstatus/116824443563698727",
-      "score": 24,
-      "comments": 10,
-      "source": "social.anoxinon.de"
-    },
-    {
-      "title": "Running a software jam in a world of slop",
-      "url": "https://foxmoss.com/blog/radish/",
+      "title": "How do you keep Web MIDI from crashing a 1983 synthesizer?",
+      "url": "https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer",
       "score": 40,
-      "comments": 11,
-      "source": "foxmoss.com"
+      "comments": 19,
+      "source": "knob.monster"
     },
     {
-      "title": "Linux on Older Hardware: The Complete Revival Guide",
-      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-      "score": 202,
-      "comments": 117,
-      "source": "fosslinux.com"
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "score": 751,
+      "comments": 315,
+      "source": "github.com"
+    },
+    {
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "score": 144,
+      "comments": 54,
+      "source": "cephalosec.com"
+    },
+    {
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "url": "https://ipcrawl.com/",
+      "score": 286,
+      "comments": 141,
+      "source": "ipcrawl.com"
     }
   ],
   "security": [
