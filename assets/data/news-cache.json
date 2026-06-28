@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "5k Restaurant Menus, Years 1880-1920",
+      "url": "https://pudding.cool/2026/06/menu-collection/",
+      "score": 204,
+      "comments": 49,
+      "source": "pudding.cool"
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "score": 104,
+      "comments": 144,
+      "source": "antoine.fi"
+    },
+    {
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "score": 37,
+      "comments": 3,
+      "source": "oldvcr.blogspot.com"
+    },
+    {
+      "title": "Reflections on Software Engineering in the Age of AI",
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+      "score": 50,
+      "comments": 10,
+      "source": "adiamond.me"
+    },
+    {
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "score": 47,
+      "comments": 18,
+      "source": "openculture.com"
+    },
+    {
+      "title": "Show HN: Zanagrams",
+      "url": "https://zanagrams.com/",
+      "score": 57,
+      "comments": 18,
+      "source": "zanagrams.com"
+    },
+    {
+      "title": "The Boeing 747 Begins Its Final Descent",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+      "score": 37,
+      "comments": 24,
+      "source": "theatlantic.com"
+    },
+    {
+      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+      "score": 43,
+      "comments": 7,
+      "source": "righto.com"
+    },
+    {
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "score": 137,
+      "comments": 94,
+      "source": "github.com"
+    },
+    {
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "score": 176,
+      "comments": 41,
+      "source": "aresluna.org"
+    },
+    {
+      "title": "Show HN: DRM-Free Books",
+      "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+      "score": 13,
+      "comments": 3,
+      "source": "frequal.com"
+    },
+    {
+      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+      "score": 151,
+      "comments": 83,
+      "source": "cbsnews.com"
+    },
+    {
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "score": 267,
+      "comments": 179,
+      "source": "engadget.com"
+    },
+    {
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "score": 356,
+      "comments": 205,
+      "source": "patrick-breyer.de"
+    },
+    {
       "title": "Marfa Public Radio Puts You to Sleep",
       "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "score": 280,
-      "comments": 78,
+      "score": 361,
+      "comments": 109,
       "source": "marfapublicradio.org"
+    },
+    {
+      "title": "Build Yourself Flowers",
+      "url": "https://vickiboykis.com/2026/04/20/build-yourself-flowers/",
+      "score": 35,
+      "comments": 0,
+      "source": "vickiboykis.com"
+    },
+    {
+      "title": "Programmable Probabilistic Computer with 1M p-bits",
+      "url": "https://arxiv.org/abs/2606.25313",
+      "score": 11,
+      "comments": 0,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Do Babies Dream of Baby Sheep?",
+      "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+      "score": 87,
+      "comments": 25,
+      "source": "devz.cl"
+    },
+    {
+      "title": "California legislature agrees to upload driver's licenses to national database",
+      "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
+      "score": 69,
+      "comments": 28,
+      "source": "papersplease.org"
     },
     {
       "title": "DLL that was not present in memory despite not being formally unloaded",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-      "score": 24,
-      "comments": 2,
+      "score": 100,
+      "comments": 35,
       "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "The MUMPS 76 Primer \u2013 anniversary edition",
+      "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+      "score": 48,
+      "comments": 21,
+      "source": "github.com"
+    },
+    {
+      "title": "Google limits Meta's use of its Gemini AI models",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "score": 119,
+      "comments": 56,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Tokenmaxxing is dead, long live Tokenmaxxing",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "score": 39,
+      "comments": 41,
+      "source": "12gramsofcarbon.com"
+    },
+    {
+      "title": "Bringing Swift to the Apple ][",
+      "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+      "score": 48,
+      "comments": 2,
+      "source": "yeokhengmeng.com"
+    },
+    {
+      "title": "Designing a Personal Pebble Watchface",
+      "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
+      "score": 25,
+      "comments": 4,
+      "source": "jonashietala.se"
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "score": 913,
+      "comments": 360,
+      "source": "github.com"
     },
     {
       "title": "Bashblog \u2013 a single bash script to create blogs",
       "url": "https://github.com/cfenollosa/bashblog",
-      "score": 67,
-      "comments": 44,
+      "score": 101,
+      "comments": 73,
       "source": "github.com"
     },
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
       "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "score": 164,
-      "comments": 52,
+      "score": 212,
+      "comments": 65,
       "source": "github.com"
-    },
-    {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "score": 844,
-      "comments": 328,
-      "source": "github.com"
-    },
-    {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "score": 79,
-      "comments": 33,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
-      "score": 145,
-      "comments": 57,
-      "source": "decomp-academy.dev"
-    },
-    {
-      "title": "More evidence of life on Mars but still no life",
-      "url": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
-      "score": 10,
-      "comments": 2,
-      "source": "cbc.ca"
     },
     {
       "title": "Choosing a Public DNS Resolver",
       "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 191,
-      "comments": 68,
+      "score": 257,
+      "comments": 109,
       "source": "evilbit.de"
     },
     {
-      "title": "Engineering for Bounded Cognition",
-      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
-      "score": 64,
-      "comments": 11,
-      "source": "shapeofthesystem.com"
-    },
-    {
-      "title": "A stray \"j\" ruined my evening",
-      "url": "https://napkins.mtmn.name/posts/stray-jay.html",
-      "score": 26,
-      "comments": 12,
-      "source": "napkins.mtmn.name"
-    },
-    {
-      "title": "Reflecting to optimise",
-      "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
-      "score": 29,
-      "comments": 2,
-      "source": "magnusross.github.io"
-    },
-    {
-      "title": "Instantiating UI Components with Distinguishing Variations [pdf]",
-      "url": "https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf",
-      "score": 4,
-      "comments": 0,
-      "source": "static.barik.net"
-    },
-    {
-      "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
-      "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-      "score": 12,
-      "comments": 0,
-      "source": "typographica.org"
-    },
-    {
-      "title": "Space Shuttle Endeavour's 20-story vertical display",
-      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
-      "score": 71,
-      "comments": 13,
-      "source": "californiasciencecenter.org"
-    },
-    {
-      "title": "Regular expressions that work \"everywhere\"",
-      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
-      "score": 68,
-      "comments": 26,
-      "source": "johndcook.com"
-    },
-    {
-      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-      "score": 90,
-      "comments": 5,
-      "source": "clickhouse.com"
-    },
-    {
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "score": 258,
-      "comments": 112,
-      "source": "cauenapier.com"
-    },
-    {
-      "title": "AI learns the \u201cdark art\u201d of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "score": 245,
-      "comments": 159,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "score": 752,
-      "comments": 142,
-      "source": "openra.net"
-    },
-    {
-      "title": "Experimenting with Random() in CSS",
-      "url": "https://polypane.app/blog/experimenting-with-random-in-css/",
-      "score": 20,
-      "comments": 6,
-      "source": "polypane.app"
-    },
-    {
-      "title": "The case for physical media ownership",
-      "url": "https://dervis.de/physical/",
-      "score": 452,
-      "comments": 309,
-      "source": "dervis.de"
-    },
-    {
-      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-      "score": 212,
-      "comments": 131,
-      "source": "sciencedirect.com"
-    },
-    {
-      "title": "From Pentagons to Pentagrams",
-      "url": "https://johncarlosbaez.wordpress.com/2026/05/29/from-pentagons-to-pentagrams/",
-      "score": 13,
-      "comments": 3,
-      "source": "johncarlosbaez.wordpress.com"
-    },
-    {
-      "title": "The best response to AI slop and online noise is from Robin Williams",
-      "url": "https://jayacunzo.com/blog/your-move-chief",
-      "score": 278,
-      "comments": 151,
-      "source": "jayacunzo.com"
-    },
-    {
-      "title": "Suspicious Discontinuities (2020)",
-      "url": "https://danluu.com/discontinuities/",
-      "score": 250,
-      "comments": 85,
-      "source": "danluu.com"
-    },
-    {
-      "title": "Turning music into a chore is how I became a musician (2022)",
-      "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
-      "score": 52,
-      "comments": 18,
-      "source": "the.scapegoat.dev"
-    },
-    {
-      "title": "Enhancing x11 Application Security with LXC (2025)",
-      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-      "score": 71,
-      "comments": 45,
-      "source": "dobrowolski.dev"
-    },
-    {
-      "title": "Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "score": 250,
-      "comments": 180,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Armadillo \u2013 A DNS Server in Gleam for Homelab Use",
-      "url": "https://github.com/vshakitskiy/armadillo",
-      "score": 19,
-      "comments": 1,
-      "source": "github.com"
+      "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
+      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+      "score": 85,
+      "comments": 44,
+      "source": "cbc.ca"
     }
   ],
   "security": [
