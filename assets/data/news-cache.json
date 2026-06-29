@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 74,
-      "comments": 16,
-      "source": "cpushack.com"
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 186,
+      "comments": 123,
+      "source": "quesma.com"
+    },
+    {
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "score": 220,
+      "comments": 133,
+      "source": "investors.rocketlabcorp.com"
+    },
+    {
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "score": 104,
+      "comments": 51,
+      "source": "probablymarcus.com"
+    },
+    {
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 111,
+      "comments": 11,
+      "source": "humphri.es"
+    },
+    {
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "score": 16,
+      "comments": 6,
+      "source": "github.com"
+    },
+    {
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 197,
+      "comments": 71,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
+      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+      "score": 23,
+      "comments": 1,
+      "source": "lucassifoni.info"
+    },
+    {
+      "title": "The Radiation Exposure Lie",
+      "url": "https://worksinprogress.co/issue/how-to-lie-about-radiation/",
+      "score": 25,
+      "comments": 9,
+      "source": "worksinprogress.co"
+    },
+    {
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "score": 137,
+      "comments": 12,
+      "source": "fergusfinn.com"
+    },
+    {
+      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "score": 160,
+      "comments": 33,
+      "source": "torrentfreak.com"
     },
     {
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
       "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 656,
-      "comments": 277,
+      "score": 889,
+      "comments": 381,
       "source": "danunparsed.com"
     },
     {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 953,
-      "comments": 441,
-      "source": "semgrep.dev"
+      "title": "The Return of Aspect Oriented Programming",
+      "url": "https://thomaswc.com/blog/the_return_of_aop.html",
+      "score": 35,
+      "comments": 25,
+      "source": "thomaswc.com"
     },
     {
-      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-      "score": 464,
-      "comments": 62,
-      "source": "blog.pragmaticengineer.com"
+      "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
+      "url": "https://publicdomainreview.org/collection/venice-bridge-fights/",
+      "score": 32,
+      "comments": 12,
+      "source": "publicdomainreview.org"
     },
     {
-      "title": "Type-checked non-empty strings",
-      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-      "score": 8,
-      "comments": 0,
-      "source": "exploring-better-ways.bellroy.com"
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+      "score": 122,
+      "comments": 36,
+      "source": "cpushack.com"
     },
     {
-      "title": "Rebuilding the Computer Room",
-      "url": "https://alexwlchan.net/2026/computer-room/",
-      "score": 19,
-      "comments": 4,
-      "source": "alexwlchan.net"
+      "title": "Tidal AI Policy",
+      "url": "https://tidal.com/ai-policy",
+      "score": 247,
+      "comments": 274,
+      "source": "tidal.com"
     },
     {
-      "title": "NUMA: Cores, memory, and the distance between them",
-      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
-      "score": 62,
+      "title": "Instagram is incorporating users' photos in ads for Meta Glasses",
+      "url": "https://twitter.com/i/status/2071277885646868536",
+      "score": 226,
+      "comments": 101,
+      "source": "twitter.com"
+    },
+    {
+      "title": "You Don't Know Jack About Formal Verification",
+      "url": "https://queue.acm.org/detail.cfm?id=3819084",
+      "score": 28,
       "comments": 8,
-      "source": "edera.dev"
+      "source": "queue.acm.org"
+    },
+    {
+      "title": "Mag 7 starting to underperform [pdf]",
+      "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
+      "score": 154,
+      "comments": 129,
+      "source": "apollo.com"
     },
     {
       "title": "Halvar's Guide to Entrepreneurship",
       "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
-      "score": 56,
-      "comments": 10,
+      "score": 150,
+      "comments": 38,
       "source": "thomasdullien.github.io"
-    },
-    {
-      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-      "score": 108,
-      "comments": 16,
-      "source": "schamper.dev"
-    },
-    {
-      "title": "Caffeinated and decaffeinated coffee lower stress, depression and impulsivity",
-      "url": "https://www.ucc.ie/en/advancement/alumni-benefits/bridge-newsletter/why-your-morning-brew-is-good-for-you.html",
-      "score": 39,
-      "comments": 29,
-      "source": "ucc.ie"
-    },
-    {
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 684,
-      "comments": 397,
-      "source": "nonogra.ph"
-    },
-    {
-      "title": "Federating Clusters for Zero-Downtime Kubernetes",
-      "url": "https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html",
-      "score": 12,
-      "comments": 0,
-      "source": "linkerd.io"
-    },
-    {
-      "title": "We found a bug in the hyper HTTP library",
-      "url": "https://blog.cloudflare.com/hyper-bug/",
-      "score": 109,
-      "comments": 47,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 345,
-      "comments": 134,
-      "source": "dam.stanford.edu"
-    },
-    {
-      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 387,
-      "comments": 101,
-      "source": "pudding.cool"
-    },
-    {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 484,
-      "comments": 616,
-      "source": "antoine.fi"
     },
     {
       "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
       "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-      "score": 14,
-      "comments": 4,
+      "score": 225,
+      "comments": 107,
       "source": "en.sedaily.com"
     },
     {
-      "title": "Why did this journal retract two 1940s papers by Max Planck?",
-      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-      "score": 171,
-      "comments": 13,
-      "source": "arstechnica.com"
+      "title": "CachyOS June 2026 Release",
+      "url": "https://cachyos.org/blog/2606-june-release/",
+      "score": 93,
+      "comments": 49,
+      "source": "cachyos.org"
     },
     {
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
-      "score": 114,
-      "comments": 19,
-      "source": "arxiv.org"
+      "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
+      "url": "https://det.social/@lostgen/116820546568940358",
+      "score": 297,
+      "comments": 720,
+      "source": "det.social"
     },
     {
-      "title": "Let's Decode the Mystery Bytes [video]",
-      "url": "https://www.youtube.com/watch?v=GZqB4D_Do38",
-      "score": 19,
-      "comments": 3,
-      "source": "youtube.com"
+      "title": "Building Principia for Windows XP",
+      "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
+      "score": 89,
+      "comments": 23,
+      "source": "voxelmanip.se"
     },
     {
-      "title": "Show HN: Zanagrams",
-      "url": "https://zanagrams.com/",
-      "score": 328,
-      "comments": 85,
-      "source": "zanagrams.com"
+      "title": "Pollen tried to remove my article and Google is assisting with it",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "score": 760,
+      "comments": 107,
+      "source": "blog.pragmaticengineer.com"
     },
     {
-      "title": "The KIDS Act would require age checks to get online",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "score": 556,
-      "comments": 449,
-      "source": "eff.org"
+      "title": "Decker Fantasy Camp 2026",
+      "url": "https://itch.io/jam/decker-fantasy-camp-2026",
+      "score": 25,
+      "comments": 5,
+      "source": "itch.io"
     },
     {
-      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "score": 169,
-      "comments": 239,
-      "source": "12gramsofcarbon.com"
+      "title": "NUMA: Cores, memory, and the distance between them",
+      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+      "score": 109,
+      "comments": 22,
+      "source": "edera.dev"
     },
     {
-      "title": "Herdr: Agent multiplexer that lives in your terminal",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "score": 96,
-      "comments": 66,
-      "source": "github.com"
+      "title": "Studio Canal Movies purchased on PlayStation Store removed without refund",
+      "url": "https://www.playstation.com/en-gb/legal/psvideocontent/",
+      "score": 159,
+      "comments": 94,
+      "source": "playstation.com"
     },
     {
-      "title": "Professor denounces mass AI fraud on an exam at Brown",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "score": 461,
-      "comments": 610,
-      "source": "english.elpais.com"
+      "title": "Rebuilding the Computer Room",
+      "url": "https://alexwlchan.net/2026/computer-room/",
+      "score": 65,
+      "comments": 34,
+      "source": "alexwlchan.net"
     },
     {
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "score": 130,
-      "comments": 39,
-      "source": "oldvcr.blogspot.com"
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "score": 143,
+      "comments": 21,
+      "source": "schamper.dev"
     },
     {
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
-      "score": 157,
-      "comments": 48,
-      "source": "openculture.com"
-    },
-    {
-      "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
-      "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
-      "score": 82,
-      "comments": 36,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Librepods: AirPods liberated",
-      "url": "https://github.com/librepods-org/librepods",
-      "score": 432,
-      "comments": 153,
-      "source": "github.com"
-    },
-    {
-      "title": "The Boeing 747 begins its final descent",
-      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-      "score": 204,
-      "comments": 305,
-      "source": "theatlantic.com"
+      "title": "Type-checked non-empty strings",
+      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+      "score": 46,
+      "comments": 28,
+      "source": "exploring-better-ways.bellroy.com"
     }
   ],
   "security": [
