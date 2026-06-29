@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+      "score": 74,
+      "comments": 16,
+      "source": "cpushack.com"
+    },
+    {
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
       "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-      "score": 277,
-      "comments": 84,
+      "score": 656,
+      "comments": 277,
       "source": "danunparsed.com"
     },
     {
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 760,
-      "comments": 363,
+      "score": 953,
+      "comments": 441,
       "source": "semgrep.dev"
+    },
+    {
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "score": 464,
+      "comments": 62,
+      "source": "blog.pragmaticengineer.com"
+    },
+    {
+      "title": "Type-checked non-empty strings",
+      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+      "score": 8,
+      "comments": 0,
+      "source": "exploring-better-ways.bellroy.com"
+    },
+    {
+      "title": "Rebuilding the Computer Room",
+      "url": "https://alexwlchan.net/2026/computer-room/",
+      "score": 19,
+      "comments": 4,
+      "source": "alexwlchan.net"
+    },
+    {
+      "title": "NUMA: Cores, memory, and the distance between them",
+      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+      "score": 62,
+      "comments": 8,
+      "source": "edera.dev"
+    },
+    {
+      "title": "Halvar's Guide to Entrepreneurship",
+      "url": "https://thomasdullien.github.io/guides/entrepreneurship/",
+      "score": 56,
+      "comments": 10,
+      "source": "thomasdullien.github.io"
     },
     {
       "title": "Dissecting Apple's Sparse Image Format (ASIF)",
       "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-      "score": 41,
-      "comments": 0,
+      "score": 108,
+      "comments": 16,
       "source": "schamper.dev"
+    },
+    {
+      "title": "Caffeinated and decaffeinated coffee lower stress, depression and impulsivity",
+      "url": "https://www.ucc.ie/en/advancement/alumni-benefits/bridge-newsletter/why-your-morning-brew-is-good-for-you.html",
+      "score": 39,
+      "comments": 29,
+      "source": "ucc.ie"
     },
     {
       "title": "Age verification is just a precursor to automated attribution of speech",
       "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-      "score": 338,
-      "comments": 182,
+      "score": 684,
+      "comments": 397,
       "source": "nonogra.ph"
     },
     {
-      "title": "Herdr: Agent multiplexer that lives in your terminal",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "score": 41,
-      "comments": 15,
-      "source": "github.com"
+      "title": "Federating Clusters for Zero-Downtime Kubernetes",
+      "url": "https://linkerd.io/2026/06/24/federating-clusters-for-zero-downtime-kubernetes/index.html",
+      "score": 12,
+      "comments": 0,
+      "source": "linkerd.io"
     },
     {
-      "title": "Lore \u2013 Give your coding agent the decisions your team made",
-      "url": "https://github.com/itsthelore/rac-core",
-      "score": 25,
-      "comments": 19,
-      "source": "github.com"
+      "title": "We found a bug in the hyper HTTP library",
+      "url": "https://blog.cloudflare.com/hyper-bug/",
+      "score": 109,
+      "comments": 47,
+      "source": "blog.cloudflare.com"
     },
     {
       "title": "Historical memory prices 1960-2026",
       "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 279,
-      "comments": 99,
+      "score": 345,
+      "comments": 134,
       "source": "dam.stanford.edu"
     },
     {
       "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
       "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 360,
-      "comments": 92,
+      "score": 387,
+      "comments": 101,
       "source": "pudding.cool"
     },
     {
       "title": "I used Claude Code to get a second opinion on my MRI",
       "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 413,
-      "comments": 541,
+      "score": 484,
+      "comments": 616,
       "source": "antoine.fi"
     },
     {
-      "title": "We found a bug in the hyper HTTP library",
-      "url": "https://blog.cloudflare.com/hyper-bug/",
-      "score": 17,
-      "comments": 0,
-      "source": "blog.cloudflare.com"
+      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
+      "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
+      "score": 14,
+      "comments": 4,
+      "source": "en.sedaily.com"
     },
     {
-      "title": "Replacing Systemd with OpenRC in Debian",
-      "url": "https://danielcordova.me/blog/debian-openrc/",
-      "score": 3,
-      "comments": 0,
-      "source": "danielcordova.me"
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "score": 171,
+      "comments": 13,
+      "source": "arstechnica.com"
     },
     {
       "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
       "url": "https://arxiv.org/abs/2401.07013",
-      "score": 87,
-      "comments": 14,
+      "score": 114,
+      "comments": 19,
       "source": "arxiv.org"
     },
     {
-      "title": "Deciphering basmala",
-      "url": "https://blog.plover.com/lang/bismillah.html",
-      "score": 51,
-      "comments": 18,
-      "source": "blog.plover.com"
+      "title": "Let's Decode the Mystery Bytes [video]",
+      "url": "https://www.youtube.com/watch?v=GZqB4D_Do38",
+      "score": 19,
+      "comments": 3,
+      "source": "youtube.com"
     },
     {
       "title": "Show HN: Zanagrams",
       "url": "https://zanagrams.com/",
-      "score": 265,
-      "comments": 61,
+      "score": 328,
+      "comments": 85,
       "source": "zanagrams.com"
-    },
-    {
-      "title": "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
-      "url": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
-      "score": 4,
-      "comments": 0,
-      "source": "newsletter.semianalysis.com"
-    },
-    {
-      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-      "score": 142,
-      "comments": 173,
-      "source": "12gramsofcarbon.com"
-    },
-    {
-      "title": "The Forgotten Castles of the Garamantes",
-      "url": "https://www.wildmanlife.com/the-forgotten-castles-of-the-garamantes/",
-      "score": 23,
-      "comments": 2,
-      "source": "wildmanlife.com"
-    },
-    {
-      "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
-      "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
-      "score": 57,
-      "comments": 20,
-      "source": "bloomberg.com"
     },
     {
       "title": "The KIDS Act would require age checks to get online",
       "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "score": 444,
-      "comments": 355,
+      "score": 556,
+      "comments": 449,
       "source": "eff.org"
     },
     {
-      "title": "Model Training as Code",
-      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
-      "score": 71,
-      "comments": 14,
-      "source": "aleph-alpha.com"
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "score": 169,
+      "comments": 239,
+      "source": "12gramsofcarbon.com"
+    },
+    {
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "score": 96,
+      "comments": 66,
+      "source": "github.com"
     },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
       "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "score": 375,
-      "comments": 500,
+      "score": 461,
+      "comments": 610,
       "source": "english.elpais.com"
-    },
-    {
-      "title": "TOP500 at ISC\u201926: We have a New Number 1 Supercomputer",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-      "score": 105,
-      "comments": 66,
-      "source": "chipsandcheese.com"
     },
     {
       "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
       "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "score": 107,
-      "comments": 30,
+      "score": 130,
+      "comments": 39,
       "source": "oldvcr.blogspot.com"
+    },
+    {
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "score": 157,
+      "comments": 48,
+      "source": "openculture.com"
+    },
+    {
+      "title": "The Baffling World of Masayoshi Son's Presentations (2020)",
+      "url": "https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son",
+      "score": 82,
+      "comments": 36,
+      "source": "bloomberg.com"
     },
     {
       "title": "Librepods: AirPods liberated",
       "url": "https://github.com/librepods-org/librepods",
-      "score": 359,
-      "comments": 124,
+      "score": 432,
+      "comments": 153,
       "source": "github.com"
     },
     {
       "title": "The Boeing 747 begins its final descent",
       "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-      "score": 182,
-      "comments": 251,
+      "score": 204,
+      "comments": 305,
       "source": "theatlantic.com"
-    },
-    {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
-      "score": 201,
-      "comments": 129,
-      "source": "github.com"
-    },
-    {
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
-      "score": 130,
-      "comments": 43,
-      "source": "openculture.com"
-    },
-    {
-      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-      "score": 104,
-      "comments": 23,
-      "source": "righto.com"
-    },
-    {
-      "title": "More evidence is consistent with possible ancient life on Mars (2025)",
-      "url": "https://www.cbc.ca/radio/quirks/more-evidence-of-life-on-mars-but-still-no-life-1.7649645",
-      "score": 81,
-      "comments": 78,
-      "source": "cbc.ca"
-    },
-    {
-      "title": "Idler Magazine",
-      "url": "https://www.idler.co.uk/",
-      "score": 19,
-      "comments": 3,
-      "source": "idler.co.uk"
     }
   ],
   "security": [
