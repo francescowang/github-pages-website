@@ -1,276 +1,215 @@
 {
   "tech": [
     {
+      "title": "European digital ID wallets are a gift to Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "score": 275,
+      "comments": 117,
+      "source": "waag.org"
+    },
+    {
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "score": 131,
+      "comments": 32,
+      "source": "europeancorrespondent.com"
+    },
+    {
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "score": 99,
+      "comments": 26,
+      "source": "karolina.mgdubiel.com"
+    },
+    {
+      "title": "Parse, Don't Validate \u2013 In a Language That Doesn't Want You To",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "score": 33,
+      "comments": 11,
+      "source": "cekrem.github.io"
+    },
+    {
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "score": 356,
+      "comments": 66,
+      "source": "opensourcelowtech.org"
+    },
+    {
+      "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
+      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "score": 102,
+      "comments": 42,
+      "source": "arstechnica.com"
+    },
+    {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 842,
-      "comments": 586,
+      "score": 989,
+      "comments": 643,
       "source": "quesma.com"
+    },
+    {
+      "title": "Exercise intensity influences body composition in healthy older adults",
+      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
+      "score": 54,
+      "comments": 50,
+      "source": "maturitas.org"
+    },
+    {
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "score": 40,
+      "comments": 28,
+      "source": "antaresindustries.com"
     },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 452,
-      "comments": 267,
+      "score": 554,
+      "comments": 321,
       "source": "hccf.onmy.cloud"
     },
     {
       "title": "Free the Icons",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 391,
-      "comments": 106,
+      "score": 527,
+      "comments": 173,
       "source": "weblog.rogueamoeba.com"
     },
     {
-      "title": "Open Source Low Tech",
-      "url": "https://opensourcelowtech.org/",
-      "score": 32,
-      "comments": 4,
-      "source": "opensourcelowtech.org"
-    },
-    {
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 104,
-      "comments": 32,
-      "source": "longcat.chat"
+      "title": "The operating cost starts after the demo",
+      "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "score": 38,
+      "comments": 23,
+      "source": "twoheads.net"
     },
     {
       "title": "Memory Safe Context Switching",
       "url": "https://fil-c.org/context_switches",
-      "score": 98,
-      "comments": 22,
+      "score": 154,
+      "comments": 25,
       "source": "fil-c.org"
     },
     {
-      "title": "Old Computer Challenge",
-      "url": "http://occ.sdf.org/",
-      "score": 48,
-      "comments": 14,
-      "source": "occ.sdf.org"
-    },
-    {
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 55,
-      "comments": 16,
-      "source": "obsolescence.dev"
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "score": 183,
+      "comments": 47,
+      "source": "longcat.chat"
     },
     {
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 395,
-      "comments": 260,
+      "score": 424,
+      "comments": 279,
       "source": "investors.rocketlabcorp.com"
     },
     {
       "title": "Linux for the Sega MegaDrive",
       "url": "https://github.com/LinuxMD/linuxmd",
-      "score": 79,
-      "comments": 10,
+      "score": 147,
+      "comments": 18,
       "source": "github.com"
     },
     {
-      "title": "The end of the AArch64 desktop experiment",
-      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-      "score": 16,
-      "comments": 5,
-      "source": "marcin.juszkiewicz.com.pl"
+      "title": "Old Computer Challenge",
+      "url": "http://occ.sdf.org/",
+      "score": 82,
+      "comments": 32,
+      "source": "occ.sdf.org"
     },
     {
-      "title": "Popping the GPU Bubble",
-      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
-      "score": 77,
-      "comments": 18,
-      "source": "moondream.ai"
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "score": 89,
+      "comments": 22,
+      "source": "obsolescence.dev"
     },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 196,
-      "comments": 39,
+      "score": 222,
+      "comments": 41,
       "source": "github.com"
-    },
-    {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 509,
-      "comments": 241,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "How to corrupt an SQLite database file",
-      "url": "https://www.sqlite.org/howtocorrupt.html",
-      "score": 53,
-      "comments": 14,
-      "source": "sqlite.org"
-    },
-    {
-      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-      "score": 29,
-      "comments": 3,
-      "source": "britishorigami.org"
     },
     {
       "title": "One million passports leaked online",
       "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-      "score": 233,
-      "comments": 127,
+      "score": 316,
+      "comments": 191,
       "source": "theverge.com"
+    },
+    {
+      "title": "Why Problem Statements Aren't Enough",
+      "url": "https://letters.unchartedpathbreakthroughs.com/posts/why-problem-statements-arent-enough",
+      "score": 7,
+      "comments": 3,
+      "source": "letters.unchartedpathbreakthroughs.com"
+    },
+    {
+      "title": "All Logic, No Bite",
+      "url": "https://lcamtuf.substack.com/p/all-logic-no-bite",
+      "score": 12,
+      "comments": 0,
+      "source": "lcamtuf.substack.com"
+    },
+    {
+      "title": "How to corrupt an SQLite database file",
+      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "score": 102,
+      "comments": 20,
+      "source": "sqlite.org"
+    },
+    {
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 546,
+      "comments": 251,
+      "source": "theguardian.com"
     },
     {
       "title": "Zig \u2013 SPIR-V Backend Progress",
       "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-      "score": 49,
-      "comments": 16,
+      "score": 81,
+      "comments": 44,
       "source": "ziglang.org"
+    },
+    {
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+      "score": 640,
+      "comments": 379,
+      "source": "theintercept.com"
     },
     {
       "title": "Apple Neural Engine: Architecture, Programming, and Performance",
       "url": "https://arxiv.org/abs/2606.22283",
-      "score": 154,
-      "comments": 22,
+      "score": 193,
+      "comments": 25,
       "source": "arxiv.org"
-    },
-    {
-      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
-      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
-      "score": 49,
-      "comments": 11,
-      "source": "notes.shixiangxi.com"
-    },
-    {
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 287,
-      "comments": 154,
-      "source": "probablymarcus.com"
-    },
-    {
-      "title": "Study suggests most Americans would be healthier without daylight saving time",
-      "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
-      "score": 73,
-      "comments": 73,
-      "source": "med.stanford.edu"
-    },
-    {
-      "title": "Kb \u2013 Prolog Knowledge Base",
-      "url": "https://github.com/mat-mgm/kb-prolog",
-      "score": 66,
-      "comments": 7,
-      "source": "github.com"
-    },
-    {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 201,
-      "comments": 33,
-      "source": "humphri.es"
     },
     {
       "title": "Dark Sky Lighting",
       "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "score": 197,
-      "comments": 32,
+      "score": 223,
+      "comments": 40,
       "source": "savingourstars.org"
     },
     {
-      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
-      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
-      "score": 45,
-      "comments": 22,
-      "source": "noyb.eu"
-    },
-    {
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "score": 207,
-      "comments": 122,
-      "source": "arstechnica.com"
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 218,
+      "comments": 35,
+      "source": "humphri.es"
     },
     {
       "title": "What happens when you run a CUDA kernel?",
       "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 249,
-      "comments": 29,
+      "score": 268,
+      "comments": 31,
       "source": "fergusfinn.com"
-    },
-    {
-      "title": "Working With AI: A concrete example",
-      "url": "https://htmx.org/essays/working-with-ai/",
-      "score": 142,
-      "comments": 48,
-      "source": "htmx.org"
-    },
-    {
-      "title": "Philae's extraordinary comet landing relived (2024)",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
-      "score": 18,
-      "comments": 1,
-      "source": "esa.int"
     }
   ],
-  "security": [
-    {
-      "title": "What the June 2026 Threat Technique Catalog update means for your AWS environment",
-      "url": "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment/",
-      "date": "2026-06-29 19:30:59",
-      "author": "Shannon Brazil"
-    },
-    {
-      "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
-      "url": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/",
-      "date": "2026-06-24 20:01:47",
-      "author": "Swara Gandhi"
-    },
-    {
-      "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
-      "url": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/",
-      "date": "2026-06-22 15:53:05",
-      "author": "Meriem SMACHE"
-    },
-    {
-      "title": "Accelerate security investigations with Kiro CLI",
-      "url": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli/",
-      "date": "2026-06-18 19:24:30",
-      "author": "Sibasankar Behera"
-    },
-    {
-      "title": "Spring 2026 SOC 1 and 2 reports are now available in OSCAL format",
-      "url": "https://aws.amazon.com/blogs/security/spring-2026-soc-1-and-2-reports-are-now-available-in-oscal-format/",
-      "date": "2026-06-18 16:50:34",
-      "author": "Thomas Fischer"
-    },
-    {
-      "title": "Introducing AWS Continuum: Security at machine speed",
-      "url": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/",
-      "date": "2026-06-17 15:34:05",
-      "author": "Chet Kapoor"
-    },
-    {
-      "title": "Threat tactic spotlight: Subdomain takeover",
-      "url": "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover/",
-      "date": "2026-06-16 17:53:20",
-      "author": "Matt Gurr"
-    },
-    {
-      "title": "ICYMI: May 2026 @AWS Security",
-      "url": "https://aws.amazon.com/blogs/security/icymi-may-2026-aws-security/",
-      "date": "2026-06-08 21:00:11",
-      "author": "Rodolfo Brenes"
-    },
-    {
-      "title": "Operationalizing AWS security: A maturity roadmap",
-      "url": "https://aws.amazon.com/blogs/security/operationalizing-aws-security-a-maturity-roadmap/",
-      "date": "2026-06-08 16:18:04",
-      "author": "Joseph Sadler"
-    },
-    {
-      "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
-      "url": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/",
-      "date": "2026-06-05 17:07:06",
-      "author": "Sowmya Vemuri"
-    }
-  ]
+  "security": []
 }
