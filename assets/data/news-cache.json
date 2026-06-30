@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 283,
-      "comments": 163,
-      "source": "hccf.onmy.cloud"
-    },
-    {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 568,
-      "comments": 495,
+      "score": 842,
+      "comments": 586,
       "source": "quesma.com"
+    },
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 452,
+      "comments": 267,
+      "source": "hccf.onmy.cloud"
     },
     {
       "title": "Free the Icons",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 160,
-      "comments": 38,
+      "score": 391,
+      "comments": 106,
       "source": "weblog.rogueamoeba.com"
     },
     {
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-      "score": 45,
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "score": 32,
+      "comments": 4,
+      "source": "opensourcelowtech.org"
+    },
+    {
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "score": 104,
+      "comments": 32,
+      "source": "longcat.chat"
+    },
+    {
+      "title": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "score": 98,
+      "comments": 22,
+      "source": "fil-c.org"
+    },
+    {
+      "title": "Old Computer Challenge",
+      "url": "http://occ.sdf.org/",
+      "score": 48,
+      "comments": 14,
+      "source": "occ.sdf.org"
+    },
+    {
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "score": 55,
       "comments": 16,
-      "source": "phys.org"
+      "source": "obsolescence.dev"
     },
     {
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 350,
-      "comments": 221,
+      "score": 395,
+      "comments": 260,
       "source": "investors.rocketlabcorp.com"
+    },
+    {
+      "title": "Linux for the Sega MegaDrive",
+      "url": "https://github.com/LinuxMD/linuxmd",
+      "score": 79,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "The end of the AArch64 desktop experiment",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "score": 16,
+      "comments": 5,
+      "source": "marcin.juszkiewicz.com.pl"
+    },
+    {
+      "title": "Popping the GPU Bubble",
+      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "score": 77,
+      "comments": 18,
+      "source": "moondream.ai"
     },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 142,
-      "comments": 31,
+      "score": 196,
+      "comments": 39,
       "source": "github.com"
-    },
-    {
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 231,
-      "comments": 107,
-      "source": "probablymarcus.com"
     },
     {
       "title": "US Supreme Court rules geofence warrants require constitutional protections",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 411,
-      "comments": 192,
+      "score": 509,
+      "comments": 241,
       "source": "theguardian.com"
     },
     {
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "score": 80,
-      "comments": 38,
-      "source": "arstechnica.com"
+      "title": "How to corrupt an SQLite database file",
+      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "score": 53,
+      "comments": 14,
+      "source": "sqlite.org"
     },
     {
-      "title": "Kb \u2013 Prolog Knowledge Base",
-      "url": "https://github.com/mat-mgm/kb-prolog",
-      "score": 19,
+      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+      "score": 29,
       "comments": 3,
-      "source": "github.com"
+      "source": "britishorigami.org"
     },
     {
-      "title": "SQLite improving performance with pre-sort",
-      "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
-      "score": 15,
-      "comments": 0,
-      "source": "andersmurphy.com"
+      "title": "One million passports leaked online",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "score": 233,
+      "comments": 127,
+      "source": "theverge.com"
     },
     {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 173,
-      "comments": 28,
-      "source": "humphri.es"
-    },
-    {
-      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "score": 102,
-      "comments": 18,
-      "source": "lucassifoni.info"
-    },
-    {
-      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "score": 248,
-      "comments": 136,
-      "source": "theintercept.com"
+      "title": "Zig \u2013 SPIR-V Backend Progress",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+      "score": 49,
+      "comments": 16,
+      "source": "ziglang.org"
     },
     {
       "title": "Apple Neural Engine: Architecture, Programming, and Performance",
       "url": "https://arxiv.org/abs/2606.22283",
-      "score": 104,
-      "comments": 14,
+      "score": 154,
+      "comments": 22,
       "source": "arxiv.org"
     },
     {
-      "title": "JumpServer: Open-Source Privileged Access Management",
-      "url": "https://github.com/jumpserver/jumpserver",
-      "score": 50,
-      "comments": 15,
+      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+      "score": 49,
+      "comments": 11,
+      "source": "notes.shixiangxi.com"
+    },
+    {
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "score": 287,
+      "comments": 154,
+      "source": "probablymarcus.com"
+    },
+    {
+      "title": "Study suggests most Americans would be healthier without daylight saving time",
+      "url": "https://med.stanford.edu/news/all-news/2025/09/daylight-saving-time.html",
+      "score": 73,
+      "comments": 73,
+      "source": "med.stanford.edu"
+    },
+    {
+      "title": "Kb \u2013 Prolog Knowledge Base",
+      "url": "https://github.com/mat-mgm/kb-prolog",
+      "score": 66,
+      "comments": 7,
       "source": "github.com"
     },
     {
-      "title": "One million passports leaked online",
-      "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
-      "score": 120,
-      "comments": 72,
-      "source": "cambridgeanalytica.org"
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 201,
+      "comments": 33,
+      "source": "humphri.es"
+    },
+    {
+      "title": "Dark Sky Lighting",
+      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+      "score": 197,
+      "comments": 32,
+      "source": "savingourstars.org"
+    },
+    {
+      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "score": 45,
+      "comments": 22,
+      "source": "noyb.eu"
+    },
+    {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "score": 207,
+      "comments": 122,
+      "source": "arstechnica.com"
     },
     {
       "title": "What happens when you run a CUDA kernel?",
       "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 199,
-      "comments": 24,
+      "score": 249,
+      "comments": 29,
       "source": "fergusfinn.com"
     },
     {
       "title": "Working With AI: A concrete example",
       "url": "https://htmx.org/essays/working-with-ai/",
-      "score": 80,
-      "comments": 29,
+      "score": 142,
+      "comments": 48,
       "source": "htmx.org"
     },
     {
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "score": 49,
-      "comments": 16,
-      "source": "vllm.ai"
-    },
-    {
-      "title": "Dark Sky Lighting",
-      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "score": 138,
-      "comments": 23,
-      "source": "savingourstars.org"
-    },
-    {
-      "title": "You really shouldn't copy-paste errors into Claude Code",
-      "url": "https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code",
-      "score": 22,
-      "comments": 25,
-      "source": "home.robusta.dev"
-    },
-    {
-      "title": "What can you confidently guarantee about your software?",
-      "url": "https://queue.acm.org/detail.cfm?id=3819084",
-      "score": 93,
-      "comments": 41,
-      "source": "queue.acm.org"
-    },
-    {
-      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
-      "score": 52,
-      "comments": 7,
-      "source": "deep-reinforce.com"
-    },
-    {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "score": 157,
-      "comments": 39,
-      "source": "cpushack.com"
-    },
-    {
-      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
-      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "score": 339,
-      "comments": 91,
-      "source": "torrentfreak.com"
-    },
-    {
-      "title": "Font-Family Recommendations",
-      "url": "https://chrismorgan.info/font-family",
-      "score": 53,
-      "comments": 14,
-      "source": "chrismorgan.info"
-    },
-    {
-      "title": "Is sunscreen the new margarine? (2019)",
-      "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
-      "score": 82,
-      "comments": 90,
-      "source": "outsideonline.com"
-    },
-    {
-      "title": "Rebuilding the Computer Room",
-      "url": "https://alexwlchan.net/2026/computer-room/",
-      "score": 93,
-      "comments": 53,
-      "source": "alexwlchan.net"
-    },
-    {
-      "title": "Samsung, SK Hynix, Micron Sued in US over Memory Price Fixing",
-      "url": "https://en.sedaily.com/international/2026/06/29/samsung-sk-hynix-micron-sued-in-us-over-memory-price-fixing",
-      "score": 358,
-      "comments": 169,
-      "source": "en.sedaily.com"
+      "title": "Philae's extraordinary comet landing relived (2024)",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
+      "score": 18,
+      "comments": 1,
+      "source": "esa.int"
     }
   ],
   "security": [
