@@ -3,205 +3,212 @@
     {
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 228,
-      "comments": 108,
+      "score": 850,
+      "comments": 483,
       "source": "anthropic.com"
     },
     {
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 681,
-      "comments": 204,
+      "score": 1378,
+      "comments": 394,
       "source": "thereallo.dev"
     },
     {
-      "title": "We Are the Last People Who Know How It Works",
-      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-      "score": 99,
-      "comments": 52,
-      "source": "unix.foo"
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "score": 19,
+      "comments": 3,
+      "source": "github.com"
     },
     {
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 124,
-      "comments": 36,
-      "source": "deepmind.google"
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "score": 99,
+      "comments": 53,
+      "source": "ai.meta.com"
+    },
+    {
+      "title": "Hatari \u2013 Online Atari ST/STE/TT/Falcon Emulator",
+      "url": "https://hatari.frama.io/hatari/online/hatari.html",
+      "score": 27,
+      "comments": 3,
+      "source": "hatari.frama.io"
+    },
+    {
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "score": 116,
+      "comments": 32,
+      "source": "twitter.com"
     },
     {
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
-      "score": 119,
-      "comments": 52,
+      "score": 350,
+      "comments": 118,
       "source": "claude.com"
     },
     {
-      "title": "I built a mmWave material classification radar",
-      "url": "https://gauthier-lechevalier.com/radar",
-      "score": 34,
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "score": 296,
+      "comments": 115,
+      "source": "deepmind.google"
+    },
+    {
+      "title": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "score": 85,
+      "comments": 16,
+      "source": "docs.mistral.ai"
+    },
+    {
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "url": "https://mechanical-pencil.com/products/car",
+      "score": 94,
+      "comments": 26,
+      "source": "mechanical-pencil.com"
+    },
+    {
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "score": 147,
+      "comments": 47,
+      "source": "ngrok.com"
+    },
+    {
+      "title": "Ante: A new way to blend borrow checking and reference counting",
+      "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+      "score": 39,
+      "comments": 13,
+      "source": "verdagon.dev"
+    },
+    {
+      "title": "Hengefinder",
+      "url": "https://hengefinder.com/",
+      "score": 18,
+      "comments": 7,
+      "source": "hengefinder.com"
+    },
+    {
+      "title": "TabFM: A zero-shot foundation model for tabular data",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "score": 33,
       "comments": 6,
+      "source": "research.google"
+    },
+    {
+      "title": "I built a mmWave material classification radar (2025)",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "score": 137,
+      "comments": 36,
       "source": "gauthier-lechevalier.com"
     },
     {
-      "title": "Looking Ahead to Postgres 19",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/",
-      "score": 165,
-      "comments": 101,
-      "source": "snowflake.com"
+      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+      "score": 109,
+      "comments": 30,
+      "source": "home.cern"
     },
     {
-      "title": "Xsnow \"protestware\" in Debian",
-      "url": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
-      "score": 70,
-      "comments": 46,
-      "source": "lwn.net"
+      "title": "Stroustrup's Rule (2024)",
+      "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
+      "score": 47,
+      "comments": 8,
+      "source": "buttondown.com"
     },
     {
-      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-      "url": "https://www.gutenberg.org/ebooks/24518",
-      "score": 124,
-      "comments": 38,
-      "source": "gutenberg.org"
+      "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+      "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+      "score": 59,
+      "comments": 10,
+      "source": "soranews24.com"
     },
     {
-      "title": "County with 37 Data Centers Asks Schools to 'Conserve Electricity'",
-      "url": "https://www.404media.co/henrico-virginia-datacenter-energy-cost-email/",
-      "score": 194,
-      "comments": 102,
-      "source": "404media.co"
+      "title": "Long Island's decommissioned nuclear power plant",
+      "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
+      "score": 66,
+      "comments": 8,
+      "source": "nickcarr.com"
     },
     {
-      "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
-      "url": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
-      "score": 97,
-      "comments": 43,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Knoppix",
-      "url": "https://www.knopper.net/knoppix/index-en.html",
-      "score": 134,
-      "comments": 70,
-      "source": "knopper.net"
-    },
-    {
-      "title": "Don't Make Gates Optional, Make Them Flexible",
-      "url": "https://wakamoleguy.com/p/flexible-gates",
-      "score": 12,
-      "comments": 1,
-      "source": "wakamoleguy.com"
-    },
-    {
-      "title": "Open Source Low Tech",
-      "url": "https://opensourcelowtech.org/",
-      "score": 554,
-      "comments": 114,
-      "source": "opensourcelowtech.org"
+      "title": "Anthropic to restoring access to Claude Fable 5 and Mythos 5 from tomorrow",
+      "url": "https://xcancel.com/AnthropicAI/status/2072106151890809341",
+      "score": 31,
+      "comments": 5,
+      "source": "xcancel.com"
     },
     {
       "title": "Building a custom octocopter from scratch with no prior hardware experience",
       "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 257,
-      "comments": 56,
+      "score": 326,
+      "comments": 69,
       "source": "karolina.mgdubiel.com"
     },
     {
-      "title": "Factorio 2.1 Experimental Release",
-      "url": "https://factorio.com/blog/post/fff-444",
-      "score": 79,
-      "comments": 42,
-      "source": "factorio.com"
+      "title": "Claude Fable 5 export control lifted",
+      "url": "https://twitter.com/synthwavedd/status/2072103052635451559",
+      "score": 47,
+      "comments": 7,
+      "source": "twitter.com"
     },
     {
-      "title": "European digital ID wallets rely on safety services of Google and Apple",
-      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "score": 628,
-      "comments": 273,
-      "source": "waag.org"
+      "title": "Loko Scheme 0.13.0",
+      "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
+      "score": 10,
+      "comments": 1,
+      "source": "weinholt.se"
     },
     {
-      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-      "score": 110,
-      "comments": 9,
-      "source": "vosen.github.io"
+      "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
+      "url": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
+      "score": 48,
+      "comments": 0,
+      "source": "buraksen.dev"
     },
     {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 1101,
-      "comments": 698,
-      "source": "quesma.com"
+      "title": "Knoppix",
+      "url": "https://www.knopper.net/knoppix/index-en.html",
+      "score": 247,
+      "comments": 101,
+      "source": "knopper.net"
     },
     {
-      "title": "We moved our Bluesky data to Eurosky",
-      "url": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
-      "score": 107,
-      "comments": 91,
-      "source": "waag.org"
+      "title": "Show HN: My 13-year-old built an ant colony tracker",
+      "url": "https://formicarium.es",
+      "score": 36,
+      "comments": 27,
+      "source": "formicarium.es"
     },
     {
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 246,
-      "comments": 72,
-      "source": "longcat.chat"
+      "title": "Waveloop: What Fable left me",
+      "url": "https://neynt.ca/writing/waveloop/",
+      "score": 91,
+      "comments": 34,
+      "source": "neynt.ca"
     },
     {
-      "title": "Mathematics: Its Content, Methods and Meaning",
-      "url": "https://old.maa.org/press/maa-reviews/mathematics-its-content-methods-and-meaning",
-      "score": 44,
-      "comments": 11,
-      "source": "old.maa.org"
-    },
-    {
-      "title": "The labor share of income in the US is at its lowest post-war level",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-      "score": 384,
-      "comments": 380,
-      "source": "libertystreeteconomics.newyorkfed.org"
-    },
-    {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 633,
-      "comments": 356,
-      "source": "hccf.onmy.cloud"
-    },
-    {
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 630,
-      "comments": 230,
-      "source": "weblog.rogueamoeba.com"
-    },
-    {
-      "title": "Exercise intensity influences body composition in healthy older adults (2025)",
-      "url": "https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext",
-      "score": 173,
-      "comments": 146,
-      "source": "maturitas.org"
-    },
-    {
-      "title": "Supreme Court takes sledgehammer to federal regulatory structure",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5875161/supreme-court-takes-sledgehammer-to-much-of-federal-governments-regulatory-structure",
-      "score": 51,
-      "comments": 54,
-      "source": "npr.org"
-    },
-    {
-      "title": "I'm building a Space Cadet Pinball Machine! [video]",
-      "url": "https://www.youtube.com/watch?v=lHQ8c8i42VE",
-      "score": 62,
-      "comments": 11,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Have You Restarted Your Computer This Week?",
+      "title": "Have you restarted your computer this week?",
       "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
-      "score": 44,
-      "comments": 115,
+      "score": 106,
+      "comments": 214,
       "source": "taonaw.com"
+    },
+    {
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+      "url": "https://www.gutenberg.org/ebooks/24518",
+      "score": 165,
+      "comments": 54,
+      "source": "gutenberg.org"
+    },
+    {
+      "title": "I built a 10 inch mini rack from aluminium extrusions",
+      "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
+      "score": 63,
+      "comments": 30,
+      "source": "louwrentius.com"
     }
   ],
   "security": [
