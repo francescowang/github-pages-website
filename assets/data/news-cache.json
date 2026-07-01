@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 1810,
+      "comments": 513,
+      "source": "thereallo.dev"
+    },
+    {
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 850,
-      "comments": 483,
+      "score": 1070,
+      "comments": 618,
       "source": "anthropic.com"
     },
     {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1378,
-      "comments": 394,
-      "source": "thereallo.dev"
+      "title": "The first early human eggs from stem cells",
+      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+      "score": 69,
+      "comments": 17,
+      "source": "conception.bio"
+    },
+    {
+      "title": "ArXiv's Next Chapter",
+      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+      "score": 70,
+      "comments": 8,
+      "source": "blog.arxiv.org"
     },
     {
       "title": "Google copybara: moving code between repositories",
       "url": "https://github.com/google/copybara",
-      "score": 19,
-      "comments": 3,
+      "score": 182,
+      "comments": 25,
       "source": "github.com"
-    },
-    {
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "score": 99,
-      "comments": 53,
-      "source": "ai.meta.com"
-    },
-    {
-      "title": "Hatari \u2013 Online Atari ST/STE/TT/Falcon Emulator",
-      "url": "https://hatari.frama.io/hatari/online/hatari.html",
-      "score": 27,
-      "comments": 3,
-      "source": "hatari.frama.io"
     },
     {
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 116,
-      "comments": 32,
+      "score": 605,
+      "comments": 323,
       "source": "twitter.com"
     },
     {
       "title": "Claude Science",
       "url": "https://claude.com/product/claude-science",
-      "score": 350,
-      "comments": 118,
+      "score": 461,
+      "comments": 139,
       "source": "claude.com"
+    },
+    {
+      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "score": 24,
+      "comments": 2,
+      "source": "ayushtambde.com"
     },
     {
       "title": "Nano Banana 2 Lite",
       "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 296,
-      "comments": 115,
+      "score": 357,
+      "comments": 143,
       "source": "deepmind.google"
     },
     {
-      "title": "Leanstral 1.5",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "score": 85,
-      "comments": 16,
-      "source": "docs.mistral.ai"
+      "title": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "score": 61,
+      "comments": 13,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "How does a pull-back car work? Illustrated teardown",
       "url": "https://mechanical-pencil.com/products/car",
-      "score": 94,
-      "comments": 26,
+      "score": 173,
+      "comments": 33,
       "source": "mechanical-pencil.com"
     },
     {
-      "title": "I ported Kubernetes to the browser",
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "score": 147,
-      "comments": 47,
-      "source": "ngrok.com"
+      "title": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "score": 180,
+      "comments": 53,
+      "source": "docs.mistral.ai"
     },
     {
-      "title": "Ante: A new way to blend borrow checking and reference counting",
-      "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-      "score": 39,
-      "comments": 13,
-      "source": "verdagon.dev"
-    },
-    {
-      "title": "Hengefinder",
-      "url": "https://hengefinder.com/",
-      "score": 18,
-      "comments": 7,
-      "source": "hengefinder.com"
-    },
-    {
-      "title": "TabFM: A zero-shot foundation model for tabular data",
-      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-      "score": 33,
-      "comments": 6,
-      "source": "research.google"
-    },
-    {
-      "title": "I built a mmWave material classification radar (2025)",
-      "url": "https://gauthier-lechevalier.com/radar",
-      "score": 137,
-      "comments": 36,
-      "source": "gauthier-lechevalier.com"
+      "title": "Pystd, similar-ish functionality with a fraction of the compile time",
+      "url": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
+      "score": 21,
+      "comments": 12,
+      "source": "nibblestew.blogspot.com"
     },
     {
       "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
       "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-      "score": 109,
-      "comments": 30,
+      "score": 196,
+      "comments": 51,
       "source": "home.cern"
     },
     {
-      "title": "Stroustrup's Rule (2024)",
-      "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
-      "score": 47,
-      "comments": 8,
-      "source": "buttondown.com"
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "score": 241,
+      "comments": 75,
+      "source": "ngrok.com"
+    },
+    {
+      "title": "How information theory saved my word game",
+      "url": "https://motplot.app/helloworld",
+      "score": 7,
+      "comments": 6,
+      "source": "motplot.app"
+    },
+    {
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "score": 147,
+      "comments": 75,
+      "source": "ai.meta.com"
+    },
+    {
+      "title": "Ante: A new way to blend borrow checking and reference counting",
+      "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
+      "score": 83,
+      "comments": 20,
+      "source": "verdagon.dev"
     },
     {
       "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
       "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-      "score": 59,
-      "comments": 10,
+      "score": 122,
+      "comments": 24,
       "source": "soranews24.com"
     },
     {
-      "title": "Long Island's decommissioned nuclear power plant",
-      "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
-      "score": 66,
-      "comments": 8,
-      "source": "nickcarr.com"
+      "title": "Hatari \u2013 Online Atari ST/STE/TT/Falcon Emulator",
+      "url": "https://hatari.frama.io/hatari/online/hatari.html",
+      "score": 59,
+      "comments": 6,
+      "source": "hatari.frama.io"
     },
     {
-      "title": "Anthropic to restoring access to Claude Fable 5 and Mythos 5 from tomorrow",
-      "url": "https://xcancel.com/AnthropicAI/status/2072106151890809341",
-      "score": 31,
-      "comments": 5,
-      "source": "xcancel.com"
+      "title": "I built a mmWave material classification radar (2025)",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "score": 172,
+      "comments": 45,
+      "source": "gauthier-lechevalier.com"
+    },
+    {
+      "title": "Scaling Laws, Carefully",
+      "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+      "score": 55,
+      "comments": 15,
+      "source": "lilianweng.github.io"
     },
     {
       "title": "Building a custom octocopter from scratch with no prior hardware experience",
       "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 326,
-      "comments": 69,
+      "score": 356,
+      "comments": 76,
       "source": "karolina.mgdubiel.com"
     },
     {
-      "title": "Claude Fable 5 export control lifted",
-      "url": "https://twitter.com/synthwavedd/status/2072103052635451559",
-      "score": 47,
-      "comments": 7,
-      "source": "twitter.com"
+      "title": "Stroustrup's Rule (2024)",
+      "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
+      "score": 89,
+      "comments": 19,
+      "source": "buttondown.com"
     },
     {
-      "title": "Loko Scheme 0.13.0",
-      "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-      "score": 10,
+      "title": "Homemade Transistor from Cadmium Sulfide Photocell (2009)",
+      "url": "http://sparkbangbuzz.com/cds-fet/cds-fet.htm",
+      "score": 3,
       "comments": 1,
-      "source": "weinholt.se"
+      "source": "sparkbangbuzz.com"
     },
     {
-      "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
-      "url": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
-      "score": 48,
-      "comments": 0,
-      "source": "buraksen.dev"
-    },
-    {
-      "title": "Knoppix",
-      "url": "https://www.knopper.net/knoppix/index-en.html",
-      "score": 247,
-      "comments": 101,
-      "source": "knopper.net"
-    },
-    {
-      "title": "Show HN: My 13-year-old built an ant colony tracker",
-      "url": "https://formicarium.es",
-      "score": 36,
-      "comments": 27,
-      "source": "formicarium.es"
-    },
-    {
-      "title": "Waveloop: What Fable left me",
-      "url": "https://neynt.ca/writing/waveloop/",
-      "score": 91,
-      "comments": 34,
-      "source": "neynt.ca"
+      "title": "Long Island's decommissioned nuclear power plant",
+      "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
+      "score": 123,
+      "comments": 52,
+      "source": "nickcarr.com"
     },
     {
       "title": "Have you restarted your computer this week?",
       "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
-      "score": 106,
-      "comments": 214,
+      "score": 159,
+      "comments": 282,
       "source": "taonaw.com"
     },
     {
-      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-      "url": "https://www.gutenberg.org/ebooks/24518",
-      "score": 165,
-      "comments": 54,
-      "source": "gutenberg.org"
+      "title": "How employment changes when firms adopt generative AI",
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "score": 38,
+      "comments": 26,
+      "source": "ramp.com"
     },
     {
-      "title": "I built a 10 inch mini rack from aluminium extrusions",
-      "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
-      "score": 63,
-      "comments": 30,
-      "source": "louwrentius.com"
+      "title": "Meta is adding rate limits and soft paywall to smart glasses",
+      "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+      "score": 18,
+      "comments": 7,
+      "source": "theverge.com"
+    },
+    {
+      "title": "Segmenting Robot Video into Actionable Subtasks",
+      "url": "https://macrodata.co/blog/annotating-robot-video-subtasks",
+      "score": 12,
+      "comments": 2,
+      "source": "macrodata.co"
     }
   ],
   "security": [
