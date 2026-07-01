@@ -1,210 +1,202 @@
 {
   "tech": [
     {
-      "title": "Asahi Linux 7.1 Progress Report",
-      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "score": 251,
-      "comments": 50,
-      "source": "asahilinux.org"
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 443,
+      "comments": 143,
+      "source": "quantamagazine.org"
     },
     {
-      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
-      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
-      "score": 129,
-      "comments": 53,
-      "source": "thefocalpoints.com"
+      "title": "What to Learn to Be a Graphics Programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "score": 34,
+      "comments": 4,
+      "source": "blog.demofox.org"
     },
     {
-      "title": "The Internet I Grew Up with Doesn't Exist Anymore",
-      "url": "https://cleberg.net/blog/internet.html",
-      "score": 87,
-      "comments": 57,
-      "source": "cleberg.net"
-    },
-    {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 2198,
-      "comments": 637,
-      "source": "thereallo.dev"
-    },
-    {
-      "title": "Newly discovered spider builds spring loaded snare to catch ants",
-      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-      "score": 121,
-      "comments": 25,
-      "source": "phys.org"
-    },
-    {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1167,
-      "comments": 703,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "score": 327,
-      "comments": 204,
-      "source": "pcgamer.com"
-    },
-    {
-      "title": "Nintendo has raised its employees base salary by 10%",
-      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-      "score": 51,
-      "comments": 3,
-      "source": "mynintendonews.com"
-    },
-    {
-      "title": "Obfuscation: Building the final boss of cryptography (Part I)",
-      "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
-      "score": 19,
-      "comments": 0,
-      "source": "vitalik.eth.limo"
-    },
-    {
-      "title": "ArXiv's Next Chapter",
-      "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-      "score": 168,
-      "comments": 52,
-      "source": "blog.arxiv.org"
-    },
-    {
-      "title": "A deep dive into SmallVector:push_back",
-      "url": "https://maskray.me/blog/2026-06-27-a-deep-dive-into-smallvector-push-back",
-      "score": 7,
-      "comments": 0,
-      "source": "maskray.me"
-    },
-    {
-      "title": "Google copybara: moving code between repositories",
-      "url": "https://github.com/google/copybara",
-      "score": 242,
-      "comments": 45,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: HackerNows \u2013 Native iOS HN Client",
-      "url": "https://hackernows.app/",
-      "score": 18,
-      "comments": 31,
-      "source": "hackernows.app"
-    },
-    {
-      "title": "Swedish court says Google is to pay $1.5B to Klarna in antitrust damages",
-      "url": "https://www.reuters.com/business/swedish-court-says-google-is-pay-15-billion-klarna-antitrust-damages-2026-07-01/",
-      "score": 46,
-      "comments": 19,
-      "source": "reuters.com"
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "score": 100,
+      "comments": 48,
+      "source": "hydrogenaudio.org"
     },
     {
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
       "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "score": 37,
-      "comments": 13,
+      "score": 336,
+      "comments": 421,
       "source": "blog.playstation.com"
     },
     {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "score": 515,
-      "comments": 149,
-      "source": "claude.com"
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "url": "https://probelab.io/blog/optimistic-provide/",
+      "score": 78,
+      "comments": 21,
+      "source": "probelab.io"
     },
     {
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 400,
-      "comments": 162,
-      "source": "deepmind.google"
+      "title": "Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "score": 277,
+      "comments": 54,
+      "source": "box2d.org"
     },
     {
-      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "score": 61,
-      "comments": 7,
-      "source": "ayushtambde.com"
+      "title": "Monetization Gateway",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "score": 143,
+      "comments": 74,
+      "source": "blog.cloudflare.com"
     },
     {
-      "title": "Leanstral 1.5",
-      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-      "score": 258,
-      "comments": 105,
-      "source": "docs.mistral.ai"
+      "title": "Building Gin: Simple over Easy",
+      "url": "https://manualmeida.dev/articles/gin-simple-over-easy/",
+      "score": 18,
+      "comments": 6,
+      "source": "manualmeida.dev"
+    },
+    {
+      "title": "Internal Combustion Engine",
+      "url": "https://ciechanow.ski/internal-combustion-engine/",
+      "score": 151,
+      "comments": 22,
+      "source": "ciechanow.ski"
+    },
+    {
+      "title": "Hanami 3.0: In Full Bloom",
+      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+      "score": 15,
+      "comments": 4,
+      "source": "hanakai.org"
+    },
+    {
+      "title": "Reduce GVisor Cold Starts with GPU Snapshotting",
+      "url": "https://cerebrium.ai/blog/reducing-gpu-cold-starts-with-memory-snapshots-restoring-cuda-workloads-in-second",
+      "score": 34,
+      "comments": 12,
+      "source": "cerebrium.ai"
+    },
+    {
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "score": 285,
+      "comments": 141,
+      "source": "reclaimthenet.org"
+    },
+    {
+      "title": "Fixing a kubelet memory leak in Kubernetes 1.36",
+      "url": "https://heyoncall.com/blog/fixing-kubernetes-kubelet-memory-leak",
+      "score": 40,
+      "comments": 8,
+      "source": "heyoncall.com"
+    },
+    {
+      "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+      "url": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Show HN: Pglayers \u2013 PostgreSQL extensions as stackable Docker layers",
+      "url": "https://github.com/pglayers/pglayers",
+      "score": 19,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "1-Bit Pixel Art Emojis",
+      "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
+      "score": 77,
+      "comments": 11,
+      "source": "hypertalking.com"
+    },
+    {
+      "title": "Are readers generating fiction with AI models?",
+      "url": "https://arxiv.org/abs/2606.22748",
+      "score": 12,
+      "comments": 16,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Asahi Linux 7.1 Progress Report",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "score": 463,
+      "comments": 159,
+      "source": "asahilinux.org"
+    },
+    {
+      "title": "Show HN: QR code renderer in a TrueType font",
+      "url": "https://qr.jim.sh/",
+      "score": 18,
+      "comments": 4,
+      "source": "qr.jim.sh"
+    },
+    {
+      "title": "Red Programming Language: Static linking support",
+      "url": "https://www.red-lang.org/2026/06/static-linking-support.html",
+      "score": 58,
+      "comments": 10,
+      "source": "red-lang.org"
+    },
+    {
+      "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
+      "url": "https://wasm.chdb.io/",
+      "score": 6,
+      "comments": 0,
+      "source": "wasm.chdb.io"
+    },
+    {
+      "title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+      "score": 215,
+      "comments": 49,
+      "source": "phys.org"
+    },
+    {
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "score": 420,
+      "comments": 240,
+      "source": "mynintendonews.com"
+    },
+    {
+      "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+      "score": 130,
+      "comments": 18,
+      "source": "easyoptouts.com"
+    },
+    {
+      "title": "Ray Tracer in SQL",
+      "url": "https://github.com/ClickHouse/RayTracer",
+      "score": 36,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Chasing the OPNsense RCE: The Story Behind My First CVEs",
+      "url": "https://hackerask.com/posts/opnsense/",
+      "score": 10,
+      "comments": 0,
+      "source": "hackerask.com"
     },
     {
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 767,
-      "comments": 477,
+      "score": 885,
+      "comments": 597,
       "source": "twitter.com"
-    },
-    {
-      "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
-      "url": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
-      "score": 74,
-      "comments": 21,
-      "source": "omgubuntu.co.uk"
-    },
-    {
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "url": "https://mechanical-pencil.com/products/car",
-      "score": 225,
-      "comments": 38,
-      "source": "mechanical-pencil.com"
-    },
-    {
-      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
-      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
-      "score": 270,
-      "comments": 88,
-      "source": "home.cern"
-    },
-    {
-      "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
-      "url": "https://www.dongascience.com/en/news/30374",
-      "score": 13,
-      "comments": 6,
-      "source": "dongascience.com"
-    },
-    {
-      "title": "I ported Kubernetes to the browser",
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
-      "score": 302,
-      "comments": 87,
-      "source": "ngrok.com"
-    },
-    {
-      "title": "Forestiere Underground Gardens",
-      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-      "score": 82,
-      "comments": 18,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "url": "https://karolina.mgdubiel.com/drone/",
-      "score": 390,
-      "comments": 80,
-      "source": "karolina.mgdubiel.com"
-    },
-    {
-      "title": "Pystd, similar-ish functionality with a fraction of the compile time",
-      "url": "https://nibblestew.blogspot.com/2026/06/pystd-standard-library-similar-ish.html",
-      "score": 41,
-      "comments": 29,
-      "source": "nibblestew.blogspot.com"
-    },
-    {
-      "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
-      "url": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
-      "score": 150,
-      "comments": 39,
-      "source": "soranews24.com"
     }
   ],
   "security": [
+    {
+      "title": "How to use the AWS Workload Credentials Provider for cross-account secret retrieval and prefetching secrets",
+      "url": "https://aws.amazon.com/blogs/security/how-to-use-the-aws-workload-credentials-provider-for-cross-account-secret-retrieval-and-prefetching-secrets/",
+      "date": "2026-07-01 15:56:26",
+      "author": "Derik Wang"
+    },
     {
       "title": "What the June 2026 Threat Technique Catalog update means for your AWS environment",
       "url": "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment/",
@@ -258,12 +250,6 @@
       "url": "https://aws.amazon.com/blogs/security/operationalizing-aws-security-a-maturity-roadmap/",
       "date": "2026-06-08 16:18:04",
       "author": "Joseph Sadler"
-    },
-    {
-      "title": "Building secure B2C applications with fine-grained access control using Amazon Cognito and Amazon Verified Permissions",
-      "url": "https://aws.amazon.com/blogs/security/building-secure-b2c-applications-with-fine-grained-access-control-using-amazon-cognito-and-amazon-verified-permissions/",
-      "date": "2026-06-05 17:07:06",
-      "author": "Sowmya Vemuri"
     }
   ]
 }
