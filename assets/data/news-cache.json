@@ -1,193 +1,207 @@
 {
   "tech": [
     {
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "score": 123,
-      "comments": 38,
-      "source": "github.blog"
+      "title": "Vite+ Beta",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "score": 104,
+      "comments": 55,
+      "source": "voidzero.dev"
     },
     {
-      "title": "A new Android malware from Google",
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "score": 54,
+      "comments": 10,
+      "source": "niemanlab.org"
+    },
+    {
+      "title": "Android Developer Verification: Threat masquerading as Protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 311,
-      "comments": 146,
+      "score": 983,
+      "comments": 402,
       "source": "f-droid.org"
     },
     {
-      "title": "ZCode \u2013 Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "score": 383,
-      "comments": 287,
-      "source": "zcode.z.ai"
+      "title": "This blog is written in en-GB",
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "score": 219,
+      "comments": 146,
+      "source": "shkspr.mobi"
     },
     {
-      "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 269,
-      "comments": 50,
-      "source": "makerspet.com"
-    },
-    {
-      "title": "We Don't Have to Be This Bad at Improving Society",
-      "url": "https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/",
+      "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
+      "url": "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/",
       "score": 9,
-      "comments": 1,
-      "source": "kasperjunge.com"
+      "comments": 9,
+      "source": "martenscentre.eu"
     },
     {
-      "title": "CursorBench 3.1",
-      "url": "https://cursor.com/evals",
-      "score": 49,
-      "comments": 33,
-      "source": "cursor.com"
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "score": 22,
+      "comments": 4,
+      "source": "arxiv.org"
     },
     {
-      "title": "Bring back crappy forums",
-      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "score": 238,
-      "comments": 141,
-      "source": "tedium.co"
-    },
-    {
-      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
-      "score": 14,
-      "comments": 2,
-      "source": "mixedbread.com"
-    },
-    {
-      "title": "What to learn to be a graphics programmer",
-      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "score": 332,
-      "comments": 175,
-      "source": "blog.demofox.org"
-    },
-    {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "score": 370,
-      "comments": 112,
-      "source": "hydrogenaudio.org"
-    },
-    {
-      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-      "score": 149,
-      "comments": 140,
-      "source": "blog.google"
-    },
-    {
-      "title": "The Fall of the Theorem Economy",
-      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "score": 5,
-      "comments": 0,
-      "source": "davidbessis.substack.com"
-    },
-    {
-      "title": "How do wombats poop cubes?",
-      "url": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
-      "score": 112,
-      "comments": 51,
-      "source": "science.org"
-    },
-    {
-      "title": "Learn Vim motions with an ice-cream van",
-      "url": "https://thisismodest.com/vimscoops/",
-      "score": 65,
-      "comments": 12,
-      "source": "thisismodest.com"
-    },
-    {
-      "title": "The Underhanded C Contest",
-      "url": "https://underhanded-c.org/",
-      "score": 90,
-      "comments": 11,
-      "source": "underhanded-c.org"
-    },
-    {
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "url": "https://www.weaverobotics.com/isaac-1",
-      "score": 169,
-      "comments": 236,
-      "source": "weaverobotics.com"
-    },
-    {
-      "title": "Qualcomm Linux 2.0",
-      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-      "score": 100,
-      "comments": 41,
-      "source": "qualcomm.com"
-    },
-    {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 849,
-      "comments": 276,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "My Favorite Keyboards",
-      "url": "https://fabiensanglard.net/keyboards/index.html",
-      "score": 7,
-      "comments": 0,
-      "source": "fabiensanglard.net"
-    },
-    {
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
-      "score": 342,
-      "comments": 65,
-      "source": "workerowned.info"
-    },
-    {
-      "title": "Why jet engines aren't made in China",
-      "url": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
-      "score": 146,
-      "comments": 116,
-      "source": "aakash.substack.com"
-    },
-    {
-      "title": "The Wisdom of Quinn the Eskimo (Apple Developer Technical Support Engineer)",
-      "url": "https://github.com/macshome/The-Wisdom-of-Quinn",
-      "score": 17,
-      "comments": 8,
-      "source": "github.com"
-    },
-    {
-      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-      "url": "https://blog.cloudflare.com/monetization-gateway/",
-      "score": 293,
-      "comments": 207,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "score": 71,
-      "comments": 62,
-      "source": "senior-swe-bench.snorkel.ai"
-    },
-    {
-      "title": "The Apple Disk II Controller Card (2021)",
-      "url": "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/",
-      "score": 82,
-      "comments": 20,
-      "source": "bigmessowires.com"
-    },
-    {
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
+      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Chip Off The Old Block",
-      "url": "https://www.astralcodexten.com/p/chip-off-the-old-block",
-      "score": 77,
-      "comments": 8,
-      "source": "astralcodexten.com"
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "score": 251,
+      "comments": 107,
+      "source": "github.blog"
+    },
+    {
+      "title": "The fall of the theorem economy",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "score": 132,
+      "comments": 46,
+      "source": "davidbessis.substack.com"
+    },
+    {
+      "title": "Many people misunderstand the purpose of code review",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "score": 23,
+      "comments": 16,
+      "source": "mathstodon.xyz"
+    },
+    {
+      "title": "Show HN: ZeroFS \u2013 A log-structured filesystem for S3",
+      "url": "https://www.zerofs.net/",
+      "score": 3,
+      "comments": 0,
+      "source": "zerofs.net"
+    },
+    {
+      "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
+      "url": "https://bednars.me/blog/winpe-harness",
+      "score": 27,
+      "comments": 0,
+      "source": "bednars.me"
+    },
+    {
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "score": 381,
+      "comments": 71,
+      "source": "makerspet.com"
+    },
+    {
+      "title": "ZCode \u2013 Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "score": 452,
+      "comments": 309,
+      "source": "zcode.z.ai"
+    },
+    {
+      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+      "url": "https://github.com/emson/claudoro",
+      "score": 8,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "score": 162,
+      "comments": 98,
+      "source": "docs.google.com"
+    },
+    {
+      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+      "score": 66,
+      "comments": 15,
+      "source": "mixedbread.com"
+    },
+    {
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "score": 389,
+      "comments": 249,
+      "source": "tedium.co"
+    },
+    {
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "score": 194,
+      "comments": 162,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "German Button Maker Searched Rivers of American Midwest for Valuable Shells",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
+      "score": 8,
+      "comments": 0,
+      "source": "smithsonianmag.com"
+    },
+    {
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "score": 383,
+      "comments": 208,
+      "source": "blog.demofox.org"
+    },
+    {
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "score": 411,
+      "comments": 131,
+      "source": "hydrogenaudio.org"
+    },
+    {
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "score": 199,
+      "comments": 212,
+      "source": "blog.google"
+    },
+    {
+      "title": "Why jet engines aren't made in China",
+      "url": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
+      "score": 223,
+      "comments": 207,
+      "source": "aakash.substack.com"
+    },
+    {
+      "title": "Winamp Skin Museum",
+      "url": "https://skins.webamp.org",
+      "score": 9,
+      "comments": 2,
+      "source": "skins.webamp.org"
+    },
+    {
+      "title": "How do wombats poop cubes? (2021)",
+      "url": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
+      "score": 146,
+      "comments": 90,
+      "source": "science.org"
+    },
+    {
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "url": "https://www.weaverobotics.com/isaac-1",
+      "score": 210,
+      "comments": 305,
+      "source": "weaverobotics.com"
+    },
+    {
+      "title": "Using Aspect-Oriented Programming to Record DRL Agents' Data",
+      "url": "https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/",
+      "score": 4,
+      "comments": 1,
+      "source": "blog.ptidej.net"
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 885,
+      "comments": 280,
+      "source": "quantamagazine.org"
     }
   ],
   "security": [
