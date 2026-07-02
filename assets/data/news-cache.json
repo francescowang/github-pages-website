@@ -1,46 +1,123 @@
 {
   "tech": [
     {
-      "title": "Vite+ Beta",
-      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-      "score": 104,
-      "comments": 55,
-      "source": "voidzero.dev"
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "score": 277,
+      "comments": 134,
+      "source": "mathstodon.xyz"
     },
     {
-      "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-      "score": 54,
+      "title": "Exapunks",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "score": 37,
       "comments": 10,
-      "source": "niemanlab.org"
+      "source": "zachtronics.com"
     },
     {
-      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "score": 301,
+      "comments": 110,
+      "source": "github.com"
+    },
+    {
+      "title": "Android Developer Verification: Threat masquerading as protection",
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 983,
-      "comments": 402,
+      "score": 1448,
+      "comments": 595,
       "source": "f-droid.org"
     },
     {
-      "title": "This blog is written in en-GB",
-      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "title": "How to ask for help from people who don't know you",
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
       "score": 219,
-      "comments": 146,
-      "source": "shkspr.mobi"
+      "comments": 33,
+      "source": "pradyuprasad.com"
     },
     {
-      "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
-      "url": "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/",
-      "score": 9,
-      "comments": 9,
-      "source": "martenscentre.eu"
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "score": 107,
+      "comments": 27,
+      "source": "blog.podman.io"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud",
+      "url": "https://manufact.com",
+      "score": 76,
+      "comments": 49,
+      "source": "manufact.com"
+    },
+    {
+      "title": "Klara and the Sun Essay Contest \u2013 $1k Prize \u2013 AI Use Allowed",
+      "url": "https://willpenman.com/klara/",
+      "score": 10,
+      "comments": 8,
+      "source": "willpenman.com"
+    },
+    {
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "score": 279,
+      "comments": 147,
+      "source": "japannews.yomiuri.co.jp"
+    },
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "score": 263,
+      "comments": 56,
+      "source": "clashreport.com"
+    },
+    {
+      "title": "German button maker searched rivers of American Midwest for valuable shells",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
+      "score": 102,
+      "comments": 34,
+      "source": "smithsonianmag.com"
+    },
+    {
+      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "url": "https://github.com/rafal-qa/slopo",
+      "score": 54,
+      "comments": 24,
+      "source": "github.com"
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "score": 369,
+      "comments": 155,
+      "source": "github.blog"
+    },
+    {
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "score": 315,
+      "comments": 141,
+      "source": "thebignewsletter.com"
     },
     {
       "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
       "url": "https://arxiv.org/abs/2607.01232",
-      "score": 22,
-      "comments": 4,
+      "score": 109,
+      "comments": 27,
       "source": "arxiv.org"
+    },
+    {
+      "title": "No LLM Code in Dependencies",
+      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+      "score": 41,
+      "comments": 20,
+      "source": "joeyh.name"
+    },
+    {
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "score": 262,
+      "comments": 142,
+      "source": "mathstodon.xyz"
     },
     {
       "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
@@ -50,158 +127,88 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "score": 251,
-      "comments": 107,
-      "source": "github.blog"
-    },
-    {
       "title": "The fall of the theorem economy",
       "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "score": 132,
-      "comments": 46,
+      "score": 210,
+      "comments": 91,
       "source": "davidbessis.substack.com"
     },
     {
-      "title": "Many people misunderstand the purpose of code review",
-      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "score": 23,
-      "comments": 16,
-      "source": "mathstodon.xyz"
+      "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+      "url": "https://freegraphpaper.net/",
+      "score": 67,
+      "comments": 15,
+      "source": "freegraphpaper.net"
+    },
+    {
+      "title": "Too many tables are bad for you",
+      "url": "https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/",
+      "score": 7,
+      "comments": 0,
+      "source": "cybertec-postgresql.com"
     },
     {
       "title": "Show HN: ZeroFS \u2013 A log-structured filesystem for S3",
       "url": "https://www.zerofs.net/",
-      "score": 3,
-      "comments": 0,
+      "score": 98,
+      "comments": 47,
       "source": "zerofs.net"
     },
     {
       "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
       "url": "https://bednars.me/blog/winpe-harness",
-      "score": 27,
-      "comments": 0,
+      "score": 70,
+      "comments": 4,
       "source": "bednars.me"
     },
     {
-      "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 381,
-      "comments": 71,
-      "source": "makerspet.com"
+      "title": "Show HN: Mail Memories \u2013 A desktop app to rescue photos from Gmail",
+      "url": "https://mailmemories.com",
+      "score": 89,
+      "comments": 37,
+      "source": "mailmemories.com"
     },
     {
-      "title": "ZCode \u2013 Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "score": 452,
-      "comments": 309,
-      "source": "zcode.z.ai"
+      "title": "CursorBench 3.1",
+      "url": "https://cursor.com/evals",
+      "score": 147,
+      "comments": 81,
+      "source": "cursor.com"
+    },
+    {
+      "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout",
+      "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html",
+      "score": 15,
+      "comments": 3,
+      "source": "victoriametrics.com"
     },
     {
       "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
       "url": "https://github.com/emson/claudoro",
-      "score": 8,
-      "comments": 2,
+      "score": 39,
+      "comments": 26,
       "source": "github.com"
     },
     {
-      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
-      "score": 162,
-      "comments": 98,
-      "source": "docs.google.com"
+      "title": "Germany\u2019s Infineon opens major chip plant as EU seeks tech autonomy",
+      "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
+      "score": 168,
+      "comments": 48,
+      "source": "rfi.fr"
     },
     {
-      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
-      "score": 66,
-      "comments": 15,
-      "source": "mixedbread.com"
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "score": 153,
+      "comments": 102,
+      "source": "senior-swe-bench.snorkel.ai"
     },
     {
-      "title": "Bring back crappy forums",
-      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "score": 389,
-      "comments": 249,
-      "source": "tedium.co"
-    },
-    {
-      "title": "Google loses fight over record $4.7B EU antitrust fine",
-      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
-      "score": 194,
-      "comments": 162,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "German Button Maker Searched Rivers of American Midwest for Valuable Shells",
-      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
-      "score": 8,
-      "comments": 0,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "What to learn to be a graphics programmer",
-      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "score": 383,
-      "comments": 208,
-      "source": "blog.demofox.org"
-    },
-    {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "score": 411,
-      "comments": 131,
-      "source": "hydrogenaudio.org"
-    },
-    {
-      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-      "score": 199,
-      "comments": 212,
-      "source": "blog.google"
-    },
-    {
-      "title": "Why jet engines aren't made in China",
-      "url": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
-      "score": 223,
-      "comments": 207,
-      "source": "aakash.substack.com"
-    },
-    {
-      "title": "Winamp Skin Museum",
-      "url": "https://skins.webamp.org",
-      "score": 9,
-      "comments": 2,
-      "source": "skins.webamp.org"
-    },
-    {
-      "title": "How do wombats poop cubes? (2021)",
-      "url": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
-      "score": 146,
-      "comments": 90,
-      "source": "science.org"
-    },
-    {
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "url": "https://www.weaverobotics.com/isaac-1",
-      "score": 210,
-      "comments": 305,
-      "source": "weaverobotics.com"
-    },
-    {
-      "title": "Using Aspect-Oriented Programming to Record DRL Agents' Data",
-      "url": "https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/",
-      "score": 4,
-      "comments": 1,
-      "source": "blog.ptidej.net"
-    },
-    {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 885,
-      "comments": 280,
-      "source": "quantamagazine.org"
+      "title": "Vite+ Beta",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "score": 202,
+      "comments": 126,
+      "source": "voidzero.dev"
     }
   ],
   "security": [
