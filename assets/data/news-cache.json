@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "score": 531,
+      "comments": 93,
+      "source": "hunton.com"
+    },
+    {
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "score": 165,
+      "comments": 52,
+      "source": "scottaaronson.blog"
+    },
+    {
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
+      "score": 146,
+      "comments": 31,
+      "source": "github.com"
+    },
+    {
+      "title": "Right to Local Intelligence",
+      "url": "https://righttointelligence.org/",
+      "score": 46,
+      "comments": 15,
+      "source": "righttointelligence.org"
+    },
+    {
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "score": 148,
+      "comments": 55,
+      "source": "johnsalvatier.org"
+    },
+    {
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 277,
-      "comments": 134,
+      "score": 410,
+      "comments": 190,
       "source": "mathstodon.xyz"
     },
     {
-      "title": "Exapunks",
+      "title": "Exapunks (2018)",
       "url": "https://www.zachtronics.com/exapunks/",
-      "score": 37,
-      "comments": 10,
+      "score": 223,
+      "comments": 81,
       "source": "zachtronics.com"
+    },
+    {
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "score": 77,
+      "comments": 57,
+      "source": "forms.cloud.microsoft"
+    },
+    {
+      "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
+      "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+      "score": 59,
+      "comments": 26,
+      "source": "dailymail.com"
     },
     {
       "title": "PeerTube is a free, decentralized and federated video platform",
       "url": "https://github.com/Chocobozzz/PeerTube",
-      "score": 301,
-      "comments": 110,
+      "score": 526,
+      "comments": 241,
       "source": "github.com"
-    },
-    {
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1448,
-      "comments": 595,
-      "source": "f-droid.org"
-    },
-    {
-      "title": "How to ask for help from people who don't know you",
-      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "score": 219,
-      "comments": 33,
-      "source": "pradyuprasad.com"
     },
     {
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 107,
-      "comments": 27,
+      "score": 403,
+      "comments": 162,
       "source": "blog.podman.io"
+    },
+    {
+      "title": "How to ask for help from people who don't know you",
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "score": 407,
+      "comments": 63,
+      "source": "pradyuprasad.com"
+    },
+    {
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+      "score": 110,
+      "comments": 33,
+      "source": "cdn.arstechnica.net"
+    },
+    {
+      "title": "Show HN: zkGolf \u2013 Competitive optimization of formally verified circuits",
+      "url": "https://zk.golf/",
+      "score": 42,
+      "comments": 4,
+      "source": "zk.golf"
+    },
+    {
+      "title": "Postgres transactions are a distributed systems superpower",
+      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+      "score": 117,
+      "comments": 56,
+      "source": "dbos.dev"
+    },
+    {
+      "title": "FoundationDB's Flow \u2013 Bringing Actor-Based Concurrency to C++11",
+      "url": "https://apple.github.io/foundationdb/flow.html",
+      "score": 35,
+      "comments": 6,
+      "source": "apple.github.io"
+    },
+    {
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "url": "http://www.lmdb.tech/doc/",
+      "score": 64,
+      "comments": 37,
+      "source": "lmdb.tech"
+    },
+    {
+      "title": "Superpowers 6",
+      "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+      "score": 80,
+      "comments": 38,
+      "source": "blog.fsck.com"
+    },
+    {
+      "title": "This is my attempt to get Vulkan going on NetBSD",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "score": 84,
+      "comments": 18,
+      "source": "github.com"
+    },
+    {
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
+      "score": 212,
+      "comments": 97,
+      "source": "github.com"
+    },
+    {
+      "title": "Claude-real-video \uff0d any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "score": 87,
+      "comments": 28,
+      "source": "github.com"
+    },
+    {
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "score": 66,
+      "comments": 67,
+      "source": "blog.okturtles.org"
+    },
+    {
+      "title": "Show HN: Gitstock\u2013Transform you GitHub commit history into K-line and animations",
+      "url": "https://gitstock.org/",
+      "score": 10,
+      "comments": 1,
+      "source": "gitstock.org"
+    },
+    {
+      "title": "Great Salt Lake Tracker \u2013 Grow the Flow",
+      "url": "https://growtheflowutah.org/laketracker/",
+      "score": 63,
+      "comments": 25,
+      "source": "growtheflowutah.org"
+    },
+    {
+      "title": "Show HN: Inkwell \u2013 An RSS reader for e-ink devices",
+      "url": "https://kendal.codeberg.page/inkwell/",
+      "score": 28,
+      "comments": 4,
+      "source": "kendal.codeberg.page"
+    },
+    {
+      "title": "Show HN: Pieces \u2013 Social network for people",
+      "url": "https://try.piecesof.me/",
+      "score": 31,
+      "comments": 20,
+      "source": "try.piecesof.me"
+    },
+    {
+      "title": "Apricot Computers: An underrated British brand",
+      "url": "https://dfarq.homeip.net/apricot-computers-an-underrated-british-brand/",
+      "score": 22,
+      "comments": 7,
+      "source": "dfarq.homeip.net"
+    },
+    {
+      "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+      "url": "https://openjdk.org/jeps/539",
+      "score": 57,
+      "comments": 17,
+      "source": "openjdk.org"
+    },
+    {
+      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+      "score": 19,
+      "comments": 12,
+      "source": "petapixel.com"
     },
     {
       "title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud",
       "url": "https://manufact.com",
-      "score": 76,
-      "comments": 49,
-      "source": "manufact.com"
-    },
-    {
-      "title": "Klara and the Sun Essay Contest \u2013 $1k Prize \u2013 AI Use Allowed",
-      "url": "https://willpenman.com/klara/",
-      "score": 10,
-      "comments": 8,
-      "source": "willpenman.com"
-    },
-    {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 279,
-      "comments": 147,
-      "source": "japannews.yomiuri.co.jp"
-    },
-    {
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "score": 263,
-      "comments": 56,
-      "source": "clashreport.com"
-    },
-    {
-      "title": "German button maker searched rivers of American Midwest for valuable shells",
-      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
       "score": 102,
-      "comments": 34,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "url": "https://github.com/rafal-qa/slopo",
-      "score": 54,
-      "comments": 24,
-      "source": "github.com"
-    },
-    {
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "score": 369,
-      "comments": 155,
-      "source": "github.blog"
-    },
-    {
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "score": 315,
-      "comments": 141,
-      "source": "thebignewsletter.com"
-    },
-    {
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "url": "https://arxiv.org/abs/2607.01232",
-      "score": 109,
-      "comments": 27,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "No LLM Code in Dependencies",
-      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-      "score": 41,
-      "comments": 20,
-      "source": "joeyh.name"
-    },
-    {
-      "title": "The primary purpose of code review is to find code that will be hard to maintain",
-      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "score": 262,
-      "comments": 142,
-      "source": "mathstodon.xyz"
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "The fall of the theorem economy",
-      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "score": 210,
-      "comments": 91,
-      "source": "davidbessis.substack.com"
-    },
-    {
-      "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
-      "url": "https://freegraphpaper.net/",
-      "score": 67,
-      "comments": 15,
-      "source": "freegraphpaper.net"
-    },
-    {
-      "title": "Too many tables are bad for you",
-      "url": "https://www.cybertec-postgresql.com/en/too-many-tables-are-bad/",
-      "score": 7,
-      "comments": 0,
-      "source": "cybertec-postgresql.com"
-    },
-    {
-      "title": "Show HN: ZeroFS \u2013 A log-structured filesystem for S3",
-      "url": "https://www.zerofs.net/",
-      "score": 98,
-      "comments": 47,
-      "source": "zerofs.net"
-    },
-    {
-      "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
-      "url": "https://bednars.me/blog/winpe-harness",
-      "score": 70,
-      "comments": 4,
-      "source": "bednars.me"
-    },
-    {
-      "title": "Show HN: Mail Memories \u2013 A desktop app to rescue photos from Gmail",
-      "url": "https://mailmemories.com",
-      "score": 89,
-      "comments": 37,
-      "source": "mailmemories.com"
-    },
-    {
-      "title": "CursorBench 3.1",
-      "url": "https://cursor.com/evals",
-      "score": 147,
-      "comments": 81,
-      "source": "cursor.com"
-    },
-    {
-      "title": "How VictoriaLogs Stores Your Logs in a Columnar Layout",
-      "url": "https://victoriametrics.com/blog/victorialogs-internals-columnar-storage-on-disk/index.html",
-      "score": 15,
-      "comments": 3,
-      "source": "victoriametrics.com"
-    },
-    {
-      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-      "url": "https://github.com/emson/claudoro",
-      "score": 39,
-      "comments": 26,
-      "source": "github.com"
-    },
-    {
-      "title": "Germany\u2019s Infineon opens major chip plant as EU seeks tech autonomy",
-      "url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
-      "score": 168,
-      "comments": 48,
-      "source": "rfi.fr"
-    },
-    {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "score": 153,
-      "comments": 102,
-      "source": "senior-swe-bench.snorkel.ai"
-    },
-    {
-      "title": "Vite+ Beta",
-      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-      "score": 202,
-      "comments": 126,
-      "source": "voidzero.dev"
+      "comments": 62,
+      "source": "manufact.com"
     }
   ],
   "security": [
