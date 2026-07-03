@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Half-Baked Product",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "score": 559,
+      "comments": 152,
+      "source": "weli.dev"
+    },
+    {
+      "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "score": 21,
+      "comments": 2,
+      "source": "ubicloud.com"
+    },
+    {
       "title": "Virginia bans sale of geolocation data",
       "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 744,
-      "comments": 121,
+      "score": 888,
+      "comments": 132,
       "source": "hunton.com"
     },
     {
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "score": 268,
-      "comments": 325,
-      "source": "caseyliss.com"
+      "title": "Zuckerberg 'Admits' Meta's Layoffs Were Ineffective",
+      "url": "https://eshumarneedi.com/2026/07/03/zuckerberg-admits-metas-layoffs-were.html",
+      "score": 56,
+      "comments": 28,
+      "source": "eshumarneedi.com"
+    },
+    {
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+      "score": 51,
+      "comments": 6,
+      "source": "gamingonlinux.com"
+    },
+    {
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "url": "https://wordgard.net/",
+      "score": 88,
+      "comments": 45,
+      "source": "wordgard.net"
     },
     {
       "title": "Right to Local Intelligence",
       "url": "https://righttointelligence.org/",
-      "score": 220,
-      "comments": 76,
+      "score": 350,
+      "comments": 119,
       "source": "righttointelligence.org"
+    },
+    {
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "score": 415,
+      "comments": 557,
+      "source": "caseyliss.com"
+    },
+    {
+      "title": "Please stop the AI confidence theater",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "score": 70,
+      "comments": 34,
+      "source": "elenaverna.com"
+    },
+    {
+      "title": "How working with a blind client revealed invisible accessibility gaps",
+      "url": "https://iinteractive.com/resources/blog/read-only",
+      "score": 43,
+      "comments": 26,
+      "source": "iinteractive.com"
+    },
+    {
+      "title": "Goodebye Forever Probably: Why I\u2019m leaving developer relations",
+      "url": "https://whitep4nth3r.com/blog/goodbye-forever-probably/",
+      "score": 5,
+      "comments": 2,
+      "source": "whitep4nth3r.com"
     },
     {
       "title": "crustc: entirety of `rustc`, translated to C",
       "url": "https://github.com/FractalFir/crustc",
-      "score": 266,
-      "comments": 52,
+      "score": 326,
+      "comments": 63,
       "source": "github.com"
+    },
+    {
+      "title": "Commodore 64 Basic for PostgreSQL",
+      "url": "https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html",
+      "score": 26,
+      "comments": 6,
+      "source": "thombrown.blogspot.com"
     },
     {
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "score": 459,
-      "comments": 203,
+      "score": 505,
+      "comments": 215,
       "source": "mathstodon.xyz"
     },
     {
       "title": "The Safari MCP server for web developers",
       "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-      "score": 79,
-      "comments": 13,
+      "score": 144,
+      "comments": 38,
       "source": "webkit.org"
-    },
-    {
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "score": 253,
-      "comments": 92,
-      "source": "johnsalvatier.org"
     },
     {
       "title": "Podman v6.0.0",
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
-      "score": 517,
-      "comments": 203,
+      "score": 580,
+      "comments": 228,
       "source": "blog.podman.io"
     },
     {
-      "title": "14\u00d7 faster embeddings: how we rebuilt the ONNX path in Manticore",
-      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-      "score": 46,
+      "title": "Quake in 13 Kilobytes (2021)",
+      "url": "https://js13kgames.com/games/q1k3",
+      "score": 76,
       "comments": 7,
-      "source": "manticoresearch.com"
+      "source": "js13kgames.com"
     },
     {
-      "title": "Exapunks (2018)",
-      "url": "https://www.zachtronics.com/exapunks/",
-      "score": 288,
-      "comments": 99,
-      "source": "zachtronics.com"
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "score": 309,
+      "comments": 116,
+      "source": "johnsalvatier.org"
+    },
+    {
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "score": 207,
+      "comments": 157,
+      "source": "reuters.com"
     },
     {
       "title": "Immich 3.0",
       "url": "https://github.com/immich-app/immich/discussions/29439",
-      "score": 394,
-      "comments": 191,
+      "score": 507,
+      "comments": 248,
       "source": "github.com"
     },
     {
-      "title": "Underwater Suit-Wearing Cyborg Insect Capable of Diving and Terra-Aqua Travel",
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "score": 306,
+      "comments": 106,
+      "source": "zachtronics.com"
+    },
+    {
+      "title": "Q&A with Micron's VP and GM of Memory",
+      "url": "https://morethanmoore.substack.com/p/q-and-a-with-microns-vp-and-gm-of",
+      "score": 16,
+      "comments": 11,
+      "source": "morethanmoore.substack.com"
+    },
+    {
+      "title": "The Beauty of Tautologies",
+      "url": "https://scottsumner.substack.com/p/the-beauty-of-tautologies",
+      "score": 9,
+      "comments": 6,
+      "source": "scottsumner.substack.com"
+    },
+    {
+      "title": "Underwater suit-wearing cyborg insect capable of diving and terra-aqua travel",
       "url": "https://www.nature.com/articles/s41467-026-74235-1",
-      "score": 32,
-      "comments": 7,
+      "score": 62,
+      "comments": 26,
       "source": "nature.com"
     },
     {
-      "title": "How working with a blind client revealed invisible accessibility gaps",
-      "url": "https://iinteractive.com/resources/blog/read-only",
-      "score": 7,
-      "comments": 0,
-      "source": "iinteractive.com"
+      "title": "14\u00d7 faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "score": 72,
+      "comments": 12,
+      "source": "manticoresearch.com"
     },
     {
-      "title": "Mystery identity of 'Green Boots' climber is finally solved after DNA test",
-      "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
-      "score": 102,
-      "comments": 56,
-      "source": "dailymail.com"
-    },
-    {
-      "title": "An American Privacy Emergency",
-      "url": "https://scottaaronson.blog/?p=9902",
-      "score": 298,
-      "comments": 94,
-      "source": "scottaaronson.blog"
+      "title": "Local Reasoning for Global Properties",
+      "url": "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html",
+      "score": 9,
+      "comments": 1,
+      "source": "tratt.net"
     },
     {
       "title": "The short leash AI coding method for beating Fable",
       "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "score": 128,
-      "comments": 152,
+      "score": 158,
+      "comments": 199,
       "source": "blog.okturtles.org"
     },
     {
-      "title": "Postgres transactions are a distributed systems superpower",
-      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
-      "score": 172,
-      "comments": 71,
-      "source": "dbos.dev"
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "score": 358,
+      "comments": 106,
+      "source": "scottaaronson.blog"
     },
     {
-      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
-      "score": 58,
-      "comments": 34,
-      "source": "petapixel.com"
-    },
-    {
-      "title": "Superpowers 6",
-      "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
-      "score": 143,
-      "comments": 55,
-      "source": "blog.fsck.com"
-    },
-    {
-      "title": "Claude-real-video \uff0d any LLM can watch a video",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "score": 131,
-      "comments": 41,
-      "source": "github.com"
-    },
-    {
-      "title": "Cowboys, Frontiersmen, Settlers, Townspeople, Cityfolk",
-      "url": "https://huntersoftwareconsulting.com/posts/2026-06-28-company-phase-changes/",
-      "score": 15,
-      "comments": 2,
-      "source": "huntersoftwareconsulting.com"
-    },
-    {
-      "title": "Great Salt Lake Tracker \u2013 Grow the Flow",
-      "url": "https://growtheflowutah.org/laketracker/",
-      "score": 97,
-      "comments": 37,
-      "source": "growtheflowutah.org"
-    },
-    {
-      "title": "This is my attempt to get Vulkan going on NetBSD",
-      "url": "https://github.com/segaboy/vulkan-netbsd",
-      "score": 104,
-      "comments": 28,
-      "source": "github.com"
-    },
-    {
-      "title": "EFF letter to FTC on X consent order [pdf]",
-      "url": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
-      "score": 137,
-      "comments": 57,
-      "source": "eff.org"
-    },
-    {
-      "title": "Perform DFU Restores on Apple Silicon Macs with Macvdmtool (2021)",
-      "url": "https://www.bkurtz.io/posts/macvdmtool/",
-      "score": 21,
-      "comments": 3,
-      "source": "bkurtz.io"
+      "title": "Gemini Code Assist will be shut down on July 17",
+      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+      "score": 8,
+      "comments": 0,
+      "source": "docs.cloud.google.com"
     },
     {
       "title": "FoundationDB's Flow \u2013 Bringing Actor-Based Concurrency to C++11",
       "url": "https://apple.github.io/foundationdb/flow.html",
-      "score": 62,
-      "comments": 10,
+      "score": 83,
+      "comments": 23,
       "source": "apple.github.io"
-    },
-    {
-      "title": "AI is 'not smart' so what's next in artificial intelligence?",
-      "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
-      "score": 31,
-      "comments": 25,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Why Switzerland has 25 gbit internet and America doesn't",
-      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-      "score": 470,
-      "comments": 325,
-      "source": "stefan.schueller.net"
-    },
-    {
-      "title": "Show HN: zkGolf \u2013 Competitive optimization of formally verified circuits",
-      "url": "https://zk.golf/",
-      "score": 59,
-      "comments": 9,
-      "source": "zk.golf"
-    },
-    {
-      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
-      "url": "http://www.lmdb.tech/doc/",
-      "score": 81,
-      "comments": 42,
-      "source": "lmdb.tech"
     }
   ],
   "security": [
