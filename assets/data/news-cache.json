@@ -1,116 +1,186 @@
 {
   "tech": [
     {
-      "title": "Giant trees have no trouble pumping water to top branches",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "score": 99,
-      "comments": 49,
-      "source": "news.exeter.ac.uk"
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "score": 129,
+      "comments": 60,
+      "source": "blog.mikebowler.ca"
     },
     {
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "score": 94,
+      "title": "Agentic coding notes from Galapagos Island",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "score": 72,
       "comments": 28,
+      "source": "danluu.com"
+    },
+    {
+      "title": "Performance per dollar is getting faster and cheaper",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "score": 225,
+      "comments": 73,
+      "source": "wafer.ai"
+    },
+    {
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "score": 210,
+      "comments": 50,
       "source": "mistral.ai"
     },
     {
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "score": 101,
-      "comments": 27,
-      "source": "wafer.ai"
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "score": 187,
+      "comments": 89,
+      "source": "news.exeter.ac.uk"
+    },
+    {
+      "title": "Mir Books \u2013 Books from the Soviet Era",
+      "url": "https://mirtitles.org",
+      "score": 50,
+      "comments": 22,
+      "source": "mirtitles.org"
+    },
+    {
+      "title": "Synthesis is harder than analysis",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "score": 72,
+      "comments": 13,
+      "source": "surfingcomplexity.blog"
     },
     {
       "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
       "url": "https://mrbruh.com/msicenter/",
-      "score": 26,
-      "comments": 7,
+      "score": 79,
+      "comments": 24,
       "source": "mrbruh.com"
     },
     {
       "title": "Steam Controller Auto-Charge \u2013 pilot to magnetic charging puck using CV",
       "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "score": 74,
-      "comments": 13,
+      "score": 128,
+      "comments": 27,
       "source": "github.com"
     },
     {
       "title": "SearXNG: A free internet metasearch engine",
       "url": "https://github.com/searxng/searxng",
-      "score": 138,
-      "comments": 42,
+      "score": 202,
+      "comments": 53,
       "source": "github.com"
     },
     {
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "score": 43,
-      "comments": 7,
-      "source": "engineering.columbia.edu"
+      "title": "Maybe you should learn something",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "score": 51,
+      "comments": 22,
+      "source": "marginalia.nu"
     },
     {
-      "title": "Amsterdam invented the fire department",
+      "title": "FreeBSD ate my RAM",
+      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+      "score": 133,
+      "comments": 45,
+      "source": "crocidb.com"
+    },
+    {
+      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
       "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-      "score": 45,
-      "comments": 11,
+      "score": 86,
+      "comments": 15,
       "source": "worksinprogress.co"
     },
     {
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "score": 34,
-      "comments": 2,
-      "source": "soatok.blog"
+      "title": "Odin, Wikipedia and engagement farming",
+      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+      "score": 132,
+      "comments": 168,
+      "source": "katamari64.se"
     },
     {
       "title": "Jamesob's guide to running SOTA LLMs locally",
       "url": "https://github.com/jamesob/local-llm",
-      "score": 286,
-      "comments": 126,
+      "score": 334,
+      "comments": 151,
       "source": "github.com"
     },
     {
-      "title": "Applied Category Theory Course (2018)",
-      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-      "score": 61,
-      "comments": 7,
-      "source": "math.ucr.edu"
+      "title": "Soatok's Informal Guide to Threat Models",
+      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "score": 78,
+      "comments": 10,
+      "source": "soatok.blog"
+    },
+    {
+      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+      "url": "https://github.com/adam-s/car-diagnosis",
+      "score": 12,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "score": 8,
+      "comments": 1,
+      "source": "databricks.com"
     },
     {
       "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
       "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "score": 52,
-      "comments": 10,
+      "score": 94,
+      "comments": 32,
       "source": "epoch.ai"
     },
     {
-      "title": "Espionage Against the European Parliament",
-      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-      "score": 277,
-      "comments": 68,
-      "source": "citizenlab.ca"
+      "title": "David Beazley \u2013 Programming Courses",
+      "url": "https://www.dabeaz.com/courses.html",
+      "score": 63,
+      "comments": 20,
+      "source": "dabeaz.com"
     },
     {
-      "title": "Scientists discover guidance system for migratory songbirds",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/",
-      "score": 13,
-      "comments": 2,
-      "source": "news.exeter.ac.uk"
-    },
-    {
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-      "score": 22,
-      "comments": 5,
-      "source": "chenliu-1996.github.io"
+      "title": "Reverse-engineering Codemasters' BIGF archive format in Ruby",
+      "url": "https://davidslv.uk/2026/06/30/reading-binary-in-ruby.html",
+      "score": 16,
+      "comments": 4,
+      "source": "davidslv.uk"
     },
     {
       "title": "Costco is the anti-Amazon",
       "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-      "score": 321,
-      "comments": 296,
+      "score": 394,
+      "comments": 366,
       "source": "phenomenalworld.org"
+    },
+    {
+      "title": "Applied Category Theory Course (2018)",
+      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+      "score": 103,
+      "comments": 7,
+      "source": "math.ucr.edu"
+    },
+    {
+      "title": "Gone but Not Forgotten: Recovering the Dead Web",
+      "url": "https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/",
+      "score": 63,
+      "comments": 17,
+      "source": "blog.archive.org"
+    },
+    {
+      "title": "Study reveals what people see when they read lips",
+      "url": "https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips",
+      "score": 7,
+      "comments": 0,
+      "source": "news.ku.edu"
+    },
+    {
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "score": 355,
+      "comments": 87,
+      "source": "citizenlab.ca"
     },
     {
       "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
@@ -120,95 +190,25 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "We put a Redis server inside our runtime",
-      "url": "https://encore.dev/blog/redis-runtime",
-      "score": 25,
-      "comments": 7,
-      "source": "encore.dev"
-    },
-    {
       "title": "Factories are just rooms",
       "url": "https://interconnected.org/home/2026/07/03/factories",
-      "score": 200,
-      "comments": 78,
+      "score": 238,
+      "comments": 98,
       "source": "interconnected.org"
-    },
-    {
-      "title": "International chess federation sanctions Kramnik",
-      "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-      "score": 128,
-      "comments": 68,
-      "source": "fide.com"
-    },
-    {
-      "title": "Software, from First Principles",
-      "url": "https://fazamhd.com/mental-models/software/",
-      "score": 42,
-      "comments": 10,
-      "source": "fazamhd.com"
     },
     {
       "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
       "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-      "score": 172,
-      "comments": 14,
+      "score": 203,
+      "comments": 22,
       "source": "ubuntu.com"
-    },
-    {
-      "title": "Africans Are Turning to Starlink",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink",
-      "score": 111,
-      "comments": 118,
-      "source": "economist.com"
-    },
-    {
-      "title": "FreeBSD ate my RAM",
-      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-      "score": 88,
-      "comments": 38,
-      "source": "crocidb.com"
-    },
-    {
-      "title": "Notes from Building Tinkerfont",
-      "url": "https://mighil.com/notes-from-building-tinkerfont",
-      "score": 11,
-      "comments": 0,
-      "source": "mighil.com"
-    },
-    {
-      "title": "Wordgard: In-browser rich-text editor from the creator of ProseMirror",
-      "url": "https://wordgard.net/",
-      "score": 269,
-      "comments": 90,
-      "source": "wordgard.net"
     },
     {
       "title": "Show HN: A statically typed, cross-platform, easily bootstrappable build system",
       "url": "https://github.com/rochus-keller/BUSY/",
-      "score": 5,
-      "comments": 0,
+      "score": 32,
+      "comments": 11,
       "source": "github.com"
-    },
-    {
-      "title": "You can get Unicode working on DOS",
-      "url": "https://twitter.com/i/status/2071469740141224272",
-      "score": 12,
-      "comments": 4,
-      "source": "twitter.com"
-    },
-    {
-      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "score": 158,
-      "comments": 86,
-      "source": "ubicloud.com"
-    },
-    {
-      "title": "GitFut \u2013 Your GitHub stats turned into a World-Cup-style player card",
-      "url": "https://gitfut.com",
-      "score": 21,
-      "comments": 10,
-      "source": "gitfut.com"
     }
   ],
   "security": [
