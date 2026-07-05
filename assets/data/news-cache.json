@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "score": 223,
-      "comments": 110,
-      "source": "javoriuski.com"
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "score": 157,
+      "comments": 61,
+      "source": "stories.tamu.edu"
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "score": 370,
+      "comments": 146,
+      "source": "github.com"
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "score": 159,
+      "comments": 50,
+      "source": "github.com"
     },
     {
       "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
       "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 121,
-      "comments": 35,
+      "score": 350,
+      "comments": 189,
       "source": "software.annas-archive.gl"
     },
     {
-      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 225,
-      "comments": 111,
-      "source": "github.com"
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "score": 45,
+      "comments": 10,
+      "source": "mbl.edu"
     },
     {
-      "title": "No more than 100 000 faint satellites should orbit Earth",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "score": 65,
-      "comments": 55,
-      "source": "eso.org"
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "score": 500,
+      "comments": 281,
+      "source": "javoriuski.com"
     },
     {
-      "title": "Verizon is About to Break our Watches",
-      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "score": 33,
-      "comments": 7,
-      "source": "jefftk.com"
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "score": 101,
+      "comments": 33,
+      "source": "lucumr.pocoo.org"
     },
     {
       "title": "Explanation of everything you can see in htop/top on Linux (2019)",
       "url": "https://peteris.rocks/blog/htop/",
-      "score": 281,
-      "comments": 36,
+      "score": 406,
+      "comments": 53,
       "source": "peteris.rocks"
     },
     {
-      "title": "BareMetal RAM Dumper \u2013 Bare-metal x86 tool for Cold Boot Attack experiments",
-      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
-      "score": 19,
-      "comments": 1,
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "score": 276,
+      "comments": 128,
       "source": "github.com"
+    },
+    {
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+      "score": 144,
+      "comments": 29,
+      "source": "ziglang.org"
+    },
+    {
+      "title": "Meta's Un-Stable Signature",
+      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
+      "score": 20,
+      "comments": 1,
+      "source": "hackerfactor.com"
+    },
+    {
+      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
+      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+      "score": 14,
+      "comments": 4,
+      "source": "writerbeware.blog"
+    },
+    {
+      "title": "Reflections on the Guillotine (1957)",
+      "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "score": 25,
+      "comments": 4,
+      "source": "theanarchistlibrary.org"
+    },
+    {
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "score": 5,
+      "comments": 0,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Verizon is About to Break our Watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "score": 141,
+      "comments": 86,
+      "source": "jefftk.com"
+    },
+    {
+      "title": "Can you build a recognizable World Map in under 500 bytes?",
+      "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
+      "score": 24,
+      "comments": 37,
+      "source": "experimentlog.com"
+    },
+    {
+      "title": "Drone Autonomy Crash Course",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "score": 10,
+      "comments": 0,
+      "source": "cggonzalez.com"
+    },
+    {
+      "title": "Drone Physics",
+      "url": "https://iahmed.me/post/drone-physics/",
+      "score": 88,
+      "comments": 25,
+      "source": "iahmed.me"
+    },
+    {
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "score": 10,
+      "comments": 0,
+      "source": "ridgetext.com"
+    },
+    {
+      "title": "Egg consumption inversely correlated with Alzheimer's",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42002260/",
+      "score": 36,
+      "comments": 13,
+      "source": "pubmed.ncbi.nlm.nih.gov"
+    },
+    {
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "score": 15,
+      "comments": 1,
+      "source": "arxiv.org"
     },
     {
       "title": "Windows CE Dreamcast Community Edition (wince-dc)",
       "url": "https://github.com/maximqaxd/wince-dc",
-      "score": 50,
-      "comments": 10,
+      "score": 95,
+      "comments": 18,
       "source": "github.com"
     },
     {
-      "title": "Curveball",
-      "url": "https://mightyburger.net/projects/curveball/",
-      "score": 27,
-      "comments": 3,
-      "source": "mightyburger.net"
-    },
-    {
-      "title": "Plein Air",
-      "url": "https://art.joonas.wtf/",
-      "score": 23,
-      "comments": 2,
-      "source": "art.joonas.wtf"
-    },
-    {
-      "title": "Meta data center water discharges suspended for contaminating water supply",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
-      "score": 80,
-      "comments": 31,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "score": 160,
-      "comments": 98,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "As downtown Seattle offices empty, city facing years of 'zombie' towers",
-      "url": "https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/",
-      "score": 13,
-      "comments": 3,
-      "source": "seattletimes.com"
-    },
-    {
-      "title": "The .join() that should be a bug",
-      "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
-      "score": 7,
-      "comments": 0,
-      "source": "kronotop.com"
-    },
-    {
-      "title": "Finland's last analogue landline phones go silent after 150 years",
-      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
-      "score": 46,
-      "comments": 9,
-      "source": "euronews.com"
-    },
-    {
-      "title": "Maybe you should learn something",
-      "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "score": 365,
-      "comments": 170,
-      "source": "marginalia.nu"
-    },
-    {
-      "title": "Designing DB partitions you don't have to babysit",
-      "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
-      "score": 29,
+      "title": "CloudsLinker: Move and sync files across 50 cloud services",
+      "url": "https://app.cloudslinker.com/login",
+      "score": 9,
       "comments": 1,
-      "source": "explainanalyze.com"
-    },
-    {
-      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
-      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
-      "score": 16,
-      "comments": 2,
-      "source": "studios.disneyresearch.com"
+      "source": "app.cloudslinker.com"
     },
     {
       "title": "The Vespa at 80",
       "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-      "score": 118,
-      "comments": 100,
+      "score": 148,
+      "comments": 137,
       "source": "cbc.ca"
     },
     {
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "score": 136,
+      "title": "Fable created novel 4D splat format",
+      "url": "https://adamraudonis.github.io/splats4D/",
+      "score": 120,
       "comments": 43,
-      "source": "databricks.com"
+      "source": "adamraudonis.github.io"
+    },
+    {
+      "title": "It's not me, it's the compiler",
+      "url": "https://parsa.wtf/cast/",
+      "score": 64,
+      "comments": 11,
+      "source": "parsa.wtf"
+    },
+    {
+      "title": "BareMetal RAM Dumper \u2013 Bare-metal x86 tool for Cold Boot Attack experiments",
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "score": 57,
+      "comments": 39,
+      "source": "github.com"
+    },
+    {
+      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+      "score": 53,
+      "comments": 8,
+      "source": "studios.disneyresearch.com"
+    },
+    {
+      "title": "Curveball",
+      "url": "https://mightyburger.net/projects/curveball/",
+      "score": 51,
+      "comments": 11,
+      "source": "mightyburger.net"
     },
     {
       "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
       "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-      "score": 57,
-      "comments": 15,
+      "score": 109,
+      "comments": 36,
       "source": "freepressjournal.in"
-    },
-    {
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "score": 677,
-      "comments": 381,
-      "source": "blog.mikebowler.ca"
-    },
-    {
-      "title": "Night Witches \u2013 all-female Soviet aviator regiment WW2",
-      "url": "https://en.wikipedia.org/wiki/Night_Witches",
-      "score": 69,
-      "comments": 25,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Sick leave: Germany rising but not the worst in Europe",
-      "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
-      "score": 24,
-      "comments": 32,
-      "source": "dw.com"
-    },
-    {
-      "title": "Performance per dollar is getting faster and cheaper",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "score": 328,
-      "comments": 129,
-      "source": "wafer.ai"
-    },
-    {
-      "title": "Leanstral 1.5: Proof abundance for all",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "score": 332,
-      "comments": 93,
-      "source": "mistral.ai"
-    },
-    {
-      "title": "Mir Books \u2013 Books from the Soviet Era",
-      "url": "https://mirtitles.org",
-      "score": 148,
-      "comments": 73,
-      "source": "mirtitles.org"
-    },
-    {
-      "title": "EndBASIC 0.14: Are we multimedia yet?",
-      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
-      "score": 5,
-      "comments": 0,
-      "source": "endbasic.dev"
-    },
-    {
-      "title": "Rob Pike \u2013 'Concurrency Is Not Parallelism' [video] (2012)",
-      "url": "https://vimeo.com/49718712",
-      "score": 32,
-      "comments": 18,
-      "source": "vimeo.com"
-    },
-    {
-      "title": "Giant trees have no trouble pumping water to top branches: new research",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "score": 254,
-      "comments": 111,
-      "source": "news.exeter.ac.uk"
     }
   ],
   "security": [
