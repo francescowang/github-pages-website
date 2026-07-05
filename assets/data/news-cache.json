@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack",
-      "url": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
-      "score": 30,
-      "comments": 8,
-      "source": "acc.org"
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "score": 521,
+      "comments": 154,
+      "source": "organicmaps.app"
     },
     {
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "score": 189,
-      "comments": 75,
-      "source": "ui.shadcn.com"
+      "title": "The Computers Used in Movies",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "score": 70,
+      "comments": 24,
+      "source": "starringthecomputer.com"
+    },
+    {
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "score": 10,
+      "comments": 1,
+      "source": "intextbooks.science.uu.nl"
+    },
+    {
+      "title": "\"These cameras are just like the Eye of Sauron\"",
+      "url": "https://arxiv.org/abs/2602.09239",
+      "score": 67,
+      "comments": 36,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "score": 95,
+      "comments": 68,
+      "source": "popcar.bearblog.dev"
+    },
+    {
+      "title": "Introduction to Compilers and Language Design (2021)",
+      "url": "https://dthain.github.io/books/compiler/",
+      "score": 230,
+      "comments": 34,
+      "source": "dthain.github.io"
+    },
+    {
+      "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+      "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+      "score": 65,
+      "comments": 34,
+      "source": "raymii.org"
+    },
+    {
+      "title": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
+      "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
+      "score": 80,
+      "comments": 61,
+      "source": "danielstanica.com"
+    },
+    {
+      "title": "The Future of Flipper Zero Development",
+      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "score": 8,
+      "comments": 1,
+      "source": "blog.flipper.net"
+    },
+    {
+      "title": "You Need a Webring",
+      "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
+      "score": 4,
+      "comments": 1,
+      "source": "shub.club"
+    },
+    {
+      "title": "Airplane Boneyards List and Map",
+      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+      "score": 62,
+      "comments": 12,
+      "source": "airplaneboneyards.com"
+    },
+    {
+      "title": "Australia probes mystery space balls that washed up on beach",
+      "url": "https://www.bbc.com/news/articles/c1jyydr7jnjo",
+      "score": 4,
+      "comments": 2,
+      "source": "bbc.com"
     },
     {
       "title": "If you're a button, you have one job",
       "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 332,
-      "comments": 163,
+      "score": 495,
+      "comments": 244,
       "source": "unsung.aresluna.org"
     },
     {
-      "title": "Show HN: KiCad in the Browser",
-      "url": "https://demo.pcbjam.com/",
-      "score": 11,
-      "comments": 2,
-      "source": "demo.pcbjam.com"
+      "title": "Why DMARC's new \"NP\" tag can fail with DNSSEC",
+      "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+      "score": 27,
+      "comments": 10,
+      "source": "dmarcwise.io"
     },
     {
-      "title": "Claude Design System Prompt",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "score": 60,
-      "comments": 15,
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "score": 256,
+      "comments": 138,
+      "source": "ui.shadcn.com"
+    },
+    {
+      "title": "Every Postcard Tells a Story",
+      "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
+      "score": 3,
+      "comments": 0,
+      "source": "observer.co.uk"
+    },
+    {
+      "title": "Do you hate XML? (2010)",
+      "url": "https://sigfrid-lundberg.se/entries/2010/07/hate_xml/",
+      "score": 4,
+      "comments": 0,
+      "source": "sigfrid-lundberg.se"
+    },
+    {
+      "title": "Installing A/UX 1.1 like it's the 90s",
+      "url": "https://thomasw.dev/post/aux11/",
+      "score": 8,
+      "comments": 0,
+      "source": "thomasw.dev"
+    },
+    {
+      "title": "Optimizing an Algorithm That's Quadratic by Design",
+      "url": "https://whatchord.earthmanmuons.com/articles/chord-ranking-performance.html",
+      "score": 4,
+      "comments": 0,
+      "source": "whatchord.earthmanmuons.com"
+    },
+    {
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/#autodisparagement",
+      "score": 104,
+      "comments": 11,
+      "source": "pluralistic.net"
+    },
+    {
+      "title": "The GNU Emacs Architecture: Unlocking the Core [pdf]",
+      "url": "https://www.diva-portal.org/smash/get/diva2:2052282/FULLTEXT01.pdf",
+      "score": 159,
+      "comments": 10,
+      "source": "diva-portal.org"
+    },
+    {
+      "title": "Rayfish, Peer-to-peer mesh VPN with no server to trust",
+      "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+      "score": 79,
+      "comments": 51,
+      "source": "rayfish.xyz"
+    },
+    {
+      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "score": 51,
+      "comments": 16,
       "source": "github.com"
     },
     {
-      "title": "Trust your compiler: Modern C++",
-      "url": "https://categorica.io/blog/2026.06.29_trust_your_compiler/",
-      "score": 16,
-      "comments": 4,
-      "source": "categorica.io"
+      "title": "EU Council forces Chat Control via fast-track",
+      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "score": 269,
+      "comments": 139,
+      "source": "heise.de"
     },
     {
-      "title": "Fast Software, the Best Software (2019)",
-      "url": "https://craigmod.com/essays/fast_software/",
-      "score": 61,
-      "comments": 29,
-      "source": "craigmod.com"
+      "title": "Taphonomic analysis reveals behavioral & tech capabilities of Homo floresiensis",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeb7219",
+      "score": 3,
+      "comments": 0,
+      "source": "science.org"
     },
     {
       "title": "Pandoc Lua Filters",
       "url": "https://pandoc.org/lua-filters.html",
-      "score": 92,
-      "comments": 5,
+      "score": 128,
+      "comments": 11,
       "source": "pandoc.org"
     },
     {
-      "title": "Introduction to Compilers and Language Design",
-      "url": "https://dthain.github.io/books/compiler/",
-      "score": 8,
+      "title": "Medieval-style fortifications are back in the Sahel",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
+      "score": 67,
+      "comments": 54,
+      "source": "economist.com"
+    },
+    {
+      "title": "Show HN: KiCad in the Browser",
+      "url": "https://demo.pcbjam.com/",
+      "score": 76,
+      "comments": 30,
+      "source": "demo.pcbjam.com"
+    },
+    {
+      "title": "Moving Back Home Used to Be a Sign of Failure. Now It Shows Financial Savvy",
+      "url": "https://www.wsj.com/lifestyle/relationships/living-with-parents-finances-0c35530c",
+      "score": 14,
+      "comments": 14,
+      "source": "wsj.com"
+    },
+    {
+      "title": "Neoengineers",
+      "url": "https://elijahpotter.dev/articles/neoengineers",
+      "score": 3,
       "comments": 0,
-      "source": "dthain.github.io"
-    },
-    {
-      "title": "Knowledge Should Not Be Gated",
-      "url": "https://www.formaly.io/blog/knowledge-should-not-be-gated",
-      "score": 31,
-      "comments": 10,
-      "source": "formaly.io"
-    },
-    {
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "score": 157,
-      "comments": 35,
-      "source": "mbl.edu"
-    },
-    {
-      "title": "Megawatts by Microwave",
-      "url": "https://computer.rip/2026-07-04-microwave-and-power.html",
-      "score": 38,
-      "comments": 4,
-      "source": "computer.rip"
-    },
-    {
-      "title": "Functional Programming in hica",
-      "url": "https://www.hica.dev/docs/functional-programming/",
-      "score": 25,
-      "comments": 4,
-      "source": "hica.dev"
-    },
-    {
-      "title": "Scientist who cleaned space toilet on work now leading Mars exploration",
-      "url": "https://www.bbc.com/news/articles/cz758x04g83o",
-      "score": 22,
-      "comments": 5,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Moby Dick Workout (2022)",
-      "url": "https://www.hogbaysoftware.com/posts/moby-dick-workout/",
-      "score": 60,
-      "comments": 18,
-      "source": "hogbaysoftware.com"
-    },
-    {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 604,
-      "comments": 256,
-      "source": "github.com"
-    },
-    {
-      "title": "Artful Cats: Feline-Inspired Art and Artifacts",
-      "url": "https://www.si.edu/spotlight/art-cats",
-      "score": 58,
-      "comments": 4,
-      "source": "si.edu"
-    },
-    {
-      "title": "Meta's Un-Stable Signature",
-      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
-      "score": 109,
-      "comments": 15,
-      "source": "hackerfactor.com"
-    },
-    {
-      "title": "Atomic Force Microscope [video]",
-      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-      "score": 88,
-      "comments": 9,
-      "source": "youtube.com"
-    },
-    {
-      "title": "The Log is the Agent",
-      "url": "https://arxiv.org/abs/2605.21997",
-      "score": 63,
-      "comments": 18,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "What ORMs have taught me: just learn SQL (2014)",
-      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-      "score": 225,
-      "comments": 257,
-      "source": "wozniak.ca"
-    },
-    {
-      "title": "\u201cBeyond the limit\u201d: Satellites and mirrors in space pose threat to the night sky",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "score": 162,
-      "comments": 261,
-      "source": "eso.org"
-    },
-    {
-      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
-      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
-      "score": 65,
-      "comments": 22,
-      "source": "writerbeware.blog"
-    },
-    {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 321,
-      "comments": 123,
-      "source": "github.com"
-    },
-    {
-      "title": "Pi square is nearly 10",
-      "url": "https://mihai.page/pi-square-is-10/",
-      "score": 21,
-      "comments": 13,
-      "source": "mihai.page"
-    },
-    {
-      "title": "My ASN Journey series (2024)",
-      "url": "https://www.animmouse.com/p/my-asn-journey/",
-      "score": 30,
-      "comments": 11,
-      "source": "animmouse.com"
-    },
-    {
-      "title": "Dark mode with web standards",
-      "url": "https://olliewilliams.xyz/blog/dark-mode/",
-      "score": 17,
-      "comments": 8,
-      "source": "olliewilliams.xyz"
-    },
-    {
-      "title": "About the Digital Art",
-      "url": "https://www.tricivenola.com/about-the-digital-art/",
-      "score": 16,
-      "comments": 3,
-      "source": "tricivenola.com"
-    },
-    {
-      "title": "Drone Autonomy (2021)",
-      "url": "https://www.cggonzalez.com/blog/index.html",
-      "score": 71,
-      "comments": 6,
-      "source": "cggonzalez.com"
-    },
-    {
-      "title": "Reducing Assumptions, Exploding Your Code",
-      "url": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
-      "score": 18,
-      "comments": 7,
-      "source": "ryelang.org"
+      "source": "elijahpotter.dev"
     }
   ],
   "security": [
