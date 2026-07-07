@@ -3,51 +3,149 @@
     {
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
       "url": "https://streetcomplete.app/",
-      "score": 133,
-      "comments": 33,
+      "score": 531,
+      "comments": 123,
       "source": "streetcomplete.app"
     },
     {
-      "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "score": 40,
+      "comments": 9,
+      "source": "ariya.io"
+    },
+    {
+      "title": "30papers.com \u2013 Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "score": 178,
+      "comments": 29,
+      "source": "30papers.com"
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 197,
+      "comments": 55,
+      "source": "fightchatcontrol.eu"
+    },
+    {
+      "title": "l: A new runtime for k and q",
+      "url": "https://lv1.sh/",
+      "score": 37,
+      "comments": 17,
+      "source": "lv1.sh"
+    },
+    {
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
       "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-      "score": 111,
-      "comments": 33,
+      "score": 366,
+      "comments": 140,
       "source": "youtube.com"
     },
     {
-      "title": "Europe's company websites are mostly served by US vendors",
-      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
-      "score": 116,
-      "comments": 82,
-      "source": "ciphercue.com"
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 18,
+      "comments": 0,
+      "source": "blog.zksecurity.xyz"
     },
     {
-      "title": "98% Isn't Much",
-      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-      "score": 170,
-      "comments": 142,
-      "source": "whynothugo.nl"
+      "title": "Jim's TrueType QR Code Font",
+      "url": "https://github.com/jimparis/qr-font",
+      "score": 65,
+      "comments": 5,
+      "source": "github.com"
     },
     {
-      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
-      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
-      "score": 172,
+      "title": "Why we built yet another Postgres connection pooler",
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "score": 68,
+      "comments": 9,
+      "source": "pgdog.dev"
+    },
+    {
+      "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+      "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+      "score": 31,
+      "comments": 10,
+      "source": "nyanpasu64.gitlab.io"
+    },
+    {
+      "title": "Notes on Software Quality",
+      "url": "https://anthonyhobday.com/blog/20260410",
+      "score": 16,
+      "comments": 4,
+      "source": "anthonyhobday.com"
+    },
+    {
+      "title": "Astro 7.0",
+      "url": "https://astro.build/blog/astro-7/",
+      "score": 93,
+      "comments": 19,
+      "source": "astro.build"
+    },
+    {
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "score": 9,
+      "comments": 0,
+      "source": "davit.app"
+    },
+    {
+      "title": "Chat Control passed first round in EU Parliament",
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "score": 406,
+      "comments": 181,
+      "source": "heise.de"
+    },
+    {
+      "title": "MacSurf 1.68 \u2013 NetSurf on OS 9 Released",
+      "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+      "score": 46,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "score": 13,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "score": 53,
+      "comments": 28,
+      "source": "replicated.live"
+    },
+    {
+      "title": "The revenge of the philosophy majors",
+      "url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+      "score": 92,
       "comments": 138,
-      "source": "nwo.nl"
+      "source": "nytimes.com"
     },
     {
-      "title": "OpenWrt One \u2013 Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 735,
-      "comments": 280,
-      "source": "openwrt.org"
+      "title": "China sentences official to death for taking $325M in bribes",
+      "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+      "score": 158,
+      "comments": 177,
+      "source": "bbc.com"
     },
     {
-      "title": "CoMaps \u2013 FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "score": 676,
-      "comments": 167,
-      "source": "comaps.app"
+      "title": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 9,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Microsoft fire idTech team at Id software",
+      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "score": 369,
+      "comments": 368,
+      "source": "gamefromscratch.com"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -57,161 +155,62 @@
       "source": "9mothers.com"
     },
     {
-      "title": "Dua Lipa opens library for banned and censored books in Portugal",
-      "url": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
-      "score": 92,
-      "comments": 87,
-      "source": "euronews.com"
-    },
-    {
-      "title": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 308,
-      "comments": 112,
-      "source": "bradleywoolf.com"
-    },
-    {
-      "title": "The Family Keeping Watch over a 52-Year-Old Pot of Soup",
-      "url": "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115",
-      "score": 20,
-      "comments": 10,
-      "source": "wsj.com"
-    },
-    {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 573,
-      "comments": 358,
-      "source": "martinalderson.com"
-    },
-    {
-      "title": "Historic Photos of NASA's Cavernous Wind Tunnels",
-      "url": "https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/",
-      "score": 57,
-      "comments": 13,
-      "source": "theatlantic.com"
-    },
-    {
-      "title": "C++ Details of Asymmetric Fences",
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-      "score": 8,
-      "comments": 0,
-      "source": "nekrozqliphort.github.io"
-    },
-    {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "score": 206,
-      "comments": 67,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Microsoft Can Track Users via a Windows Device ID",
-      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-      "score": 204,
-      "comments": 91,
-      "source": "pcmag.com"
-    },
-    {
-      "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
-      "url": "https://whimfiles.com",
-      "score": 53,
-      "comments": 39,
-      "source": "whimfiles.com"
-    },
-    {
-      "title": "Dolosse \u2013 a South African invention used over the world",
-      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-      "score": 100,
-      "comments": 23,
-      "source": "thisbugslife.com"
-    },
-    {
-      "title": "The Art of Computer Programming by Donald E. Knuth",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-      "score": 97,
-      "comments": 29,
-      "source": "www-cs-faculty.stanford.edu"
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 557,
-      "comments": 342,
+      "title": "Show HN: Halo \u2013 open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "score": 7,
+      "comments": 1,
       "source": "github.com"
     },
     {
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 418,
-      "comments": 161,
-      "source": "anthropic.com"
+      "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
+      "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
+      "score": 15,
+      "comments": 0,
+      "source": "cccg.ca"
     },
     {
-      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
-      "score": 281,
-      "comments": 60,
-      "source": "ternlight-demo.vercel.app"
+      "title": "Amazon without the knockoffs",
+      "url": "https://knockoff.shopping/",
+      "score": 260,
+      "comments": 180,
+      "source": "knockoff.shopping"
     },
     {
-      "title": "Resetting Xbox",
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "score": 685,
-      "comments": 809,
-      "source": "news.xbox.com"
+      "title": "98% isn't much",
+      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "score": 401,
+      "comments": 263,
+      "source": "whynothugo.nl"
     },
     {
-      "title": "In Praise of Observational Evidence",
-      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
-      "score": 59,
-      "comments": 16,
-      "source": "asteriskmag.com"
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "score": 80,
+      "comments": 177,
+      "source": "dw.com"
     },
     {
-      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "score": 361,
-      "comments": 238,
-      "source": "lttlabs.com"
+      "title": "Decrypting View State Messages",
+      "url": "https://zeroed.tech/blog/decrypting-viewstate-messages/",
+      "score": 4,
+      "comments": 3,
+      "source": "zeroed.tech"
     },
     {
-      "title": "Not Dark Yet",
-      "url": "https://agoodhardstare.substack.com/p/not-dark-yet",
+      "title": "GitHub Freno: cooperative, highly available throttler service",
+      "url": "https://github.com/github/freno",
       "score": 23,
-      "comments": 1,
-      "source": "agoodhardstare.substack.com"
-    },
-    {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "score": 129,
-      "comments": 34,
-      "source": "kapa.ai"
-    },
-    {
-      "title": "Linux on the Atari Jaguar",
-      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "score": 172,
-      "comments": 57,
-      "source": "cakehonolulu.github.io"
-    },
-    {
-      "title": "Inkfield",
-      "url": "https://www.inkfield.studio",
-      "score": 43,
-      "comments": 14,
-      "source": "inkfield.studio"
-    },
-    {
-      "title": "Mark Zuckerberg's biggest legal nightmare yet could cost Meta $1.4T",
-      "url": "https://www.the-independent.com/tech/mark-zuckerberg-meta-fine-trillion-b3010281.html",
-      "score": 83,
-      "comments": 74,
-      "source": "the-independent.com"
+      "comments": 0,
+      "source": "github.com"
     }
   ],
   "security": [
+    {
+      "title": "Enforce zero data retention on Amazon Bedrock with Bedrock Projects and service control policies",
+      "url": "https://aws.amazon.com/blogs/security/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies/",
+      "date": "2026-07-07 18:18:52",
+      "author": "Rob Higareda"
+    },
     {
       "title": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
       "url": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/",
       "date": "2026-06-17 15:34:05",
       "author": "Chet Kapoor"
-    },
-    {
-      "title": "Threat tactic spotlight: Subdomain takeover",
-      "url": "https://aws.amazon.com/blogs/security/threat-tactic-spotlight-subdomain-takeover/",
-      "date": "2026-06-16 17:53:20",
-      "author": "Matt Gurr"
     }
   ]
 }
