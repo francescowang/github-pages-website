@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "What Do We Know About the Microplastics Inside Us?",
-      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
-      "score": 79,
-      "comments": 12,
-      "source": "e360.yale.edu"
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "score": 362,
+      "comments": 71,
+      "source": "apnews.com"
     },
     {
-      "title": "Chatto is now Open Source",
+      "title": "I Think I Have LLM Burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "score": 64,
+      "comments": 39,
+      "source": "alecscollon.com"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "score": 165,
+      "comments": 65,
+      "source": "openai.com"
+    },
+    {
+      "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 401,
-      "comments": 111,
+      "score": 762,
+      "comments": 203,
       "source": "hmans.dev"
+    },
+    {
+      "title": "Remote Attestation",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "score": 29,
+      "comments": 13,
+      "source": "liamcvw.com"
+    },
+    {
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "score": 274,
+      "comments": 136,
+      "source": "cloudflare.com"
     },
     {
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 309,
-      "comments": 70,
+      "score": 423,
+      "comments": 96,
       "source": "mistral.ai"
     },
     {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 1124,
-      "comments": 187,
-      "source": "tris.sherliker.net"
+      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
+      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+      "score": 14,
+      "comments": 3,
+      "source": "mhloppy.com"
     },
     {
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "score": 138,
-      "comments": 86,
-      "source": "cognition.com"
+      "title": "Unicode's transliteration rules are Turing-complete",
+      "url": "https://seriot.ch/computation/uts35/",
+      "score": 44,
+      "comments": 13,
+      "source": "seriot.ch"
     },
     {
       "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 54,
-      "comments": 22,
+      "score": 212,
+      "comments": 78,
       "source": "microsoft.github.io"
     },
     {
-      "title": "GPT\u2011Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 369,
-      "comments": 257,
-      "source": "openai.com"
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "score": 76,
+      "comments": 32,
+      "source": "tryai.dev"
+    },
+    {
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "score": 23,
+      "comments": 6,
+      "source": "mira-wm.com"
     },
     {
       "title": "Grok 4.5",
       "url": "https://x.ai/news/grok-4-5",
-      "score": 197,
-      "comments": 122,
+      "score": 487,
+      "comments": 632,
       "source": "x.ai"
     },
     {
-      "title": "Cloudflare Meerkat - Globally distributed consensus",
-      "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "score": 158,
-      "comments": 36,
-      "source": "blog.cloudflare.com"
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "score": 84,
+      "comments": 15,
+      "source": "github.com"
     },
     {
-      "title": "EU now one step away from reviving private message scanning rules",
-      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
-      "score": 165,
-      "comments": 52,
-      "source": "cyberinsider.com"
+      "title": "Show HN: Yamanote.fun \u2013 A complete soundscape for Tokyo's Yamanote line",
+      "url": "https://www.yamanote.fun/",
+      "score": 60,
+      "comments": 16,
+      "source": "yamanote.fun"
     },
     {
-      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "score": 184,
-      "comments": 87,
-      "source": "nvd.nist.gov"
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
+      "score": 300,
+      "comments": 118,
+      "source": "abeyk.com"
     },
     {
       "title": "A bug which affected only left handed users",
       "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
-      "score": 7,
-      "comments": 1,
+      "score": 92,
+      "comments": 44,
       "source": "shkspr.mobi"
     },
     {
-      "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide\u2013 Part 1",
-      "url": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
-      "score": 11,
-      "comments": 0,
-      "source": "medium.com"
+      "title": "GPT\u2011Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "score": 609,
+      "comments": 418,
+      "source": "openai.com"
     },
     {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "score": 468,
-      "comments": 178,
-      "source": "noma.security"
+      "title": "New Sweden: the US's long-lost 'secret' colony",
+      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+      "score": 57,
+      "comments": 9,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "score": 321,
+      "comments": 175,
+      "source": "bun.com"
     },
     {
       "title": "TypeScript 7",
       "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-      "score": 226,
-      "comments": 73,
+      "score": 483,
+      "comments": 188,
       "source": "devblogs.microsoft.com"
     },
     {
-      "title": "Show HN: Follow London Trains in 3D",
-      "url": "https://ride.nexttrain.london/",
-      "score": 97,
-      "comments": 43,
-      "source": "ride.nexttrain.london"
+      "title": "My road trip with the do-gooding cactus smugglers",
+      "url": "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers",
+      "score": 22,
+      "comments": 1,
+      "source": "economist.com"
     },
     {
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-      "score": 325,
-      "comments": 116,
-      "source": "gamesindustry.biz"
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 1309,
+      "comments": 209,
+      "source": "tris.sherliker.net"
     },
     {
-      "title": "TabFont \u2013 guitar tabs rendered as you type",
-      "url": "https://philatype.com/tabfont/",
-      "score": 48,
-      "comments": 14,
-      "source": "philatype.com"
-    },
-    {
-      "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
-      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
-      "score": 69,
-      "comments": 25,
-      "source": "flatpanelshd.com"
-    },
-    {
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-      "score": 257,
-      "comments": 213,
-      "source": "apple.com"
-    },
-    {
-      "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
-      "score": 138,
-      "comments": 17,
-      "source": "www3.nhk.or.jp"
+      "title": "Apache Shiro security framework releases 3.0.0",
+      "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
+      "score": 4,
+      "comments": 0,
+      "source": "shiro.apache.org"
     },
     {
       "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
       "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
-      "score": 4,
-      "comments": 0,
+      "score": 80,
+      "comments": 14,
       "source": "forum.openmandriva.org"
     },
     {
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-      "score": 316,
-      "comments": 213,
-      "source": "neil.computer"
-    },
-    {
-      "title": "NoiseLang: Where N = 5 is a Dirac delta",
-      "url": "https://manualmeida.dev/articles/noiselang/",
-      "score": 92,
-      "comments": 47,
-      "source": "manualmeida.dev"
-    },
-    {
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "url": "https://github.com/dekart-xyz/geosql",
-      "score": 108,
-      "comments": 13,
+      "title": "Show HN: Frugon \u2013 Find which LLM calls a cheaper model could handle (local, MIT)",
+      "url": "https://github.com/Rodiun/frugon",
+      "score": 14,
+      "comments": 2,
       "source": "github.com"
     },
     {
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 328,
-      "comments": 113,
-      "source": "kb.cert.org"
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "url": "https://blog.cloudflare.com/meerkat-introduction/",
+      "score": 226,
+      "comments": 46,
+      "source": "blog.cloudflare.com"
     },
     {
-      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-      "score": 317,
-      "comments": 42,
-      "source": "ocw.mit.edu"
+      "title": "Beyond Git: Real-Time Version Control for Godot \u2013 Lilith Duncan \u2013 GodotCon 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=CAJ_iIedx_I",
+      "score": 17,
+      "comments": 1,
+      "source": "youtube.com"
     },
     {
-      "title": "Copy That Floppy \u2013 Cambridge guide for preserving data from fragile floppy disks",
-      "url": "https://www.digipres.org/the-floppy-guide/",
-      "score": 165,
-      "comments": 63,
-      "source": "digipres.org"
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "score": 383,
+      "comments": 136,
+      "source": "gamesindustry.biz"
     },
     {
-      "title": "Ants: Who looks after the injured in a colony?",
-      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
-      "score": 98,
-      "comments": 47,
-      "source": "uni-wuerzburg.de"
-    },
-    {
-      "title": "Every postcard tells a story",
-      "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
-      "score": 30,
-      "comments": 21,
-      "source": "observer.co.uk"
+      "title": "I Built a Telegram Client for Pi",
+      "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
+      "score": 58,
+      "comments": 26,
+      "source": "npmjs.com"
     }
   ],
   "security": [
