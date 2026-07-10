@@ -1,74 +1,172 @@
 {
   "tech": [
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 643,
-      "comments": 444,
-      "source": "openai.com"
-    },
-    {
-      "title": "ChatGPT Work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "score": 233,
-      "comments": 98,
-      "source": "openai.com"
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "score": 54,
-      "comments": 25,
-      "source": "toot-books.pages.dev"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 656,
-      "comments": 243,
-      "source": "18words.com"
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 415,
+      "comments": 105,
+      "source": "github.com"
     },
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 687,
-      "comments": 350,
+      "score": 1024,
+      "comments": 496,
       "source": "patrick-breyer.de"
+    },
+    {
+      "title": "Focus",
+      "url": "https://boz.com/articles/focus",
+      "score": 29,
+      "comments": 10,
+      "source": "boz.com"
+    },
+    {
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1085,
+      "comments": 793,
+      "source": "openai.com"
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 842,
+      "comments": 288,
+      "source": "18words.com"
+    },
+    {
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "score": 310,
+      "comments": 118,
+      "source": "kotaku.com"
+    },
+    {
+      "title": "Star Just Ate a Planet, and It's Not Done Yet",
+      "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+      "score": 15,
+      "comments": 17,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "score": 136,
+      "comments": 52,
+      "source": "alexalejandre.com"
+    },
+    {
+      "title": "My Story of 3D Realms / Apogee Part I (2020)",
+      "url": "https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/",
+      "score": 37,
+      "comments": 1,
+      "source": "joesiegler.blog"
     },
     {
       "title": "Hy3",
       "url": "https://hy.tencent.com/research/hy3",
-      "score": 223,
-      "comments": 62,
+      "score": 398,
+      "comments": 87,
       "source": "hy.tencent.com"
     },
     {
-      "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
-      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-      "score": 96,
-      "comments": 52,
-      "source": "wired.com"
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
+      "score": 406,
+      "comments": 413,
+      "source": "github.com"
+    },
+    {
+      "title": "Triple Dragon Fractal (2020)",
+      "url": "https://paulbourke.net/fractals/tripledragon/",
+      "score": 17,
+      "comments": 3,
+      "source": "paulbourke.net"
+    },
+    {
+      "title": "No leap second will be introduced at the end of December 2026",
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "score": 244,
+      "comments": 184,
+      "source": "datacenter.iers.org"
+    },
+    {
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "score": 302,
+      "comments": 389,
+      "source": "mwi.westpoint.edu"
+    },
+    {
+      "title": "A road to Lisp: Why Lisp",
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "score": 119,
+      "comments": 119,
+      "source": "scotto.me"
+    },
+    {
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "score": 50,
+      "comments": 62,
+      "source": "ello.com"
+    },
+    {
+      "title": "Build your own vulnerability harness",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "score": 10,
+      "comments": 4,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "score": 140,
+      "comments": 31,
+      "source": "nahla.dev"
+    },
+    {
+      "title": "Launch HN: Context.dev (YC S26) \u2013 API to get structured data from any website",
+      "url": "https://www.context.dev",
+      "score": 74,
+      "comments": 55,
+      "source": "context.dev"
     },
     {
       "title": "A possible future for Damn Interesting",
       "url": "https://www.damninteresting.com/a-possible-future/",
-      "score": 137,
-      "comments": 12,
+      "score": 243,
+      "comments": 32,
       "source": "damninteresting.com"
     },
     {
-      "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
-      "url": "https://nahla.dev/blog/waitfree_queue/",
-      "score": 72,
-      "comments": 11,
-      "source": "nahla.dev"
+      "title": "Why American ambulance rides are so expensive",
+      "url": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "score": 101,
+      "comments": 138,
+      "source": "davidoks.blog"
     },
     {
-      "title": "TLS certificates for internal services done right",
-      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-      "score": 91,
-      "comments": 61,
-      "source": "tuxnet.dev"
+      "title": "Muse Spark 1.1",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "score": 329,
+      "comments": 174,
+      "source": "ai.meta.com"
+    },
+    {
+      "title": "Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule",
+      "url": "https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/",
+      "score": 8,
+      "comments": 1,
+      "source": "debasishg.github.io"
+    },
+    {
+      "title": "Patterncollider: Generate and explore quasiperiodic tiling patterns",
+      "url": "https://github.com/aatishb/patterncollider",
+      "score": 25,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
@@ -78,140 +176,48 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "score": 200,
-      "comments": 251,
-      "source": "mwi.westpoint.edu"
+      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "score": 282,
+      "comments": 165,
+      "source": "wired.com"
     },
     {
-      "title": "Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "score": 243,
-      "comments": 144,
-      "source": "ai.meta.com"
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "score": 190,
+      "comments": 113,
+      "source": "toot-books.pages.dev"
     },
     {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "score": 175,
-      "comments": 142,
-      "source": "datacenter.iers.org"
-    },
-    {
-      "title": "Launch HN: Context.dev (YC S26) \u2013 API to get structured data from any website",
-      "url": "https://www.context.dev",
-      "score": 48,
-      "comments": 39,
-      "source": "context.dev"
-    },
-    {
-      "title": "Opinionated and Easy Pi.dev Configuration",
+      "title": "Opinionated and easy Pi.dev configuration",
       "url": "https://lazypi.org/",
-      "score": 71,
-      "comments": 45,
+      "score": 115,
+      "comments": 62,
       "source": "lazypi.org"
     },
     {
-      "title": "How to Start a Ruby Meetup",
-      "url": "https://guides.rubyevents.org/meetups/",
-      "score": 18,
-      "comments": 4,
-      "source": "guides.rubyevents.org"
-    },
-    {
-      "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
-      "url": "https://tomesphere.com/atlas",
-      "score": 33,
-      "comments": 7,
-      "source": "tomesphere.com"
-    },
-    {
-      "title": "How should group chats work in decentralized systems?",
-      "url": "https://marindedic.com/groups/",
-      "score": 29,
-      "comments": 15,
-      "source": "marindedic.com"
-    },
-    {
-      "title": "Show HN: Analog Watch",
-      "url": "https://analog.watch",
-      "score": 72,
-      "comments": 64,
-      "source": "analog.watch"
-    },
-    {
-      "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-      "score": 257,
-      "comments": 174,
-      "source": "networkworld.com"
-    },
-    {
-      "title": "New open access book on history of computers and politics",
+      "title": "SimPolitics: America\u2019s quest to solve politics with computers",
       "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-      "score": 45,
-      "comments": 4,
+      "score": 84,
+      "comments": 14,
       "source": "mitpress.mit.edu"
     },
     {
-      "title": "AI changes the economics of software rewrites",
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
-      "score": 78,
-      "comments": 85,
-      "source": "thetruthasiseeitnow.com"
-    },
-    {
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "score": 271,
-      "comments": 122,
-      "source": "connectsci.au"
-    },
-    {
-      "title": "How to Follow a Drummer",
-      "url": "https://drummate.app/blog/how-to-follow-a-drummer",
-      "score": 9,
-      "comments": 10,
-      "source": "drummate.app"
-    },
-    {
-      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that's now public",
-      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "score": 51,
-      "comments": 74,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "What's slowing down the AI buildout",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "score": 48,
-      "comments": 105,
-      "source": "worksinprogress.news"
-    },
-    {
-      "title": "Show HN: Devthropology \u2013 Better Insights for GitHub Repos",
-      "url": "https://devthropology.com/demo",
-      "score": 24,
-      "comments": 6,
-      "source": "devthropology.com"
-    },
-    {
-      "title": "Why the Next Era of AI Is About Infrastructure, Not Just Models",
-      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-      "score": 5,
-      "comments": 0,
-      "source": "blog.mozilla.ai"
-    },
-    {
-      "title": "Auditory and spontaneous movement responses to music over first postnatal year",
-      "url": "https://elifesciences.org/articles/107088",
-      "score": 17,
-      "comments": 2,
-      "source": "elifesciences.org"
+      "title": "TLS certificates for internal services done right",
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "score": 134,
+      "comments": 97,
+      "source": "tuxnet.dev"
     }
   ],
   "security": [
+    {
+      "title": "Introducing OAuth Support for AWS MCP Server",
+      "url": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/",
+      "date": "2026-07-09 23:43:47",
+      "author": "Vaibhav Chowla"
+    },
     {
       "title": "Designing for the inevitable: System prompt leakage and mitigations in generative AI applications",
       "url": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/",
       "date": "2026-06-22 15:53:05",
       "author": "Meriem SMACHE"
-    },
-    {
-      "title": "Accelerate security investigations with Kiro CLI",
-      "url": "https://aws.amazon.com/blogs/security/accelerate-security-investigations-with-kiro-cli/",
-      "date": "2026-06-18 19:24:30",
-      "author": "Sibasankar Behera"
     }
   ]
 }
