@@ -1,67 +1,137 @@
 {
   "tech": [
     {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "score": 49,
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 241,
+      "comments": 86,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "score": 67,
+      "comments": 18,
+      "source": "cdn.openai.com"
+    },
+    {
+      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "score": 86,
+      "comments": 54,
+      "source": "smithsonianmag.com"
+    },
+    {
+      "title": "The tech of 'Terminator 2' \u2013 an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "score": 78,
       "comments": 36,
-      "source": "unstack.io"
+      "source": "vfxblog.com"
+    },
+    {
+      "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "score": 14,
+      "comments": 2,
+      "source": "casp.ac"
+    },
+    {
+      "title": "War Atlas: An interactive cartography of every named war in human history",
+      "url": "https://waratlas.org",
+      "score": 26,
+      "comments": 9,
+      "source": "waratlas.org"
+    },
+    {
+      "title": "A Love Letter to Flashcards",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "score": 93,
+      "comments": 51,
+      "source": "lesleylai.info"
     },
     {
       "title": "Late Bronze Age Collapse",
       "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 86,
-      "comments": 27,
+      "score": 254,
+      "comments": 164,
       "source": "acoup.blog"
     },
     {
-      "title": "Punk, or why I don't stream anymore",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html",
-      "score": 45,
-      "comments": 12,
-      "source": "geohot.github.io"
+      "title": "Combustion Engine Web-Based Simulator",
+      "url": "https://combustionlab.net",
+      "score": 30,
+      "comments": 10,
+      "source": "combustionlab.net"
     },
     {
-      "title": "Successful Companies Go Blind",
-      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-      "score": 10,
-      "comments": 0,
-      "source": "ianreppel.org"
+      "title": "Lost city discovered beneath Egypt's desert with ancient church",
+      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+      "score": 101,
+      "comments": 41,
+      "source": "dailymail.com"
     },
     {
       "title": "Good Tools Are Invisible",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 96,
-      "comments": 66,
+      "score": 238,
+      "comments": 127,
       "source": "gingerbill.org"
     },
     {
-      "title": "Scarf has moved away from Haskell",
-      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "score": 16,
-      "comments": 7,
-      "source": "avi.press"
-    },
-    {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1408,
-      "comments": 986,
-      "source": "openai.com"
-    },
-    {
-      "title": "In Emacs, Everything Looks Like a Service",
-      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "score": 94,
+      "title": "Successful Companies Go Blind",
+      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+      "score": 136,
       "comments": 52,
-      "source": "yummymelon.com"
+      "source": "ianreppel.org"
+    },
+    {
+      "title": "Write code like a human will maintain it",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "score": 269,
+      "comments": 229,
+      "source": "unstack.io"
+    },
+    {
+      "title": "New York City to become first in US to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "score": 43,
+      "comments": 10,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "url": "https://www.fadingmaize.com",
+      "score": 30,
+      "comments": 42,
+      "source": "fadingmaize.com"
+    },
+    {
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+      "score": 23,
+      "comments": 26,
+      "source": "microcenter.com"
+    },
+    {
+      "title": "Computation as a Universal and Fundamental Concept",
+      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "score": 39,
+      "comments": 37,
+      "source": "ergo.org"
     },
     {
       "title": "The mathematical secrets of Barcelona's Sagrada Familia",
       "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-      "score": 43,
-      "comments": 8,
+      "score": 99,
+      "comments": 26,
       "source": "mappingignorance.org"
+    },
+    {
+      "title": "In Emacs, Everything Looks Like a Service",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "score": 145,
+      "comments": 82,
+      "source": "yummymelon.com"
     },
     {
       "title": "Laylo (YC S20) Is Hiring a Head of Finance",
@@ -71,140 +141,69 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 770,
-      "comments": 191,
+      "title": "Alternate Clock Designs and Time Systems",
+      "url": "https://serialc.github.io/altClocks/",
+      "score": 54,
+      "comments": 32,
+      "source": "serialc.github.io"
+    },
+    {
+      "title": "The Annotated JEPA",
+      "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
+      "score": 38,
+      "comments": 6,
+      "source": "elonlit.com"
+    },
+    {
+      "title": "Show HN: Runloom \u2013 Go-style coroutines for Python free-threaded",
+      "url": "https://github.com/robertsdotpm/runloom",
+      "score": 38,
+      "comments": 15,
       "source": "github.com"
     },
     {
       "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
       "url": "https://ec.europa.eu/commission/presscorner/home/en",
-      "score": 113,
-      "comments": 85,
+      "score": 218,
+      "comments": 148,
       "source": "ec.europa.eu"
     },
     {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 722,
-      "comments": 271,
-      "source": "kotaku.com"
+      "title": "How RCA Victor sold Sound Service to classrooms in 1939",
+      "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
+      "score": 17,
+      "comments": 5,
+      "source": "pncnmnp.github.io"
     },
     {
-      "title": "Show HN: Runloom \u2013 Go-style coroutines for Python free-threaded",
-      "url": "https://github.com/robertsdotpm/runloom",
-      "score": 5,
-      "comments": 1,
-      "source": "github.com"
+      "title": "Anyone else get a vague GitHub shakedown notice?",
+      "url": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
+      "score": 43,
+      "comments": 38,
+      "source": "lists.osgeo.org"
     },
     {
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 132,
-      "comments": 179,
+      "score": 182,
+      "comments": 262,
       "source": "macrumors.com"
-    },
-    {
-      "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
-      "url": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/",
-      "score": 47,
-      "comments": 17,
-      "source": "benjamintoll.com"
-    },
-    {
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "score": 149,
-      "comments": 154,
-      "source": "nevo-project.epfl.ch"
-    },
-    {
-      "title": "ActivityPub over ATProto",
-      "url": "https://berjon.com/ap-at/",
-      "score": 8,
-      "comments": 2,
-      "source": "berjon.com"
     },
     {
       "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
       "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 304,
-      "comments": 153,
+      "score": 362,
+      "comments": 203,
       "source": "alexalejandre.com"
-    },
-    {
-      "title": "Ancient Coins: What About Spartan Coins?",
-      "url": "https://coinweek.com/ancient-spartan-coins/",
-      "score": 5,
-      "comments": 1,
-      "source": "coinweek.com"
-    },
-    {
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
-      "score": 521,
-      "comments": 106,
-      "source": "hy.tencent.com"
-    },
-    {
-      "title": "Proton AG Services is currently experiencing some issues",
-      "url": "https://status.proton.me/incidents/01lxtcq155lc",
-      "score": 11,
-      "comments": 7,
-      "source": "status.proton.me"
-    },
-    {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1510,
-      "comments": 751,
-      "source": "patrick-breyer.de"
-    },
-    {
-      "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
-      "url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
-      "score": 25,
-      "comments": 21,
-      "source": "simpleflying.com"
-    },
-    {
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "score": 416,
-      "comments": 552,
-      "source": "mwi.westpoint.edu"
-    },
-    {
-      "title": "A road to Lisp: Why Lisp",
-      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
-      "score": 267,
-      "comments": 239,
-      "source": "scotto.me"
-    },
-    {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "score": 302,
-      "comments": 231,
-      "source": "datacenter.iers.org"
-    },
-    {
-      "title": "Building a real-time AI tutor for 5-year-olds",
-      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "score": 114,
-      "comments": 225,
-      "source": "ello.com"
-    },
-    {
-      "title": "Common prefix skipping, adaptive sort",
-      "url": "http://smalldatum.blogspot.com/2026/01/common-prefix-skipping-adaptive-sort.html",
-      "score": 38,
-      "comments": 4,
-      "source": "smalldatum.blogspot.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS designated as a critical third party to the UK financial sector",
+      "url": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/",
+      "date": "2026-07-10 16:15:19",
+      "author": "Michael Jefferson"
+    },
     {
       "title": "Introducing OAuth Support for AWS MCP Server",
       "url": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/",
@@ -258,12 +257,6 @@
       "url": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/",
       "date": "2026-06-24 20:01:47",
       "author": "Swara Gandhi"
-    },
-    {
-      "title": "Prevent data exfiltration: AWS egress controls for cloud workloads",
-      "url": "https://aws.amazon.com/blogs/security/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/",
-      "date": "2026-06-22 15:53:05",
-      "author": "Meriem SMACHE"
     }
   ]
 }
