@@ -1,200 +1,207 @@
 {
   "tech": [
     {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "score": 105,
+      "comments": 40,
+      "source": "brown.edu"
+    },
+    {
       "title": "QuadRF can spot drones and see WiFi through my wall",
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 241,
-      "comments": 86,
+      "score": 460,
+      "comments": 174,
       "source": "jeffgeerling.com"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 568,
+      "comments": 270,
+      "source": "9to5mac.com"
+    },
+    {
+      "title": "An iroh powered smart fan",
+      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "score": 24,
+      "comments": 1,
+      "source": "iroh.computer"
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 67,
-      "comments": 18,
+      "score": 358,
+      "comments": 290,
       "source": "cdn.openai.com"
     },
     {
-      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "score": 86,
-      "comments": 54,
-      "source": "smithsonianmag.com"
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "score": 92,
+      "comments": 82,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "score": 46,
+      "comments": 14,
+      "source": "mimo.xiaomi.com"
+    },
+    {
+      "title": "Combustion engine web-based simulator",
+      "url": "https://combustionlab.net",
+      "score": 120,
+      "comments": 53,
+      "source": "combustionlab.net"
+    },
+    {
+      "title": "The footgun of right-to-left decorative characters",
+      "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
+      "score": 4,
+      "comments": 0,
+      "source": "blog.alexbeals.com"
+    },
+    {
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "score": 79,
+      "comments": 261,
+      "source": "zdnet.com"
+    },
+    {
+      "title": "New York City to to ban deceptive subscription practices",
+      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "score": 420,
+      "comments": 218,
+      "source": "theguardian.com"
     },
     {
       "title": "The tech of 'Terminator 2' \u2013 an oral history (2017)",
       "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "score": 78,
-      "comments": 36,
+      "score": 168,
+      "comments": 67,
       "source": "vfxblog.com"
-    },
-    {
-      "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "score": 14,
-      "comments": 2,
-      "source": "casp.ac"
-    },
-    {
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "url": "https://waratlas.org",
-      "score": 26,
-      "comments": 9,
-      "source": "waratlas.org"
-    },
-    {
-      "title": "A Love Letter to Flashcards",
-      "url": "https://lesleylai.info/en/flashcards/",
-      "score": 93,
-      "comments": 51,
-      "source": "lesleylai.info"
-    },
-    {
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 254,
-      "comments": 164,
-      "source": "acoup.blog"
-    },
-    {
-      "title": "Combustion Engine Web-Based Simulator",
-      "url": "https://combustionlab.net",
-      "score": 30,
-      "comments": 10,
-      "source": "combustionlab.net"
-    },
-    {
-      "title": "Lost city discovered beneath Egypt's desert with ancient church",
-      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
-      "score": 101,
-      "comments": 41,
-      "source": "dailymail.com"
     },
     {
       "title": "Good Tools Are Invisible",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 238,
-      "comments": 127,
+      "score": 364,
+      "comments": 172,
       "source": "gingerbill.org"
     },
     {
-      "title": "Successful Companies Go Blind",
-      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-      "score": 136,
-      "comments": 52,
-      "source": "ianreppel.org"
+      "title": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "score": 327,
+      "comments": 227,
+      "source": "acoup.blog"
     },
     {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "score": 269,
-      "comments": 229,
-      "source": "unstack.io"
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "score": 155,
+      "comments": 152,
+      "source": "ai-2040.com"
     },
     {
-      "title": "New York City to become first in US to ban deceptive subscription practices",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "score": 43,
-      "comments": 10,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "url": "https://www.fadingmaize.com",
-      "score": 30,
-      "comments": 42,
-      "source": "fadingmaize.com"
-    },
-    {
-      "title": "Hands-On with the AMD Ryzen AI Halo",
-      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
-      "score": 23,
-      "comments": 26,
-      "source": "microcenter.com"
-    },
-    {
-      "title": "Computation as a Universal and Fundamental Concept",
-      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "score": 39,
-      "comments": 37,
-      "source": "ergo.org"
-    },
-    {
-      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
-      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-      "score": 99,
-      "comments": 26,
-      "source": "mappingignorance.org"
-    },
-    {
-      "title": "In Emacs, Everything Looks Like a Service",
-      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "score": 145,
-      "comments": 82,
-      "source": "yummymelon.com"
-    },
-    {
-      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
-      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
+      "title": "Moss (YC F25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Alternate Clock Designs and Time Systems",
+      "title": "I've been building this alone for months. Roast it before I lose any more time",
+      "url": "https://peakd.io",
+      "score": 6,
+      "comments": 0,
+      "source": "peakd.io"
+    },
+    {
+      "title": "Computation as a universal and fundamental concept",
+      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "score": 88,
+      "comments": 73,
+      "source": "ergo.org"
+    },
+    {
+      "title": "Alternate clock designs and time systems",
       "url": "https://serialc.github.io/altClocks/",
-      "score": 54,
-      "comments": 32,
+      "score": 103,
+      "comments": 58,
       "source": "serialc.github.io"
     },
     {
-      "title": "The Annotated JEPA",
-      "url": "https://elonlit.com/scrivings/the-annotated-jepa/",
-      "score": 38,
-      "comments": 6,
-      "source": "elonlit.com"
+      "title": "FreeCAD in the Browser",
+      "url": "https://magik.net/freecad/",
+      "score": 26,
+      "comments": 17,
+      "source": "magik.net"
     },
     {
-      "title": "Show HN: Runloom \u2013 Go-style coroutines for Python free-threaded",
-      "url": "https://github.com/robertsdotpm/runloom",
-      "score": 38,
-      "comments": 15,
+      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+      "score": 82,
+      "comments": 98,
+      "source": "avi.press"
+    },
+    {
+      "title": "War Atlas: An interactive cartography of every named war in human history",
+      "url": "https://waratlas.org",
+      "score": 118,
+      "comments": 58,
+      "source": "waratlas.org"
+    },
+    {
+      "title": "In Emacs, everything looks like a service",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "score": 235,
+      "comments": 100,
+      "source": "yummymelon.com"
+    },
+    {
+      "title": "Show HN: Wyrm \u2013 Solve algebra by touch, built on an open-source soundness engine",
+      "url": "https://github.com/dicroce/wyrm_math",
+      "score": 58,
+      "comments": 9,
       "source": "github.com"
     },
     {
-      "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
-      "url": "https://ec.europa.eu/commission/presscorner/home/en",
-      "score": 218,
-      "comments": 148,
-      "source": "ec.europa.eu"
+      "title": "Preemption is GC for memory reordering (2019)",
+      "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+      "score": 10,
+      "comments": 1,
+      "source": "pvk.ca"
     },
     {
-      "title": "How RCA Victor sold Sound Service to classrooms in 1939",
-      "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
-      "score": 17,
-      "comments": 5,
-      "source": "pncnmnp.github.io"
+      "title": "Lost city discovered beneath Egypt's desert with ancient church",
+      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+      "score": 157,
+      "comments": 74,
+      "source": "dailymail.com"
     },
     {
-      "title": "Anyone else get a vague GitHub shakedown notice?",
-      "url": "https://lists.osgeo.org/pipermail/qgis-developer/2026-July/068430.html",
-      "score": 43,
-      "comments": 38,
-      "source": "lists.osgeo.org"
+      "title": "A love letter to flashcards",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "score": 128,
+      "comments": 81,
+      "source": "lesleylai.info"
     },
     {
-      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "score": 182,
-      "comments": 262,
-      "source": "macrumors.com"
+      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 38,
+      "comments": 9,
+      "source": "nebusec.ai"
     },
     {
-      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-      "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "score": 362,
-      "comments": 203,
-      "source": "alexalejandre.com"
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "score": 156,
+      "comments": 126,
+      "source": "smithsonianmag.com"
     }
   ],
   "security": [
