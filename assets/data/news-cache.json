@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "Networking and the Internet, from First Principles",
-      "url": "https://fazamhd.com/mental-models/networking/",
-      "score": 38,
-      "comments": 13,
-      "source": "fazamhd.com"
-    },
-    {
-      "title": "Your code is fast \u2013 if you're lucky",
-      "url": "https://tiki.li/blog/lucky_code.html",
-      "score": 27,
-      "comments": 1,
-      "source": "tiki.li"
-    },
-    {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 297,
-      "comments": 116,
-      "source": "brown.edu"
-    },
-    {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 628,
-      "comments": 207,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "Google Search lets creators know more about their reach",
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "score": 35,
-      "comments": 17,
-      "source": "theverge.com"
-    },
-    {
-      "title": "Otary \u2013 Image and Geometry Python Library Now Has Tutorials",
-      "url": "https://alexandrepoupeau.com/otary/learn/",
-      "score": 46,
-      "comments": 1,
-      "source": "alexandrepoupeau.com"
-    },
-    {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 1217,
-      "comments": 640,
-      "source": "9to5mac.com"
-    },
-    {
-      "title": "Show HN: HTMLDrive \u2013 serve HTML files from your Google Drive",
-      "url": "https://html-drive.com",
-      "score": 11,
-      "comments": 8,
-      "source": "html-drive.com"
-    },
-    {
-      "title": "An iroh powered smart fan",
-      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-      "score": 126,
+      "title": "AI 2040 and the Cult of Intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "score": 76,
       "comments": 35,
-      "source": "iroh.computer"
+      "source": "geohot.github.io"
     },
     {
-      "title": "An update on residential proxies and the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "score": 234,
-      "comments": 239,
-      "source": "lwn.net"
+      "title": "Who manages the agents?",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "score": 21,
+      "comments": 6,
+      "source": "off-policy.com"
     },
     {
-      "title": "The mask that compiles to nothing: how HotSpots JIT learned to reason about bits",
-      "url": "https://questdb.com/blog/jvm-jit-known-bits/",
-      "score": 36,
-      "comments": 0,
-      "source": "questdb.com"
+      "title": "Prefer Strict Tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "score": 28,
+      "comments": 7,
+      "source": "evanhahn.com"
     },
     {
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "score": 217,
-      "comments": 718,
-      "source": "zdnet.com"
-    },
-    {
-      "title": "The vintage beauty of Soviet control rooms (2018)",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "score": 142,
-      "comments": 46,
-      "source": "designyoutrust.com"
-    },
-    {
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 479,
-      "comments": 217,
-      "source": "gingerbill.org"
-    },
-    {
-      "title": "AI 2040: Plan A",
-      "url": "https://ai-2040.com/",
-      "score": 305,
-      "comments": 319,
-      "source": "ai-2040.com"
-    },
-    {
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 385,
-      "comments": 266,
-      "source": "acoup.blog"
-    },
-    {
-      "title": "Silent speech with ultrasound",
-      "url": "https://alephneuro.com/blog/silent-speech",
-      "score": 70,
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 118,
       "comments": 15,
-      "source": "alephneuro.com"
+      "source": "clickhouse.com"
     },
     {
-      "title": "The tech of 'Terminator 2' \u2013 an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "score": 228,
-      "comments": 79,
-      "source": "vfxblog.com"
+      "title": "Modern Decor May Be Straining People's Brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "score": 98,
+      "comments": 80,
+      "source": "studyfinds.com"
     },
     {
-      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-      "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "score": 169,
-      "comments": 203,
-      "source": "avi.press"
+      "title": "How to Hide from Killer Drones",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "score": 10,
+      "comments": 5,
+      "source": "economist.com"
     },
     {
-      "title": "Combustion engine web-based simulator",
-      "url": "https://combustionlab.net",
-      "score": 189,
-      "comments": 69,
-      "source": "combustionlab.net"
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "score": 54,
+      "comments": 14,
+      "source": "math.ucdavis.edu"
     },
     {
-      "title": "Alternate clock designs and time systems",
-      "url": "https://serialc.github.io/altClocks/",
-      "score": 165,
-      "comments": 86,
-      "source": "serialc.github.io"
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 17,
+      "comments": 2,
+      "source": "io-fund.com"
     },
     {
-      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-      "score": 93,
-      "comments": 37,
-      "source": "mimo.xiaomi.com"
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "score": 22,
+      "comments": 8,
+      "source": "jamesdrandall.com"
     },
     {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "score": 207,
-      "comments": 155,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 481,
-      "comments": 392,
-      "source": "cdn.openai.com"
-    },
-    {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 868,
-      "comments": 215,
-      "source": "github.com"
-    },
-    {
-      "title": "New York City to ban deceptive subscription practices",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "score": 559,
-      "comments": 275,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "A love letter to flashcards",
-      "url": "https://lesleylai.info/en/flashcards/",
-      "score": 163,
-      "comments": 98,
-      "source": "lesleylai.info"
-    },
-    {
-      "title": "Moss (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Computation as a universal and fundamental concept",
-      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "score": 143,
-      "comments": 105,
-      "source": "ergo.org"
+      "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
+      "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+      "score": 72,
+      "comments": 42,
+      "source": "smithsonianmag.com"
     },
     {
-      "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "score": 84,
+      "comments": 26,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Show HN: Orbit \u2013 AR satellite tracker, watch 15k+ objects",
+      "url": "https://nagylukas.github.io/orbit.html",
+      "score": 8,
+      "comments": 1,
+      "source": "nagylukas.github.io"
+    },
+    {
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
+      "score": 43,
+      "comments": 18,
+      "source": "shipthatcode.com"
+    },
+    {
+      "title": "BLISS",
+      "url": "https://en.wikipedia.org/wiki/BLISS",
+      "score": 20,
+      "comments": 2,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "score": 359,
+      "comments": 159,
+      "source": "brown.edu"
+    },
+    {
+      "title": "Show HN: Earth Game \u2013 An offline CLI for turning life goals into quests",
+      "url": "https://github.com/skorotkiewicz/earth-game",
+      "score": 6,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 710,
+      "comments": 221,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
+      "url": "https://amber-lang.com/",
+      "score": 25,
+      "comments": 17,
+      "source": "amber-lang.com"
+    },
+    {
+      "title": "Google Search lets creators know more about their reach",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "score": 78,
+      "comments": 35,
+      "source": "theverge.com"
+    },
+    {
+      "title": "Reverse centaurs are the answer to the AI paradox",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "score": 32,
+      "comments": 5,
+      "source": "pluralistic.net"
+    },
+    {
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
       "score": 7,
       "comments": 1,
-      "source": "nytimes.com"
+      "source": "timeseriesofindia.com"
+    },
+    {
+      "title": "Earendel (Astronomical Object)",
+      "url": "https://en.wikipedia.org/wiki/Earendel_(astronomical_object)",
+      "score": 20,
+      "comments": 3,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Show HN: Reame \u2013 a CPU inference server that gets faster as it runs",
+      "url": "https://github.com/swellweb/reame",
+      "score": 5,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 1466,
+      "comments": 818,
+      "source": "9to5mac.com"
+    },
+    {
+      "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+      "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+      "score": 77,
+      "comments": 37,
+      "source": "languagelog.ldc.upenn.edu"
+    },
+    {
+      "title": "Book: RISC-V System-on-Chip Design",
+      "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+      "score": 73,
+      "comments": 29,
+      "source": "amazon.com"
+    },
+    {
+      "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
+      "url": "https://www.atariarchives.org/deli/",
+      "score": 27,
+      "comments": 2,
+      "source": "atariarchives.org"
+    },
+    {
+      "title": "Otary \u2013 Image and Geometry Python Library Now Has Tutorials",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "score": 78,
+      "comments": 1,
+      "source": "alexandrepoupeau.com"
     }
   ],
   "security": [
