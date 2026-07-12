@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 225,
-      "comments": 49,
-      "source": "iroh.computer"
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "score": 85,
+      "comments": 16,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "Yt-Dlp Sequence Diagrams",
+      "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+      "score": 34,
+      "comments": 3,
+      "source": "app.ilograph.com"
+    },
+    {
+      "title": "Understanding the Odin Programming Language",
+      "url": "https://odinbook.com/",
+      "score": 16,
+      "comments": 0,
+      "source": "odinbook.com"
+    },
+    {
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "url": "https://dakra.github.io/ghostel/",
+      "score": 61,
+      "comments": 1,
+      "source": "dakra.github.io"
+    },
+    {
+      "title": "Vint Cerf, a \u201cfather of the Internet\u201d, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "score": 155,
+      "comments": 91,
+      "source": "techcrunch.com"
     },
     {
       "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
       "url": "https://github.com/cosmtrek/mindwalk",
-      "score": 12,
-      "comments": 1,
+      "score": 97,
+      "comments": 45,
       "source": "github.com"
     },
     {
-      "title": "The 'Father of the Internet' is finally retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 33,
-      "comments": 10,
-      "source": "techcrunch.com"
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 282,
+      "comments": 65,
+      "source": "iroh.computer"
     },
     {
-      "title": "Text art tools",
-      "url": "https://hlnet.notion.site/text-art-tools",
-      "score": 26,
-      "comments": 6,
-      "source": "hlnet.notion.site"
+      "title": "Protobuf-py: Protobuf for Python, without compromises",
+      "url": "https://buf.build/blog/protobuf-py",
+      "score": 76,
+      "comments": 16,
+      "source": "buf.build"
+    },
+    {
+      "title": "Xbox 'OG' Adventures",
+      "url": "https://mamoniem.com/xbox-og-adventures/",
+      "score": 15,
+      "comments": 0,
+      "source": "mamoniem.com"
+    },
+    {
+      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
+      "score": 94,
+      "comments": 80,
+      "source": "english.elpais.com"
+    },
+    {
+      "title": "Ditching Zotero for a Text File",
+      "url": "https://atthis.link/blog/2026/57207.html",
+      "score": 8,
+      "comments": 1,
+      "source": "atthis.link"
+    },
+    {
+      "title": "Datacentres drive up big tech's carbon emissions to a third of those of France",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "score": 40,
+      "comments": 34,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Handsum: An LQIP Image File Format",
+      "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+      "score": 31,
+      "comments": 1,
+      "source": "nigeltao.github.io"
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 298,
+      "comments": 118,
+      "source": "io-fund.com"
+    },
+    {
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "score": 182,
+      "comments": 50,
+      "source": "thebeach.dev"
     },
     {
       "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
-      "score": 251,
-      "comments": 107,
+      "score": 290,
+      "comments": 131,
       "source": "antjs.org"
     },
     {
       "title": "RISCBoy is an open-source portable games console, designed from scratch",
       "url": "https://github.com/Wren6991/RISCBoy",
-      "score": 130,
-      "comments": 18,
+      "score": 166,
+      "comments": 21,
       "source": "github.com"
     },
     {
-      "title": "An agent in 100 lines of Lisp",
-      "url": "https://thebeach.dev/posts/lisp-agent/",
-      "score": 127,
-      "comments": 14,
-      "source": "thebeach.dev"
-    },
-    {
-      "title": "Protobuf-py: Protobuf for Python, without compromises",
-      "url": "https://buf.build/blog/protobuf-py",
-      "score": 15,
-      "comments": 1,
-      "source": "buf.build"
-    },
-    {
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 244,
-      "comments": 82,
-      "source": "io-fund.com"
+      "title": "Text art tools",
+      "url": "https://hlnet.notion.site/text-art-tools",
+      "score": 65,
+      "comments": 19,
+      "source": "hlnet.notion.site"
     },
     {
       "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
       "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-      "score": 61,
-      "comments": 16,
+      "score": 85,
+      "comments": 29,
       "source": "triapul.cz"
+    },
+    {
+      "title": "Fibonacci's Real Mathematical Legacy",
+      "url": "https://blogs.nature.com/aviewfromthebridge/2017/04/20/fibonaccis-mathematical-legacy/",
+      "score": 16,
+      "comments": 5,
+      "source": "blogs.nature.com"
     },
     {
       "title": "EF Core 11 makes your split queries faster",
       "url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
-      "score": 34,
-      "comments": 5,
+      "score": 52,
+      "comments": 25,
       "source": "steven-giesel.com"
-    },
-    {
-      "title": "Jellyfish Undersea Roundabout",
-      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-      "score": 33,
-      "comments": 4,
-      "source": "visitfaroeislands.com"
     },
     {
       "title": "UPI: Anatomy of a Payment Transaction",
       "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "score": 174,
-      "comments": 63,
+      "score": 212,
+      "comments": 94,
       "source": "timeseriesofindia.com"
     },
     {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 203,
-      "comments": 44,
-      "source": "clickhouse.com"
-    },
-    {
-      "title": "The Energetic Costs of Cellular Computation (2012)",
-      "url": "https://arxiv.org/abs/1203.5426",
-      "score": 20,
-      "comments": 1,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "A pure scheme web programming tool",
-      "url": "https://goeteia.dev",
-      "score": 86,
-      "comments": 20,
-      "source": "goeteia.dev"
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "score": 220,
+      "comments": 220,
+      "source": "studyfinds.com"
     },
     {
       "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
       "url": "https://arxiv.org/abs/2607.07267",
-      "score": 88,
-      "comments": 13,
+      "score": 112,
+      "comments": 18,
       "source": "arxiv.org"
     },
     {
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "score": 64,
-      "comments": 100,
-      "source": "npr.org"
-    },
-    {
-      "title": "Unexpected Solidlike Fracture in Simple Liquids",
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "score": 85,
-      "comments": 44,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-      "score": 51,
-      "comments": 22,
-      "source": "mrzk.io"
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 223,
+      "comments": 53,
+      "source": "clickhouse.com"
     },
     {
       "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
       "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "score": 113,
-      "comments": 63,
+      "score": 129,
+      "comments": 69,
       "source": "math.ucdavis.edu"
     },
     {
-      "title": "Prefer strict tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 272,
-      "comments": 130,
-      "source": "evanhahn.com"
+      "title": "Jellyfish Undersea Roundabout",
+      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+      "score": 58,
+      "comments": 20,
+      "source": "visitfaroeislands.com"
     },
     {
       "title": "A dock that wakes up reliably",
       "url": "https://fabiensanglard.net/tb4/index.html",
-      "score": 68,
-      "comments": 42,
+      "score": 92,
+      "comments": 54,
       "source": "fabiensanglard.net"
     },
     {
-      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-      "score": 127,
-      "comments": 14,
-      "source": "github.com"
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "score": 123,
+      "comments": 272,
+      "source": "npr.org"
     },
     {
-      "title": "A Erlang style pure Scheme Webserver and further",
-      "url": "https://igropyr.com",
-      "score": 59,
-      "comments": 6,
-      "source": "igropyr.com"
-    },
-    {
-      "title": "Optimization Solver as a Service",
-      "url": "https://www.quicopt.com/developer/getting-started/",
-      "score": 34,
-      "comments": 27,
-      "source": "quicopt.com"
-    },
-    {
-      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "url": "https://shipthatcode.com",
-      "score": 162,
-      "comments": 43,
-      "source": "shipthatcode.com"
-    },
-    {
-      "title": "How Doctors die. It\u2019s not like the rest of us (2016)",
-      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-      "score": 149,
-      "comments": 82,
-      "source": "archive.cancerworld.net"
-    },
-    {
-      "title": "Why Write Code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
-      "score": 43,
-      "comments": 27,
-      "source": "softwaredoug.com"
-    },
-    {
-      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
-      "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
-      "score": 75,
-      "comments": 23,
-      "source": "abcnews.com"
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "score": 312,
+      "comments": 160,
+      "source": "evanhahn.com"
     }
   ],
   "security": [
