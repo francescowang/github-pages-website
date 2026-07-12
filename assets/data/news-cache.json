@@ -3,212 +3,212 @@
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
       "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 102,
-      "comments": 26,
+      "score": 225,
+      "comments": 49,
       "source": "iroh.computer"
     },
     {
-      "title": "A dock that wakes up reliably",
-      "url": "https://fabiensanglard.net/tb4/index.html",
-      "score": 25,
-      "comments": 19,
-      "source": "fabiensanglard.net"
+      "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "score": 12,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "The 'Father of the Internet' is finally retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "score": 33,
+      "comments": 10,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Text art tools",
+      "url": "https://hlnet.notion.site/text-art-tools",
+      "score": 26,
+      "comments": 6,
+      "source": "hlnet.notion.site"
     },
     {
       "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
-      "score": 186,
-      "comments": 81,
+      "score": 251,
+      "comments": 107,
       "source": "antjs.org"
-    },
-    {
-      "title": "A pure scheme web programming tool",
-      "url": "https://goeteia.dev",
-      "score": 16,
-      "comments": 8,
-      "source": "goeteia.dev"
     },
     {
       "title": "RISCBoy is an open-source portable games console, designed from scratch",
       "url": "https://github.com/Wren6991/RISCBoy",
-      "score": 64,
-      "comments": 17,
+      "score": 130,
+      "comments": 18,
       "source": "github.com"
     },
     {
-      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-      "score": 10,
-      "comments": 1,
-      "source": "triapul.cz"
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "score": 127,
+      "comments": 14,
+      "source": "thebeach.dev"
     },
     {
-      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
-      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-      "score": 38,
-      "comments": 18,
-      "source": "ijidonline.com"
+      "title": "Protobuf-py: Protobuf for Python, without compromises",
+      "url": "https://buf.build/blog/protobuf-py",
+      "score": 15,
+      "comments": 1,
+      "source": "buf.build"
     },
     {
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 163,
-      "comments": 56,
+      "score": 244,
+      "comments": 82,
       "source": "io-fund.com"
     },
     {
-      "title": "A public ledger of cloud outages and the SLA credits they trigger",
-      "url": "https://slacreditwatch.com",
-      "score": 15,
-      "comments": 3,
-      "source": "slacreditwatch.com"
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "score": 61,
+      "comments": 16,
+      "source": "triapul.cz"
     },
     {
-      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-      "url": "https://arxiv.org/abs/2607.07267",
-      "score": 56,
-      "comments": 6,
-      "source": "arxiv.org"
+      "title": "EF Core 11 makes your split queries faster",
+      "url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
+      "score": 34,
+      "comments": 5,
+      "source": "steven-giesel.com"
     },
     {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 181,
-      "comments": 37,
-      "source": "clickhouse.com"
+      "title": "Jellyfish Undersea Roundabout",
+      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+      "score": 33,
+      "comments": 4,
+      "source": "visitfaroeislands.com"
     },
     {
       "title": "UPI: Anatomy of a Payment Transaction",
       "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "score": 105,
-      "comments": 36,
+      "score": 174,
+      "comments": 63,
       "source": "timeseriesofindia.com"
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 203,
+      "comments": 44,
+      "source": "clickhouse.com"
+    },
+    {
+      "title": "The Energetic Costs of Cellular Computation (2012)",
+      "url": "https://arxiv.org/abs/1203.5426",
+      "score": 20,
+      "comments": 1,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
+      "score": 86,
+      "comments": 20,
+      "source": "goeteia.dev"
+    },
+    {
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "url": "https://arxiv.org/abs/2607.07267",
+      "score": 88,
+      "comments": 13,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "score": 64,
+      "comments": 100,
+      "source": "npr.org"
+    },
+    {
+      "title": "Unexpected Solidlike Fracture in Simple Liquids",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "score": 85,
+      "comments": 44,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+      "score": 51,
+      "comments": 22,
+      "source": "mrzk.io"
     },
     {
       "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
       "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "score": 93,
-      "comments": 56,
+      "score": 113,
+      "comments": 63,
       "source": "math.ucdavis.edu"
     },
     {
       "title": "Prefer strict tables in SQLite",
       "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 226,
-      "comments": 113,
+      "score": 272,
+      "comments": 130,
       "source": "evanhahn.com"
     },
     {
-      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
-      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
-      "score": 74,
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "score": 68,
       "comments": 42,
-      "source": "archive.cancerworld.net"
+      "source": "fabiensanglard.net"
     },
     {
       "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
       "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
-      "score": 89,
-      "comments": 3,
+      "score": 127,
+      "comments": 14,
       "source": "github.com"
+    },
+    {
+      "title": "A Erlang style pure Scheme Webserver and further",
+      "url": "https://igropyr.com",
+      "score": 59,
+      "comments": 6,
+      "source": "igropyr.com"
     },
     {
       "title": "Optimization Solver as a Service",
       "url": "https://www.quicopt.com/developer/getting-started/",
-      "score": 19,
-      "comments": 11,
+      "score": 34,
+      "comments": 27,
       "source": "quicopt.com"
-    },
-    {
-      "title": "ZeroFS vs. Amazon S3 Files",
-      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-      "score": 62,
-      "comments": 16,
-      "source": "zerofs.net"
     },
     {
       "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
       "url": "https://shipthatcode.com",
-      "score": 131,
-      "comments": 35,
+      "score": 162,
+      "comments": 43,
       "source": "shipthatcode.com"
+    },
+    {
+      "title": "How Doctors die. It\u2019s not like the rest of us (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "score": 149,
+      "comments": 82,
+      "source": "archive.cancerworld.net"
+    },
+    {
+      "title": "Why Write Code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+      "score": 43,
+      "comments": 27,
+      "source": "softwaredoug.com"
     },
     {
       "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
       "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
-      "score": 21,
-      "comments": 2,
+      "score": 75,
+      "comments": 23,
       "source": "abcnews.com"
-    },
-    {
-      "title": "Show HN: Orbit \u2013 AR satellite tracker, watch 15k+ objects",
-      "url": "https://nagylukas.github.io/orbit.html",
-      "score": 61,
-      "comments": 16,
-      "source": "nagylukas.github.io"
-    },
-    {
-      "title": "Show HN: Sqlsure \u2013 deterministic semantic checks for AI-generated SQL",
-      "url": "https://github.com/sqlsure/sqlsure",
-      "score": 16,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Sixtyfour (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-      "score": 265,
-      "comments": 90,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
-      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-      "score": 113,
-      "comments": 62,
-      "source": "news.vt.edu"
-    },
-    {
-      "title": "Show HN: Reame \u2013 a CPU inference server that gets faster as it runs",
-      "url": "https://github.com/swellweb/reame",
-      "score": 43,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "How to hide from killer drones",
-      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-      "score": 111,
-      "comments": 139,
-      "source": "economist.com"
-    },
-    {
-      "title": "Book: RISC-V System-on-Chip Design",
-      "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
-      "score": 111,
-      "comments": 47,
-      "source": "amazon.com"
-    },
-    {
-      "title": "How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL",
-      "url": "https://hakibenita.com/postgresql-partition-pruning",
-      "score": 6,
-      "comments": 1,
-      "source": "hakibenita.com"
-    },
-    {
-      "title": "Google Search lets creators know more about their reach",
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "score": 97,
-      "comments": 45,
-      "source": "theverge.com"
     }
   ],
   "security": [
