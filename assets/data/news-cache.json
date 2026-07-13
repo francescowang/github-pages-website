@@ -1,200 +1,207 @@
 {
   "tech": [
     {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "score": 904,
-      "comments": 449,
-      "source": "raymyers.org"
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "score": 247,
+      "comments": 119,
+      "source": "get-inscribe.com"
+    },
+    {
+      "title": "Show HN: Super Dario",
+      "url": "https://superdario.pawb.de",
+      "score": 150,
+      "comments": 40,
+      "source": "superdario.pawb.de"
+    },
+    {
+      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "score": 29,
+      "comments": 13,
+      "source": "scottwillsey.com"
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "score": 156,
+      "comments": 31,
+      "source": "fabiensanglard.net"
+    },
+    {
+      "title": "Logseq 2.0 Beta (DB version) is here",
+      "url": "https://github.com/logseq/logseq/releases",
+      "score": 41,
+      "comments": 21,
+      "source": "github.com"
+    },
+    {
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "url": "https://cakehonolulu.github.io/linux-on-32x/",
+      "score": 13,
+      "comments": 2,
+      "source": "cakehonolulu.github.io"
+    },
+    {
+      "title": "The real prices of frontier models. Tokens * Price, right?",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "score": 18,
+      "comments": 7,
+      "source": "playcode.io"
+    },
+    {
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "score": 299,
+      "comments": 215,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Ancient Roman Board Game",
+      "url": "https://ludus-coriovalli.web.app/",
+      "score": 25,
+      "comments": 3,
+      "source": "ludus-coriovalli.web.app"
     },
     {
       "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
       "url": "https://jivx.com/densha",
-      "score": 124,
-      "comments": 12,
+      "score": 284,
+      "comments": 49,
       "source": "jivx.com"
     },
     {
-      "title": "Grok uploaded my user directory to xAI's servers",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "score": 96,
-      "comments": 44,
-      "source": "twitter.com"
+      "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
+      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
     },
     {
-      "title": "A Right Too Expensive to Exercise Isn't a Right",
-      "url": "https://deepbluedynamics.com/blog/right-too-expensive-to-exercise",
-      "score": 14,
-      "comments": 0,
-      "source": "deepbluedynamics.com"
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "score": 12,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+      "url": "https://esologic.com/benchmarking-tesla-gpus/",
+      "score": 73,
+      "comments": 23,
+      "source": "esologic.com"
     },
     {
       "title": "Show HN: DOM-docx \u2013 HTML to native, editable Word docs (MIT)",
       "url": "https://github.com/floodtide/dom-docx",
-      "score": 45,
-      "comments": 17,
+      "score": 109,
+      "comments": 26,
       "source": "github.com"
     },
     {
-      "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
-      "url": "https://github.com/clawkwork/clawk",
-      "score": 11,
-      "comments": 0,
-      "source": "github.com"
+      "title": "Tune Code Before Your Garbage Collector",
+      "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
+      "score": 23,
+      "comments": 5,
+      "source": "blog.vanillajava.blog"
     },
     {
-      "title": "Grok CLI uploaded the whole home directory to GCS",
-      "url": "https://twitter.com/i/status/2076598897779020159",
-      "score": 64,
-      "comments": 22,
-      "source": "twitter.com"
+      "title": "Show HN: OpenClawMachines \u2013 Extending OpenClaw to the Enterprise",
+      "url": "https://github.com/mathaix/OpenClawMachines",
+      "score": 9,
+      "comments": 4,
+      "source": "github.com"
     },
     {
       "title": "The 'absolute magic' of Morse code that still connects people globally",
       "url": "https://www.bbc.com/news/articles/cwye0dlzgejo",
-      "score": 28,
-      "comments": 11,
+      "score": 98,
+      "comments": 54,
       "source": "bbc.com"
     },
     {
-      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "score": 150,
-      "comments": 91,
-      "source": "shkspr.mobi"
-    },
-    {
-      "title": "Backtrack-Free Cursive",
-      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "score": 149,
-      "comments": 64,
-      "source": "mmapped.blog"
-    },
-    {
-      "title": "The social physics of conversation: Communication patterns matter",
-      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-      "score": 105,
-      "comments": 21,
-      "source": "andiroberts.com"
-    },
-    {
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 341,
-      "comments": 151,
-      "source": "nebusec.ai"
-    },
-    {
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "url": "https://shellzine.net/cyberpunk-comics/",
-      "score": 250,
-      "comments": 100,
-      "source": "shellzine.net"
-    },
-    {
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 302,
-      "comments": 26,
-      "source": "floooh.github.io"
-    },
-    {
-      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-      "url": "https://github.com/schlae/BeavisUltrasound",
-      "score": 81,
-      "comments": 27,
-      "source": "github.com"
-    },
-    {
-      "title": "Control the Ideas, Not the Code",
-      "url": "https://antirez.com/news/169",
-      "score": 107,
-      "comments": 65,
-      "source": "antirez.com"
-    },
-    {
-      "title": "The Graph That Should Be Front-Page News",
-      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-      "score": 289,
-      "comments": 178,
-      "source": "lyrebirddreaming.com"
-    },
-    {
-      "title": "So you want to learn physics (second edition, 2021)",
-      "url": "https://www.susanrigetti.com/physics",
-      "score": 278,
-      "comments": 51,
-      "source": "susanrigetti.com"
-    },
-    {
-      "title": "How to read more books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 457,
-      "comments": 233,
-      "source": "scotto.me"
-    },
-    {
-      "title": "Designing and assembling my first PCB",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "score": 146,
-      "comments": 80,
-      "source": "vilkeliskis.com"
+      "title": "How sea stars build materials that can see",
+      "url": "https://www.engineering.upenn.edu/stories/how-sea-stars-build-materials-that-can-see/",
+      "score": 9,
+      "comments": 0,
+      "source": "engineering.upenn.edu"
     },
     {
       "title": "Cursed circuits #6: reverse avalanche oscillator",
       "url": "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche",
-      "score": 3,
-      "comments": 1,
+      "score": 63,
+      "comments": 13,
       "source": "lcamtuf.substack.com"
     },
     {
-      "title": "Frieve Vinyl Explained \u2013 Microscopic stylus/groove physics simulation",
-      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
-      "score": 39,
-      "comments": 8,
-      "source": "frieve-a.github.io"
+      "title": "Backtrack-Free Cursive",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "score": 228,
+      "comments": 100,
+      "source": "mmapped.blog"
     },
     {
-      "title": "LARP \u2013 Revenue infrastructure for serious founders",
-      "url": "https://www.larp.website/",
-      "score": 287,
-      "comments": 58,
-      "source": "larp.website"
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 379,
+      "comments": 169,
+      "source": "nebusec.ai"
     },
     {
-      "title": "Sam Neill has died",
-      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-      "score": 329,
-      "comments": 78,
-      "source": "theguardian.com"
+      "title": "Counting ArXiv Delays",
+      "url": "https://fi-le.net/arxiv/",
+      "score": 24,
+      "comments": 10,
+      "source": "fi-le.net"
     },
     {
-      "title": "Vint Cerf, \u201cfather of the Internet\u201d, is retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 339,
-      "comments": 188,
-      "source": "techcrunch.com"
+      "title": "A full body MRI earns you a year of smoking",
+      "url": "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump",
+      "score": 12,
+      "comments": 5,
+      "source": "entropicthoughts.com"
     },
     {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 232,
-      "comments": 109,
-      "source": "ploy.ai"
+      "title": "The social physics of conversation: Communication patterns matter",
+      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+      "score": 144,
+      "comments": 32,
+      "source": "andiroberts.com"
     },
     {
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "url": "https://kode.diy",
-      "score": 109,
-      "comments": 27,
-      "source": "kode.diy"
+      "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+      "url": "https://github.com/clawkwork/clawk",
+      "score": 139,
+      "comments": 129,
+      "source": "github.com"
     },
     {
-      "title": "An Infuriating Goodbye to Photoshop",
-      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
-      "score": 127,
-      "comments": 77,
-      "source": "anderegg.ca"
+      "title": "DMS 1.5 \"The Wolverine\" Released",
+      "url": "https://danklinux.com/blog/v1-5-release",
+      "score": 25,
+      "comments": 12,
+      "source": "danklinux.com"
+    },
+    {
+      "title": "Precursor",
+      "url": "https://blog.cloudflare.com/introducing-precursor/",
+      "score": 136,
+      "comments": 119,
+      "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+      "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+      "score": 6,
+      "comments": 2,
+      "source": "sfgate.com"
+    },
+    {
+      "title": "A Farewell to ARPs: IPv4 Service on IPv6-Only Networks",
+      "url": "https://labs.ripe.net/author/remco-van-mook/a-farewell-to-arps-ipv4-service-on-ipv6-only-networks/",
+      "score": 28,
+      "comments": 1,
+      "source": "labs.ripe.net"
     }
   ],
   "security": [
