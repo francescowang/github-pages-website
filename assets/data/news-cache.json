@@ -1,200 +1,200 @@
 {
   "tech": [
     {
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "score": 320,
-      "comments": 156,
-      "source": "scrapfly.dev"
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "score": 56,
+      "comments": 18,
+      "source": "raymyers.org"
+    },
+    {
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "score": 24,
+      "comments": 7,
+      "source": "shkspr.mobi"
+    },
+    {
+      "title": "Backtrack-Free Cursive",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "score": 76,
+      "comments": 28,
+      "source": "mmapped.blog"
+    },
+    {
+      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+      "url": "https://github.com/schlae/BeavisUltrasound",
+      "score": 58,
+      "comments": 19,
+      "source": "github.com"
     },
     {
       "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
       "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 100,
-      "comments": 16,
+      "score": 266,
+      "comments": 110,
       "source": "nebusec.ai"
+    },
+    {
+      "title": "The social physics of conversation: Communication patterns matter",
+      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+      "score": 30,
+      "comments": 2,
+      "source": "andiroberts.com"
     },
     {
       "title": "Cyberpunk Comics, Manga and Graphic Novels",
       "url": "https://shellzine.net/cyberpunk-comics/",
-      "score": 83,
-      "comments": 18,
+      "score": 184,
+      "comments": 57,
       "source": "shellzine.net"
     },
     {
-      "title": "Designing and assembling my first PCB",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "score": 55,
-      "comments": 7,
-      "source": "vilkeliskis.com"
+      "title": "Frieve Vinyl Explained \u2013 Microscopic stylus/groove physics simulation",
+      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+      "score": 6,
+      "comments": 0,
+      "source": "frieve-a.github.io"
     },
     {
       "title": "Tiny Emulators",
       "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 149,
-      "comments": 9,
+      "score": 249,
+      "comments": 22,
       "source": "floooh.github.io"
     },
     {
       "title": "So you want to learn physics (second edition, 2021)",
       "url": "https://www.susanrigetti.com/physics",
-      "score": 108,
-      "comments": 12,
+      "score": 217,
+      "comments": 36,
       "source": "susanrigetti.com"
     },
     {
-      "title": "Why Vanilla JavaScript",
-      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
-      "score": 57,
-      "comments": 24,
-      "source": "guseyn.com"
+      "title": "The Graph That Should Be Front-Page News",
+      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+      "score": 17,
+      "comments": 5,
+      "source": "lyrebirddreaming.com"
     },
     {
-      "title": "Modernizing Property Tax Assessments in Allegheny County",
-      "url": "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county",
-      "score": 6,
-      "comments": 0,
-      "source": "prohousingpgh.org"
-    },
-    {
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 417,
-      "comments": 121,
-      "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 145,
-      "comments": 46,
-      "source": "ploy.ai"
-    },
-    {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 473,
-      "comments": 266,
-      "source": "systima.ai"
-    },
-    {
-      "title": "How we can reduce traffic congestion",
-      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-      "score": 82,
-      "comments": 94,
-      "source": "research.google"
-    },
-    {
-      "title": "The four horsemen behind Postgres outages",
-      "url": "https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/",
-      "score": 9,
-      "comments": 0,
-      "source": "malisper.me"
-    },
-    {
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "url": "https://kode.diy",
-      "score": 44,
-      "comments": 11,
-      "source": "kode.diy"
-    },
-    {
-      "title": "LARP \u2013 Revenue infrastructure for serious founders",
-      "url": "https://www.larp.website/",
-      "score": 163,
-      "comments": 37,
-      "source": "larp.website"
-    },
-    {
-      "title": "Why write code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
-      "score": 116,
-      "comments": 153,
-      "source": "softwaredoug.com"
-    },
-    {
-      "title": "I Learned to Read Again",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "score": 103,
-      "comments": 42,
-      "source": "substack.magazinenongrata.com"
-    },
-    {
-      "title": "Architecture Description Languages [pdf]",
-      "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
-      "score": 22,
-      "comments": 1,
-      "source": "ics.uci.edu"
-    },
-    {
-      "title": "Profiling the \"Abundance\" housing bottleneck with real data",
-      "url": "https://laxmena.com/same-capacity-less-throughput",
-      "score": 26,
-      "comments": 12,
-      "source": "laxmena.com"
-    },
-    {
-      "title": "Automation Without Understanding",
-      "url": "https://arxiv.org/abs/2607.06377",
-      "score": 97,
-      "comments": 41,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Calculix: A Free Software Three-Dimensional Structural Finite Element Program",
-      "url": "https://www.calculix.de/",
-      "score": 5,
-      "comments": 0,
-      "source": "calculix.de"
-    },
-    {
-      "title": "Vint Cerf, \u201cfather of the Internet\u201d, is retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 283,
-      "comments": 163,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 331,
-      "comments": 200,
-      "source": "geohot.github.io"
-    },
-    {
-      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "score": 84,
-      "comments": 63,
-      "source": "cacm.acm.org"
-    },
-    {
-      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-      "url": "https://nanduruganesh.github.io/flash-msa/",
-      "score": 24,
-      "comments": 0,
-      "source": "nanduruganesh.github.io"
-    },
-    {
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "score": 86,
-      "comments": 22,
-      "source": "motivenotes.ai"
-    },
-    {
-      "title": "MacKenzie Scott's giving, in quality-adjusted life years",
-      "url": "https://maxghenis.com/mackenzie-scott-qaly/",
-      "score": 54,
-      "comments": 22,
-      "source": "maxghenis.com"
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "score": 109,
+      "comments": 44,
+      "source": "vilkeliskis.com"
     },
     {
       "title": "How to read more books",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 259,
-      "comments": 145,
+      "score": 353,
+      "comments": 184,
       "source": "scotto.me"
+    },
+    {
+      "title": "Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial",
+      "url": "https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/",
+      "score": 41,
+      "comments": 18,
+      "source": "engadget.com"
+    },
+    {
+      "title": "Are you telling me a readonly property is wrecking my performance?",
+      "url": "https://shub.club/writings/2026/july/check-your-scrollheight/",
+      "score": 34,
+      "comments": 15,
+      "source": "shub.club"
+    },
+    {
+      "title": "Converting colors in JavaScript at 6B operations per second",
+      "url": "https://dkryaklin.com/blog/colordx-gpu",
+      "score": 24,
+      "comments": 4,
+      "source": "dkryaklin.com"
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "score": 204,
+      "comments": 88,
+      "source": "ploy.ai"
+    },
+    {
+      "title": "Sam Neill has died",
+      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+      "score": 117,
+      "comments": 27,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Quadrupling code performance with a \"useless\" if",
+      "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+      "score": 44,
+      "comments": 3,
+      "source": "purplesyringa.moe"
+    },
+    {
+      "title": "LARP \u2013 Revenue infrastructure for serious founders",
+      "url": "https://www.larp.website/",
+      "score": 240,
+      "comments": 50,
+      "source": "larp.website"
+    },
+    {
+      "title": "First look at Quest, the final ship of Antarctic explorer Shackleton",
+      "url": "https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229",
+      "score": 33,
+      "comments": 2,
+      "source": "cbc.ca"
+    },
+    {
+      "title": "Vint Cerf, \u201cfather of the Internet\u201d, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "score": 311,
+      "comments": 177,
+      "source": "techcrunch.com"
+    },
+    {
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "url": "https://kode.diy",
+      "score": 83,
+      "comments": 20,
+      "source": "kode.diy"
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 584,
+      "comments": 322,
+      "source": "systima.ai"
+    },
+    {
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "score": 145,
+      "comments": 55,
+      "source": "substack.magazinenongrata.com"
+    },
+    {
+      "title": "How we can reduce traffic congestion",
+      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+      "score": 128,
+      "comments": 188,
+      "source": "research.google"
+    },
+    {
+      "title": "Why write code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+      "score": 154,
+      "comments": 203,
+      "source": "softwaredoug.com"
+    },
+    {
+      "title": "Berkshire's $397B Bet Against an Overheated Market",
+      "url": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
+      "score": 13,
+      "comments": 0,
+      "source": "disruptionbanking.com"
     }
   ],
   "security": [
