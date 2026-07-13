@@ -3,201 +3,207 @@
     {
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-      "score": 56,
-      "comments": 18,
+      "score": 904,
+      "comments": 449,
       "source": "raymyers.org"
+    },
+    {
+      "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
+      "url": "https://jivx.com/densha",
+      "score": 124,
+      "comments": 12,
+      "source": "jivx.com"
+    },
+    {
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "score": 96,
+      "comments": 44,
+      "source": "twitter.com"
+    },
+    {
+      "title": "A Right Too Expensive to Exercise Isn't a Right",
+      "url": "https://deepbluedynamics.com/blog/right-too-expensive-to-exercise",
+      "score": 14,
+      "comments": 0,
+      "source": "deepbluedynamics.com"
+    },
+    {
+      "title": "Show HN: DOM-docx \u2013 HTML to native, editable Word docs (MIT)",
+      "url": "https://github.com/floodtide/dom-docx",
+      "score": 45,
+      "comments": 17,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+      "url": "https://github.com/clawkwork/clawk",
+      "score": 11,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "url": "https://twitter.com/i/status/2076598897779020159",
+      "score": 64,
+      "comments": 22,
+      "source": "twitter.com"
+    },
+    {
+      "title": "The 'absolute magic' of Morse code that still connects people globally",
+      "url": "https://www.bbc.com/news/articles/cwye0dlzgejo",
+      "score": 28,
+      "comments": 11,
+      "source": "bbc.com"
     },
     {
       "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
       "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-      "score": 24,
-      "comments": 7,
+      "score": 150,
+      "comments": 91,
       "source": "shkspr.mobi"
     },
     {
       "title": "Backtrack-Free Cursive",
       "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "score": 76,
-      "comments": 28,
+      "score": 149,
+      "comments": 64,
       "source": "mmapped.blog"
-    },
-    {
-      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-      "url": "https://github.com/schlae/BeavisUltrasound",
-      "score": 58,
-      "comments": 19,
-      "source": "github.com"
-    },
-    {
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "score": 266,
-      "comments": 110,
-      "source": "nebusec.ai"
     },
     {
       "title": "The social physics of conversation: Communication patterns matter",
       "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-      "score": 30,
-      "comments": 2,
+      "score": 105,
+      "comments": 21,
       "source": "andiroberts.com"
+    },
+    {
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 341,
+      "comments": 151,
+      "source": "nebusec.ai"
     },
     {
       "title": "Cyberpunk Comics, Manga and Graphic Novels",
       "url": "https://shellzine.net/cyberpunk-comics/",
-      "score": 184,
-      "comments": 57,
+      "score": 250,
+      "comments": 100,
       "source": "shellzine.net"
-    },
-    {
-      "title": "Frieve Vinyl Explained \u2013 Microscopic stylus/groove physics simulation",
-      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
-      "score": 6,
-      "comments": 0,
-      "source": "frieve-a.github.io"
     },
     {
       "title": "Tiny Emulators",
       "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "score": 249,
-      "comments": 22,
+      "score": 302,
+      "comments": 26,
       "source": "floooh.github.io"
     },
     {
-      "title": "So you want to learn physics (second edition, 2021)",
-      "url": "https://www.susanrigetti.com/physics",
-      "score": 217,
-      "comments": 36,
-      "source": "susanrigetti.com"
+      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+      "url": "https://github.com/schlae/BeavisUltrasound",
+      "score": 81,
+      "comments": 27,
+      "source": "github.com"
+    },
+    {
+      "title": "Control the Ideas, Not the Code",
+      "url": "https://antirez.com/news/169",
+      "score": 107,
+      "comments": 65,
+      "source": "antirez.com"
     },
     {
       "title": "The Graph That Should Be Front-Page News",
       "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-      "score": 17,
-      "comments": 5,
+      "score": 289,
+      "comments": 178,
       "source": "lyrebirddreaming.com"
     },
     {
-      "title": "Designing and assembling my first PCB",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "score": 109,
-      "comments": 44,
-      "source": "vilkeliskis.com"
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
+      "score": 278,
+      "comments": 51,
+      "source": "susanrigetti.com"
     },
     {
       "title": "How to read more books",
       "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-      "score": 353,
-      "comments": 184,
+      "score": 457,
+      "comments": 233,
       "source": "scotto.me"
     },
     {
-      "title": "Guy took Jupiter photo with Game Boy Camera, giant telescope, publishes tutorial",
-      "url": "https://www.engadget.com/2211886/guy-who-took-photo-of-jupiter-with-a-game-boy-camera-and-giant-telescope-publishes-diy-tutorial/",
-      "score": 41,
-      "comments": 18,
-      "source": "engadget.com"
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "score": 146,
+      "comments": 80,
+      "source": "vilkeliskis.com"
     },
     {
-      "title": "Are you telling me a readonly property is wrecking my performance?",
-      "url": "https://shub.club/writings/2026/july/check-your-scrollheight/",
-      "score": 34,
-      "comments": 15,
-      "source": "shub.club"
+      "title": "Cursed circuits #6: reverse avalanche oscillator",
+      "url": "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche",
+      "score": 3,
+      "comments": 1,
+      "source": "lcamtuf.substack.com"
     },
     {
-      "title": "Converting colors in JavaScript at 6B operations per second",
-      "url": "https://dkryaklin.com/blog/colordx-gpu",
-      "score": 24,
-      "comments": 4,
-      "source": "dkryaklin.com"
-    },
-    {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 204,
-      "comments": 88,
-      "source": "ploy.ai"
-    },
-    {
-      "title": "Sam Neill has died",
-      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-      "score": 117,
-      "comments": 27,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Quadrupling code performance with a \"useless\" if",
-      "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-      "score": 44,
-      "comments": 3,
-      "source": "purplesyringa.moe"
+      "title": "Frieve Vinyl Explained \u2013 Microscopic stylus/groove physics simulation",
+      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+      "score": 39,
+      "comments": 8,
+      "source": "frieve-a.github.io"
     },
     {
       "title": "LARP \u2013 Revenue infrastructure for serious founders",
       "url": "https://www.larp.website/",
-      "score": 240,
-      "comments": 50,
+      "score": 287,
+      "comments": 58,
       "source": "larp.website"
     },
     {
-      "title": "First look at Quest, the final ship of Antarctic explorer Shackleton",
-      "url": "https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229",
-      "score": 33,
-      "comments": 2,
-      "source": "cbc.ca"
+      "title": "Sam Neill has died",
+      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+      "score": 329,
+      "comments": 78,
+      "source": "theguardian.com"
     },
     {
       "title": "Vint Cerf, \u201cfather of the Internet\u201d, is retiring",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 311,
-      "comments": 177,
+      "score": 339,
+      "comments": 188,
       "source": "techcrunch.com"
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "score": 232,
+      "comments": 109,
+      "source": "ploy.ai"
     },
     {
       "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
       "url": "https://kode.diy",
-      "score": 83,
-      "comments": 20,
+      "score": 109,
+      "comments": 27,
       "source": "kode.diy"
     },
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 584,
-      "comments": 322,
-      "source": "systima.ai"
-    },
-    {
-      "title": "I Learned to Read Again",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "score": 145,
-      "comments": 55,
-      "source": "substack.magazinenongrata.com"
-    },
-    {
-      "title": "How we can reduce traffic congestion",
-      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-      "score": 128,
-      "comments": 188,
-      "source": "research.google"
-    },
-    {
-      "title": "Why write code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
-      "score": 154,
-      "comments": 203,
-      "source": "softwaredoug.com"
-    },
-    {
-      "title": "Berkshire's $397B Bet Against an Overheated Market",
-      "url": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
-      "score": 13,
-      "comments": 0,
-      "source": "disruptionbanking.com"
+      "title": "An Infuriating Goodbye to Photoshop",
+      "url": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
+      "score": 127,
+      "comments": 77,
+      "source": "anderegg.ca"
     }
   ],
   "security": [
+    {
+      "title": "New compliance guidance available: HITRUST i1 on AWS",
+      "url": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws/",
+      "date": "2026-07-13 13:19:51",
+      "author": "Abdul Javid"
+    },
     {
       "title": "AWS designated as a critical third party to the UK financial sector",
       "url": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/",
@@ -251,12 +257,6 @@
       "url": "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment/",
       "date": "2026-06-29 19:30:59",
       "author": "Shannon Brazil"
-    },
-    {
-      "title": "Restrict AWS Management Console access to expected networks with sign-in resource-based policies and RCPs",
-      "url": "https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/",
-      "date": "2026-06-24 20:01:47",
-      "author": "Swara Gandhi"
     }
   ]
 }
