@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "Codex starts encrypting sub-agent prompts",
-      "url": "https://github.com/openai/codex/issues/28058",
-      "score": 187,
-      "comments": 112,
-      "source": "github.com"
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "score": 225,
+      "comments": 124,
+      "source": "marco-nett.de"
     },
     {
-      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-      "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-      "score": 68,
-      "comments": 48,
-      "source": "phemex.com"
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "score": 137,
+      "comments": 45,
+      "source": "lucumr.pocoo.org"
     },
     {
-      "title": "The Future Worth Building Is Human \u2013 Thinking Machines Lab",
-      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-      "score": 56,
-      "comments": 38,
-      "source": "thinkingmachines.ai"
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 57,
+      "comments": 11,
+      "source": "prismml.com"
+    },
+    {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 508,
+      "comments": 350,
+      "source": "danq.me"
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "score": 269,
+      "comments": 343,
+      "source": "jola.dev"
+    },
+    {
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "score": 34,
+      "comments": 8,
+      "source": "2b2t.place"
+    },
+    {
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "score": 36,
+      "comments": 15,
+      "source": "thoughtworks.com"
+    },
+    {
+      "title": "A tiny cell that broke a big rule of biology",
+      "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
+      "score": 105,
+      "comments": 16,
+      "source": "grist.org"
+    },
+    {
+      "title": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "score": 106,
+      "comments": 68,
+      "source": "verbaprima.com"
+    },
+    {
+      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "score": 21,
+      "comments": 7,
+      "source": "agnost.ai"
     },
     {
       "title": "Beautiful Type Erasure with C++26 Reflection",
       "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "score": 19,
-      "comments": 7,
+      "score": 90,
+      "comments": 36,
       "source": "ryanjk5.github.io"
     },
     {
-      "title": "Coding agents think ahead of time",
-      "url": "https://arxiv.org/abs/2607.05188",
-      "score": 21,
-      "comments": 8,
-      "source": "arxiv.org"
+      "title": "Punch yourself in the face with reality",
+      "url": "https://adi.bio/reality",
+      "score": 153,
+      "comments": 77,
+      "source": "adi.bio"
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 244,
+      "comments": 234,
+      "source": "artfish.ai"
+    },
+    {
+      "title": "Paxos Made Simple (2001)[pdf]",
+      "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
+      "score": 54,
+      "comments": 3,
+      "source": "lamport.azurewebsites.net"
+    },
+    {
+      "title": "How the FSF sysadmins block botnets with reaction",
+      "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
+      "score": 134,
+      "comments": 44,
+      "source": "fsf.org"
+    },
+    {
+      "title": "Superoptimizer \u2013 A Look at the Smallest Program",
+      "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
+      "score": 32,
+      "comments": 7,
+      "source": "dl.acm.org"
+    },
+    {
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "score": 348,
+      "comments": 229,
+      "source": "github.com"
     },
     {
       "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
       "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "score": 18,
-      "comments": 1,
+      "score": 79,
+      "comments": 37,
       "source": "github.com"
     },
     {
-      "title": "No Spanish Reading Crisis?",
-      "url": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
-      "score": 29,
-      "comments": 27,
-      "source": "commonreader.co.uk"
+      "title": "The Agentic Loop: Three loops in a trench coat",
+      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+      "score": 35,
+      "comments": 8,
+      "source": "bobbytables.io"
     },
     {
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "score": 617,
-      "comments": 161,
-      "source": "tech.supercarblondie.com"
+      "title": "S&P downgrades Oracle to BBB \u2013 only one notch above junk level",
+      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
+      "score": 233,
+      "comments": 192,
+      "source": "heise.de"
     },
     {
-      "title": "Actegories",
-      "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
-      "score": 25,
-      "comments": 3,
-      "source": "bartoszmilewski.com"
-    },
-    {
-      "title": "Tensor Is the Might",
-      "url": "https://zserge.com/posts/tensor/",
-      "score": 5,
-      "comments": 0,
-      "source": "zserge.com"
-    },
-    {
-      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-      "score": 84,
-      "comments": 39,
-      "source": "hpcwire.com"
-    },
-    {
-      "title": "Punch Yourself in the Face with Reality",
-      "url": "https://adi.bio/reality",
-      "score": 45,
-      "comments": 15,
-      "source": "adi.bio"
-    },
-    {
-      "title": "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 156,
-      "comments": 108,
-      "source": "danq.me"
+      "title": "IBM Stock has worst day",
+      "url": "https://www.cnn.com/2026/07/14/tech/ibm-stock-worst-day-ever",
+      "score": 28,
+      "comments": 18,
+      "source": "cnn.com"
     },
     {
       "title": "Australian energy retailers must provide three hours of free daytime electricity",
       "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 160,
-      "comments": 251,
+      "score": 237,
+      "comments": 312,
       "source": "lenergy.com.au"
     },
     {
-      "title": "Germany set to restrict its Freedom of Information Act",
-      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-      "score": 80,
-      "comments": 32,
-      "source": "dw.com"
+      "title": "A metallurgist's doubts about self-replicating probes",
+      "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
+      "score": 131,
+      "comments": 59,
+      "source": "centauri-dreams.org"
     },
     {
-      "title": "Kids (With Phones) Are Alright",
-      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-      "score": 6,
-      "comments": 1,
-      "source": "heatherburns.tech"
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+      "score": 116,
+      "comments": 65,
+      "source": "hpcwire.com"
     },
     {
-      "title": "The git history command",
-      "url": "https://lalitm.com/post/git-history/",
-      "score": 357,
-      "comments": 230,
-      "source": "lalitm.com"
+      "title": "Our Amish Language",
+      "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+      "score": 85,
+      "comments": 61,
+      "source": "thedial.world"
+    },
+    {
+      "title": "No Spanish reading crisis?",
+      "url": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
+      "score": 65,
+      "comments": 104,
+      "source": "commonreader.co.uk"
     },
     {
       "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
       "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "score": 108,
-      "comments": 10,
+      "score": 178,
+      "comments": 20,
       "source": "bbc.com"
-    },
-    {
-      "title": "Proof of Care in the Age of A.I",
-      "url": "https://jacobfilipp.com/care/",
-      "score": 7,
-      "comments": 1,
-      "source": "jacobfilipp.com"
-    },
-    {
-      "title": "Notable Knot Index (2016)",
-      "url": "https://knots.neocities.org/knotindex",
-      "score": 37,
-      "comments": 6,
-      "source": "knots.neocities.org"
-    },
-    {
-      "title": "The great digital fatigue: How digital burnout is changing social media use",
-      "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
-      "score": 59,
-      "comments": 50,
-      "source": "blog.incogni.com"
-    },
-    {
-      "title": "Just Let Me Write Digits",
-      "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
-      "score": 94,
-      "comments": 31,
-      "source": "gendx.dev"
-    },
-    {
-      "title": "Building and shipping Mac and iOS apps without opening Xcode",
-      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "score": 514,
-      "comments": 218,
-      "source": "scottwillsey.com"
-    },
-    {
-      "title": "YouTrackDB is a general-use object-oriented graph database",
-      "url": "https://github.com/JetBrains/youtrackdb",
-      "score": 147,
-      "comments": 47,
-      "source": "github.com"
-    },
-    {
-      "title": "How to build a circular LCD clock",
-      "url": "https://blinry.org/lcd-clock/",
-      "score": 105,
-      "comments": 43,
-      "source": "blinry.org"
     },
     {
       "title": "Differentiable Fortran with LFortran and Enzyme",
       "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-      "score": 6,
-      "comments": 1,
+      "score": 42,
+      "comments": 13,
       "source": "docs.pasteurlabs.ai"
     },
     {
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "score": 153,
-      "comments": 7,
-      "source": "web.stanford.edu"
-    },
-    {
-      "title": "The Economics of Recursive Self-Improvement [pdf]",
-      "url": "https://elasticity.institute/rsi-paper.pdf",
-      "score": 121,
-      "comments": 59,
-      "source": "elasticity.institute"
-    },
-    {
-      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
-      "url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
-      "score": 1,
-      "comments": 0,
-      "source": "jobs.ashbyhq.com"
-    },
-    {
-      "title": "An Englishwoman who sketched India before photography took hold",
-      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-      "score": 191,
-      "comments": 54,
-      "source": "bbc.com"
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "score": 246,
+      "comments": 156,
+      "source": "dw.com"
     }
   ],
   "security": [
+    {
+      "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
+      "url": "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control/",
+      "date": "2026-07-14 15:18:42",
+      "author": "Harith Gaddamanugu"
+    },
     {
       "title": "New compliance guidance available: HITRUST i1 on AWS",
       "url": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/how-to-use-the-aws-workload-credentials-provider-for-cross-account-secret-retrieval-and-prefetching-secrets/",
       "date": "2026-07-01 15:56:26",
       "author": "Derik Wang"
-    },
-    {
-      "title": "What the June 2026 Threat Technique Catalog update means for your AWS environment",
-      "url": "https://aws.amazon.com/blogs/security/what-the-june-2026-threat-technique-catalog-update-means-for-your-aws-environment/",
-      "date": "2026-06-29 19:30:59",
-      "author": "Shannon Brazil"
     }
   ]
 }
