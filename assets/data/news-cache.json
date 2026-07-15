@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 34,
-      "comments": 8,
-      "source": "tailscale.com"
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "score": 138,
+      "comments": 44,
+      "source": "ayush.digital"
+    },
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 336,
+      "comments": 82,
+      "source": "fabiensanglard.net"
     },
     {
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
       "url": "https://vpd.ca/",
-      "score": 79,
-      "comments": 31,
+      "score": 244,
+      "comments": 96,
       "source": "vpd.ca"
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 130,
+      "comments": 58,
+      "source": "tailscale.com"
+    },
+    {
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "score": 27,
+      "comments": 5,
+      "source": "eetimes.com"
     },
     {
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 440,
-      "comments": 164,
+      "score": 561,
+      "comments": 202,
       "source": "prismml.com"
     },
     {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "score": 100,
-      "comments": 63,
-      "source": "github.blog"
+      "title": "Andon (manufacturing)",
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+      "score": 42,
+      "comments": 7,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 344,
-      "comments": 165,
+      "score": 447,
+      "comments": 212,
       "source": "lucumr.pocoo.org"
     },
     {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "score": 89,
-      "comments": 35,
-      "source": "bis.org"
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "score": 167,
+      "comments": 102,
+      "source": "github.blog"
     },
     {
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 255,
-      "comments": 108,
+      "score": 340,
+      "comments": 160,
       "source": "mindgard.ai"
-    },
-    {
-      "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
-      "url": "https://www.starfleetmath.com/",
-      "score": 22,
-      "comments": 5,
-      "source": "starfleetmath.com"
-    },
-    {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "score": 52,
-      "comments": 6,
-      "source": "benjamin-bai.com"
-    },
-    {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 723,
-      "comments": 444,
-      "source": "danq.me"
-    },
-    {
-      "title": "C++20 Improved the For-Loop Syntax",
-      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-      "score": 26,
-      "comments": 33,
-      "source": "lzon.ca"
     },
     {
       "title": "How I use HTMX with Go",
       "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "score": 118,
-      "comments": 27,
+      "score": 215,
+      "comments": 54,
       "source": "alexedwards.net"
     },
     {
-      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-      "url": "https://www.nature.com/articles/d41586-026-02170-8",
-      "score": 39,
-      "comments": 8,
-      "source": "nature.com"
+      "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "score": 118,
+      "comments": 52,
+      "source": "starfleetmath.com"
     },
     {
-      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
-      "score": 19,
-      "comments": 2,
-      "source": "utcc.utoronto.ca"
-    },
-    {
-      "title": "Data centers have hiked electricity prices on the public by $23B",
-      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
-      "score": 48,
-      "comments": 14,
-      "source": "fortune.com"
+      "title": "Microsoft has released software updates to plug at least 570 security holes",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "score": 109,
+      "comments": 54,
+      "source": "krebsonsecurity.com"
     },
     {
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 438,
-      "comments": 502,
+      "score": 514,
+      "comments": 540,
       "source": "jola.dev"
     },
     {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
-      "score": 167,
-      "comments": 55,
-      "source": "2b2t.place"
-    },
-    {
-      "title": "The Estranged Worlds of J. G. Ballard",
-      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-      "score": 38,
-      "comments": 7,
-      "source": "lareviewofbooks.org"
+      "title": "Surprising lessons from my research scientist job search",
+      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
+      "score": 4,
+      "comments": 0,
+      "source": "yongzx.github.io"
     },
     {
       "title": "I'm a USB-C Maximalist",
       "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 171,
-      "comments": 273,
+      "score": 261,
+      "comments": 357,
       "source": "shkspr.mobi"
     },
     {
-      "title": "Unlocking the PSP's Dual Core Setup",
-      "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
-      "score": 42,
-      "comments": 4,
-      "source": "wololo.net"
+      "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
+      "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
+      "score": 55,
+      "comments": 50,
+      "source": "joanwestenberg.com"
     },
     {
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "url": "https://gwern.net/guardian-angel",
-      "score": 58,
-      "comments": 7,
-      "source": "gwern.net"
-    },
-    {
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "score": 30,
-      "comments": 19,
-      "source": "krebsonsecurity.com"
+      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+      "url": "https://www.nature.com/articles/d41586-026-02170-8",
+      "score": 79,
+      "comments": 21,
+      "source": "nature.com"
     },
     {
       "title": "The kids with phones are alright",
       "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-      "score": 128,
-      "comments": 91,
+      "score": 197,
+      "comments": 168,
       "source": "heatherburns.tech"
     },
     {
-      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "score": 208,
+      "comments": 70,
+      "source": "2b2t.place"
     },
     {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "score": 109,
-      "comments": 85,
-      "source": "thoughtworks.com"
-    },
-    {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 381,
-      "comments": 386,
-      "source": "artfish.ai"
-    },
-    {
-      "title": "Show HN: Opening lines of famous literary works",
-      "url": "https://www.verbaprima.com/",
-      "score": 144,
-      "comments": 82,
-      "source": "verbaprima.com"
-    },
-    {
-      "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
-      "score": 182,
-      "comments": 80,
-      "source": "github.com"
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "score": 87,
+      "comments": 11,
+      "source": "benjamin-bai.com"
     },
     {
       "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
       "url": "https://agnost.ai",
-      "score": 46,
-      "comments": 33,
+      "score": 77,
+      "comments": 38,
       "source": "agnost.ai"
     },
     {
       "title": "Probably check on your smart appliances",
       "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "score": 19,
-      "comments": 8,
+      "score": 61,
+      "comments": 21,
       "source": "xeiaso.net"
+    },
+    {
+      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+      "score": 64,
+      "comments": 14,
+      "source": "utcc.utoronto.ca"
+    },
+    {
+      "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "score": 222,
+      "comments": 99,
+      "source": "github.com"
+    },
+    {
+      "title": "The Estranged Worlds of J. G. Ballard",
+      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+      "score": 56,
+      "comments": 12,
+      "source": "lareviewofbooks.org"
+    },
+    {
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 793,
+      "comments": 473,
+      "source": "danq.me"
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 455,
+      "comments": 418,
+      "source": "artfish.ai"
+    },
+    {
+      "title": "C++20 Improved the For-Loop Syntax",
+      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+      "score": 35,
+      "comments": 48,
+      "source": "lzon.ca"
+    },
+    {
+      "title": "The Trade in Looted Antiquities Endures for One Reason: Demand",
+      "url": "https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870",
+      "score": 17,
+      "comments": 6,
+      "source": "news.artnet.com"
     }
   ],
   "security": [
