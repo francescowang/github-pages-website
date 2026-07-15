@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "score": 138,
-      "comments": 44,
-      "source": "ayush.digital"
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "score": 188,
+      "comments": 71,
+      "source": "academic.oup.com"
+    },
+    {
+      "title": "Prioritize mental health, and why communication is so important",
+      "url": "https://ramones.dev/posts/mental-health/",
+      "score": 62,
+      "comments": 37,
+      "source": "ramones.dev"
     },
     {
       "title": "Jurassic Park computers in excruciating detail",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 336,
-      "comments": 82,
+      "score": 637,
+      "comments": 153,
       "source": "fabiensanglard.net"
     },
     {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
-      "score": 244,
-      "comments": 96,
-      "source": "vpd.ca"
+      "title": "Privacy Incidents \u2013 Real-world examples of why your photos need protection",
+      "url": "https://snapsafe.org/incidents.html",
+      "score": 5,
+      "comments": 0,
+      "source": "snapsafe.org"
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 130,
-      "comments": 58,
-      "source": "tailscale.com"
+      "title": "Mysteries of Telegram Data Centers",
+      "url": "https://dev.moe/en/3025",
+      "score": 6,
+      "comments": 0,
+      "source": "dev.moe"
     },
     {
-      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "title": "Show HN: For 10 World Cups, my model's 2 favorites had the champion every time",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7013338",
+      "score": 25,
+      "comments": 28,
+      "source": "papers.ssrn.com"
+    },
+    {
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "score": 5,
+      "comments": 0,
+      "source": "smarterarticles.co.uk"
+    },
+    {
+      "title": "Telegram Serverless",
+      "url": "https://core.telegram.org/bots/serverless",
+      "score": 56,
+      "comments": 37,
+      "source": "core.telegram.org"
+    },
+    {
+      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
+      "url": "https://jiga.io/about-us/",
+      "score": 1,
+      "comments": 0,
+      "source": "jiga.io"
+    },
+    {
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "score": 59,
+      "comments": 32,
+      "source": "martinfowler.com"
+    },
+    {
+      "title": "Weathergotchi \u2013 an open-source climate Tamagotchi",
+      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+      "score": 34,
+      "comments": 11,
+      "source": "github.com"
+    },
+    {
+      "title": "SpaceX bond worth 10% less than issue price \u2013 heading for junk bond status",
+      "url": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
+      "score": 51,
+      "comments": 6,
+      "source": "ft.com"
+    },
+    {
+      "title": "Show HN: Grepathy \u2013 Claude made a decision nobody approved",
+      "url": "https://github.com/evansjp/grepathy",
+      "score": 4,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Societal Impacts: Claude's values across models and languages",
+      "url": "https://www.anthropic.com/research/claude-values-models-languages",
+      "score": 25,
+      "comments": 20,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
       "score": 27,
-      "comments": 5,
-      "source": "eetimes.com"
+      "comments": 0,
+      "source": "cdrom.ca"
     },
     {
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 561,
-      "comments": 202,
+      "score": 647,
+      "comments": 230,
       "source": "prismml.com"
     },
     {
-      "title": "Andon (manufacturing)",
-      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-      "score": 42,
-      "comments": 7,
-      "source": "en.wikipedia.org"
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "score": 316,
+      "comments": 126,
+      "source": "vpd.ca"
+    },
+    {
+      "title": "What `for x in y` hides from you \u2013 From Scratch Code",
+      "url": "https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/",
+      "score": 4,
+      "comments": 0,
+      "source": "fromscratchcode.com"
+    },
+    {
+      "title": "Neverclick: Desktop application for performing mouse actions with your keyboard",
+      "url": "https://github.com/LazoVelko/neverclick",
+      "score": 33,
+      "comments": 36,
+      "source": "github.com"
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 186,
+      "comments": 107,
+      "source": "tailscale.com"
+    },
+    {
+      "title": "Latent Space as a New Medium",
+      "url": "https://kevinkelly.substack.com/p/latent-space-as-a-new-medium",
+      "score": 18,
+      "comments": 2,
+      "source": "kevinkelly.substack.com"
+    },
+    {
+      "title": "What's the most popular number in Hacker News titles?",
+      "url": "https://blog.omgmog.net/post/most-popular-numbers-in-hn-post-titles/",
+      "score": 4,
+      "comments": 0,
+      "source": "blog.omgmog.net"
+    },
+    {
+      "title": "Germany maybe found a new source of renewable energy",
+      "url": "https://www.schweizerbart.de/papers/zdgg/detail/prepub/108503/Geological_and_geophysical_characterisation_of_the_exploration_boreholes_EB1_and_EB2_Inde_Syncline_Rhenohercynian_Fold_and_Thrust_Belt_and_Weisweiler_Horst_Lower_Rhine_Embayment_Germany",
+      "score": 4,
+      "comments": 0,
+      "source": "schweizerbart.de"
+    },
+    {
+      "title": "Briar Is in Maintenance Mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "score": 3,
+      "comments": 0,
+      "source": "briarproject.org"
+    },
+    {
+      "title": "Bootstrapping GDC with DMD",
+      "url": "https://briancallahan.net/blog/20260713.html",
+      "score": 3,
+      "comments": 0,
+      "source": "briancallahan.net"
+    },
+    {
+      "title": "Using Go for Mobile Apps",
+      "url": "https://www.davidsobsessions.com/p/one-year-of-gomobile/",
+      "score": 14,
+      "comments": 5,
+      "source": "davidsobsessions.com"
     },
     {
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 447,
-      "comments": 212,
+      "score": 514,
+      "comments": 239,
       "source": "lucumr.pocoo.org"
     },
     {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "score": 167,
-      "comments": 102,
-      "source": "github.blog"
+      "title": "Who's running all those tiny RPKI servers?",
+      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+      "score": 57,
+      "comments": 8,
+      "source": "blog.apnic.net"
     },
     {
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 340,
-      "comments": 160,
+      "score": 410,
+      "comments": 191,
       "source": "mindgard.ai"
     },
     {
       "title": "How I use HTMX with Go",
       "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
-      "score": 215,
-      "comments": 54,
+      "score": 288,
+      "comments": 89,
       "source": "alexedwards.net"
-    },
-    {
-      "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
-      "url": "https://www.starfleetmath.com/",
-      "score": 118,
-      "comments": 52,
-      "source": "starfleetmath.com"
-    },
-    {
-      "title": "Microsoft has released software updates to plug at least 570 security holes",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "score": 109,
-      "comments": 54,
-      "source": "krebsonsecurity.com"
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 514,
-      "comments": 540,
-      "source": "jola.dev"
-    },
-    {
-      "title": "Surprising lessons from my research scientist job search",
-      "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
-      "score": 4,
-      "comments": 0,
-      "source": "yongzx.github.io"
-    },
-    {
-      "title": "I'm a USB-C Maximalist",
-      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "score": 261,
-      "comments": 357,
-      "source": "shkspr.mobi"
-    },
-    {
-      "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
-      "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
-      "score": 55,
-      "comments": 50,
-      "source": "joanwestenberg.com"
-    },
-    {
-      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-      "url": "https://www.nature.com/articles/d41586-026-02170-8",
-      "score": 79,
-      "comments": 21,
-      "source": "nature.com"
-    },
-    {
-      "title": "The kids with phones are alright",
-      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-      "score": 197,
-      "comments": 168,
-      "source": "heatherburns.tech"
-    },
-    {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
-      "score": 208,
-      "comments": 70,
-      "source": "2b2t.place"
-    },
-    {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "score": 87,
-      "comments": 11,
-      "source": "benjamin-bai.com"
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "score": 77,
-      "comments": 38,
-      "source": "agnost.ai"
-    },
-    {
-      "title": "Probably check on your smart appliances",
-      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "score": 61,
-      "comments": 21,
-      "source": "xeiaso.net"
-    },
-    {
-      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
-      "score": 64,
-      "comments": 14,
-      "source": "utcc.utoronto.ca"
-    },
-    {
-      "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
-      "score": 222,
-      "comments": 99,
-      "source": "github.com"
-    },
-    {
-      "title": "The Estranged Worlds of J. G. Ballard",
-      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
-      "score": 56,
-      "comments": 12,
-      "source": "lareviewofbooks.org"
-    },
-    {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 793,
-      "comments": 473,
-      "source": "danq.me"
-    },
-    {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 455,
-      "comments": 418,
-      "source": "artfish.ai"
-    },
-    {
-      "title": "C++20 Improved the For-Loop Syntax",
-      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
-      "score": 35,
-      "comments": 48,
-      "source": "lzon.ca"
-    },
-    {
-      "title": "The Trade in Looted Antiquities Endures for One Reason: Demand",
-      "url": "https://news.artnet.com/art-world/matt-campbell-cambodia-looted-antiquities-2779870",
-      "score": 17,
-      "comments": 6,
-      "source": "news.artnet.com"
     }
   ],
   "security": [
