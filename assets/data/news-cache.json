@@ -1,67 +1,165 @@
 {
   "tech": [
     {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "score": 225,
-      "comments": 124,
-      "source": "marco-nett.de"
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 34,
+      "comments": 8,
+      "source": "tailscale.com"
+    },
+    {
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "url": "https://vpd.ca/",
+      "score": 79,
+      "comments": 31,
+      "source": "vpd.ca"
+    },
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 440,
+      "comments": 164,
+      "source": "prismml.com"
+    },
+    {
+      "title": "Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "score": 100,
+      "comments": 63,
+      "source": "github.blog"
     },
     {
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 137,
-      "comments": 45,
+      "score": 344,
+      "comments": 165,
       "source": "lucumr.pocoo.org"
     },
     {
-      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 57,
-      "comments": 11,
-      "source": "prismml.com"
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "score": 89,
+      "comments": 35,
+      "source": "bis.org"
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "score": 255,
+      "comments": 108,
+      "source": "mindgard.ai"
+    },
+    {
+      "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
+      "url": "https://www.starfleetmath.com/",
+      "score": 22,
+      "comments": 5,
+      "source": "starfleetmath.com"
+    },
+    {
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "score": 52,
+      "comments": 6,
+      "source": "benjamin-bai.com"
     },
     {
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
       "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 508,
-      "comments": 350,
+      "score": 723,
+      "comments": 444,
       "source": "danq.me"
+    },
+    {
+      "title": "C++20 Improved the For-Loop Syntax",
+      "url": "https://lzon.ca/posts/tips/cpp-for-range-init/",
+      "score": 26,
+      "comments": 33,
+      "source": "lzon.ca"
+    },
+    {
+      "title": "How I use HTMX with Go",
+      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "score": 118,
+      "comments": 27,
+      "source": "alexedwards.net"
+    },
+    {
+      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
+      "url": "https://www.nature.com/articles/d41586-026-02170-8",
+      "score": 39,
+      "comments": 8,
+      "source": "nature.com"
+    },
+    {
+      "title": "An unusual way for your DHCP server to run out of dynamic IPs",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost",
+      "score": 19,
+      "comments": 2,
+      "source": "utcc.utoronto.ca"
+    },
+    {
+      "title": "Data centers have hiked electricity prices on the public by $23B",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/",
+      "score": 48,
+      "comments": 14,
+      "source": "fortune.com"
     },
     {
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 269,
-      "comments": 343,
+      "score": 438,
+      "comments": 502,
       "source": "jola.dev"
     },
     {
       "title": "The largest available Minecraft world, totalling 15 TB",
       "url": "https://2b2t.place/1million",
-      "score": 34,
-      "comments": 8,
+      "score": 167,
+      "comments": 55,
       "source": "2b2t.place"
     },
     {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "score": 36,
-      "comments": 15,
-      "source": "thoughtworks.com"
+      "title": "The Estranged Worlds of J. G. Ballard",
+      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+      "score": 38,
+      "comments": 7,
+      "source": "lareviewofbooks.org"
     },
     {
-      "title": "A tiny cell that broke a big rule of biology",
-      "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
-      "score": 105,
-      "comments": 16,
-      "source": "grist.org"
+      "title": "I'm a USB-C Maximalist",
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "score": 171,
+      "comments": 273,
+      "source": "shkspr.mobi"
     },
     {
-      "title": "Show HN: Opening lines of famous literary works",
-      "url": "https://www.verbaprima.com/",
-      "score": 106,
-      "comments": 68,
-      "source": "verbaprima.com"
+      "title": "Unlocking the PSP's Dual Core Setup",
+      "url": "https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/",
+      "score": 42,
+      "comments": 4,
+      "source": "wololo.net"
+    },
+    {
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "score": 58,
+      "comments": 7,
+      "source": "gwern.net"
+    },
+    {
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "score": 30,
+      "comments": 19,
+      "source": "krebsonsecurity.com"
+    },
+    {
+      "title": "The kids with phones are alright",
+      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
+      "score": 128,
+      "comments": 91,
+      "source": "heatherburns.tech"
     },
     {
       "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
@@ -71,147 +169,61 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "score": 21,
-      "comments": 7,
-      "source": "agnost.ai"
-    },
-    {
-      "title": "Beautiful Type Erasure with C++26 Reflection",
-      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "score": 90,
-      "comments": 36,
-      "source": "ryanjk5.github.io"
-    },
-    {
-      "title": "Punch yourself in the face with reality",
-      "url": "https://adi.bio/reality",
-      "score": 153,
-      "comments": 77,
-      "source": "adi.bio"
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "score": 109,
+      "comments": 85,
+      "source": "thoughtworks.com"
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
       "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 244,
-      "comments": 234,
+      "score": 381,
+      "comments": 386,
       "source": "artfish.ai"
     },
     {
-      "title": "Paxos Made Simple (2001)[pdf]",
-      "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-      "score": 54,
-      "comments": 3,
-      "source": "lamport.azurewebsites.net"
+      "title": "Show HN: Opening lines of famous literary works",
+      "url": "https://www.verbaprima.com/",
+      "score": 144,
+      "comments": 82,
+      "source": "verbaprima.com"
     },
     {
-      "title": "How the FSF sysadmins block botnets with reaction",
-      "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
-      "score": 134,
-      "comments": 44,
-      "source": "fsf.org"
-    },
-    {
-      "title": "Superoptimizer \u2013 A Look at the Smallest Program",
-      "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
-      "score": 32,
-      "comments": 7,
-      "source": "dl.acm.org"
-    },
-    {
-      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-      "score": 348,
-      "comments": 229,
+      "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "score": 182,
+      "comments": 80,
       "source": "github.com"
     },
     {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "score": 79,
-      "comments": 37,
-      "source": "github.com"
+      "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "score": 46,
+      "comments": 33,
+      "source": "agnost.ai"
     },
     {
-      "title": "The Agentic Loop: Three loops in a trench coat",
-      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-      "score": 35,
+      "title": "Probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "score": 19,
       "comments": 8,
-      "source": "bobbytables.io"
-    },
-    {
-      "title": "S&P downgrades Oracle to BBB \u2013 only one notch above junk level",
-      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-      "score": 233,
-      "comments": 192,
-      "source": "heise.de"
-    },
-    {
-      "title": "IBM Stock has worst day",
-      "url": "https://www.cnn.com/2026/07/14/tech/ibm-stock-worst-day-ever",
-      "score": 28,
-      "comments": 18,
-      "source": "cnn.com"
-    },
-    {
-      "title": "Australian energy retailers must provide three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 237,
-      "comments": 312,
-      "source": "lenergy.com.au"
-    },
-    {
-      "title": "A metallurgist's doubts about self-replicating probes",
-      "url": "https://www.centauri-dreams.org/2026/07/10/a-metallurgists-doubts-about-self-replicating-probes/",
-      "score": 131,
-      "comments": 59,
-      "source": "centauri-dreams.org"
-    },
-    {
-      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-      "score": 116,
-      "comments": 65,
-      "source": "hpcwire.com"
-    },
-    {
-      "title": "Our Amish Language",
-      "url": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
-      "score": 85,
-      "comments": 61,
-      "source": "thedial.world"
-    },
-    {
-      "title": "No Spanish reading crisis?",
-      "url": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
-      "score": 65,
-      "comments": 104,
-      "source": "commonreader.co.uk"
-    },
-    {
-      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "score": 178,
-      "comments": 20,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Differentiable Fortran with LFortran and Enzyme",
-      "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
-      "score": 42,
-      "comments": 13,
-      "source": "docs.pasteurlabs.ai"
-    },
-    {
-      "title": "Germany set to restrict its Freedom of Information Act",
-      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
-      "score": 246,
-      "comments": 156,
-      "source": "dw.com"
+      "source": "xeiaso.net"
     }
   ],
   "security": [
+    {
+      "title": "ICYMI: June 2026 @AWS Security",
+      "url": "https://aws.amazon.com/blogs/security/icymi-june-2026-aws-security/",
+      "date": "2026-07-15 00:37:58",
+      "author": "Rodolfo Brenes"
+    },
+    {
+      "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure",
+      "url": "https://aws.amazon.com/blogs/security/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure/",
+      "date": "2026-07-14 19:16:57",
+      "author": "Michael Fuller"
+    },
     {
       "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
       "url": "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control/",
@@ -259,18 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/enforce-least-privilege-authorization-in-multi-agent-ai-chains-using-cedar/",
       "date": "2026-07-06 16:52:23",
       "author": "Dhananjay Karanjkar"
-    },
-    {
-      "title": "Secure Amazon container workloads using container attribute-based rules in AWS Network Firewall",
-      "url": "https://aws.amazon.com/blogs/security/secure-amazon-container-workloads-using-container-attribute-based-rules-in-aws-network-firewall/",
-      "date": "2026-07-01 19:40:22",
-      "author": "Amit Gaur"
-    },
-    {
-      "title": "How to use the AWS Workload Credentials Provider for cross-account secret retrieval and prefetching secrets",
-      "url": "https://aws.amazon.com/blogs/security/how-to-use-the-aws-workload-credentials-provider-for-cross-account-secret-retrieval-and-prefetching-secrets/",
-      "date": "2026-07-01 15:56:26",
-      "author": "Derik Wang"
     }
   ]
 }
