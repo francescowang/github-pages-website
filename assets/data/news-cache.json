@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "score": 53,
+      "comments": 21,
+      "source": "journals.plos.org"
+    },
+    {
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "score": 98,
+      "comments": 59,
+      "source": "smithsonianmag.com"
+    },
+    {
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1200,
-      "comments": 747,
+      "score": 1535,
+      "comments": 922,
       "source": "kimi.com"
+    },
+    {
+      "title": "Pebble Mega Update \u2013 July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "score": 82,
+      "comments": 10,
+      "source": "repebble.com"
+    },
+    {
+      "title": "An Engineer's Guide to USB Typ\u0435-\u0421 (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "score": 141,
+      "comments": 4,
+      "source": "ti.com"
     },
     {
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 551,
-      "comments": 120,
+      "score": 653,
+      "comments": 144,
       "source": "opensource.microsoft.com"
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 164,
-      "comments": 64,
-      "source": "lmstudio.ai"
+      "title": "Starlink from 1984",
+      "url": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
+      "score": 27,
+      "comments": 3,
+      "source": "nemanjatrifunovic.substack.com"
     },
     {
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 418,
-      "comments": 100,
+      "score": 525,
+      "comments": 121,
       "source": "mixfont.com"
     },
     {
-      "title": "M 3.9 Experimental Explosion \u2013 147 Km ENE of Ponce Inlet, Florida",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-      "score": 30,
-      "comments": 8,
-      "source": "earthquake.usgs.gov"
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 235,
+      "comments": 81,
+      "source": "lmstudio.ai"
+    },
+    {
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+      "score": 120,
+      "comments": 92,
+      "source": "privacypros.com.au"
     },
     {
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 143,
-      "comments": 146,
+      "score": 239,
+      "comments": 300,
       "source": "tryai.dev"
-    },
-    {
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "score": 58,
-      "comments": 10,
-      "source": "github.com"
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 248,
-      "comments": 127,
-      "source": "blog.google"
-    },
-    {
-      "title": "Google Kills Custom Search API on Jan 1, 2027",
-      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
-      "score": 43,
-      "comments": 23,
-      "source": "thenextgennexus.com"
     },
     {
       "title": "Solod: Go can be a better C",
       "url": "https://solod.dev",
-      "score": 40,
-      "comments": 12,
+      "score": 114,
+      "comments": 44,
       "source": "solod.dev"
     },
     {
-      "title": "Mathematics of Data Science",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "score": 98,
-      "comments": 3,
-      "source": "arxiv.org"
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 298,
+      "comments": 151,
+      "source": "blog.google"
     },
     {
-      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
-      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
-      "score": 49,
-      "comments": 6,
-      "source": "news.yale.edu"
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "score": 116,
+      "comments": 14,
+      "source": "github.com"
     },
     {
-      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
-      "url": "https://www.science.org/doi/10.1126/science.aea9708",
-      "score": 69,
-      "comments": 16,
-      "source": "science.org"
+      "title": "Old Icons",
+      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
+      "score": 46,
+      "comments": 10,
+      "source": "leancrew.com"
     },
     {
-      "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "score": 162,
-      "comments": 107,
-      "source": "blog.lyc8503.net"
+      "title": "M 3.9 Experimental Explosion \u2013 147 Km ENE of Ponce Inlet, Florida",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "score": 59,
+      "comments": 32,
+      "source": "earthquake.usgs.gov"
     },
     {
-      "title": "OnePlus halts operations in USA and Europe",
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 542,
-      "comments": 331,
-      "source": "community.oneplus.com"
-    },
-    {
-      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
-      "url": "https://arxiv.org/abs/2607.12395",
-      "score": 37,
-      "comments": 13,
-      "source": "arxiv.org"
+      "title": "How RCA Victor sold Sound Service to classrooms in 1939",
+      "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
+      "score": 25,
+      "comments": 10,
+      "source": "pncnmnp.github.io"
     },
     {
       "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
       "url": "https://immersivemath.com/ila/",
-      "score": 173,
+      "score": 210,
       "comments": 26,
       "source": "immersivemath.com"
     },
     {
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "url": "https://rtfeldman.com/rust-to-zig",
-      "score": 413,
-      "comments": 228,
-      "source": "rtfeldman.com"
+      "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "score": 190,
+      "comments": 133,
+      "source": "blog.lyc8503.net"
     },
     {
-      "title": "Show HN: Mojibake \u2013 A low-level Unicode library written in C",
-      "url": "https://mojibake.zaerl.com/",
-      "score": 39,
-      "comments": 6,
-      "source": "mojibake.zaerl.com"
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "score": 98,
+      "comments": 27,
+      "source": "science.org"
+    },
+    {
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
+      "score": 144,
+      "comments": 5,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "UIUC AI Teaching Assistant",
+      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "score": 16,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "In Praise of Exhaustive Destructuring",
+      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
+      "score": 12,
+      "comments": 3,
+      "source": "antoine.vandecreme.net"
+    },
+    {
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "score": 75,
+      "comments": 17,
+      "source": "news.yale.edu"
+    },
+    {
+      "title": "The human-in-the-loop is tired",
+      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "score": 173,
+      "comments": 92,
+      "source": "pydantic.dev"
+    },
+    {
+      "title": "CD sales growth outpaced vinyl in the first half of 2026",
+      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+      "score": 95,
+      "comments": 107,
+      "source": "consequence.net"
     },
     {
       "title": "Show HN: Clx \u2013 Compile Lua to Native Executables Through C++20",
       "url": "https://github.com/samyeyo/clx",
-      "score": 87,
-      "comments": 4,
+      "score": 112,
+      "comments": 12,
       "source": "github.com"
     },
     {
-      "title": "CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV",
-      "url": "https://hellorecon.com/blog/cve-2026-25089",
-      "score": 23,
-      "comments": 0,
-      "source": "hellorecon.com"
-    },
-    {
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-      "score": 5,
-      "comments": 0,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "The privacy problems hidden in your period tracker",
-      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
-      "score": 74,
-      "comments": 42,
-      "source": "bbc.com"
-    },
-    {
-      "title": "The Human-in-the-Loop Is Tired",
-      "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-      "score": 9,
-      "comments": 3,
-      "source": "pydantic.dev"
-    },
-    {
-      "title": "Adaptional (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Abstracting Effects with Continuations",
-      "url": "https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/",
-      "score": 37,
-      "comments": 0,
-      "source": "crowdhailer.me"
-    },
-    {
-      "title": "Pseudpocalypse",
-      "url": "https://dynomight.net/pseudpocalypse/",
-      "score": 81,
-      "comments": 48,
-      "source": "dynomight.net"
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "url": "https://arxiv.org/abs/2607.12395",
+      "score": 50,
+      "comments": 18,
+      "source": "arxiv.org"
     },
     {
       "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
       "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "score": 100,
-      "comments": 54,
+      "score": 125,
+      "comments": 60,
       "source": "zhinit.dev"
     },
     {
-      "title": "Goes-19 weather satellite enters Safe Hold mode",
-      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-      "score": 150,
-      "comments": 75,
-      "source": "spaceweather.gov"
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "score": 216,
+      "comments": 225,
+      "source": "theocharis.dev"
     }
   ],
   "security": [
