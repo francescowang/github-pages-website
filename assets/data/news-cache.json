@@ -1,207 +1,200 @@
 {
   "tech": [
     {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 289,
+      "comments": 178,
+      "source": "localnewsmatters.org"
+    },
+    {
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 167,
+      "comments": 51,
+      "source": "goliath32.com"
+    },
+    {
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "score": 35,
+      "comments": 2,
+      "source": "isomorphiclabs.com"
+    },
+    {
+      "title": "V\u0101gdhenu: A Sanskrit Chanting TTS System",
+      "url": "https://prathosh.in/vagdhenu/",
+      "score": 62,
+      "comments": 4,
+      "source": "prathosh.in"
+    },
+    {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 215,
-      "comments": 151,
+      "score": 370,
+      "comments": 233,
       "source": "bbc.com"
     },
     {
-      "title": "Mozilla: The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "score": 252,
-      "comments": 173,
-      "source": "stateofopensource.ai"
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 130,
-      "comments": 77,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "Frame \u2013 the first Linux Assembly X server",
-      "url": "https://isene.org/2026/07/Frame.html",
-      "score": 59,
-      "comments": 37,
-      "source": "isene.org"
-    },
-    {
-      "title": "A Road to Lisp: Which Lisp",
-      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-      "score": 115,
-      "comments": 75,
-      "source": "scotto.me"
-    },
-    {
-      "title": "Three ways people respond to a problem (other than solving it)",
-      "url": "https://improvesomething.today/responses-to-problems/",
-      "score": 114,
-      "comments": 52,
-      "source": "improvesomething.today"
-    },
-    {
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "url": "https://honeypotlive.cc/",
-      "score": 100,
-      "comments": 37,
-      "source": "honeypotlive.cc"
-    },
-    {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "score": 59,
-      "comments": 0,
-      "source": "blog.zksecurity.xyz"
-    },
-    {
-      "title": "Frank Lloyd Wright's First Home",
-      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-      "score": 28,
-      "comments": 15,
-      "source": "architecturaldigest.com"
-    },
-    {
-      "title": "Designing emoji for the way we communicate today",
-      "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
-      "score": 24,
-      "comments": 20,
-      "source": "blog.google"
-    },
-    {
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 14,
-      "comments": 0,
-      "source": "jvns.ca"
-    },
-    {
-      "title": "Show HN: Explore the Workspaces of Modern Creators",
-      "url": "https://workspaces.xyz/",
-      "score": 35,
-      "comments": 28,
-      "source": "workspaces.xyz"
-    },
-    {
-      "title": "More Bounce to the Ounce",
-      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
-      "score": 66,
-      "comments": 18,
-      "source": "mceglowski.substack.com"
-    },
-    {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "score": 228,
-      "comments": 148,
-      "source": "journals.plos.org"
-    },
-    {
-      "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-      "url": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
+      "title": "DrDroid (YC W23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "score": 296,
-      "comments": 238,
-      "source": "ft.com"
-    },
-    {
-      "title": "Pebble Mega Update \u2013 July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "score": 236,
-      "comments": 153,
-      "source": "repebble.com"
-    },
-    {
-      "title": "Faster binary search: from compiled code to mechanical sympathy",
-      "url": "https://pythonspeed.com/articles/branchless-binary-search/",
-      "score": 41,
-      "comments": 11,
-      "source": "pythonspeed.com"
-    },
-    {
-      "title": "Short sellers notch $8.7B profit as SpaceX shares dip to IPO price",
-      "url": "https://www.reuters.com/business/media-telecom/short-sellers-rack-up-87-bln-profit-spacex-slips-below-ipo-price-ortex-2026-07-16/",
-      "score": 78,
-      "comments": 43,
-      "source": "reuters.com"
-    },
-    {
-      "title": "VulnHunter: Capital One's agentic AI code security tool",
-      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-      "score": 43,
-      "comments": 27,
-      "source": "capitalone.com"
-    },
-    {
-      "title": "Latent Space as a New Medium",
-      "url": "https://kevinkelly.substack.com/p/latent-space-as-a-new-medium",
-      "score": 50,
-      "comments": 18,
-      "source": "kevinkelly.substack.com"
-    },
-    {
-      "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
-      "url": "https://sofar.belfortlabs.cloud/",
-      "score": 9,
-      "comments": 4,
-      "source": "sofar.belfortlabs.cloud"
-    },
-    {
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 779,
-      "comments": 167,
-      "source": "opensource.microsoft.com"
-    },
-    {
-      "title": "Camera Chase Vehicle",
-      "url": "https://transistor-man.com/gimbal_camera_rover.html",
-      "score": 159,
-      "comments": 18,
-      "source": "transistor-man.com"
-    },
-    {
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 668,
-      "comments": 149,
-      "source": "mixfont.com"
-    },
-    {
-      "title": "Show HN: Simulator for a custom 8-bit discreet logic computer",
-      "url": "https://msap2.mehran.dk",
-      "score": 13,
-      "comments": 3,
-      "source": "msap2.mehran.dk"
-    },
-    {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1944,
-      "comments": 1131,
-      "source": "kimi.com"
-    },
-    {
-      "title": "PennyLane is an open-source quantum software platform for quantum",
-      "url": "https://github.com/PennyLaneAI/pennylane",
-      "score": 35,
+      "title": "I Started a \"Dirt Notebook\"",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "score": 10,
       "comments": 5,
+      "source": "pinewind.bearblog.dev"
+    },
+    {
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "score": 166,
+      "comments": 40,
+      "source": "jvns.ca"
+    },
+    {
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "url": "https://moonstone.sh/",
+      "score": 5,
+      "comments": 0,
+      "source": "moonstone.sh"
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "score": 278,
+      "comments": 147,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "A grumpy screed about AI in software engineering",
+      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "score": 21,
+      "comments": 10,
+      "source": "sam.sutch.net"
+    },
+    {
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "score": 52,
+      "comments": 3,
+      "source": "curiouscoding.nl"
+    },
+    {
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "score": 126,
+      "comments": 142,
+      "source": "texasattorneygeneral.gov"
+    },
+    {
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "url": "https://www.stenchill.com/en/",
+      "score": 7,
+      "comments": 0,
+      "source": "stenchill.com"
+    },
+    {
+      "title": "Topcoat: The full full-stack framework for Rust",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "score": 44,
+      "comments": 27,
       "source": "github.com"
     },
     {
-      "title": "Tannakian Reconstruction",
-      "url": "https://bartoszmilewski.com/2026/07/14/tannakian-reconstruction/",
-      "score": 24,
+      "title": "Open Book Touch: open-source e-reader",
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "score": 57,
+      "comments": 13,
+      "source": "crowdsupply.com"
+    },
+    {
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "score": 46,
+      "comments": 16,
+      "source": "up.com"
+    },
+    {
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "score": 22,
       "comments": 2,
-      "source": "bartoszmilewski.com"
+      "source": "github.com"
+    },
+    {
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 375,
+      "comments": 271,
+      "source": "stateofopensource.ai"
+    },
+    {
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "url": "https://app.everything.diena.co/",
+      "score": 61,
+      "comments": 23,
+      "source": "app.everything.diena.co"
+    },
+    {
+      "title": "Lego building instructions through time",
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "score": 62,
+      "comments": 9,
+      "source": "lego.com"
+    },
+    {
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "score": 120,
+      "comments": 68,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Frank Lloyd Wright\u2019s first home",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "score": 79,
+      "comments": 41,
+      "source": "architecturaldigest.com"
+    },
+    {
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "score": 197,
+      "comments": 115,
+      "source": "improvesomething.today"
+    },
+    {
+      "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
+      "url": "https://github.com/CharmingBlaze/moonbasic",
+      "score": 52,
+      "comments": 17,
+      "source": "github.com"
+    },
+    {
+      "title": "Designing emoji for the way we communicate today",
+      "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+      "score": 60,
+      "comments": 75,
+      "source": "blog.google"
+    },
+    {
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "score": 140,
+      "comments": 50,
+      "source": "honeypotlive.cc"
+    },
+    {
+      "title": "More Bounce to the Ounce",
+      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "score": 112,
+      "comments": 46,
+      "source": "mceglowski.substack.com"
     }
   ],
   "security": [
