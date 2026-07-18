@@ -1,200 +1,207 @@
 {
   "tech": [
     {
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 276,
-      "comments": 137,
-      "source": "videocardz.com"
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "score": 76,
+      "comments": 52,
+      "source": "queue.acm.org"
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 358,
+      "comments": 212,
+      "source": "old.reddit.com"
+    },
+    {
+      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "url": "https://reotrucks.com",
+      "score": 22,
+      "comments": 17,
+      "source": "reotrucks.com"
+    },
+    {
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "score": 111,
+      "comments": 63,
+      "source": "tangled.org"
+    },
+    {
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "score": 74,
+      "comments": 25,
+      "source": "benlandautaylor.com"
+    },
+    {
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "score": 89,
+      "comments": 56,
+      "source": "elixir-lang.org"
+    },
+    {
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "score": 31,
+      "comments": 17,
+      "source": "deepmind.google"
+    },
+    {
+      "title": "Is this the end of the once-mighty GoPro?",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "score": 140,
+      "comments": 226,
+      "source": "amateurphotographer.com"
+    },
+    {
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "score": 13,
+      "comments": 4,
+      "source": "stephen.bochinski.dev"
     },
     {
       "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "score": 32,
-      "comments": 14,
+      "score": 163,
+      "comments": 83,
       "source": "charlesazam.com"
+    },
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "score": 89,
+      "comments": 65,
+      "source": "ykdojo.github.io"
     },
     {
       "title": "Regressive JPEGs",
       "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "score": 455,
-      "comments": 45,
+      "score": 583,
+      "comments": 62,
       "source": "maurycyz.com"
     },
     {
-      "title": "The Computer at the Bottom of a Canal",
-      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-      "score": 45,
-      "comments": 9,
-      "source": "negroniventurestudios.com"
+      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
+      "url": "https://imaxxing.io/",
+      "score": 12,
+      "comments": 6,
+      "source": "imaxxing.io"
     },
     {
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "url": "https://parksb.github.io/en/article/41.html",
-      "score": 148,
-      "comments": 91,
-      "source": "parksb.github.io"
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "score": 785,
+      "comments": 391,
+      "source": "videocardz.com"
+    },
+    {
+      "title": "Tech note: making your own V-I plots at home",
+      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
+      "score": 44,
+      "comments": 6,
+      "source": "lcamtuf.substack.com"
+    },
+    {
+      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+      "score": 38,
+      "comments": 14,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Show HN: Q3Edit \u2013 Edit and play Quake 3 maps in the browser",
+      "url": "https://q3edit.com",
+      "score": 31,
+      "comments": 7,
+      "source": "q3edit.com"
+    },
+    {
+      "title": "GTX 1080s: Testing a Legend",
+      "url": "https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends",
+      "score": 48,
+      "comments": 15,
+      "source": "lttlabs.com"
     },
     {
       "title": "What AI did to stackoverflow in a graph",
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "score": 86,
-      "comments": 96,
+      "score": 293,
+      "comments": 340,
       "source": "data.stackexchange.com"
+    },
+    {
+      "title": "How GitHub gave every repository a durable owner",
+      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+      "score": 32,
+      "comments": 5,
+      "source": "github.blog"
+    },
+    {
+      "title": "The Computer at the Bottom of a Canal",
+      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+      "score": 114,
+      "comments": 24,
+      "source": "negroniventurestudios.com"
+    },
+    {
+      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+      "score": 195,
+      "comments": 173,
+      "source": "environment.ec.europa.eu"
+    },
+    {
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "score": 197,
+      "comments": 134,
+      "source": "parksb.github.io"
+    },
+    {
+      "title": "Fake food delivery site for the dopamine",
+      "url": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
+      "score": 52,
+      "comments": 18,
+      "source": "old.reddit.com"
+    },
+    {
+      "title": "British runner Josh Kerr breaks world record for mile which stood for 27 years",
+      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
+      "score": 65,
+      "comments": 46,
+      "source": "news.sky.com"
     },
     {
       "title": "Qubes OS Security in the Public Record",
       "url": "https://arxiv.org/abs/2607.14587",
-      "score": 33,
-      "comments": 4,
+      "score": 61,
+      "comments": 9,
       "source": "arxiv.org"
     },
     {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 475,
-      "comments": 280,
-      "source": "bbc.com"
+      "title": "The Fermi Paradox, Percolation, and Inbreeding",
+      "url": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
+      "score": 13,
+      "comments": 22,
+      "source": "reactormag.com"
     },
     {
-      "title": "Responsive Design Calculator",
-      "url": "https://www.redblobgames.com/blog/2026-07-11-responsive-design-calculator/",
-      "score": 7,
-      "comments": 0,
-      "source": "redblobgames.com"
-    },
-    {
-      "title": "Waldi: A quiet place to write, and to be read",
-      "url": "https://github.com/waaldev/waldi",
-      "score": 26,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: IKEA Complexity Index",
-      "url": "https://ikea.greg.technology/",
-      "score": 89,
-      "comments": 47,
-      "source": "ikea.greg.technology"
+      "title": "No link between acetaminophen use during pregnancy and adverse birth outcomes",
+      "url": "https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/",
+      "score": 37,
+      "comments": 18,
+      "source": "sph.unc.edu"
     },
     {
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "score": 242,
-      "comments": 95,
+      "score": 262,
+      "comments": 105,
       "source": "goliath32.com"
-    },
-    {
-      "title": "In-toto: A framework to secure the integrity of software supply chains",
-      "url": "https://in-toto.io/",
-      "score": 48,
-      "comments": 6,
-      "source": "in-toto.io"
-    },
-    {
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "score": 155,
-      "comments": 58,
-      "source": "github.com"
-    },
-    {
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 274,
-      "comments": 73,
-      "source": "jvns.ca"
-    },
-    {
-      "title": "Steam Machine: Between 12k and 15k Units Sold per week",
-      "url": "https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/",
-      "score": 28,
-      "comments": 11,
-      "source": "boilingsteam.com"
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 362,
-      "comments": 192,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "I started a \u201cdirt notebook\u201d",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "score": 81,
-      "comments": 71,
-      "source": "pinewind.bearblog.dev"
-    },
-    {
-      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "url": "https://www.stenchill.com/en/",
-      "score": 64,
-      "comments": 18,
-      "source": "stenchill.com"
-    },
-    {
-      "title": "Static search trees: 40x faster than binary search (2024)",
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "score": 148,
-      "comments": 9,
-      "source": "curiouscoding.nl"
-    },
-    {
-      "title": "Revisiting Yliluoma's ordered dither algorithm",
-      "url": "https://30fps.net/pages/revisiting-yliluoma-2/",
-      "score": 13,
-      "comments": 1,
-      "source": "30fps.net"
-    },
-    {
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "score": 269,
-      "comments": 84,
-      "source": "velvetshark.com"
-    },
-    {
-      "title": "V\u0101gdhenu: A Sanskrit Chanting TTS System",
-      "url": "https://prathosh.in/vagdhenu/",
-      "score": 192,
-      "comments": 47,
-      "source": "prathosh.in"
-    },
-    {
-      "title": "DrDroid (YC W23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Battery packs: Let's talk about crates, baby",
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
-      "score": 36,
-      "comments": 20,
-      "source": "smallcultfollowing.com"
-    },
-    {
-      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
-      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
-      "score": 60,
-      "comments": 4,
-      "source": "blogs.igalia.com"
-    },
-    {
-      "title": "Open Book Touch: open-source e-reader",
-      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "score": 139,
-      "comments": 44,
-      "source": "crowdsupply.com"
-    },
-    {
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "score": 118,
-      "comments": 68,
-      "source": "up.com"
     }
   ],
   "security": [
