@@ -1,214 +1,207 @@
 {
   "tech": [
     {
-      "title": "Qwen 3.8 Max Preview",
-      "url": "https://www.qwencloud.com/pricing/token-plan",
-      "score": 143,
-      "comments": 77,
-      "source": "qwencloud.com"
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "score": 610,
+      "comments": 445,
+      "source": "twitter.com"
+    },
+    {
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "score": 27,
+      "comments": 29,
+      "source": "hmd.com"
     },
     {
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 80,
-      "comments": 42,
+      "score": 321,
+      "comments": 149,
       "source": "chipweinberger.com"
-    },
-    {
-      "title": "Blender 5.2 LTS",
-      "url": "https://www.blender.org/download/releases/5-2/",
-      "score": 89,
-      "comments": 41,
-      "source": "blender.org"
-    },
-    {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 588,
-      "comments": 126,
-      "source": "workshop.cjpais.com"
-    },
-    {
-      "title": "I burned all my tokens researching how to save tokens",
-      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-      "score": 16,
-      "comments": 4,
-      "source": "quesma.com"
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "score": 65,
-      "comments": 30,
-      "source": "github.com"
-    },
-    {
-      "title": "The death and rebirth of my home server",
-      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-      "score": 22,
-      "comments": 8,
-      "source": "sgt.hootr.club"
-    },
-    {
-      "title": "Qwen3.8 is launching and going open-weight soon",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 278,
-      "comments": 144,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 9,
-      "comments": 1,
-      "source": "minecraft.net"
-    },
-    {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 479,
-      "comments": 67,
-      "source": "github.com"
-    },
-    {
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "score": 478,
-      "comments": 488,
-      "source": "stephen.bochinski.dev"
-    },
-    {
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "score": 216,
-      "comments": 148,
-      "source": "codex-resets.com"
-    },
-    {
-      "title": "The Mighty Big Array of Finn Jensen LA8YB",
-      "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
-      "score": 16,
-      "comments": 4,
-      "source": "la0by.darc.de"
-    },
-    {
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "score": 238,
-      "comments": 66,
-      "source": "github.com"
-    },
-    {
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "score": 138,
-      "comments": 85,
-      "source": "scientificamerican.com"
-    },
-    {
-      "title": "Half a Second \u2013 a book about the XZ backdoor",
-      "url": "https://www.half-second.com/",
-      "score": 35,
-      "comments": 31,
-      "source": "half-second.com"
-    },
-    {
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 190,
-      "comments": 162,
-      "source": "neatnik.net"
-    },
-    {
-      "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
-      "url": "https://github.com/loopgain-ai/loopgain",
-      "score": 9,
-      "comments": 8,
-      "source": "github.com"
-    },
-    {
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "score": 36,
-      "comments": 0,
-      "source": "chipsandcheese.com"
-    },
-    {
-      "title": "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]",
-      "url": "https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf",
-      "score": 21,
-      "comments": 3,
-      "source": "ibm-1401.info"
-    },
-    {
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "score": 42,
-      "comments": 35,
-      "source": "supabase.com"
-    },
-    {
-      "title": "I joined the IndieWeb, here's what I learned",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "score": 7,
-      "comments": 2,
-      "source": "en.andros.dev"
-    },
-    {
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "score": 137,
-      "comments": 18,
-      "source": "amigafreeware.downer.tech"
     },
     {
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 122,
-      "comments": 146,
+      "score": 282,
+      "comments": 364,
       "source": "simonwillison.net"
     },
     {
-      "title": "A Visual Catalog of Retro Macintosh Software",
-      "url": "https://www.marciot.com/mac68k-visual-catalog/",
-      "score": 58,
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "score": 70,
+      "comments": 51,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Blender 5.2 LTS",
+      "url": "https://www.blender.org/download/releases/5-2/",
+      "score": 266,
+      "comments": 105,
+      "source": "blender.org"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 190,
+      "comments": 138,
+      "source": "minecraft.net"
+    },
+    {
+      "title": "Cagire: Live Coding in Forth",
+      "url": "https://cagire.raphaelforment.fr",
+      "score": 47,
       "comments": 6,
-      "source": "marciot.com"
+      "source": "cagire.raphaelforment.fr"
     },
     {
-      "title": "Making Software: How to make a font",
-      "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
-      "score": 57,
-      "comments": 9,
-      "source": "makingsoftware.com"
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "score": 233,
+      "comments": 104,
+      "source": "github.com"
     },
     {
-      "title": "Using self-hosted Umami for iOS app analytics",
-      "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
-      "score": 26,
-      "comments": 3,
-      "source": "hjerpbakk.com"
+      "title": "UnifiedIR for Julia",
+      "url": "https://github.com/JuliaLang/julia/pull/62334",
+      "score": 47,
+      "comments": 12,
+      "source": "github.com"
     },
     {
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "score": 237,
-      "comments": 223,
-      "source": "queue.acm.org"
+      "title": "Terence McKenna's Mega Bad Trip",
+      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
+      "score": 45,
+      "comments": 32,
+      "source": "psychedelics.community"
     },
     {
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 500,
-      "comments": 220,
-      "source": "petapixel.com"
+      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+      "score": 23,
+      "comments": 0,
+      "source": "retrogamecoders.com"
     },
     {
-      "title": "How the Elite See Rome",
-      "url": "https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/",
-      "score": 32,
-      "comments": 33,
-      "source": "theatlantic.com"
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "score": 680,
+      "comments": 140,
+      "source": "workshop.cjpais.com"
+    },
+    {
+      "title": "Infinities, impossibilities, and the man in the white linen suit",
+      "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
+      "score": 42,
+      "comments": 34,
+      "source": "iain.so"
+    },
+    {
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "score": 48,
+      "comments": 12,
+      "source": "phoronix.com"
+    },
+    {
+      "title": "Land Atlas \u2013 soil, farmability, and crop analysis for land listings",
+      "url": "https://land-atlas-production.up.railway.app/welcome",
+      "score": 31,
+      "comments": 11,
+      "source": "land-atlas-production.up.railway.app"
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "score": 66,
+      "comments": 15,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "score": 533,
+      "comments": 77,
+      "source": "github.com"
+    },
+    {
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "score": 3,
+      "comments": 0,
+      "source": "smolnero.com"
+    },
+    {
+      "title": "Neither GCC nor Clang are compliant with standard C++",
+      "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
+      "score": 16,
+      "comments": 11,
+      "source": "sebsite.pw"
+    },
+    {
+      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+      "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+      "score": 56,
+      "comments": 26,
+      "source": "thedrive.com"
+    },
+    {
+      "title": "Less Is More: Why Audio on SoundCloud Looks Different",
+      "url": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
+      "score": 10,
+      "comments": 1,
+      "source": "developers.soundcloud.com"
+    },
+    {
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "score": 263,
+      "comments": 173,
+      "source": "codex-resets.com"
+    },
+    {
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "score": 194,
+      "comments": 107,
+      "source": "scientificamerican.com"
+    },
+    {
+      "title": "The death and rebirth of my home server",
+      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "score": 87,
+      "comments": 60,
+      "source": "sgt.hootr.club"
+    },
+    {
+      "title": "Dupes (product clones) took over the world",
+      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
+      "score": 24,
+      "comments": 20,
+      "source": "vox.com"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "score": 293,
+      "comments": 91,
+      "source": "github.com"
+    },
+    {
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "score": 94,
+      "comments": 63,
+      "source": "en.andros.dev"
+    },
+    {
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "score": 228,
+      "comments": 182,
+      "source": "neatnik.net"
     }
   ],
   "security": [
