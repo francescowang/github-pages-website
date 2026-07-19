@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "score": 76,
-      "comments": 52,
-      "source": "queue.acm.org"
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "score": 80,
+      "comments": 12,
+      "source": "workshop.cjpais.com"
+    },
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "score": 290,
+      "comments": 33,
+      "source": "github.com"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "score": 29,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
+      "score": 55,
+      "comments": 8,
+      "source": "amigafreeware.downer.tech"
     },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 358,
-      "comments": 212,
+      "score": 509,
+      "comments": 325,
       "source": "old.reddit.com"
-    },
-    {
-      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
-      "url": "https://reotrucks.com",
-      "score": 22,
-      "comments": 17,
-      "source": "reotrucks.com"
-    },
-    {
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "score": 111,
-      "comments": 63,
-      "source": "tangled.org"
     },
     {
       "title": "If You Build It, They Will Come",
       "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "score": 74,
-      "comments": 25,
+      "score": 276,
+      "comments": 106,
       "source": "benlandautaylor.com"
     },
     {
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "score": 89,
-      "comments": 56,
-      "source": "elixir-lang.org"
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "score": 236,
+      "comments": 110,
+      "source": "petapixel.com"
     },
     {
-      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "score": 31,
-      "comments": 17,
-      "source": "deepmind.google"
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "score": 87,
+      "comments": 66,
+      "source": "neatnik.net"
+    },
+    {
+      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
+      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+      "score": 97,
+      "comments": 18,
+      "source": "mssv.net"
+    },
+    {
+      "title": "Judge a book by its first pages",
+      "url": "https://uncovered.ink",
+      "score": 43,
+      "comments": 32,
+      "source": "uncovered.ink"
     },
     {
       "title": "Is this the end of the once-mighty GoPro?",
       "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-      "score": 140,
-      "comments": 226,
+      "score": 198,
+      "comments": 410,
       "source": "amateurphotographer.com"
-    },
-    {
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "score": 13,
-      "comments": 4,
-      "source": "stephen.bochinski.dev"
     },
     {
       "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "score": 163,
-      "comments": 83,
+      "score": 214,
+      "comments": 107,
       "source": "charlesazam.com"
     },
     {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "score": 89,
-      "comments": 65,
-      "source": "ykdojo.github.io"
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "score": 212,
+      "comments": 134,
+      "source": "tangled.org"
     },
     {
-      "title": "Regressive JPEGs",
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "score": 583,
-      "comments": 62,
-      "source": "maurycyz.com"
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "score": 173,
+      "comments": 106,
+      "source": "elixir-lang.org"
     },
     {
-      "title": "Show HN: Get alerts for good seats at 70mm IMAX showings of The Odyssey",
-      "url": "https://imaxxing.io/",
-      "score": 12,
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+      "score": 36,
       "comments": 6,
-      "source": "imaxxing.io"
+      "source": "tug.org"
+    },
+    {
+      "title": "Developing an Intuitive Sense of Scale",
+      "url": "https://magworld.pw",
+      "score": 6,
+      "comments": 1,
+      "source": "magworld.pw"
+    },
+    {
+      "title": "Harness Engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "score": 13,
+      "comments": 4,
+      "source": "github.com"
+    },
+    {
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "score": 84,
+      "comments": 74,
+      "source": "codex-resets.com"
+    },
+    {
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "score": 67,
+      "comments": 22,
+      "source": "deepmind.google"
     },
     {
       "title": "LG monitors silently install software through Windows Update without consent",
       "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 785,
-      "comments": 391,
+      "score": 1016,
+      "comments": 516,
       "source": "videocardz.com"
     },
     {
-      "title": "Tech note: making your own V-I plots at home",
-      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
-      "score": 44,
-      "comments": 6,
-      "source": "lcamtuf.substack.com"
-    },
-    {
-      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
-      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
-      "score": 38,
-      "comments": 14,
-      "source": "nytimes.com"
+      "title": "Co-evolution of self-replication and function in a digital primordial soup",
+      "url": "https://arxiv.org/abs/2607.09211",
+      "score": 23,
+      "comments": 5,
+      "source": "arxiv.org"
     },
     {
       "title": "Show HN: Q3Edit \u2013 Edit and play Quake 3 maps in the browser",
       "url": "https://q3edit.com",
-      "score": 31,
-      "comments": 7,
+      "score": 68,
+      "comments": 13,
       "source": "q3edit.com"
     },
     {
-      "title": "GTX 1080s: Testing a Legend",
-      "url": "https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends",
-      "score": 48,
-      "comments": 15,
-      "source": "lttlabs.com"
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "score": 179,
+      "comments": 133,
+      "source": "ykdojo.github.io"
+    },
+    {
+      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+      "score": 68,
+      "comments": 27,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Circular Obstacle Pathfinding (2017)",
+      "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+      "score": 24,
+      "comments": 2,
+      "source": "redblobgames.github.io"
+    },
+    {
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "score": 26,
+      "comments": 39,
+      "source": "minimaxir.com"
     },
     {
       "title": "What AI did to stackoverflow in a graph",
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "score": 293,
-      "comments": 340,
+      "score": 368,
+      "comments": 457,
       "source": "data.stackexchange.com"
+    },
+    {
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "score": 298,
+      "comments": 322,
+      "source": "stephen.bochinski.dev"
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "score": 8,
+      "comments": 1,
+      "source": "ludic.mataroa.blog"
     },
     {
       "title": "How GitHub gave every repository a durable owner",
       "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-      "score": 32,
-      "comments": 5,
-      "source": "github.blog"
-    },
-    {
-      "title": "The Computer at the Bottom of a Canal",
-      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-      "score": 114,
+      "score": 68,
       "comments": 24,
-      "source": "negroniventurestudios.com"
-    },
-    {
-      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
-      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
-      "score": 195,
-      "comments": 173,
-      "source": "environment.ec.europa.eu"
-    },
-    {
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "url": "https://parksb.github.io/en/article/41.html",
-      "score": 197,
-      "comments": 134,
-      "source": "parksb.github.io"
-    },
-    {
-      "title": "Fake food delivery site for the dopamine",
-      "url": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
-      "score": 52,
-      "comments": 18,
-      "source": "old.reddit.com"
-    },
-    {
-      "title": "British runner Josh Kerr breaks world record for mile which stood for 27 years",
-      "url": "https://news.sky.com/story/british-runner-josh-kerr-breaks-world-record-for-mile-which-had-stood-for-27-years-13564688",
-      "score": 65,
-      "comments": 46,
-      "source": "news.sky.com"
-    },
-    {
-      "title": "Qubes OS Security in the Public Record",
-      "url": "https://arxiv.org/abs/2607.14587",
-      "score": 61,
-      "comments": 9,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "The Fermi Paradox, Percolation, and Inbreeding",
-      "url": "https://reactormag.com/the-fermi-paradox-percolation-and-inbreeding/",
-      "score": 13,
-      "comments": 22,
-      "source": "reactormag.com"
-    },
-    {
-      "title": "No link between acetaminophen use during pregnancy and adverse birth outcomes",
-      "url": "https://sph.unc.edu/sph-news/no-link-between-acetaminophen-use-during-pregnancy-and-adverse-birth-outcomes-study-finds/",
-      "score": 37,
-      "comments": 18,
-      "source": "sph.unc.edu"
-    },
-    {
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 262,
-      "comments": 105,
-      "source": "goliath32.com"
+      "source": "github.blog"
     }
   ],
   "security": [
