@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Qwen 3.8 Max Preview",
+      "url": "https://www.qwencloud.com/pricing/token-plan",
+      "score": 143,
+      "comments": 77,
+      "source": "qwencloud.com"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 80,
+      "comments": 42,
+      "source": "chipweinberger.com"
+    },
+    {
+      "title": "Blender 5.2 LTS",
+      "url": "https://www.blender.org/download/releases/5-2/",
+      "score": 89,
+      "comments": 41,
+      "source": "blender.org"
+    },
+    {
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 439,
-      "comments": 79,
+      "score": 588,
+      "comments": 126,
       "source": "workshop.cjpais.com"
     },
     {
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-      "score": 31,
-      "comments": 6,
-      "source": "supabase.com"
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "score": 16,
+      "comments": 4,
+      "source": "quesma.com"
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "score": 65,
+      "comments": 30,
+      "source": "github.com"
+    },
+    {
+      "title": "The death and rebirth of my home server",
+      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "score": 22,
+      "comments": 8,
+      "source": "sgt.hootr.club"
+    },
+    {
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "score": 278,
+      "comments": 144,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 9,
+      "comments": 1,
+      "source": "minecraft.net"
     },
     {
       "title": "Speech Recognition and TTS in less than 500kb",
       "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 425,
-      "comments": 53,
-      "source": "github.com"
-    },
-    {
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "score": 158,
-      "comments": 113,
-      "source": "codex-resets.com"
-    },
-    {
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "score": 162,
-      "comments": 39,
+      "score": 479,
+      "comments": 67,
       "source": "github.com"
     },
     {
       "title": "The Kimi K3 Moment",
       "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "score": 356,
-      "comments": 388,
+      "score": 478,
+      "comments": 488,
       "source": "stephen.bochinski.dev"
     },
     {
-      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-      "score": 17,
-      "comments": 0,
-      "source": "chipsandcheese.com"
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "score": 216,
+      "comments": 148,
+      "source": "codex-resets.com"
+    },
+    {
+      "title": "The Mighty Big Array of Finn Jensen LA8YB",
+      "url": "https://la0by.darc.de/LA8YB_EME_MBA.htm",
+      "score": 16,
+      "comments": 4,
+      "source": "la0by.darc.de"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "score": 238,
+      "comments": 66,
+      "source": "github.com"
     },
     {
       "title": "Mathematicians still don't know the fastest way to multiply numbers",
       "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "score": 79,
-      "comments": 52,
+      "score": 138,
+      "comments": 85,
       "source": "scientificamerican.com"
     },
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 553,
-      "comments": 353,
-      "source": "old.reddit.com"
+      "title": "Half a Second \u2013 a book about the XZ backdoor",
+      "url": "https://www.half-second.com/",
+      "score": 35,
+      "comments": 31,
+      "source": "half-second.com"
     },
     {
       "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
       "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 149,
-      "comments": 90,
+      "score": 190,
+      "comments": 162,
       "source": "neatnik.net"
     },
     {
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "score": 385,
-      "comments": 132,
-      "source": "benlandautaylor.com"
+      "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
+      "url": "https://github.com/loopgain-ai/loopgain",
+      "score": 9,
+      "comments": 8,
+      "source": "github.com"
     },
     {
-      "title": "Making Software: How to make a font",
-      "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
-      "score": 33,
-      "comments": 5,
-      "source": "makingsoftware.com"
+      "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+      "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+      "score": 36,
+      "comments": 0,
+      "source": "chipsandcheese.com"
+    },
+    {
+      "title": "Restoring and Demoing 1960s Vintage Computers at the Computer History Museum [pdf]",
+      "url": "https://ibm-1401.info/pictures/Proc-MIW-2017-Garner-1401PDP1.pdf",
+      "score": 21,
+      "comments": 3,
+      "source": "ibm-1401.info"
+    },
+    {
+      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+      "score": 42,
+      "comments": 35,
+      "source": "supabase.com"
+    },
+    {
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "score": 7,
+      "comments": 2,
+      "source": "en.andros.dev"
     },
     {
       "title": "Classic Amiga titles, free to download",
       "url": "https://amigafreeware.downer.tech/",
-      "score": 106,
-      "comments": 15,
+      "score": 137,
+      "comments": 18,
       "source": "amigafreeware.downer.tech"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 122,
+      "comments": 146,
+      "source": "simonwillison.net"
     },
     {
       "title": "A Visual Catalog of Retro Macintosh Software",
       "url": "https://www.marciot.com/mac68k-visual-catalog/",
-      "score": 34,
-      "comments": 5,
+      "score": 58,
+      "comments": 6,
       "source": "marciot.com"
     },
     {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "score": 225,
-      "comments": 153,
-      "source": "ykdojo.github.io"
-    },
-    {
-      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
-      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-      "score": 143,
-      "comments": 18,
-      "source": "mssv.net"
-    },
-    {
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "score": 207,
-      "comments": 208,
-      "source": "queue.acm.org"
-    },
-    {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 447,
-      "comments": 198,
-      "source": "petapixel.com"
-    },
-    {
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "score": 223,
-      "comments": 123,
-      "source": "elixir-lang.org"
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "score": 179,
-      "comments": 65,
-      "source": "ludic.mataroa.blog"
-    },
-    {
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "score": 231,
-      "comments": 144,
-      "source": "tangled.org"
+      "title": "Making Software: How to make a font",
+      "url": "https://www.makingsoftware.com/chapters/how-to-make-a-font",
+      "score": 57,
+      "comments": 9,
+      "source": "makingsoftware.com"
     },
     {
       "title": "Using self-hosted Umami for iOS app analytics",
       "url": "https://hjerpbakk.com/blog/2026/07/14/umami-for-apps",
-      "score": 5,
-      "comments": 1,
+      "score": 26,
+      "comments": 3,
       "source": "hjerpbakk.com"
     },
     {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "score": 235,
-      "comments": 115,
-      "source": "charlesazam.com"
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "score": 237,
+      "comments": 223,
+      "source": "queue.acm.org"
     },
     {
-      "title": "Is this the end of the once-mighty GoPro?",
-      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
-      "score": 215,
-      "comments": 473,
-      "source": "amateurphotographer.com"
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "score": 500,
+      "comments": 220,
+      "source": "petapixel.com"
     },
     {
-      "title": "Deepsec",
-      "url": "https://github.com/vercel-labs/deepsec",
-      "score": 22,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Developing an Intuitive Sense of Scale",
-      "url": "https://magworld.pw",
-      "score": 27,
-      "comments": 4,
-      "source": "magworld.pw"
-    },
-    {
-      "title": "I built a browser-based P2P file transfer tool using WebRTC",
-      "url": "https://airdows.com/",
-      "score": 17,
-      "comments": 11,
-      "source": "airdows.com"
-    },
-    {
-      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
-      "url": "https://reotrucks.com",
-      "score": 85,
-      "comments": 136,
-      "source": "reotrucks.com"
-    },
-    {
-      "title": "Co-evolution of self-replication and function in a digital primordial soup",
-      "url": "https://arxiv.org/abs/2607.09211",
-      "score": 66,
-      "comments": 12,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "What's the deal with all the random weekly quota resets for agents lately?",
-      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
-      "score": 50,
-      "comments": 53,
-      "source": "minimaxir.com"
+      "title": "How the Elite See Rome",
+      "url": "https://www.theatlantic.com/magazine/2026/08/rome-elite-tourism-imago-artis/687621/",
+      "score": 32,
+      "comments": 33,
+      "source": "theatlantic.com"
     }
   ],
   "security": [
