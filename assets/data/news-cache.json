@@ -1,207 +1,207 @@
 {
   "tech": [
     {
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 610,
-      "comments": 445,
-      "source": "twitter.com"
-    },
-    {
-      "title": "HMD Touch 4G",
-      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "score": 27,
-      "comments": 29,
-      "source": "hmd.com"
-    },
-    {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 321,
-      "comments": 149,
-      "source": "chipweinberger.com"
-    },
-    {
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 282,
-      "comments": 364,
+      "score": 398,
+      "comments": 563,
       "source": "simonwillison.net"
-    },
-    {
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 70,
-      "comments": 51,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Blender 5.2 LTS",
-      "url": "https://www.blender.org/download/releases/5-2/",
-      "score": 266,
-      "comments": 105,
-      "source": "blender.org"
-    },
-    {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 190,
-      "comments": 138,
-      "source": "minecraft.net"
-    },
-    {
-      "title": "Cagire: Live Coding in Forth",
-      "url": "https://cagire.raphaelforment.fr",
-      "score": 47,
-      "comments": 6,
-      "source": "cagire.raphaelforment.fr"
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "score": 233,
-      "comments": 104,
-      "source": "github.com"
-    },
-    {
-      "title": "UnifiedIR for Julia",
-      "url": "https://github.com/JuliaLang/julia/pull/62334",
-      "score": 47,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "Terence McKenna's Mega Bad Trip",
-      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
-      "score": 45,
-      "comments": 32,
-      "source": "psychedelics.community"
-    },
-    {
-      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-      "score": 23,
-      "comments": 0,
-      "source": "retrogamecoders.com"
-    },
-    {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 680,
-      "comments": 140,
-      "source": "workshop.cjpais.com"
-    },
-    {
-      "title": "Infinities, impossibilities, and the man in the white linen suit",
-      "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
-      "score": 42,
-      "comments": 34,
-      "source": "iain.so"
-    },
-    {
-      "title": "The Last MPEG-4 Visual Patent Has Expired",
-      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
-      "score": 48,
-      "comments": 12,
-      "source": "phoronix.com"
-    },
-    {
-      "title": "Land Atlas \u2013 soil, farmability, and crop analysis for land listings",
-      "url": "https://land-atlas-production.up.railway.app/welcome",
-      "score": 31,
-      "comments": 11,
-      "source": "land-atlas-production.up.railway.app"
-    },
-    {
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "score": 66,
-      "comments": 15,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 533,
-      "comments": 77,
-      "source": "github.com"
     },
     {
       "title": "The Zen of Parallel Programming",
       "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 3,
-      "comments": 0,
+      "score": 115,
+      "comments": 13,
       "source": "smolnero.com"
     },
     {
-      "title": "Neither GCC nor Clang are compliant with standard C++",
-      "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-      "score": 16,
-      "comments": 11,
-      "source": "sebsite.pw"
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 414,
+      "comments": 196,
+      "source": "chipweinberger.com"
     },
     {
-      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
-      "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
-      "score": 56,
-      "comments": 26,
-      "source": "thedrive.com"
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 276,
+      "comments": 184,
+      "source": "minecraft.net"
     },
     {
-      "title": "Less Is More: Why Audio on SoundCloud Looks Different",
-      "url": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/",
-      "score": 10,
-      "comments": 1,
-      "source": "developers.soundcloud.com"
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "score": 51,
+      "comments": 39,
+      "source": "raymii.org"
     },
     {
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
-      "score": 263,
-      "comments": 173,
-      "source": "codex-resets.com"
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "score": 41,
+      "comments": 6,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
-      "score": 194,
-      "comments": 107,
-      "source": "scientificamerican.com"
-    },
-    {
-      "title": "The death and rebirth of my home server",
-      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-      "score": 87,
-      "comments": 60,
-      "source": "sgt.hootr.club"
-    },
-    {
-      "title": "Dupes (product clones) took over the world",
-      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
-      "score": 24,
-      "comments": 20,
-      "source": "vox.com"
-    },
-    {
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "score": 293,
-      "comments": 91,
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "score": 324,
+      "comments": 152,
       "source": "github.com"
+    },
+    {
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "score": 23,
+      "comments": 0,
+      "source": "pgadey.ca"
+    },
+    {
+      "title": "Who Is America's Homer?",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "score": 38,
+      "comments": 88,
+      "source": "plough.com"
+    },
+    {
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "score": 128,
+      "comments": 89,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "score": 62,
+      "comments": 68,
+      "source": "orionbrowser.com"
+    },
+    {
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "score": 69,
+      "comments": 57,
+      "source": "justsomebody.dev"
+    },
+    {
+      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "score": 31,
+      "comments": 2,
+      "source": "openculture.com"
+    },
+    {
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "score": 793,
+      "comments": 559,
+      "source": "twitter.com"
+    },
+    {
+      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+      "score": 63,
+      "comments": 4,
+      "source": "retrogamecoders.com"
+    },
+    {
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "score": 59,
+      "comments": 63,
+      "source": "hmd.com"
+    },
+    {
+      "title": "AI advice made people less accurate but more confident \u2013 sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "score": 282,
+      "comments": 160,
+      "source": "thenextweb.com"
+    },
+    {
+      "title": "Cagire: Live Coding in Forth",
+      "url": "https://cagire.raphaelforment.fr",
+      "score": 78,
+      "comments": 11,
+      "source": "cagire.raphaelforment.fr"
+    },
+    {
+      "title": "Dupes took over the world",
+      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
+      "score": 63,
+      "comments": 56,
+      "source": "vox.com"
     },
     {
       "title": "I joined the IndieWeb, here's what I learned",
       "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "score": 94,
-      "comments": 63,
+      "score": 156,
+      "comments": 85,
       "source": "en.andros.dev"
     },
     {
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 228,
-      "comments": 182,
-      "source": "neatnik.net"
+      "title": "We want Texans to know their rights",
+      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "score": 143,
+      "comments": 41,
+      "source": "eff.org"
+    },
+    {
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "score": 98,
+      "comments": 131,
+      "source": "quesma.com"
+    },
+    {
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "score": 3,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Natural experiments prove phytoplankton carbon removal works",
+      "url": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
+      "score": 48,
+      "comments": 22,
+      "source": "onepercentbrighter.com"
+    },
+    {
+      "title": "Ise Jingu and the Pyramid of Enabling Technologies (2021)",
+      "url": "https://www.scopeofwork.net/ise-jingu-and-the-pyramid-of-enabling-technologies/",
+      "score": 7,
+      "comments": 4,
+      "source": "scopeofwork.net"
+    },
+    {
+      "title": "Terence McKenna's Mega Bad Trip (2025)",
+      "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip",
+      "score": 66,
+      "comments": 69,
+      "source": "psychedelics.community"
+    },
+    {
+      "title": "UnifiedIR for Julia",
+      "url": "https://github.com/JuliaLang/julia/pull/62334",
+      "score": 83,
+      "comments": 16,
+      "source": "github.com"
+    },
+    {
+      "title": "Ollama: All Aboard Open Models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "score": 108,
+      "comments": 46,
+      "source": "ollama.com"
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "score": 231,
+      "comments": 96,
+      "source": "twitter.com"
     }
   ],
   "security": [
