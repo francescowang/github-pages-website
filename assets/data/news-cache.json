@@ -1,207 +1,207 @@
 {
   "tech": [
     {
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "score": 35,
+      "comments": 3,
+      "source": "news.risky.biz"
+    },
+    {
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "score": 215,
+      "comments": 58,
+      "source": "airport.apunen.com"
+    },
+    {
+      "title": "Stop Using OpenCode",
+      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+      "score": 118,
+      "comments": 79,
+      "source": "wren.wtf"
+    },
+    {
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "score": 256,
+      "comments": 133,
+      "source": "slcyber.io"
+    },
+    {
+      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+      "score": 156,
+      "comments": 92,
+      "source": "edri.org"
+    },
+    {
+      "title": "ECC and DDR5",
+      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+      "score": 18,
+      "comments": 3,
+      "source": "etbe.coker.com.au"
+    },
+    {
+      "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
+      "url": "https://yang-ai-lab.github.io/Inertia-1/",
+      "score": 7,
+      "comments": 0,
+      "source": "yang-ai-lab.github.io"
+    },
+    {
+      "title": "Satan's 19th-Century Bank Note",
+      "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
+      "score": 8,
+      "comments": 0,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "Sensing warm and cool: how the body detects temperature changes",
+      "url": "https://news.uq.edu.au/2026-07-sensing-warm-and-cool-how-body-detects-temperature-changes",
+      "score": 14,
+      "comments": 2,
+      "source": "news.uq.edu.au"
+    },
+    {
       "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
       "url": "https://github.com/hgaiser/moonshine",
-      "score": 156,
-      "comments": 71,
+      "score": 268,
+      "comments": 109,
       "source": "github.com"
     },
     {
-      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "score": 64,
-      "comments": 7,
-      "source": "github.com"
-    },
-    {
-      "title": "Xiaomi-Robotics-1",
-      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-      "score": 176,
-      "comments": 113,
-      "source": "robotics.xiaomi.com"
-    },
-    {
-      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "score": 31,
-      "comments": 13,
-      "source": "spectrum.ieee.org"
+      "title": "What does the Riemann zeta function have to do with the distribution of primes?",
+      "url": "https://hidden-phenomena.com/articles/rh",
+      "score": 45,
+      "comments": 8,
+      "source": "hidden-phenomena.com"
     },
     {
       "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
       "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-      "score": 23,
-      "comments": 11,
+      "score": 85,
+      "comments": 58,
       "source": "labrujulaverde.com"
+    },
+    {
+      "title": "Moist Towelette Museum",
+      "url": "https://moisttowelettemuseum.com/",
+      "score": 44,
+      "comments": 11,
+      "source": "moisttowelettemuseum.com"
+    },
+    {
+      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "score": 113,
+      "comments": 23,
+      "source": "github.com"
+    },
+    {
+      "title": "Codex is wearing out our devices",
+      "url": "https://old.reddit.com/r/codex/comments/1v0m3lt/codex_is_wearing_out_our_devices/",
+      "score": 13,
+      "comments": 3,
+      "source": "old.reddit.com"
     },
     {
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 507,
-      "comments": 670,
+      "score": 571,
+      "comments": 763,
       "source": "simonwillison.net"
     },
     {
-      "title": "1-Bit LLM in the Browser",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "score": 28,
-      "comments": 7,
-      "source": "huggingface.co"
+      "title": "Eliminating Go bounds checks with unsafe",
+      "url": "https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe",
+      "score": 35,
+      "comments": 16,
+      "source": "blog.andr2i.com"
+    },
+    {
+      "title": "Show HN: Stacks \u2013 an hourly card solitaire about building four gardens",
+      "url": "https://plan9.kr/stacks/",
+      "score": 6,
+      "comments": 0,
+      "source": "plan9.kr"
     },
     {
       "title": "Orion Browser by Kagi",
       "url": "https://orionbrowser.com/",
-      "score": 189,
-      "comments": 130,
+      "score": 259,
+      "comments": 216,
       "source": "orionbrowser.com"
     },
     {
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 482,
-      "comments": 219,
+      "score": 523,
+      "comments": 237,
       "source": "chipweinberger.com"
     },
     {
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "score": 155,
-      "comments": 19,
-      "source": "smolnero.com"
+      "title": "1-Bit LLM in the Browser",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "score": 76,
+      "comments": 29,
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "score": 332,
+      "comments": 225,
+      "source": "robotics.xiaomi.com"
     },
     {
       "title": "Minecraft: Java Edition now uses SDL3",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 307,
-      "comments": 202,
+      "score": 337,
+      "comments": 224,
       "source": "minecraft.net"
     },
     {
-      "title": "How proprietary formats have become Microsoft\u2019s main tool for lock-in",
-      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-      "score": 74,
-      "comments": 35,
-      "source": "blog.documentfoundation.org"
+      "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
+      "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
+      "score": 4,
+      "comments": 0,
+      "source": "kotaku.com"
+    },
+    {
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "score": 180,
+      "comments": 28,
+      "source": "smolnero.com"
+    },
+    {
+      "title": "Airbus Takes Flight from AWS",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "score": 156,
+      "comments": 114,
+      "source": "theregister.com"
     },
     {
       "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
       "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 154,
-      "comments": 115,
+      "score": 174,
+      "comments": 133,
       "source": "bbc.com"
     },
     {
-      "title": "HomeLab #1: MikroTik as a Home Router",
-      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
-      "score": 113,
-      "comments": 95,
-      "source": "justsomebody.dev"
-    },
-    {
-      "title": "EU Exempts Apple Watch and AirPods from Battery Removal Requirements",
-      "url": "https://mjtsai.com/blog/2026/07/17/eu-exempts-apple-watch-and-airpods-from-battery-removal-requirement/",
-      "score": 13,
-      "comments": 19,
-      "source": "mjtsai.com"
-    },
-    {
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 365,
-      "comments": 210,
-      "source": "xcancel.com"
-    },
-    {
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 873,
-      "comments": 599,
-      "source": "twitter.com"
+      "title": "When can a power company take your land for data center infrastructure?",
+      "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+      "score": 141,
+      "comments": 117,
+      "source": "theconversation.com"
     },
     {
       "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
       "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
-      "score": 60,
-      "comments": 2,
-      "source": "openculture.com"
-    },
-    {
-      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-      "score": 70,
-      "comments": 12,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Korg PS-3300 is back",
-      "url": "https://www.korg.co.uk/blogs/updates/ps3300",
-      "score": 48,
-      "comments": 47,
-      "source": "korg.co.uk"
-    },
-    {
-      "title": "Who Is America's Homer?",
-      "url": "https://www.plough.com/articles/who-is-americas-homer",
-      "score": 72,
-      "comments": 168,
-      "source": "plough.com"
-    },
-    {
-      "title": "I joined the IndieWeb, here's what I learned",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-      "score": 199,
-      "comments": 99,
-      "source": "en.andros.dev"
-    },
-    {
-      "title": "I burned all my tokens researching how to save tokens",
-      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-      "score": 130,
-      "comments": 166,
-      "source": "quesma.com"
-    },
-    {
-      "title": "HMD Touch 4G",
-      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "score": 74,
-      "comments": 75,
-      "source": "hmd.com"
-    },
-    {
-      "title": "Talk: The Art of Braiding Algorithms",
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-      "score": 40,
-      "comments": 0,
-      "source": "pgadey.ca"
-    },
-    {
-      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-      "score": 70,
-      "comments": 5,
-      "source": "retrogamecoders.com"
-    },
-    {
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
-      "score": 77,
-      "comments": 67,
-      "source": "raymii.org"
-    },
-    {
-      "title": "Cagire: Live Coding in Forth",
-      "url": "https://cagire.raphaelforment.fr",
-      "score": 95,
-      "comments": 12,
-      "source": "cagire.raphaelforment.fr"
-    },
-    {
-      "title": "Dupes took over the world",
-      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
       "score": 89,
-      "comments": 86,
-      "source": "vox.com"
+      "comments": 4,
+      "source": "openculture.com"
     }
   ],
   "security": [
