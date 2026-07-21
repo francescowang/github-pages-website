@@ -1,210 +1,216 @@
 {
   "tech": [
     {
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "score": 64,
+      "comments": 52,
+      "source": "ads.openai.com"
+    },
+    {
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "score": 194,
+      "comments": 28,
+      "source": "e360.yale.edu"
+    },
+    {
+      "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
+      "url": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+      "score": 30,
+      "comments": 10,
+      "source": "blog.qstars.nl"
+    },
+    {
+      "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "score": 35,
+      "comments": 7,
+      "source": "cacm.acm.org"
+    },
+    {
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "score": 426,
+      "comments": 342,
+      "source": "blog.google"
+    },
+    {
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "score": 56,
+      "comments": 35,
+      "source": "ai.meta.com"
+    },
+    {
+      "title": "Freeink: Open Ecosystem for E-Readers",
+      "url": "https://freeink.org/",
+      "score": 24,
+      "comments": 7,
+      "source": "freeink.org"
+    },
+    {
+      "title": "Apple has decided to compete for creativity app users",
+      "url": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
+      "score": 17,
+      "comments": 0,
+      "source": "alex4d.com"
+    },
+    {
+      "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+      "url": "https://github.com/Kalcode/spaceprojectsim",
+      "score": 17,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
+      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+      "score": 57,
+      "comments": 10,
+      "source": "postquantum.com"
+    },
+    {
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "score": 281,
-      "comments": 125,
+      "score": 490,
+      "comments": 202,
       "source": "qwen.ai"
     },
     {
-      "title": "New US homeownership measure puts people first",
-      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
-      "score": 93,
+      "title": "PCjs Machines",
+      "url": "https://www.pcjs.org/",
+      "score": 141,
+      "comments": 13,
+      "source": "pcjs.org"
+    },
+    {
+      "title": "Apple Private Cloud Compute SoC 3 audit reports",
+      "url": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+      "score": 18,
+      "comments": 0,
+      "source": "support.apple.com"
+    },
+    {
+      "title": "Show HN: Imagin Raw \u2013 A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+      "url": "https://github.com/cristibaluta/Imagin-Raw",
+      "score": 31,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "score": 71,
+      "comments": 59,
+      "source": "runtimewire.com"
+    },
+    {
+      "title": "The unreasonable difficulty of time series forecasting",
+      "url": "https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html",
+      "score": 60,
+      "comments": 20,
+      "source": "suzyahyah.github.io"
+    },
+    {
+      "title": "My USB Drive Has a Hidden Encrypted Vault",
+      "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+      "score": 73,
+      "comments": 47,
+      "source": "rootkitlabs.com"
+    },
+    {
+      "title": "Slater \u2013 Low-memory graphdb designed for read-heavy graphs",
+      "url": "https://github.com/Hikari-Systems/slater",
+      "score": 6,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Greedy is optimal for single-pass semi-streaming matching",
+      "url": "https://arxiv.org/abs/2607.14656",
+      "score": 6,
+      "comments": 0,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Uhubctl \u2013 control USB power per-port on smart USB hubs",
+      "url": "https://github.com/mvp/uhubctl",
+      "score": 17,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "AI Agent \u2013 TRMNL",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "score": 6,
+      "comments": 6,
+      "source": "help.trmnl.com"
+    },
+    {
+      "title": "The World's 2,400 Castles",
+      "url": "https://thecastlemap.com/",
+      "score": 114,
       "comments": 88,
-      "source": "minneapolisfed.org"
+      "source": "thecastlemap.com"
+    },
+    {
+      "title": "Show HN: CodeAlmanac \u2013 Karpathy-style codebase wiki from your conversations",
+      "url": "https://github.com/AlmanacCode/codealmanac/",
+      "score": 15,
+      "comments": 6,
+      "source": "github.com"
+    },
+    {
+      "title": "Laguna S 2.1",
+      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "score": 35,
+      "comments": 3,
+      "source": "poolside.ai"
+    },
+    {
+      "title": "YouTube System Design for Robotics Data Infrastructure",
+      "url": "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure",
+      "score": 5,
+      "comments": 1,
+      "source": "hebbianrobotics.com"
     },
     {
       "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode \u2013 Ken Jin's Blog",
       "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-      "score": 45,
-      "comments": 0,
+      "score": 130,
+      "comments": 11,
       "source": "fidget-spinner.github.io"
+    },
+    {
+      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "score": 216,
+      "comments": 186,
+      "source": "blog.ericgoldman.org"
+    },
+    {
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "score": 60,
+      "comments": 30,
+      "source": "blog.mozilla.org"
     },
     {
       "title": "Incremental \u2013 A library for incremental computations",
       "url": "https://github.com/janestreet/incremental",
-      "score": 269,
-      "comments": 52,
-      "source": "github.com"
-    },
-    {
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 771,
-      "comments": 584,
-      "source": "stratechery.com"
-    },
-    {
-      "title": "Garzed \u2013 my garden waters itself off soil-moisture sensors",
-      "url": "https://garzed.com",
-      "score": 4,
-      "comments": 1,
-      "source": "garzed.com"
-    },
-    {
-      "title": "The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%",
-      "url": "https://boilingsteam.com/the-great-steam-deck-volume-crash/",
-      "score": 19,
-      "comments": 16,
-      "source": "boilingsteam.com"
-    },
-    {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "score": 575,
-      "comments": 167,
-      "source": "jelly-ui.com"
-    },
-    {
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "score": 611,
-      "comments": 251,
-      "source": "kimi.com"
-    },
-    {
-      "title": "Human mathematicians are being outcounterexampled",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "score": 400,
-      "comments": 186,
-      "source": "xenaproject.wordpress.com"
-    },
-    {
-      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
-      "score": 48,
-      "comments": 16,
-      "source": "allaboutcircuits.com"
-    },
-    {
-      "title": "Motion Sensors and Home Security Gadgets Without Cameras",
-      "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
-      "score": 6,
-      "comments": 0,
-      "source": "wired.com"
-    },
-    {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "url": "https://www.armaangomes.com/blogs/doom/",
-      "score": 100,
-      "comments": 21,
-      "source": "armaangomes.com"
-    },
-    {
-      "title": "How to pack ternary numbers in 8-bit bytes",
-      "url": "https://compilade.net/blog/ternary-packing",
-      "score": 52,
-      "comments": 30,
-      "source": "compilade.net"
-    },
-    {
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
-      "score": 317,
-      "comments": 109,
-      "source": "blaizzy.github.io"
-    },
-    {
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "url": "https://vincentwoo.com/3d/grace_cathedral/",
-      "score": 215,
-      "comments": 45,
-      "source": "vincentwoo.com"
-    },
-    {
-      "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
-      "url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
-      "score": 66,
-      "comments": 50,
-      "source": "tokyodev.com"
-    },
-    {
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "score": 50,
-      "comments": 38,
-      "source": "instructables.com"
-    },
-    {
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-      "score": 166,
-      "comments": 150,
-      "source": "numerlab.org"
-    },
-    {
-      "title": "Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "score": 236,
-      "comments": 104,
-      "source": "cursor.com"
-    },
-    {
-      "title": "The Psychology of Software Teams",
-      "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
-      "score": 131,
-      "comments": 41,
-      "source": "routledge.com"
-    },
-    {
-      "title": "You only need the frontier model for one single edit",
-      "url": "https://stencil.so/blog/prewalk",
-      "score": 193,
+      "score": 320,
       "comments": 61,
-      "source": "stencil.so"
-    },
-    {
-      "title": "China\u2019s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1159,
-      "comments": 868,
-      "source": "werd.io"
-    },
-    {
-      "title": "I Stopped \u201cCreating Content\u201d",
-      "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-      "score": 221,
-      "comments": 185,
-      "source": "refactoringenglish.com"
-    },
-    {
-      "title": "Show HN: Ex Situ \u2013 Open-source spatial index of displaced cultural artifacts",
-      "url": "https://exsitu.app/map",
-      "score": 43,
-      "comments": 27,
-      "source": "exsitu.app"
-    },
-    {
-      "title": "Shinjuku Station in 3D",
-      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-      "score": 255,
-      "comments": 57,
-      "source": "satoshi7190.github.io"
-    },
-    {
-      "title": "Perfection is not over-engineering",
-      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "score": 259,
-      "comments": 114,
-      "source": "var0.xyz"
-    },
-    {
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "score": 131,
-      "comments": 26,
-      "source": "scottrlarson.com"
-    },
-    {
-      "title": "Jellyfin founder Andrew leaves team",
-      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
-      "score": 300,
-      "comments": 262,
-      "source": "forum.jellyfin.org"
+      "source": "github.com"
     }
   ],
   "security": [
+    {
+      "title": "Do more with AWS WAF labels using dynamic label interpolation",
+      "url": "https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation/",
+      "date": "2026-07-21 17:03:16",
+      "author": "Eitav Arditti"
+    },
     {
       "title": "Introducing the Amazon GuardDuty investigation agent: on-demand AI-powered threat assessment",
       "url": "https://aws.amazon.com/blogs/security/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment/",
@@ -258,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/",
       "date": "2026-07-08 18:58:42",
       "author": "Manideep Konakandla"
-    },
-    {
-      "title": "The CISO\u2019s guide to post-quantum mandates and migrations",
-      "url": "https://aws.amazon.com/blogs/security/the-cisos-guide-to-post-quantum-mandates-and-migrations/",
-      "date": "2026-07-08 15:00:05",
-      "author": "Rushir Patel"
     }
   ]
 }
