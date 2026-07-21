@@ -1,207 +1,207 @@
 {
   "tech": [
     {
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "score": 281,
+      "comments": 125,
+      "source": "qwen.ai"
+    },
+    {
+      "title": "New US homeownership measure puts people first",
+      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
+      "score": 93,
+      "comments": 88,
+      "source": "minneapolisfed.org"
+    },
+    {
+      "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode \u2013 Ken Jin's Blog",
+      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
+      "score": 45,
+      "comments": 0,
+      "source": "fidget-spinner.github.io"
+    },
+    {
       "title": "Incremental \u2013 A library for incremental computations",
       "url": "https://github.com/janestreet/incremental",
-      "score": 155,
-      "comments": 23,
+      "score": 269,
+      "comments": 52,
       "source": "github.com"
     },
     {
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 592,
-      "comments": 400,
+      "score": 771,
+      "comments": 584,
       "source": "stratechery.com"
     },
     {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "url": "https://www.armaangomes.com/blogs/doom/",
-      "score": 53,
-      "comments": 10,
-      "source": "armaangomes.com"
+      "title": "Garzed \u2013 my garden waters itself off soil-moisture sensors",
+      "url": "https://garzed.com",
+      "score": 4,
+      "comments": 1,
+      "source": "garzed.com"
     },
     {
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "score": 521,
-      "comments": 225,
-      "source": "kimi.com"
+      "title": "The Great Steam Deck Crash of 2026: How the New Pricing Decreased Demand by 80%",
+      "url": "https://boilingsteam.com/the-great-steam-deck-volume-crash/",
+      "score": 19,
+      "comments": 16,
+      "source": "boilingsteam.com"
     },
     {
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
-      "score": 460,
-      "comments": 150,
+      "score": 575,
+      "comments": 167,
       "source": "jelly-ui.com"
     },
     {
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "score": 250,
-      "comments": 121,
-      "source": "asia.nikkei.com"
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 611,
+      "comments": 251,
+      "source": "kimi.com"
     },
     {
       "title": "Human mathematicians are being outcounterexampled",
       "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "score": 323,
-      "comments": 127,
+      "score": 400,
+      "comments": 186,
       "source": "xenaproject.wordpress.com"
     },
     {
-      "title": "Linux kernel will support $ORIGIN, sort of",
-      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-      "score": 19,
-      "comments": 8,
-      "source": "fzakaria.com"
+      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+      "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
+      "score": 48,
+      "comments": 16,
+      "source": "allaboutcircuits.com"
     },
     {
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "score": 29,
-      "comments": 22,
-      "source": "instructables.com"
+      "title": "Motion Sensors and Home Security Gadgets Without Cameras",
+      "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+      "score": 6,
+      "comments": 0,
+      "source": "wired.com"
     },
     {
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
-      "score": 265,
-      "comments": 87,
-      "source": "blaizzy.github.io"
-    },
-    {
-      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
-      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
-      "score": 374,
-      "comments": 103,
-      "source": "aclu.org"
-    },
-    {
-      "title": "Show HN: Ex Situ \u2013 Open-source spatial index of displaced cultural artifacts",
-      "url": "https://exsitu.app/map",
-      "score": 27,
-      "comments": 13,
-      "source": "exsitu.app"
-    },
-    {
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "url": "https://vincentwoo.com/3d/grace_cathedral/",
-      "score": 154,
-      "comments": 33,
-      "source": "vincentwoo.com"
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "score": 100,
+      "comments": 21,
+      "source": "armaangomes.com"
     },
     {
       "title": "How to pack ternary numbers in 8-bit bytes",
       "url": "https://compilade.net/blog/ternary-packing",
-      "score": 4,
-      "comments": 1,
+      "score": 52,
+      "comments": 30,
       "source": "compilade.net"
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "score": 317,
+      "comments": 109,
+      "source": "blaizzy.github.io"
+    },
+    {
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "score": 215,
+      "comments": 45,
+      "source": "vincentwoo.com"
     },
     {
       "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
       "url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
-      "score": 17,
-      "comments": 1,
+      "score": 66,
+      "comments": 50,
       "source": "tokyodev.com"
+    },
+    {
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "score": 50,
+      "comments": 38,
+      "source": "instructables.com"
+    },
+    {
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+      "score": 166,
+      "comments": 150,
+      "source": "numerlab.org"
     },
     {
       "title": "Agent swarms and the new model economics",
       "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "score": 184,
-      "comments": 83,
+      "score": 236,
+      "comments": 104,
       "source": "cursor.com"
-    },
-    {
-      "title": "Tensor Notation in Mathup",
-      "url": "https://mathup.xyz/#tensors",
-      "score": 10,
-      "comments": 1,
-      "source": "mathup.xyz"
-    },
-    {
-      "title": "China\u2019s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 1092,
-      "comments": 831,
-      "source": "werd.io"
     },
     {
       "title": "The Psychology of Software Teams",
       "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
-      "score": 85,
-      "comments": 22,
+      "score": 131,
+      "comments": 41,
       "source": "routledge.com"
     },
     {
       "title": "You only need the frontier model for one single edit",
       "url": "https://stencil.so/blog/prewalk",
-      "score": 130,
-      "comments": 39,
+      "score": 193,
+      "comments": 61,
       "source": "stencil.so"
     },
     {
-      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-      "score": 101,
-      "comments": 17,
-      "source": "scottrlarson.com"
+      "title": "China\u2019s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "score": 1159,
+      "comments": 868,
+      "source": "werd.io"
     },
     {
-      "title": "My two year old taught me constraint solving",
-      "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-      "score": 70,
-      "comments": 26,
-      "source": "thecomputersciencebook.com"
+      "title": "I Stopped \u201cCreating Content\u201d",
+      "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+      "score": 221,
+      "comments": 185,
+      "source": "refactoringenglish.com"
+    },
+    {
+      "title": "Show HN: Ex Situ \u2013 Open-source spatial index of displaced cultural artifacts",
+      "url": "https://exsitu.app/map",
+      "score": 43,
+      "comments": 27,
+      "source": "exsitu.app"
     },
     {
       "title": "Shinjuku Station in 3D",
       "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
-      "score": 210,
-      "comments": 46,
+      "score": 255,
+      "comments": 57,
       "source": "satoshi7190.github.io"
-    },
-    {
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-      "score": 121,
-      "comments": 101,
-      "source": "numerlab.org"
-    },
-    {
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "score": 219,
-      "comments": 153,
-      "source": "unslop.run"
-    },
-    {
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "score": 746,
-      "comments": 471,
-      "source": "xcancel.com"
     },
     {
       "title": "Perfection is not over-engineering",
       "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
-      "score": 236,
-      "comments": 100,
+      "score": 259,
+      "comments": 114,
       "source": "var0.xyz"
     },
     {
-      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
-      "url": "https://nothings.org/gamedev/ssao/",
-      "score": 165,
-      "comments": 70,
-      "source": "nothings.org"
+      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+      "score": 131,
+      "comments": 26,
+      "source": "scottrlarson.com"
     },
     {
-      "title": "Hacker wipes Romania's land registry database",
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "score": 637,
-      "comments": 348,
-      "source": "news.risky.biz"
+      "title": "Jellyfin founder Andrew leaves team",
+      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "score": 300,
+      "comments": 262,
+      "source": "forum.jellyfin.org"
     }
   ],
   "security": [
