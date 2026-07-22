@@ -3,204 +3,204 @@
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 740,
-      "comments": 505,
+      "score": 1079,
+      "comments": 729,
       "source": "openai.com"
     },
     {
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
       "url": "https://fireworks.ai/blog/kimik3-fable",
-      "score": 313,
-      "comments": 179,
+      "score": 576,
+      "comments": 321,
       "source": "fireworks.ai"
+    },
+    {
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "score": 55,
+      "comments": 15,
+      "source": "github.com"
+    },
+    {
+      "title": "Intel Starts Shipping High-NA EUV Silicon",
+      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
+      "score": 48,
+      "comments": 4,
+      "source": "morethanmoore.substack.com"
+    },
+    {
+      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
+      "url": "https://www.readkinetic.com/app/",
+      "score": 45,
+      "comments": 19,
+      "source": "readkinetic.com"
     },
     {
       "title": "FreeInk: Open ecosystem for e-readers",
       "url": "https://freeink.org/",
-      "score": 420,
-      "comments": 105,
+      "score": 537,
+      "comments": 116,
       "source": "freeink.org"
-    },
-    {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "score": 178,
-      "comments": 58,
-      "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 622,
-      "comments": 500,
-      "source": "blog.google"
     },
     {
       "title": "Advertise in ChatGPT",
       "url": "https://ads.openai.com/",
-      "score": 320,
-      "comments": 322,
+      "score": 697,
+      "comments": 486,
       "source": "ads.openai.com"
     },
     {
-      "title": "Ten Steps Towards Happiness",
-      "url": "http://hintjens.com/blog:99",
-      "score": 16,
-      "comments": 5,
-      "source": "hintjens.com"
+      "title": "Late.sh \u2013 a command-line Clubhouse for computer people",
+      "url": "https://late.sh/",
+      "score": 133,
+      "comments": 46,
+      "source": "late.sh"
     },
     {
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "score": 116,
-      "comments": 43,
-      "source": "tryai.dev"
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "score": 327,
+      "comments": 243,
+      "source": "apnews.com"
+    },
+    {
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "score": 678,
+      "comments": 517,
+      "source": "blog.google"
+    },
+    {
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "url": "https://openaim.pramit.gg/",
+      "score": 30,
+      "comments": 13,
+      "source": "openaim.pramit.gg"
+    },
+    {
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "score": 250,
+      "comments": 87,
+      "source": "terrytao.wordpress.com"
+    },
+    {
+      "title": "LG to ban residential proxies from smart TV apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "score": 243,
+      "comments": 211,
+      "source": "krebsonsecurity.com"
+    },
+    {
+      "title": "Ten Steps Towards Happiness (2015)",
+      "url": "http://hintjens.com/blog:99",
+      "score": 115,
+      "comments": 39,
+      "source": "hintjens.com"
     },
     {
       "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
       "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "score": 307,
-      "comments": 57,
+      "score": 342,
+      "comments": 72,
       "source": "e360.yale.edu"
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "score": 188,
+      "comments": 69,
+      "source": "tryai.dev"
     },
     {
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "score": 250,
-      "comments": 220,
+      "score": 311,
+      "comments": 261,
       "source": "runtimewire.com"
     },
     {
       "title": "Apple defeats liability for not scanning iCloud for CSAM",
       "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-      "score": 356,
-      "comments": 337,
+      "score": 406,
+      "comments": 376,
       "source": "blog.ericgoldman.org"
-    },
-    {
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "score": 135,
-      "comments": 97,
-      "source": "apnews.com"
-    },
-    {
-      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "score": 42,
-      "comments": 11,
-      "source": "ai.google.dev"
-    },
-    {
-      "title": "The Birth of Prolog (1996)",
-      "url": "https://dl.acm.org/doi/10.1145/234286.1057820",
-      "score": 69,
-      "comments": 5,
-      "source": "dl.acm.org"
-    },
-    {
-      "title": "Map of the world's great castles and fortresses",
-      "url": "https://thecastlemap.com/",
-      "score": 183,
-      "comments": 134,
-      "source": "thecastlemap.com"
-    },
-    {
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-      "score": 393,
-      "comments": 71,
-      "source": "techradar.com"
-    },
-    {
-      "title": "A flaky test exposed a Redis client use-after-free",
-      "url": "https://buildkite.engineering/how-a-flaky-test-exposed-a-redis-use-after-free/",
-      "score": 28,
-      "comments": 6,
-      "source": "buildkite.engineering"
-    },
-    {
-      "title": "Laguna S 2.1",
-      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-      "score": 243,
-      "comments": 43,
-      "source": "poolside.ai"
-    },
-    {
-      "title": "Show HN: An MCP server that turns async-work practices into tools",
-      "url": "https://github.com/open-and-async/mcp",
-      "score": 12,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Recreating the math behind the first stealth aircraft",
-      "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
-      "score": 34,
-      "comments": 14,
-      "source": "pramit.gg"
-    },
-    {
-      "title": "Juggling for Blind People",
-      "url": "https://www.jugglingforblindpeople.com/",
-      "score": 9,
-      "comments": 3,
-      "source": "jugglingforblindpeople.com"
-    },
-    {
-      "title": "How an AI Anime Is Created",
-      "url": "https://www.aventos.dev/our-process?view=blog",
-      "score": 10,
-      "comments": 9,
-      "source": "aventos.dev"
-    },
-    {
-      "title": "Apple Private Cloud Compute SoC 3 audit reports",
-      "url": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
-      "score": 106,
-      "comments": 47,
-      "source": "support.apple.com"
     },
     {
       "title": "It's a shame what's happened to radio",
       "url": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
-      "score": 19,
-      "comments": 0,
+      "score": 99,
+      "comments": 91,
       "source": "blog.jimgrey.net"
     },
     {
-      "title": "PCjs Machines",
-      "url": "https://www.pcjs.org/",
-      "score": 192,
-      "comments": 26,
-      "source": "pcjs.org"
+      "title": "Laguna S 2.1",
+      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "score": 305,
+      "comments": 55,
+      "source": "poolside.ai"
     },
     {
-      "title": "My USB Drive Has a Hidden Encrypted Vault",
-      "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
-      "score": 178,
-      "comments": 106,
-      "source": "rootkitlabs.com"
+      "title": "Map of the world's great castles and fortresses",
+      "url": "https://thecastlemap.com/",
+      "score": 243,
+      "comments": 160,
+      "source": "thecastlemap.com"
     },
     {
-      "title": "Show HN: Computable \u2013 Buy, sell, and redeem GPU for the exact weeks you want",
-      "url": "https://www.getcomputable.com/",
-      "score": 22,
-      "comments": 19,
-      "source": "getcomputable.com"
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "score": 76,
+      "comments": 25,
+      "source": "ai.google.dev"
+    },
+    {
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+      "score": 526,
+      "comments": 89,
+      "source": "techradar.com"
+    },
+    {
+      "title": "The Birth of Prolog (1996)",
+      "url": "https://dl.acm.org/doi/10.1145/234286.1057820",
+      "score": 96,
+      "comments": 11,
+      "source": "dl.acm.org"
     },
     {
       "title": "Show HN: Justif \u2013 Knuth-Plass justification and microtypography for the web",
       "url": "https://justif.lyall.co/",
-      "score": 89,
-      "comments": 12,
+      "score": 141,
+      "comments": 22,
       "source": "justif.lyall.co"
+    },
+    {
+      "title": "My USB Drive Has a Hidden Encrypted Vault",
+      "url": "https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/",
+      "score": 227,
+      "comments": 124,
+      "source": "rootkitlabs.com"
+    },
+    {
+      "title": "ScreenWall \u2013 Turn old phones into synced widgets for your space",
+      "url": "https://screenwall.app/",
+      "score": 7,
+      "comments": 1,
+      "source": "screenwall.app"
+    },
+    {
+      "title": "Pico W firmware creates driverless USB WiFi bridge (Layer-2)",
+      "url": "https://www.cnx-software.com/2026/07/16/pico-usb-wifi-converts-the-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/",
+      "score": 39,
+      "comments": 3,
+      "source": "cnx-software.com"
     },
     {
       "title": "Roblox Officially Supports GrapheneOS",
       "url": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
-      "score": 120,
-      "comments": 24,
+      "score": 178,
+      "comments": 45,
       "source": "en.help.roblox.com"
     }
   ],
