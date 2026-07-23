@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Codeberg Bans Cryptocurrency Projects",
+      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+      "score": 76,
+      "comments": 49,
+      "source": "codeberg.org"
+    },
+    {
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 220,
-      "comments": 106,
+      "score": 635,
+      "comments": 387,
       "source": "chatgpt.com"
+    },
+    {
+      "title": "Run large language models at home, BitTorrent\u2011style",
+      "url": "https://petals.dev/",
+      "score": 19,
+      "comments": 3,
+      "source": "petals.dev"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "score": 177,
+      "comments": 78,
+      "source": "resobscura.substack.com"
     },
     {
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 124,
-      "comments": 24,
+      "score": 379,
+      "comments": 74,
       "source": "github.com"
     },
     {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "url": "https://bento.page/slides/",
-      "score": 429,
-      "comments": 92,
+      "score": 668,
+      "comments": 152,
       "source": "bento.page"
     },
     {
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 167,
-      "comments": 66,
-      "source": "beej.us"
-    },
-    {
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 210,
-      "comments": 111,
-      "source": "hatchet.run"
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "score": 81,
+      "comments": 20,
+      "source": "cnn.com"
     },
     {
       "title": "Are AI Labs Pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 61,
-      "comments": 19,
+      "score": 404,
+      "comments": 157,
       "source": "dylancastillo.co"
-    },
-    {
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
-      "score": 55,
-      "comments": 28,
-      "source": "cruciblebench.ai"
-    },
-    {
-      "title": "Mechanical light bulb from 1675 [video]",
-      "url": "https://www.youtube.com/watch?v=0Y-9GbsS9Fg",
-      "score": 40,
-      "comments": 14,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
-      "url": "https://unlayer.com",
-      "score": 27,
-      "comments": 19,
-      "source": "unlayer.com"
-    },
-    {
-      "title": "Perlin's Noise Algorithm",
-      "url": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
-      "score": 48,
-      "comments": 8,
-      "source": "blog.jaysmito.dev"
-    },
-    {
-      "title": "Show HN: HN Hall of Fame \u2013 browse 3,100 legendary Hacker News links",
-      "url": "https://www.orangecrumbs.com/hall/",
-      "score": 145,
-      "comments": 32,
-      "source": "orangecrumbs.com"
-    },
-    {
-      "title": "10 REM\"_(C2SLFF4",
-      "url": "https://beej.us/blog/data/mystery-comment/",
-      "score": 129,
-      "comments": 35,
-      "source": "beej.us"
-    },
-    {
-      "title": "\u201cWe have information that Moonshot distilled Fable for the development of K3\u201d",
-      "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
-      "score": 119,
-      "comments": 267,
-      "source": "twitter.com"
     },
     {
       "title": "Everyone Should Know SIMD",
       "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 14,
-      "comments": 0,
+      "score": 262,
+      "comments": 76,
       "source": "mitchellh.com"
     },
     {
-      "title": "Ghost Cut \u2013 or why Cut and Paste is broken everywhere",
-      "url": "https://ishmael.textualize.io/blog/ghost-cut/",
-      "score": 62,
-      "comments": 48,
-      "source": "ishmael.textualize.io"
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "score": 74,
+      "comments": 12,
+      "source": "github.com"
     },
     {
-      "title": "OpenNode \u2013 Bitcoin Payment Processor",
-      "url": "https://opennode.com/",
-      "score": 89,
-      "comments": 76,
-      "source": "opennode.com"
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "score": 578,
+      "comments": 182,
+      "source": "twitter.com"
     },
     {
-      "title": "Introduction to Formal Verification with Lean Part 1",
-      "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-      "score": 206,
-      "comments": 40,
-      "source": "hashcloak.com"
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "score": 69,
+      "comments": 17,
+      "source": "yummymelon.com"
+    },
+    {
+      "title": "Google illegally retains customer data",
+      "url": "https://discuss.ai.google.dev/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/175294",
+      "score": 3,
+      "comments": 3,
+      "source": "discuss.ai.google.dev"
+    },
+    {
+      "title": "Safari Technology Preview 248 Released",
+      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "score": 79,
+      "comments": 44,
+      "source": "webkit.org"
     },
     {
       "title": "Nobody knows what a used GPU cluster is worth",
       "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "score": 50,
-      "comments": 40,
+      "score": 173,
+      "comments": 159,
       "source": "ciphertalk.substack.com"
     },
     {
-      "title": "Neo Radar: A browser-based orbital mechanics engine with 41k real asteroids",
-      "url": "https://neoradar.space",
-      "score": 45,
-      "comments": 10,
-      "source": "neoradar.space"
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "score": 282,
+      "comments": 112,
+      "source": "beej.us"
     },
     {
-      "title": "Show HN: DeepSQL \u2013 A self-hostable DBA agent for Postgres and MySQL",
-      "url": "https://deepsql.ai/",
-      "score": 19,
-      "comments": 15,
-      "source": "deepsql.ai"
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "score": 73,
+      "comments": 6,
+      "source": "nondescriptpointer.com"
     },
     {
-      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
-      "score": 294,
-      "comments": 382,
-      "source": "twitter.com"
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "score": 323,
+      "comments": 174,
+      "source": "hatchet.run"
     },
     {
-      "title": "I tried to record music onto a cassette tape using modern tech",
-      "url": "https://swiftrocks.com/i-tried-to-record-music-onto-a-cassette-tape-using-modern-tech",
-      "score": 15,
-      "comments": 7,
-      "source": "swiftrocks.com"
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "score": 292,
+      "comments": 298,
+      "source": "cole-k.com"
     },
     {
-      "title": "Hologram works. Elixir runs in the browser",
-      "url": "https://hologram.page/blog/backing-hologram",
-      "score": 66,
-      "comments": 8,
-      "source": "hologram.page"
+      "title": "Clarity didn't work, trying mysterianism (2012)",
+      "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
+      "score": 42,
+      "comments": 9,
+      "source": "gwern.net"
     },
     {
-      "title": "Show HN: Web swing through midtown NYC",
-      "url": "https://www.swingnyc.com/",
-      "score": 38,
-      "comments": 15,
-      "source": "swingnyc.com"
+      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+      "score": 34,
+      "comments": 9,
+      "source": "cacm.acm.org"
     },
     {
-      "title": "When Is NVLink Worth It?",
-      "url": "https://platform-fools.com/posts/2026-04-27-nvlink/",
-      "score": 31,
-      "comments": 5,
-      "source": "platform-fools.com"
+      "title": "What Rose Petals Teach Us about Induction",
+      "url": "https://www.oranlooney.com/post/rose-petals/",
+      "score": 13,
+      "comments": 1,
+      "source": "oranlooney.com"
     },
     {
-      "title": "Intel Starts Shipping High-NA EUV Silicon",
-      "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
-      "score": 214,
-      "comments": 90,
-      "source": "morethanmoore.substack.com"
+      "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
+      "url": "https://unlayer.com",
+      "score": 46,
+      "comments": 31,
+      "source": "unlayer.com"
     },
     {
-      "title": "Cornell's Interactive Wall of Birds",
-      "url": "https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456",
-      "score": 84,
-      "comments": 32,
-      "source": "academy.allaboutbirds.org"
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "score": 190,
+      "comments": 151,
+      "source": "blog.fiddery.com"
     },
     {
-      "title": "Airbus Full Scale Foldable Wing Extensions",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-      "score": 52,
-      "comments": 46,
-      "source": "airbus.com"
+      "title": "NixOS is more complicated than you think but OpenCode fixed it",
+      "url": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
+      "score": 7,
+      "comments": 0,
+      "source": "grigio.org"
     },
     {
-      "title": "Most Americans say \"not in my backyard\" to AI data centers",
-      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
-      "score": 105,
-      "comments": 217,
-      "source": "redfin.com"
-    },
-    {
-      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "score": 160,
-      "comments": 50,
+      "title": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
+      "url": "https://github.com/Cysharp/MemoryPack",
+      "score": 20,
+      "comments": 3,
       "source": "github.com"
+    },
+    {
+      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "url": "https://claytondorge.com/patterns-list",
+      "score": 28,
+      "comments": 2,
+      "source": "claytondorge.com"
+    },
+    {
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "score": 280,
+      "comments": 75,
+      "source": "citizendot.github.io"
+    },
+    {
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "score": 26,
+      "comments": 18,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Back to Kagi",
+      "url": "https://blog.melashri.net/micro/back-to-kagi/",
+      "score": 204,
+      "comments": 161,
+      "source": "blog.melashri.net"
     }
   ],
   "security": [
