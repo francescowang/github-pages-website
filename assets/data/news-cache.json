@@ -1,217 +1,216 @@
 {
   "tech": [
     {
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-      "score": 89,
-      "comments": 70,
-      "source": "reuters.com"
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 580,
+      "comments": 288,
+      "source": "nealstephenson.substack.com"
     },
     {
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "score": 80,
-      "comments": 40,
-      "source": "axios.com"
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "score": 134,
+      "comments": 45,
+      "source": "stephenfollows.com"
     },
     {
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 994,
-      "comments": 566,
-      "source": "chatgpt.com"
+      "title": "Building on ATProto",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "score": 31,
+      "comments": 9,
+      "source": "lukekanies.com"
     },
     {
-      "title": "Scanning for Pangram Errors",
-      "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
-      "score": 20,
-      "comments": 7,
-      "source": "veryfineprint.substack.com"
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "score": 169,
+      "comments": 29,
+      "source": "haqr.eu"
     },
     {
-      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
       "score": 111,
-      "comments": 59,
-      "source": "ziggit.dev"
+      "comments": 58,
+      "source": "learnopengl.com"
     },
     {
-      "title": "The Unity CLI: manage Unity from your terminal",
-      "url": "https://unity.com/blog/meet-the-unity-cli",
-      "score": 42,
-      "comments": 11,
-      "source": "unity.com"
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 440,
+      "comments": 447,
+      "source": "politico.com"
     },
     {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 426,
-      "comments": 204,
-      "source": "resobscura.substack.com"
+      "title": "Astronomers may have found the first exomoon",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "score": 152,
+      "comments": 56,
+      "source": "eso.org"
     },
     {
-      "title": "Everyone should know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 520,
-      "comments": 185,
-      "source": "mitchellh.com"
-    },
-    {
-      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-      "score": 107,
-      "comments": 91,
-      "source": "jointhefreeworld.org"
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 914,
-      "comments": 209,
-      "source": "bento.page"
-    },
-    {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 561,
-      "comments": 114,
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "score": 73,
+      "comments": 52,
       "source": "github.com"
     },
     {
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 603,
-      "comments": 234,
-      "source": "dylancastillo.co"
-    },
-    {
-      "title": "Protecting our FLOSS commons from LLMs",
-      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "score": 128,
-      "comments": 61,
-      "source": "blog.codeberg.org"
-    },
-    {
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-      "score": 37,
-      "comments": 18,
-      "source": "brightsec.com"
-    },
-    {
-      "title": "Test-time training 3D reconstruction",
-      "url": "https://github.com/Inception3D/TTT3R",
-      "score": 11,
+      "title": "A solid-state \u201catomic channel\u201d for separating rare earth elements",
+      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+      "score": 9,
       "comments": 0,
+      "source": "pme.uchicago.edu"
+    },
+    {
+      "title": "JEP 540: Simple JSON API (Now in Incubator)",
+      "url": "https://openjdk.org/jeps/540",
+      "score": 60,
+      "comments": 41,
+      "source": "openjdk.org"
+    },
+    {
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "score": 72,
+      "comments": 37,
+      "source": "tombedor.dev"
+    },
+    {
+      "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "score": 44,
+      "comments": 12,
       "source": "github.com"
     },
     {
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 402,
-      "comments": 156,
-      "source": "beej.us"
+      "title": "Geekbench 7",
+      "url": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
+      "score": 14,
+      "comments": 6,
+      "source": "geekbench.com"
     },
     {
-      "title": "EU fines Google \u20ac890M for competition breaches over search and apps",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "score": 119,
-      "comments": 119,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Amiga 1000: Ten years ahead of its time",
-      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-      "score": 120,
-      "comments": 109,
-      "source": "dfarq.homeip.net"
-    },
-    {
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 454,
-      "comments": 203,
-      "source": "hatchet.run"
-    },
-    {
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "score": 166,
-      "comments": 36,
+      "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "score": 42,
+      "comments": 18,
       "source": "github.com"
     },
     {
-      "title": "John C. Dvorak has died",
-      "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 824,
-      "comments": 276,
-      "source": "twitter.com"
+      "title": "Learn WebGPU for C++",
+      "url": "https://eliemichel.github.io/LearnWebGPU/",
+      "score": 45,
+      "comments": 8,
+      "source": "eliemichel.github.io"
     },
     {
-      "title": "Making ASCII Art in Vim",
-      "url": "https://alexyang.dev/vim-ascii-art/",
-      "score": 88,
+      "title": "Free way to get your data out of ChatGPT Business accounts",
+      "url": "https://github.com/Conradqh/scrapemychats",
+      "score": 55,
+      "comments": 4,
+      "source": "github.com"
+    },
+    {
+      "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
+      "url": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
+      "score": 5,
+      "comments": 0,
+      "source": "blog.mozilla.ai"
+    },
+    {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "score": 68,
+      "comments": 61,
+      "source": "darpa.mil"
+    },
+    {
+      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+      "score": 63,
+      "comments": 44,
+      "source": "rtx.com"
+    },
+    {
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "score": 423,
+      "comments": 202,
+      "source": "futurism.com"
+    },
+    {
+      "title": "Show HN: Remux \u2013 an open-source tmux workspace designed for iPhone",
+      "url": "https://github.com/h3nock/remux",
+      "score": 60,
+      "comments": 20,
+      "source": "github.com"
+    },
+    {
+      "title": "OpenStreetMap: Admin_level for All Countries",
+      "url": "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries",
+      "score": 72,
       "comments": 10,
-      "source": "alexyang.dev"
+      "source": "wiki.openstreetmap.org"
     },
     {
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 339,
-      "comments": 257,
-      "source": "blog.fiddery.com"
+      "title": "Show HN: Claude-thermos \u2013 keeps your Claude session warm for you",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "score": 17,
+      "comments": 16,
+      "source": "github.com"
     },
     {
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "score": 124,
-      "comments": 36,
-      "source": "yummymelon.com"
+      "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
+      "score": 36,
+      "comments": 15,
+      "source": "papers.ssrn.com"
     },
     {
-      "title": "Frequently Asked Questions on Expertise",
-      "url": "https://jtpeterson.substack.com/p/faq-on-expertise",
-      "score": 22,
-      "comments": 1,
-      "source": "jtpeterson.substack.com"
+      "title": "Emacs Is a Lispboard",
+      "url": "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/",
+      "score": 46,
+      "comments": 11,
+      "source": "en.andros.dev"
     },
     {
-      "title": "Nobody knows what a used GPU cluster is worth",
-      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "score": 259,
-      "comments": 231,
-      "source": "ciphertalk.substack.com"
+      "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
+      "url": "https://soteria-tools.com/blog/meta-garbage-collection",
+      "score": 10,
+      "comments": 0,
+      "source": "soteria-tools.com"
     },
     {
-      "title": "git's \u2013end-of-options Flag",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "score": 173,
-      "comments": 106,
-      "source": "nesbitt.io"
+      "title": "Show HN: Whetuu \u2013 a zero-config cross-shell prompt written in Zig",
+      "url": "https://yamafaktory.github.io/whetuu/",
+      "score": 35,
+      "comments": 20,
+      "source": "yamafaktory.github.io"
     },
     {
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "score": 137,
-      "comments": 40,
-      "source": "cnn.com"
+      "title": "Fields Medals 2026",
+      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
+      "score": 53,
+      "comments": 16,
+      "source": "mathunion.org"
     },
     {
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "score": 141,
-      "comments": 50,
-      "source": "nondescriptpointer.com"
-    },
-    {
-      "title": "Back to Kagi",
-      "url": "https://blog.melashri.net/micro/back-to-kagi/",
-      "score": 297,
-      "comments": 230,
-      "source": "blog.melashri.net"
+      "title": "What happens when the information runs out",
+      "url": "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/",
+      "score": 45,
+      "comments": 17,
+      "source": "blog.jimgrey.net"
     }
   ],
   "security": [
+    {
+      "title": "Enterprise security at machine speed: AWS Black Hat 2026 preview",
+      "url": "https://aws.amazon.com/blogs/security/enterprise-security-at-machine-speed-aws-black-hat-2026-preview/",
+      "date": "2026-07-23 16:23:30",
+      "author": "Rahul Sahni"
+    },
     {
       "title": "Do more with AWS WAF labels using dynamic label interpolation",
       "url": "https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/",
       "date": "2026-07-09 23:43:47",
       "author": "Vaibhav Chowla"
-    },
-    {
-      "title": "Designing for the inevitable: System prompt leakage and mitigations in generative AI applications",
-      "url": "https://aws.amazon.com/blogs/security/designing-for-the-inevitable-system-prompt-leakage-and-mitigations-in-generative-ai-applications/",
-      "date": "2026-07-08 18:58:42",
-      "author": "Manideep Konakandla"
     }
   ]
 }
