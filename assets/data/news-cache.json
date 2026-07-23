@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Codeberg Bans Cryptocurrency Projects",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
-      "score": 76,
-      "comments": 49,
-      "source": "codeberg.org"
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "score": 29,
+      "comments": 0,
+      "source": "jointhefreeworld.org"
     },
     {
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "title": "git's \u2013end-of-options Flag",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "score": 126,
+      "comments": 58,
+      "source": "nesbitt.io"
+    },
+    {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 635,
-      "comments": 387,
+      "score": 833,
+      "comments": 483,
       "source": "chatgpt.com"
-    },
-    {
-      "title": "Run large language models at home, BitTorrent\u2011style",
-      "url": "https://petals.dev/",
-      "score": 19,
-      "comments": 3,
-      "source": "petals.dev"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 177,
-      "comments": 78,
+      "score": 332,
+      "comments": 109,
       "source": "resobscura.substack.com"
+    },
+    {
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "score": 26,
+      "comments": 5,
+      "source": "ziggit.dev"
     },
     {
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 379,
-      "comments": 74,
+      "score": 481,
+      "comments": 95,
       "source": "github.com"
     },
     {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "url": "https://bento.page/slides/",
-      "score": 668,
-      "comments": 152,
+      "score": 802,
+      "comments": 177,
       "source": "bento.page"
     },
     {
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "score": 81,
-      "comments": 20,
-      "source": "cnn.com"
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "score": 54,
+      "comments": 26,
+      "source": "dfarq.homeip.net"
     },
     {
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "score": 404,
-      "comments": 157,
-      "source": "dylancastillo.co"
-    },
-    {
-      "title": "Everyone Should Know SIMD",
+      "title": "Everyone should know SIMD",
       "url": "https://mitchellh.com/writing/everyone-should-know-simd",
-      "score": 262,
-      "comments": 76,
+      "score": 397,
+      "comments": 146,
       "source": "mitchellh.com"
     },
     {
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "score": 74,
-      "comments": 12,
-      "source": "github.com"
-    },
-    {
-      "title": "John C. Dvorak has died",
-      "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "score": 578,
-      "comments": 182,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "score": 69,
-      "comments": 17,
-      "source": "yummymelon.com"
-    },
-    {
-      "title": "Google illegally retains customer data",
-      "url": "https://discuss.ai.google.dev/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/175294",
-      "score": 3,
-      "comments": 3,
-      "source": "discuss.ai.google.dev"
-    },
-    {
-      "title": "Safari Technology Preview 248 Released",
-      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-      "score": 79,
-      "comments": 44,
-      "source": "webkit.org"
-    },
-    {
-      "title": "Nobody knows what a used GPU cluster is worth",
-      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "score": 173,
-      "comments": 159,
-      "source": "ciphertalk.substack.com"
-    },
-    {
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 282,
-      "comments": 112,
-      "source": "beej.us"
-    },
-    {
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "score": 73,
-      "comments": 6,
-      "source": "nondescriptpointer.com"
-    },
-    {
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 323,
-      "comments": 174,
-      "source": "hatchet.run"
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "score": 503,
+      "comments": 196,
+      "source": "dylancastillo.co"
     },
     {
       "title": "So Reddit has decided that plain HTML is unsafe",
       "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "score": 292,
-      "comments": 298,
+      "score": 434,
+      "comments": 405,
       "source": "cole-k.com"
     },
     {
-      "title": "Clarity didn't work, trying mysterianism (2012)",
-      "url": "https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html",
+      "title": "Making ASCII Art in Vim",
+      "url": "https://alexyang.dev/vim-ascii-art/",
+      "score": 57,
+      "comments": 4,
+      "source": "alexyang.dev"
+    },
+    {
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "score": 4,
+      "comments": 0,
+      "source": "brightsec.com"
+    },
+    {
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "score": 125,
+      "comments": 22,
+      "source": "github.com"
+    },
+    {
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "score": 347,
+      "comments": 138,
+      "source": "beej.us"
+    },
+    {
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "score": 398,
+      "comments": 188,
+      "source": "hatchet.run"
+    },
+    {
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "score": 111,
+      "comments": 30,
+      "source": "cnn.com"
+    },
+    {
+      "title": "John C. Dvorak has died",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "score": 727,
+      "comments": 233,
+      "source": "twitter.com"
+    },
+    {
+      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+      "url": "https://github.com/exlee/ascdraw",
+      "score": 41,
+      "comments": 4,
+      "source": "github.com"
+    },
+    {
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "score": 101,
+      "comments": 29,
+      "source": "yummymelon.com"
+    },
+    {
+      "title": "Why malloc always does more than I asked for?",
+      "url": "https://ssenthilnathan3.github.io/blog/malloc/",
+      "score": 26,
+      "comments": 13,
+      "source": "ssenthilnathan3.github.io"
+    },
+    {
+      "title": "Restructuring GitHub's bug bounty program",
+      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
       "score": 42,
-      "comments": 9,
-      "source": "gwern.net"
+      "comments": 17,
+      "source": "github.blog"
     },
     {
-      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
-      "score": 34,
-      "comments": 9,
-      "source": "cacm.acm.org"
-    },
-    {
-      "title": "What Rose Petals Teach Us about Induction",
-      "url": "https://www.oranlooney.com/post/rose-petals/",
-      "score": 13,
-      "comments": 1,
-      "source": "oranlooney.com"
-    },
-    {
-      "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
-      "url": "https://unlayer.com",
-      "score": 46,
-      "comments": 31,
-      "source": "unlayer.com"
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "score": 113,
+      "comments": 23,
+      "source": "nondescriptpointer.com"
     },
     {
       "title": "Businesses with ugly AI menu redesigns",
       "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "score": 190,
-      "comments": 151,
+      "score": 271,
+      "comments": 175,
       "source": "blog.fiddery.com"
     },
     {
-      "title": "NixOS is more complicated than you think but OpenCode fixed it",
-      "url": "https://grigio.org/nixos-is-more-complicated-than-you-think-but-opencode-fixed-it/",
-      "score": 7,
-      "comments": 0,
-      "source": "grigio.org"
-    },
-    {
-      "title": "MemoryPack: Zero encoding extreme performance binary serializer for C#",
-      "url": "https://github.com/Cysharp/MemoryPack",
-      "score": 20,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-      "url": "https://claytondorge.com/patterns-list",
-      "score": 28,
-      "comments": 2,
-      "source": "claytondorge.com"
-    },
-    {
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
-      "score": 280,
-      "comments": 75,
-      "source": "citizendot.github.io"
-    },
-    {
-      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-      "url": "https://arxiv.org/abs/2607.18250",
-      "score": 26,
-      "comments": 18,
-      "source": "arxiv.org"
+      "title": "Nobody knows what a used GPU cluster is worth",
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+      "score": 225,
+      "comments": 195,
+      "source": "ciphertalk.substack.com"
     },
     {
       "title": "Back to Kagi",
       "url": "https://blog.melashri.net/micro/back-to-kagi/",
-      "score": 204,
-      "comments": 161,
+      "score": 258,
+      "comments": 195,
       "source": "blog.melashri.net"
+    },
+    {
+      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
+      "url": "https://claytondorge.com/patterns-list",
+      "score": 68,
+      "comments": 12,
+      "source": "claytondorge.com"
+    },
+    {
+      "title": "Ghost Cut \u2013 Or why Cut and Paste is broken everywhere",
+      "url": "https://ishmael.textualize.io/blog/ghost-cut/",
+      "score": 159,
+      "comments": 105,
+      "source": "ishmael.textualize.io"
+    },
+    {
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "score": 23,
+      "comments": 2,
+      "source": "blog.codeberg.org"
+    },
+    {
+      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
+      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/",
+      "score": 51,
+      "comments": 17,
+      "source": "cacm.acm.org"
     }
   ],
   "security": [
