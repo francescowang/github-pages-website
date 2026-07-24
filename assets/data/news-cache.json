@@ -1,207 +1,200 @@
 {
   "tech": [
     {
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "score": 253,
+      "comments": 54,
+      "source": "jdan.github.io"
+    },
+    {
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 580,
-      "comments": 288,
+      "score": 993,
+      "comments": 486,
       "source": "nealstephenson.substack.com"
+    },
+    {
+      "title": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "score": 53,
+      "comments": 15,
+      "source": "visual6502.org"
+    },
+    {
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "score": 174,
+      "comments": 55,
+      "source": "glinscott.github.io"
     },
     {
       "title": "What happened to TheNumbers.com",
       "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 134,
-      "comments": 45,
+      "score": 297,
+      "comments": 129,
       "source": "stephenfollows.com"
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 737,
+      "comments": 661,
+      "source": "politico.com"
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "score": 183,
+      "comments": 150,
+      "source": "github.com"
     },
     {
       "title": "Building on ATProto",
       "url": "https://lukekanies.com/writing/building-on-atproto/",
-      "score": 31,
-      "comments": 9,
+      "score": 131,
+      "comments": 59,
       "source": "lukekanies.com"
     },
     {
       "title": "Software rendering in 500 lines of bare C++",
       "url": "https://haqr.eu/tinyrenderer/",
-      "score": 169,
-      "comments": 29,
+      "score": 245,
+      "comments": 47,
       "source": "haqr.eu"
+    },
+    {
+      "title": "Fractl.art \u2013 a fractal generator with 8 octillion different patterns",
+      "url": "https://fractl.art",
+      "score": 12,
+      "comments": 2,
+      "source": "fractl.art"
     },
     {
       "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
       "url": "https://learnopengl.com/",
-      "score": 111,
-      "comments": 58,
+      "score": 181,
+      "comments": 99,
       "source": "learnopengl.com"
-    },
-    {
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 440,
-      "comments": 447,
-      "source": "politico.com"
-    },
-    {
-      "title": "Astronomers may have found the first exomoon",
-      "url": "https://www.eso.org/public/news/eso2610/",
-      "score": 152,
-      "comments": 56,
-      "source": "eso.org"
-    },
-    {
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "score": 73,
-      "comments": 52,
-      "source": "github.com"
-    },
-    {
-      "title": "A solid-state \u201catomic channel\u201d for separating rare earth elements",
-      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
-      "score": 9,
-      "comments": 0,
-      "source": "pme.uchicago.edu"
-    },
-    {
-      "title": "JEP 540: Simple JSON API (Now in Incubator)",
-      "url": "https://openjdk.org/jeps/540",
-      "score": 60,
-      "comments": 41,
-      "source": "openjdk.org"
-    },
-    {
-      "title": "The arguments against open source AI are bad",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "score": 72,
-      "comments": 37,
-      "source": "tombedor.dev"
     },
     {
       "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
       "url": "https://github.com/palmier-io/palmier-pro",
-      "score": 44,
-      "comments": 12,
+      "score": 123,
+      "comments": 20,
       "source": "github.com"
     },
     {
-      "title": "Geekbench 7",
-      "url": "https://www.geekbench.com/blog/2026/07/geekbench-7/",
-      "score": 14,
-      "comments": 6,
-      "source": "geekbench.com"
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "score": 184,
+      "comments": 207,
+      "source": "darpa.mil"
+    },
+    {
+      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+      "url": "https://arxiv.org/abs/2507.09369",
+      "score": 54,
+      "comments": 42,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Astronomers may have found the first exomoon",
+      "url": "https://www.eso.org/public/news/eso2610/",
+      "score": 195,
+      "comments": 76,
+      "source": "eso.org"
+    },
+    {
+      "title": "A solid-state \u201catomic channel\u201d for separating rare earth elements",
+      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
+      "score": 74,
+      "comments": 18,
+      "source": "pme.uchicago.edu"
     },
     {
       "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
       "url": "https://github.com/onecli/onecli",
-      "score": 42,
-      "comments": 18,
+      "score": 81,
+      "comments": 28,
+      "source": "github.com"
+    },
+    {
+      "title": "Converting Files into Minecraft Worlds",
+      "url": "https://wuemeli.com/blog/sulfur-part-1/",
+      "score": 50,
+      "comments": 17,
+      "source": "wuemeli.com"
+    },
+    {
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "score": 208,
+      "comments": 148,
+      "source": "tombedor.dev"
+    },
+    {
+      "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "score": 389,
+      "comments": 324,
+      "source": "simonwillison.net"
+    },
+    {
+      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "score": 74,
+      "comments": 66,
       "source": "github.com"
     },
     {
       "title": "Learn WebGPU for C++",
       "url": "https://eliemichel.github.io/LearnWebGPU/",
-      "score": 45,
-      "comments": 8,
-      "source": "eliemichel.github.io"
-    },
-    {
-      "title": "Free way to get your data out of ChatGPT Business accounts",
-      "url": "https://github.com/Conradqh/scrapemychats",
-      "score": 55,
-      "comments": 4,
-      "source": "github.com"
-    },
-    {
-      "title": "From Evaluation to Guardrails: What We Brought to ACM FAccT 2026",
-      "url": "https://blog.mozilla.ai/from-evaluation-to-guardrails-what-we-brought-to-acm-facct-2026/",
-      "score": 5,
-      "comments": 0,
-      "source": "blog.mozilla.ai"
-    },
-    {
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "score": 68,
-      "comments": 61,
-      "source": "darpa.mil"
-    },
-    {
-      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
-      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-      "score": 63,
-      "comments": 44,
-      "source": "rtx.com"
-    },
-    {
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "score": 423,
-      "comments": 202,
-      "source": "futurism.com"
-    },
-    {
-      "title": "Show HN: Remux \u2013 an open-source tmux workspace designed for iPhone",
-      "url": "https://github.com/h3nock/remux",
-      "score": 60,
-      "comments": 20,
-      "source": "github.com"
-    },
-    {
-      "title": "OpenStreetMap: Admin_level for All Countries",
-      "url": "https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative#Table_:_Admin_level_for_all_countries",
-      "score": 72,
-      "comments": 10,
-      "source": "wiki.openstreetmap.org"
-    },
-    {
-      "title": "Show HN: Claude-thermos \u2013 keeps your Claude session warm for you",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "score": 17,
-      "comments": 16,
-      "source": "github.com"
-    },
-    {
-      "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699",
-      "score": 36,
-      "comments": 15,
-      "source": "papers.ssrn.com"
-    },
-    {
-      "title": "Emacs Is a Lispboard",
-      "url": "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/",
-      "score": 46,
+      "score": 85,
       "comments": 11,
-      "source": "en.andros.dev"
+      "source": "eliemichel.github.io"
     },
     {
       "title": "Meta Garbage Collection: Using OCaml's GC to GC Rust",
       "url": "https://soteria-tools.com/blog/meta-garbage-collection",
-      "score": 10,
+      "score": 53,
       "comments": 0,
       "source": "soteria-tools.com"
     },
     {
-      "title": "Show HN: Whetuu \u2013 a zero-config cross-shell prompt written in Zig",
-      "url": "https://yamafaktory.github.io/whetuu/",
-      "score": 35,
-      "comments": 20,
-      "source": "yamafaktory.github.io"
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "score": 602,
+      "comments": 297,
+      "source": "futurism.com"
     },
     {
-      "title": "Fields Medals 2026",
-      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026",
-      "score": 53,
-      "comments": 16,
-      "source": "mathunion.org"
+      "title": "Emacs Is a Lispboard",
+      "url": "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/",
+      "score": 96,
+      "comments": 47,
+      "source": "en.andros.dev"
     },
     {
-      "title": "What happens when the information runs out",
-      "url": "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/",
-      "score": 45,
-      "comments": 17,
-      "source": "blog.jimgrey.net"
+      "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+      "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+      "score": 36,
+      "comments": 9,
+      "source": "blog.jetbrains.com"
+    },
+    {
+      "title": "Show HN: Trifle \u2013 Open-source analytics that stores answers, not events",
+      "url": "https://trifle.io/",
+      "score": 37,
+      "comments": 7,
+      "source": "trifle.io"
+    },
+    {
+      "title": "Mourning Dan Williams",
+      "url": "https://lwn.net/Articles/1084545/",
+      "score": 20,
+      "comments": 0,
+      "source": "lwn.net"
     }
   ],
   "security": [
