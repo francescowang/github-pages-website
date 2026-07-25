@@ -3,212 +3,212 @@
     {
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 48,
-      "comments": 15,
+      "score": 421,
+      "comments": 183,
       "source": "kitsumed.github.io"
-    },
-    {
-      "title": "ARC-AGI Leaderboard",
-      "url": "https://arcprize.org/leaderboard",
-      "score": 50,
-      "comments": 29,
-      "source": "arcprize.org"
     },
     {
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1508,
-      "comments": 839,
+      "score": 1650,
+      "comments": 1018,
       "source": "anthropic.com"
-    },
-    {
-      "title": "GC and Exceptions in Wasmtime",
-      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-      "score": 69,
-      "comments": 0,
-      "source": "bytecodealliance.org"
     },
     {
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
       "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 128,
-      "comments": 23,
+      "score": 347,
+      "comments": 57,
       "source": "maths.cam.ac.uk"
+    },
+    {
+      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
+      "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
+      "score": 95,
+      "comments": 5,
+      "source": "saffroncr.itch.io"
+    },
+    {
+      "title": "My Images Are Dithered",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+      "score": 15,
+      "comments": 1,
+      "source": "dead.garden"
+    },
+    {
+      "title": "ARC-AGI Leaderboard",
+      "url": "https://arcprize.org/leaderboard",
+      "score": 118,
+      "comments": 95,
+      "source": "arcprize.org"
+    },
+    {
+      "title": "The Fedora 45 Sausage Factory",
+      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+      "score": 16,
+      "comments": 1,
+      "source": "supakeen.com"
+    },
+    {
+      "title": "NYC Apartment Aquaponics",
+      "url": "https://erinmurphy.dev/projects/project-2/",
+      "score": 93,
+      "comments": 33,
+      "source": "erinmurphy.dev"
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
+      "url": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
+      "score": 42,
+      "comments": 5,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "GC and Exceptions in Wasmtime",
+      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+      "score": 120,
+      "comments": 15,
+      "source": "bytecodealliance.org"
     },
     {
       "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
       "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-      "score": 47,
-      "comments": 15,
+      "score": 86,
+      "comments": 23,
       "source": "nist.gov"
+    },
+    {
+      "title": "Extinct Media Museum Tokyo",
+      "url": "https://extinct-media-museum.blog.jp/otemachi/",
+      "score": 64,
+      "comments": 12,
+      "source": "extinct-media-museum.blog.jp"
     },
     {
       "title": "Postgres LISTEN/NOTIFY actually scales",
       "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 294,
-      "comments": 53,
+      "score": 335,
+      "comments": 63,
       "source": "dbos.dev"
     },
     {
       "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
       "url": "https://artificialanalysis.ai/models",
-      "score": 266,
-      "comments": 148,
+      "score": 325,
+      "comments": 189,
       "source": "artificialanalysis.ai"
-    },
-    {
-      "title": "Extinct Media Museum Tokyo",
-      "url": "https://extinct-media-museum.blog.jp/otemachi/",
-      "score": 12,
-      "comments": 1,
-      "source": "extinct-media-museum.blog.jp"
     },
     {
       "title": "India's first privately-developed rocket reaches orbit on debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 588,
-      "comments": 167,
+      "score": 634,
+      "comments": 180,
       "source": "arstechnica.com"
+    },
+    {
+      "title": "PyPI Blog: Releases now reject new files after 14 days",
+      "url": "https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/",
+      "score": 27,
+      "comments": 9,
+      "source": "blog.pypi.org"
     },
     {
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 574,
-      "comments": 188,
+      "score": 611,
+      "comments": 205,
       "source": "hhh.hn"
     },
     {
-      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-      "score": 87,
-      "comments": 12,
-      "source": "news.st-andrews.ac.uk"
-    },
-    {
-      "title": "Book Corners: Community map of neighborhood book exchange spots",
-      "url": "https://www.bookcorners.org",
-      "score": 13,
-      "comments": 4,
-      "source": "bookcorners.org"
-    },
-    {
-      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-      "score": 199,
-      "comments": 81,
-      "source": "wsj.com"
-    },
-    {
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
-      "score": 164,
-      "comments": 80,
-      "source": "globaloilnetwork.staffinganalytics.io"
-    },
-    {
-      "title": "PartialString \u2013 A finite-difference time-domain physical modelling synthesiser",
-      "url": "https://differentinstruments.com/",
-      "score": 9,
-      "comments": 0,
-      "source": "differentinstruments.com"
+      "title": "MouthPad: A Tongue-Controlled Touchpad",
+      "url": "https://www.augmental.tech/",
+      "score": 38,
+      "comments": 9,
+      "source": "augmental.tech"
     },
     {
       "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
       "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
-      "score": 184,
-      "comments": 37,
+      "score": 232,
+      "comments": 44,
       "source": "news.mit.edu"
-    },
-    {
-      "title": "NYC Apartment Aquaponics",
-      "url": "https://erinmurphy.dev/projects/project-2/",
-      "score": 4,
-      "comments": 0,
-      "source": "erinmurphy.dev"
-    },
-    {
-      "title": "Designing an Ethernet Switch ASIC",
-      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-      "score": 170,
-      "comments": 43,
-      "source": "essenceia.github.io"
     },
     {
       "title": "Firefox Containers Preview",
       "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "score": 306,
-      "comments": 95,
+      "score": 393,
+      "comments": 111,
       "source": "blog.mozilla.org"
+    },
+    {
+      "title": "Book Corners: Community map of neighborhood book exchange spots",
+      "url": "https://www.bookcorners.org",
+      "score": 39,
+      "comments": 24,
+      "source": "bookcorners.org"
+    },
+    {
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "score": 209,
+      "comments": 95,
+      "source": "globaloilnetwork.staffinganalytics.io"
+    },
+    {
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "score": 107,
+      "comments": 24,
+      "source": "news.st-andrews.ac.uk"
     },
     {
       "title": "Kimi K3 exploited the latest Redis server",
       "url": "https://twitter.com/fried_rice/status/2080059356322918777",
-      "score": 206,
-      "comments": 57,
+      "score": 241,
+      "comments": 72,
       "source": "twitter.com"
     },
     {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 587,
-      "comments": 260,
-      "source": "cnbc.com"
+      "title": "Designing an Ethernet Switch ASIC",
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "score": 198,
+      "comments": 48,
+      "source": "essenceia.github.io"
+    },
+    {
+      "title": "PartialString \u2013 A finite-difference time-domain physical modelling synthesiser",
+      "url": "https://differentinstruments.com/",
+      "score": 30,
+      "comments": 4,
+      "source": "differentinstruments.com"
     },
     {
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 295,
-      "comments": 54,
+      "score": 317,
+      "comments": 64,
       "source": "discuss.haiku-os.org"
-    },
-    {
-      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-      "score": 283,
-      "comments": 344,
-      "source": "houseofsaud.com"
-    },
-    {
-      "title": "Don't Take the Black Pill [video]",
-      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "score": 172,
-      "comments": 151,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
-      "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-      "score": 132,
-      "comments": 133,
-      "source": "youtube.com"
     },
     {
       "title": "Future euro banknote design proposals",
       "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-      "score": 174,
-      "comments": 153,
+      "score": 238,
+      "comments": 240,
       "source": "ecb.europa.eu"
     },
     {
-      "title": "Marimo now runs in PyCharm",
-      "url": "https://marimo.io/blog/pycharm",
-      "score": 102,
-      "comments": 27,
-      "source": "marimo.io"
-    },
-    {
-      "title": "A concrete explanation of how a cache works",
-      "url": "https://parksb.github.io/en/article/29.html",
-      "score": 24,
-      "comments": 2,
-      "source": "parksb.github.io"
-    },
-    {
-      "title": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
-      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-      "score": 268,
-      "comments": 172,
-      "source": "ziggit.dev"
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "score": 315,
+      "comments": 392,
+      "source": "houseofsaud.com"
     }
   ],
   "security": [
