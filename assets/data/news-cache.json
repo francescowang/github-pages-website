@@ -3,215 +3,221 @@
     {
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 731,
-      "comments": 413,
+      "score": 1327,
+      "comments": 717,
       "source": "anthropic.com"
-    },
-    {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "score": 163,
-      "comments": 115,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "score": 396,
-      "comments": 148,
-      "source": "hhh.hn"
     },
     {
       "title": "Postgres LISTEN/NOTIFY actually scales",
       "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 8,
-      "comments": 0,
+      "score": 210,
+      "comments": 37,
       "source": "dbos.dev"
     },
     {
-      "title": "I got into YC by hacking it",
-      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "score": 53,
-      "comments": 20,
-      "source": "obaid.wtf"
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "score": 33,
+      "comments": 1,
+      "source": "news.st-andrews.ac.uk"
     },
     {
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "score": 105,
+      "comments": 46,
+      "source": "globaloilnetwork.staffinganalytics.io"
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "score": 515,
+      "comments": 178,
+      "source": "hhh.hn"
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "score": 355,
-      "comments": 98,
+      "score": 500,
+      "comments": 144,
       "source": "arstechnica.com"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "score": 151,
+      "comments": 97,
+      "source": "artificialanalysis.ai"
+    },
+    {
+      "title": "Designing an Ethernet Switch ASIC",
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "score": 113,
+      "comments": 34,
+      "source": "essenceia.github.io"
+    },
+    {
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "score": 553,
+      "comments": 425,
+      "source": "ptrchm.com"
+    },
+    {
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "score": 136,
+      "comments": 30,
+      "source": "news.mit.edu"
+    },
+    {
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "score": 509,
+      "comments": 235,
+      "source": "cnbc.com"
     },
     {
       "title": "Fil-C: Garbage In, Memory Safety Out [video]",
       "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-      "score": 24,
-      "comments": 15,
+      "score": 109,
+      "comments": 99,
       "source": "youtube.com"
     },
     {
-      "title": "Self-host your mail server",
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "score": 32,
-      "comments": 23,
-      "source": "blog.haschek.at"
+      "title": "Kimi K3 exploited the latest Redis server",
+      "url": "https://twitter.com/fried_rice/status/2080059356322918777",
+      "score": 143,
+      "comments": 40,
+      "source": "twitter.com"
     },
     {
       "title": "Half-Life 2 running natively on HaikuOS",
       "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "score": 194,
-      "comments": 29,
+      "score": 276,
+      "comments": 52,
       "source": "discuss.haiku-os.org"
     },
     {
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "score": 233,
-      "comments": 89,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "The hardest way to make a GIF",
-      "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-      "score": 20,
-      "comments": 4,
-      "source": "blog.willgrant.org"
-    },
-    {
-      "title": "Gsxui \u2013 Shadcn-style components for Go",
-      "url": "https://ui.gsxhq.dev/",
-      "score": 12,
-      "comments": 0,
-      "source": "ui.gsxhq.dev"
-    },
-    {
-      "title": "The front end framework for correctness: built on Effect, architected like Elm",
-      "url": "https://foldkit.dev/",
-      "score": 53,
-      "comments": 28,
-      "source": "foldkit.dev"
-    },
-    {
-      "title": "The rise and fall of language diversity through the Holocene",
-      "url": "https://www.science.org/doi/10.1126/science.adx4343",
-      "score": 39,
-      "comments": 2,
-      "source": "science.org"
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "score": 227,
+      "comments": 82,
+      "source": "blog.mozilla.org"
     },
     {
       "title": "Don't Take the Black Pill [video]",
       "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-      "score": 22,
-      "comments": 9,
+      "score": 131,
+      "comments": 89,
       "source": "youtube.com"
     },
     {
-      "title": "Extending Polars with Rust Expression Plugins",
-      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-      "score": 19,
+      "title": "Marimo now runs in PyCharm",
+      "url": "https://marimo.io/blog/pycharm",
+      "score": 80,
+      "comments": 16,
+      "source": "marimo.io"
+    },
+    {
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "score": 248,
+      "comments": 311,
+      "source": "houseofsaud.com"
+    },
+    {
+      "title": "Future euro banknote design proposals",
+      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
+      "score": 131,
+      "comments": 124,
+      "source": "ecb.europa.eu"
+    },
+    {
+      "title": "Gsxui \u2013 Shadcn-style components for Go",
+      "url": "https://ui.gsxhq.dev/",
+      "score": 56,
+      "comments": 8,
+      "source": "ui.gsxhq.dev"
+    },
+    {
+      "title": "The case for MUDs in modern times (2018)",
+      "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+      "score": 82,
+      "comments": 69,
+      "source": "andrewzigler.com"
+    },
+    {
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "score": 430,
+      "comments": 235,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Show HN: Max Studio Tools \u2013 C++ DSP Modules for Max and Ableton Live",
+      "url": "https://github.com/apresta/max-studio-tools",
+      "score": 22,
       "comments": 0,
-      "source": "fenic.ai"
-    },
-    {
-      "title": "DuckPGQ \u2013 A DuckDB community extension for graph workloads",
-      "url": "https://duckpgq.org/",
-      "score": 24,
-      "comments": 3,
-      "source": "duckpgq.org"
-    },
-    {
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 287,
-      "comments": 47,
-      "source": "bfl.ai"
-    },
-    {
-      "title": "It's getting harder to focus every day",
-      "url": "https://glyphack.com/attention/",
-      "score": 613,
-      "comments": 349,
-      "source": "glyphack.com"
-    },
-    {
-      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
-      "url": "https://openjdk.org/jeps/541",
-      "score": 84,
-      "comments": 78,
-      "source": "openjdk.org"
-    },
-    {
-      "title": "Flux 3",
-      "url": "https://bfl.ai/blog/flux-3",
-      "score": 526,
-      "comments": 125,
-      "source": "bfl.ai"
-    },
-    {
-      "title": "Reporting Web 3D Capabilities on a Budget of $3 a Month",
-      "url": "https://ben3d.ca/blog/reporting-web-3d-capabilities-on-a-budget",
-      "score": 7,
-      "comments": 0,
-      "source": "ben3d.ca"
-    },
-    {
-      "title": "Em dashes are amazing",
-      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
-      "score": 287,
-      "comments": 252,
-      "source": "psychotechnology.substack.com"
+      "source": "github.com"
     },
     {
       "title": "Unitree As2-W",
       "url": "https://www.unitree.com/As2-W/",
-      "score": 41,
-      "comments": 16,
+      "score": 96,
+      "comments": 40,
       "source": "unitree.com"
     },
     {
-      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-      "url": "https://blog.cloudflare.com/bgp-origin-attribute/",
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "score": 381,
+      "comments": 281,
+      "source": "thehindu.com"
+    },
+    {
+      "title": "The footprints of every building in NYC",
+      "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+      "score": 50,
+      "comments": 6,
+      "source": "beautifulpublicdata.com"
+    },
+    {
+      "title": "The road to epsilon-zero: Nim always ends, even with infinite ordinals",
+      "url": "https://blog.plover.com/math/ordinals/02-wellfoundedness.html",
       "score": 11,
+      "comments": 3,
+      "source": "blog.plover.com"
+    },
+    {
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
+      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+      "score": 40,
+      "comments": 21,
+      "source": "bruh.ltd"
+    },
+    {
+      "title": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+      "score": 228,
+      "comments": 162,
+      "source": "ziggit.dev"
+    },
+    {
+      "title": "Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas",
+      "url": "https://github.com/fcmv/lucen",
+      "score": 4,
       "comments": 0,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "The small, real, original web",
-      "url": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
-      "score": 11,
-      "comments": 0,
-      "source": "spacetimetech.wordpress.com"
-    },
-    {
-      "title": "Codeberg Divides",
-      "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
-      "score": 70,
-      "comments": 92,
-      "source": "lucumr.pocoo.org"
-    },
-    {
-      "title": "Latest Airbus single aisle aircraft innovations",
-      "url": "https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers",
-      "score": 39,
-      "comments": 59,
-      "source": "airbus.com"
-    },
-    {
-      "title": "Making Xen's dom0 I/O path NUMA aware",
-      "url": "https://edera.dev/stories/numa-part-4-closing-the-xen-dom0-i-o-gap",
-      "score": 23,
-      "comments": 4,
-      "source": "edera.dev"
-    },
-    {
-      "title": "Online Historical Encyclopaedia of Programming Languages",
-      "url": "https://hopl.info/",
-      "score": 15,
-      "comments": 1,
-      "source": "hopl.info"
+      "source": "github.com"
     }
   ],
   "security": [
+    {
+      "title": "Accelerating AWS Network Firewall troubleshooting with AWS DevOps Agent",
+      "url": "https://aws.amazon.com/blogs/security/accelerating-aws-network-firewall-troubleshooting-with-aws-devops-agent/",
+      "date": "2026-07-24 19:54:48",
+      "author": "Salman Ahmed"
+    },
     {
       "title": "Enterprise security at machine speed: AWS Black Hat 2026 preview",
       "url": "https://aws.amazon.com/blogs/security/enterprise-security-at-machine-speed-aws-black-hat-2026-preview/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/",
       "date": "2026-07-10 16:15:19",
       "author": "Michael Jefferson"
-    },
-    {
-      "title": "Introducing OAuth Support for AWS MCP Server",
-      "url": "https://aws.amazon.com/blogs/security/introducing-oauth-support-for-aws-mcp-server/",
-      "date": "2026-07-09 23:43:47",
-      "author": "Vaibhav Chowla"
     }
   ]
 }
