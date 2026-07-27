@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "title": "MAI-Cyber 1",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "score": 161,
+      "comments": 73,
+      "source": "microsoft.ai"
+    },
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "score": 44,
+      "comments": 0,
+      "source": "theconsensus.dev"
+    },
+    {
+      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+      "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+      "score": 148,
+      "comments": 113,
+      "source": "sgieurope.com"
+    },
+    {
+      "title": "Kimi-K3 on HuggingFace",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "score": 662,
-      "comments": 294,
+      "score": 1138,
+      "comments": 454,
       "source": "huggingface.co"
     },
     {
-      "title": "Should you wash your solar panels?",
-      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
-      "score": 52,
-      "comments": 36,
-      "source": "incoherency.co.uk"
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "score": 92,
+      "comments": 41,
+      "source": "cen.acs.org"
     },
     {
-      "title": "How is the Bun Rewrite in Rust going?",
-      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "score": 229,
-      "comments": 155,
-      "source": "lockwood.dev"
+      "title": "The computer that helped win World War II",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "score": 97,
+      "comments": 48,
+      "source": "spectrum.ieee.org"
     },
     {
-      "title": "AI companies are shredding rare books",
-      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-      "score": 314,
-      "comments": 185,
-      "source": "xcancel.com"
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "score": 19,
+      "comments": 0,
+      "source": "gregoryszorc.com"
+    },
+    {
+      "title": "Show HN: FeyNoBg \u2013 Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "score": 37,
+      "comments": 12,
+      "source": "usefeyn.com"
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "score": 53,
+      "comments": 9,
+      "source": "eaton-works.com"
+    },
+    {
+      "title": "Bytecode-to-Source Mapping",
+      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
+      "score": 6,
+      "comments": 0,
+      "source": "tidefield.dev"
+    },
+    {
+      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "score": 1,
+      "comments": 0,
+      "source": "up.codes"
     },
     {
       "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
       "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-      "score": 74,
-      "comments": 43,
+      "score": 175,
+      "comments": 125,
       "source": "misago-project.org"
+    },
+    {
+      "title": "Paged Out #9 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_009.pdf",
+      "score": 80,
+      "comments": 10,
+      "source": "pagedout.institute"
+    },
+    {
+      "title": "If Scrubs Hurt, Your ZFS Design Is Broken",
+      "url": "https://klarasystems.com/articles/if-scrubs-hurt-your-zfs-design-is-broken/",
+      "score": 15,
+      "comments": 5,
+      "source": "klarasystems.com"
     },
     {
       "title": "Libsm64: Mario 64 as a library for use in external game engines",
       "url": "https://github.com/libsm64/libsm64",
-      "score": 68,
-      "comments": 11,
+      "score": 135,
+      "comments": 16,
       "source": "github.com"
     },
     {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 762,
-      "comments": 71,
-      "source": "nikolays.github.io"
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "score": 31,
+      "comments": 3,
+      "source": "techdirt.com"
     },
     {
-      "title": "Building a Fast Lock-Free Queue in Modern C++ from Scratch",
-      "url": "https://blog.jaysmito.dev/blog/04-fast-lockfree-queues/",
-      "score": 40,
-      "comments": 11,
-      "source": "blog.jaysmito.dev"
-    },
-    {
-      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
-      "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
-      "score": 154,
-      "comments": 60,
-      "source": "mymodernmet.com"
-    },
-    {
-      "title": "VLC for Unity now supported on Linux",
-      "url": "https://code.videolan.org/videolan/vlc-unity",
-      "score": 68,
-      "comments": 18,
-      "source": "code.videolan.org"
-    },
-    {
-      "title": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
-      "url": "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/",
-      "score": 26,
-      "comments": 2,
-      "source": "writings.stephenwolfram.com"
-    },
-    {
-      "title": "Elevated errors on Claude Opus 5",
-      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-      "score": 54,
-      "comments": 46,
-      "source": "status.claude.com"
-    },
-    {
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "score": 402,
-      "comments": 135,
-      "source": "blackhole.plav.in"
-    },
-    {
-      "title": "Worse on Purpose",
-      "url": "https://ledger.worseonpurpose.com/brands",
-      "score": 78,
-      "comments": 35,
-      "source": "ledger.worseonpurpose.com"
-    },
-    {
-      "title": "The Birth of the American 12-string Guitar",
-      "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
-      "score": 38,
-      "comments": 19,
-      "source": "harpguitars.net"
-    },
-    {
-      "title": "Shay Locomotives",
-      "url": "https://www.shaylocomotives.com/",
-      "score": 34,
-      "comments": 6,
-      "source": "shaylocomotives.com"
+      "title": "Show HN: Infrawrench \u2013 a tool to manage cloud and svcs with workflows and chat",
+      "url": "https://infrawrench.com",
+      "score": 13,
+      "comments": 0,
+      "source": "infrawrench.com"
     },
     {
       "title": "First Robotic Satellite Servicer Launched",
       "url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/",
-      "score": 13,
-      "comments": 1,
+      "score": 58,
+      "comments": 29,
       "source": "nrl.navy.mil"
+    },
+    {
+      "title": "How is the Bun Rewrite in Rust going?",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "score": 365,
+      "comments": 282,
+      "source": "lockwood.dev"
     },
     {
       "title": "Modern email can be built from borrowed parts",
       "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-      "score": 59,
-      "comments": 20,
+      "score": 131,
+      "comments": 63,
       "source": "en.andros.dev"
     },
     {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "score": 229,
-      "comments": 116,
+      "title": "VLC for Unity now supported on Linux",
+      "url": "https://code.videolan.org/videolan/vlc-unity",
+      "score": 118,
+      "comments": 37,
+      "source": "code.videolan.org"
+    },
+    {
+      "title": "Should you wash your solar panels?",
+      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "score": 178,
+      "comments": 157,
+      "source": "incoherency.co.uk"
+    },
+    {
+      "title": "Towards a Theory of Bugs: The Ruliology of the Unexpected",
+      "url": "https://writings.stephenwolfram.com/2026/07/towards-a-theory-of-bugs-the-ruliology-of-the-unexpected/",
+      "score": 49,
+      "comments": 23,
+      "source": "writings.stephenwolfram.com"
+    },
+    {
+      "title": "Kimi-K3 Technical Report [pdf]",
+      "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+      "score": 325,
+      "comments": 129,
       "source": "github.com"
     },
     {
-      "title": "The Proof Machine (2016)",
-      "url": "https://incredible.pm/",
-      "score": 12,
+      "title": "Shay Locomotives",
+      "url": "https://www.shaylocomotives.com/",
+      "score": 61,
+      "comments": 16,
+      "source": "shaylocomotives.com"
+    },
+    {
+      "title": "The Artist Who Colored Ghibli",
+      "url": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
+      "score": 9,
       "comments": 0,
-      "source": "incredible.pm"
+      "source": "animationobsessive.substack.com"
     },
     {
-      "title": "Elevated errors on Claude Opus 5",
-      "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-      "score": 37,
-      "comments": 22,
-      "source": "status.claude.com"
+      "title": "The Birth of the American 12-string Guitar (2013)",
+      "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
+      "score": 64,
+      "comments": 38,
+      "source": "harpguitars.net"
     },
     {
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 343,
-      "comments": 78,
-      "source": "beyondloom.com"
+      "title": "AI companies spend record sums on Washington lobbying",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "score": 228,
+      "comments": 117,
+      "source": "ft.com"
     },
     {
-      "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-      "url": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
-      "score": 33,
-      "comments": 11,
-      "source": "omgubuntu.co.uk"
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "score": 856,
+      "comments": 82,
+      "source": "nikolays.github.io"
     },
     {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 1013,
-      "comments": 770,
-      "source": "techspot.com"
-    },
-    {
-      "title": "We Tested Nonstick Cookware: Coatings Don't Need to Look Worn to Shed Particles",
-      "url": "https://www.rtings.com/air-fryer/learn/research/ptfe-cookware-shedding",
-      "score": 18,
-      "comments": 4,
-      "source": "rtings.com"
-    },
-    {
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 204,
-      "comments": 87,
-      "source": "imperialviolet.org"
-    },
-    {
-      "title": "8086 Emulator Inside Scratch",
-      "url": "https://turbowarp.org/1248315967?size=640x400",
-      "score": 24,
-      "comments": 1,
-      "source": "turbowarp.org"
-    },
-    {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 216,
-      "comments": 54,
-      "source": "gamedevs.org"
-    },
-    {
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "score": 146,
-      "comments": 125,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Chinese chipmaker shares surge 470%",
-      "url": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
-      "score": 145,
-      "comments": 132,
-      "source": "bbc.com"
+      "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+      "url": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
+      "score": 7,
+      "comments": 0,
+      "source": "pranitha.dev"
     }
   ],
   "security": [
+    {
+      "title": "Announcing the Cloud Security Alliance on AWS Compliance Guide",
+      "url": "https://aws.amazon.com/blogs/security/announcing-the-cloud-security-alliance-on-aws-compliance-guide/",
+      "date": "2026-07-27 16:15:44",
+      "author": "Juan Rodriguez"
+    },
     {
       "title": "Accelerating AWS Network Firewall troubleshooting with AWS DevOps Agent",
       "url": "https://aws.amazon.com/blogs/security/accelerating-aws-network-firewall-troubleshooting-with-aws-devops-agent/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/new-compliance-guidance-available-hitrust-i1-on-aws/",
       "date": "2026-07-13 13:19:51",
       "author": "Abdul Javid"
-    },
-    {
-      "title": "AWS designated as a critical third party to the UK financial sector",
-      "url": "https://aws.amazon.com/blogs/security/aws-designated-as-a-critical-third-party-to-the-uk-financial-sector/",
-      "date": "2026-07-10 16:15:19",
-      "author": "Michael Jefferson"
     }
   ]
 }
