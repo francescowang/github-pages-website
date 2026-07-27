@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "score": 275,
+      "comments": 101,
+      "source": "huggingface.co"
+    },
+    {
       "title": "PGSimCity - How PostgreSQL Works",
       "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 138,
-      "comments": 22,
+      "score": 582,
+      "comments": 57,
       "source": "nikolays.github.io"
     },
     {
       "title": "Show HN: Physically accurate black hole you can put in your room",
       "url": "https://blackhole.plav.in",
-      "score": 41,
-      "comments": 9,
+      "score": 313,
+      "comments": 94,
       "source": "blackhole.plav.in"
-    },
-    {
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 230,
-      "comments": 58,
-      "source": "beyondloom.com"
-    },
-    {
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 83,
-      "comments": 10,
-      "source": "imperialviolet.org"
-    },
-    {
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 194,
-      "comments": 109,
-      "source": "france24.com"
-    },
-    {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 217,
-      "comments": 134,
-      "source": "techspot.com"
-    },
-    {
-      "title": "Teaching Kids Forth",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "score": 57,
-      "comments": 18,
-      "source": "gracefulliberty.com"
-    },
-    {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 118,
-      "comments": 35,
-      "source": "gamedevs.org"
-    },
-    {
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "score": 200,
-      "comments": 75,
-      "source": "stephango.com"
-    },
-    {
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 367,
-      "comments": 114,
-      "source": "swag.htmx.org"
-    },
-    {
-      "title": "Simulate cassette tape audio profiles using FFmpeg",
-      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
-      "score": 81,
-      "comments": 40,
-      "source": "github.com"
     },
     {
       "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
       "url": "https://github.com/vercel-labs/scriptc",
-      "score": 22,
-      "comments": 3,
+      "score": 173,
+      "comments": 88,
       "source": "github.com"
     },
     {
-      "title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "score": 110,
-      "comments": 22,
-      "source": "github.com"
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "score": 375,
+      "comments": 241,
+      "source": "france24.com"
     },
     {
-      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
-      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
-      "score": 48,
-      "comments": 25,
-      "source": "spectrum.ieee.org"
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "score": 314,
+      "comments": 74,
+      "source": "beyondloom.com"
     },
     {
-      "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
-      "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
-      "score": 79,
-      "comments": 11,
-      "source": "astgrep.com"
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 750,
+      "comments": 544,
+      "source": "techspot.com"
     },
     {
-      "title": "How to Write English Prose",
-      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-      "score": 82,
-      "comments": 42,
-      "source": "thelampmagazine.com"
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "score": 165,
+      "comments": 53,
+      "source": "imperialviolet.org"
     },
     {
-      "title": "History of John Backus's functional programming project [draft]",
-      "url": "https://softwarepreservation.computerhistory.org/FP/",
-      "score": 13,
-      "comments": 1,
-      "source": "softwarepreservation.computerhistory.org"
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "score": 449,
+      "comments": 149,
+      "source": "swag.htmx.org"
+    },
+    {
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "score": 103,
+      "comments": 101,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "score": 173,
+      "comments": 45,
+      "source": "gamedevs.org"
+    },
+    {
+      "title": "How Unix spell ran in 64 kB of RAM",
+      "url": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+      "score": 10,
+      "comments": 0,
+      "source": "blog.codingconfessions.com"
     },
     {
       "title": "Fonts In Use \u2013 Find out where a font is used",
       "url": "https://fontsinuse.com/",
-      "score": 17,
-      "comments": 0,
+      "score": 66,
+      "comments": 5,
       "source": "fontsinuse.com"
+    },
+    {
+      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+      "score": 11,
+      "comments": 5,
+      "source": "mymodernmet.com"
+    },
+    {
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "score": 133,
+      "comments": 54,
+      "source": "github.com"
+    },
+    {
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "score": 252,
+      "comments": 85,
+      "source": "stephango.com"
+    },
+    {
+      "title": "Measuring developer productivity with the DX Core 4",
+      "url": "https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/",
+      "score": 13,
+      "comments": 8,
+      "source": "getdx.com"
+    },
+    {
+      "title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "score": 129,
+      "comments": 26,
+      "source": "github.com"
+    },
+    {
+      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
+      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+      "score": 77,
+      "comments": 4,
+      "source": "faculty.lsu.edu"
+    },
+    {
+      "title": "Show HN: Reverse Minesweeper",
+      "url": "https://sunflowersgame.com/",
+      "score": 221,
+      "comments": 70,
+      "source": "sunflowersgame.com"
+    },
+    {
+      "title": "How to write English prose (2023)",
+      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "score": 119,
+      "comments": 58,
+      "source": "thelampmagazine.com"
+    },
+    {
+      "title": "The old-school way of keeping the summer heat out of your home",
+      "url": "https://monocle.com/design/architecture/keeping-your-home-cool-without-air-conditioning/",
+      "score": 12,
+      "comments": 17,
+      "source": "monocle.com"
     },
     {
       "title": "Go Analysis Framework: modular static analysis by go team",
       "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 183,
-      "comments": 41,
+      "score": 207,
+      "comments": 65,
       "source": "pkg.go.dev"
     },
     {
-      "title": "How to Block Some of the Bots",
-      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-      "score": 84,
-      "comments": 95,
-      "source": "nochan.net"
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "score": 1013,
+      "comments": 484,
+      "source": "killthecookiebanner.eu"
+    },
+    {
+      "title": "The Zen of Parallel Programming: The Posture of a Kernel",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming-the-posture-of-a-kernel",
+      "score": 15,
+      "comments": 1,
+      "source": "smolnero.com"
+    },
+    {
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+      "score": 211,
+      "comments": 45,
+      "source": "pentaton.app"
     },
     {
       "title": "The relay market powering token resellers and fraud",
       "url": "https://vectoral.com/blog/token-relay-market",
-      "score": 160,
-      "comments": 96,
+      "score": 193,
+      "comments": 120,
       "source": "vectoral.com"
     },
     {
       "title": "The New AI Superpowers: Focus and Followthrough",
       "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "score": 150,
-      "comments": 45,
+      "score": 200,
+      "comments": 66,
       "source": "rickmanelius.com"
     },
     {
-      "title": "I learned PCB design, 3D printing and C just to listen to music",
-      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-      "score": 177,
-      "comments": 35,
-      "source": "pentaton.app"
-    },
-    {
-      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
-      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
-      "score": 24,
+      "title": "8086 Emulator Inside Scratch",
+      "url": "https://turbowarp.org/1248315967?size=640x400",
+      "score": 4,
       "comments": 1,
-      "source": "faculty.lsu.edu"
+      "source": "turbowarp.org"
     },
     {
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "score": 844,
-      "comments": 415,
-      "source": "killthecookiebanner.eu"
-    },
-    {
-      "title": "Show HN: Reverse Minesweeper",
-      "url": "https://sunflowersgame.com/",
-      "score": 156,
-      "comments": 52,
-      "source": "sunflowersgame.com"
-    },
-    {
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "score": 58,
-      "comments": 52,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
-      "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
-      "score": 103,
-      "comments": 54,
-      "source": "popsci.com"
-    },
-    {
-      "title": "Show HN: Port Zero \u2013 how I learned to stop worrying and love PORT=0",
-      "url": "https://portzero.net/",
-      "score": 11,
-      "comments": 4,
-      "source": "portzero.net"
-    },
-    {
-      "title": "Using sed to make indexes for books (1997)",
-      "url": "https://www.pement.org/sed/make_indexes.txt",
-      "score": 53,
-      "comments": 9,
-      "source": "pement.org"
+      "title": "Teaching Kids Forth",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "score": 89,
+      "comments": 36,
+      "source": "gracefulliberty.com"
     }
   ],
   "security": [
