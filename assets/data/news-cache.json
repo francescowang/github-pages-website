@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "score": 212,
-      "comments": 148,
-      "source": "aerospaceglobalnews.com"
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "score": 138,
+      "comments": 22,
+      "source": "nikolays.github.io"
     },
     {
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "score": 457,
-      "comments": 245,
-      "source": "killthecookiebanner.eu"
-    },
-    {
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "score": 91,
-      "comments": 38,
-      "source": "stephango.com"
-    },
-    {
-      "title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "url": "https://github.com/gmrandazzo/CheapSecurity",
-      "score": 39,
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
+      "score": 41,
       "comments": 9,
-      "source": "github.com"
+      "source": "blackhole.plav.in"
     },
     {
-      "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
-      "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
-      "score": 55,
-      "comments": 16,
-      "source": "popsci.com"
-    },
-    {
-      "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "score": 315,
-      "comments": 192,
-      "source": "astral.sh"
-    },
-    {
-      "title": "Go Analysis Framework: modular static analysis by go team",
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 141,
-      "comments": 20,
-      "source": "pkg.go.dev"
-    },
-    {
-      "title": "How to Write English Prose",
-      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
-      "score": 15,
-      "comments": 4,
-      "source": "thelampmagazine.com"
-    },
-    {
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-      "score": 184,
-      "comments": 57,
-      "source": "swag.htmx.org"
-    },
-    {
-      "title": "Decker",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
       "url": "https://beyondloom.com/decker/",
-      "score": 9,
-      "comments": 2,
+      "score": 230,
+      "comments": 58,
       "source": "beyondloom.com"
     },
     {
-      "title": "Google Cache used to have a copy of this page at",
-      "url": "https://www.hornet.org/wikipedia-notes.txt",
-      "score": 8,
-      "comments": 2,
-      "source": "hornet.org"
-    },
-    {
-      "title": "How to Block Some of the Bots",
-      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-      "score": 6,
-      "comments": 3,
-      "source": "nochan.net"
-    },
-    {
-      "title": "Using sed to make indexes for books (long)",
-      "url": "https://www.pement.org/sed/make_indexes.txt",
-      "score": 17,
-      "comments": 1,
-      "source": "pement.org"
-    },
-    {
-      "title": "The Strongest El Ni\u00f1o Ever",
-      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "score": 57,
-      "comments": 15,
-      "source": "theclimatebrink.com"
-    },
-    {
-      "title": "I learned PCB design, 3D printing and C just to listen to music",
-      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
-      "score": 123,
-      "comments": 23,
-      "source": "pentaton.app"
-    },
-    {
-      "title": "Calling all open source maintainers working with Ruby",
-      "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
-      "score": 10,
-      "comments": 7,
-      "source": "rubyforum.org"
-    },
-    {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 4,
-      "comments": 0,
-      "source": "gamedevs.org"
-    },
-    {
-      "title": "The New AI Superpowers: Focus and Followthrough",
-      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "score": 60,
-      "comments": 21,
-      "source": "rickmanelius.com"
-    },
-    {
-      "title": "Show HN: The Occult Gatsby",
-      "url": "https://occultgatsby.work",
-      "score": 6,
-      "comments": 0,
-      "source": "occultgatsby.work"
-    },
-    {
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 310,
-      "comments": 194,
-      "source": "discuss.grapheneos.org"
-    },
-    {
-      "title": "What's Under Your Feet in New York City?",
-      "url": "https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city",
-      "score": 106,
-      "comments": 13,
-      "source": "practical.engineering"
-    },
-    {
-      "title": "Show HN: Reverse Minesweeper",
-      "url": "https://sunflowersgame.com/",
-      "score": 64,
-      "comments": 22,
-      "source": "sunflowersgame.com"
-    },
-    {
-      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "score": 251,
-      "comments": 198,
-      "source": "wsj.com"
-    },
-    {
-      "title": "Sum of Cubes via Difference Tables",
-      "url": "https://leancrew.com/all-this/2026/07/sum-of-cubes-via-difference-tables/",
-      "score": 8,
-      "comments": 1,
-      "source": "leancrew.com"
-    },
-    {
-      "title": "An Inside Look at the Token Reseller Market",
-      "url": "https://vectoral.com/blog/token-relay-market",
-      "score": 88,
-      "comments": 44,
-      "source": "vectoral.com"
-    },
-    {
-      "title": "A shell colon does nothing. Use it anyway",
-      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 354,
-      "comments": 152,
-      "source": "refp.se"
-    },
-    {
-      "title": "Using ThinkPad T480 as a mobile phone",
-      "url": "https://grego.site/blog/thinkphone",
-      "score": 7,
-      "comments": 3,
-      "source": "grego.site"
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "score": 83,
+      "comments": 10,
+      "source": "imperialviolet.org"
     },
     {
       "title": "French firefighters face 'pyrocumulonimbus' for first time",
       "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 29,
-      "comments": 13,
+      "score": 194,
+      "comments": 109,
       "source": "france24.com"
     },
     {
-      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "score": 60,
-      "comments": 24,
-      "source": "teorth.github.io"
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "score": 217,
+      "comments": 134,
+      "source": "techspot.com"
     },
     {
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "score": 244,
-      "comments": 53,
-      "source": "blog.ktz.me"
+      "title": "Teaching Kids Forth",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "score": 57,
+      "comments": 18,
+      "source": "gracefulliberty.com"
+    },
+    {
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "score": 118,
+      "comments": 35,
+      "source": "gamedevs.org"
+    },
+    {
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "score": 200,
+      "comments": 75,
+      "source": "stephango.com"
+    },
+    {
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "score": 367,
+      "comments": 114,
+      "source": "swag.htmx.org"
+    },
+    {
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "score": 81,
+      "comments": 40,
+      "source": "github.com"
+    },
+    {
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "score": 22,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "score": 110,
+      "comments": 22,
+      "source": "github.com"
+    },
+    {
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+      "score": 48,
+      "comments": 25,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+      "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
+      "score": 79,
+      "comments": 11,
+      "source": "astgrep.com"
+    },
+    {
+      "title": "How to Write English Prose",
+      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "score": 82,
+      "comments": 42,
+      "source": "thelampmagazine.com"
+    },
+    {
+      "title": "History of John Backus's functional programming project [draft]",
+      "url": "https://softwarepreservation.computerhistory.org/FP/",
+      "score": 13,
+      "comments": 1,
+      "source": "softwarepreservation.computerhistory.org"
+    },
+    {
+      "title": "Fonts In Use \u2013 Find out where a font is used",
+      "url": "https://fontsinuse.com/",
+      "score": 17,
+      "comments": 0,
+      "source": "fontsinuse.com"
+    },
+    {
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "score": 183,
+      "comments": 41,
+      "source": "pkg.go.dev"
+    },
+    {
+      "title": "How to Block Some of the Bots",
+      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+      "score": 84,
+      "comments": 95,
+      "source": "nochan.net"
+    },
+    {
+      "title": "The relay market powering token resellers and fraud",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "score": 160,
+      "comments": 96,
+      "source": "vectoral.com"
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "score": 150,
+      "comments": 45,
+      "source": "rickmanelius.com"
+    },
+    {
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "url": "https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/",
+      "score": 177,
+      "comments": 35,
+      "source": "pentaton.app"
+    },
+    {
+      "title": "The Usefulness of Useless Knowledge (1939) [pdf]",
+      "url": "https://faculty.lsu.edu/kharms/files/flexner_1939.pdf",
+      "score": 24,
+      "comments": 1,
+      "source": "faculty.lsu.edu"
+    },
+    {
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "score": 844,
+      "comments": 415,
+      "source": "killthecookiebanner.eu"
+    },
+    {
+      "title": "Show HN: Reverse Minesweeper",
+      "url": "https://sunflowersgame.com/",
+      "score": 156,
+      "comments": 52,
+      "source": "sunflowersgame.com"
+    },
+    {
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "score": 58,
+      "comments": 52,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Jimothy the raccoon has a rare spinal condition. Here's what that means",
+      "url": "https://www.popsci.com/science/whats-jimothy-raccoon-condition/",
+      "score": 103,
+      "comments": 54,
+      "source": "popsci.com"
+    },
+    {
+      "title": "Show HN: Port Zero \u2013 how I learned to stop worrying and love PORT=0",
+      "url": "https://portzero.net/",
+      "score": 11,
+      "comments": 4,
+      "source": "portzero.net"
+    },
+    {
+      "title": "Using sed to make indexes for books (1997)",
+      "url": "https://www.pement.org/sed/make_indexes.txt",
+      "score": 53,
+      "comments": 9,
+      "source": "pement.org"
     }
   ],
   "security": [
