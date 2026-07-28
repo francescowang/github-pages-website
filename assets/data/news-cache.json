@@ -1,217 +1,229 @@
 {
   "tech": [
     {
-      "title": "7.1 Earthquake in Japan",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 468,
-      "comments": 88,
-      "source": "data.jma.go.jp"
+      "title": "Deflock Casa Grande",
+      "url": "https://deflockcg.com/",
+      "score": 73,
+      "comments": 7,
+      "source": "deflockcg.com"
     },
     {
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 32,
-      "comments": 12,
+      "title": "A walk through of the DeltaNet family of linear attention variants",
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "score": 244,
+      "comments": 100,
+      "source": "blog.doubleword.ai"
+    },
+    {
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 109,
+      "comments": 97,
+      "source": "elizabethtai.com"
+    },
+    {
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "score": 87,
+      "comments": 16,
+      "source": "sbcl.org"
+    },
+    {
+      "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "score": 131,
+      "comments": 64,
+      "source": "slow-journalism.com"
+    },
+    {
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 124,
+      "comments": 14,
+      "source": "sebastianraschka.com"
+    },
+    {
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "score": 79,
+      "comments": 30,
+      "source": "anthropic.com"
+    },
+    {
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "score": 114,
+      "comments": 62,
+      "source": "mlugg.co.uk"
+    },
+    {
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "score": 22,
+      "comments": 7,
+      "source": "blog.modelcontextprotocol.io"
+    },
+    {
+      "title": "How Do I Profile eBPF Code?",
+      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+      "score": 80,
+      "comments": 6,
+      "source": "naveensrinivasan.com"
+    },
+    {
+      "title": "Show HN: XY \u2013 A Fast, composable, GPU-accelerated interactive plotting library",
+      "url": "https://github.com/reflex-dev/xy",
+      "score": 69,
+      "comments": 24,
       "source": "github.com"
+    },
+    {
+      "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
+      "url": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
+      "score": 38,
+      "comments": 0,
+      "source": "w3.org"
     },
     {
       "title": "New HIV vaccine shows unprecedented success in preclinical study",
       "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 62,
-      "comments": 15,
+      "score": 414,
+      "comments": 197,
       "source": "lji.org"
     },
     {
-      "title": "About the security content of macOS Tahoe 26.6",
-      "url": "https://support.apple.com/en-us/128067",
-      "score": 138,
-      "comments": 79,
-      "source": "support.apple.com"
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "url": "https://arxiv.org/abs/1202.4212",
+      "score": 65,
+      "comments": 47,
+      "source": "arxiv.org"
     },
     {
-      "title": "Show HN: tale.fyi, we deserve a home for fiction",
-      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-      "score": 21,
-      "comments": 3,
-      "source": "tale.fyi"
+      "title": "Donate to GrapheneOS",
+      "url": "https://grapheneos.org/donate",
+      "score": 4,
+      "comments": 0,
+      "source": "grapheneos.org"
+    },
+    {
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "score": 233,
+      "comments": 96,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "score": 63,
+      "comments": 22,
+      "source": "cacm.acm.org"
+    },
+    {
+      "title": "Anthropeum \u2013 Where in the world, and when, does this human artifact belong?",
+      "url": "https://anthropeum.com/",
+      "score": 89,
+      "comments": 25,
+      "source": "anthropeum.com"
+    },
+    {
+      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "score": 148,
+      "comments": 92,
+      "source": "ciphercue.com"
+    },
+    {
+      "title": "The most advanced robotic servicing satellite\u2013that we know about",
+      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+      "score": 11,
+      "comments": 0,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "How to survive boiling water",
+      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "score": 377,
+      "comments": 79,
+      "source": "taxa.substack.com"
+    },
+    {
+      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
+      "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+      "score": 259,
+      "comments": 80,
+      "source": "citizens-initiative.europa.eu"
+    },
+    {
+      "title": "So, you want to make a game engine (2023)",
+      "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
+      "score": 34,
+      "comments": 25,
+      "source": "lisyarus.github.io"
+    },
+    {
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "score": 735,
+      "comments": 192,
+      "source": "data.jma.go.jp"
+    },
+    {
+      "title": "Using a Gaming PC's RTX 5070 from a separate Linux workstation",
+      "url": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
+      "score": 24,
+      "comments": 13,
+      "source": "stephenkrings.com"
+    },
+    {
+      "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
+      "url": "https://github.com/utmapp/UTM/issues/7658",
+      "score": 57,
+      "comments": 31,
+      "source": "github.com"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai/",
+      "score": 27,
+      "comments": 8,
+      "source": "openai.com"
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
       "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 60,
-      "comments": 35,
+      "score": 128,
+      "comments": 68,
       "source": "spawn-queue.acm.org"
     },
     {
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "score": 43,
-      "comments": 5,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 1036,
-      "comments": 1516,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "score": 34,
-      "comments": 20,
-      "source": "ciphercue.com"
-    },
-    {
-      "title": "How to Survive Boiling Water",
-      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 161,
-      "comments": 24,
-      "source": "taxa.substack.com"
-    },
-    {
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "score": 20,
-      "comments": 7,
-      "source": "jfrog.com"
-    },
-    {
-      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
-      "score": 26,
-      "comments": 3,
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "score": 97,
+      "comments": 42,
       "source": "github.com"
-    },
-    {
-      "title": "What AI developers could learn from Charles Bukowski?",
-      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-      "score": 14,
-      "comments": 11,
-      "source": "galjot.si"
-    },
-    {
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 250,
-      "comments": 79,
-      "source": "fermisense.com"
-    },
-    {
-      "title": "Show HN: Scala Tutorials \u2013 interactive Scala 3 lessons in the browser",
-      "url": "https://scalatutorials.com",
-      "score": 27,
-      "comments": 4,
-      "source": "scalatutorials.com"
-    },
-    {
-      "title": "Mondragon Corporation \u2013 a federation of co-operatives",
-      "url": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
-      "score": 66,
-      "comments": 2,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules",
-      "url": "https://necroticgnome.com/collections/dolmenwood",
-      "score": 8,
-      "comments": 1,
-      "source": "necroticgnome.com"
-    },
-    {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 343,
-      "comments": 89,
-      "source": "github.com"
-    },
-    {
-      "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
-      "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
-      "score": 15,
-      "comments": 6,
-      "source": "simpleflying.com"
-    },
-    {
-      "title": "Can LLMs identify 16 cards in 45 bit-queries?",
-      "url": "https://snwagh.com/blog/2026/open-problem/",
-      "score": 6,
-      "comments": 0,
-      "source": "snwagh.com"
     },
     {
       "title": "Solving Fermat: Andrew Wiles",
       "url": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
-      "score": 3,
-      "comments": 0,
+      "score": 65,
+      "comments": 28,
       "source": "pbs.org"
-    },
-    {
-      "title": "Usenet Archive Toolkit \u2013 process Usenet messages into a searchable archive",
-      "url": "https://github.com/wolfpld/usenetarchive",
-      "score": 11,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Vivari \u2013 Open-Source WebContainer for Node, Bun, and Python",
-      "url": "https://vivari.jamesisme.com",
-      "score": 8,
-      "comments": 0,
-      "source": "vivari.jamesisme.com"
-    },
-    {
-      "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
-      "url": "https://arsastronomica.com/",
-      "score": 90,
-      "comments": 25,
-      "source": "arsastronomica.com"
-    },
-    {
-      "title": "Show HN: Segue \u2013 Save context in one AI, load it in another by a short handle",
-      "url": "https://segue.ai/",
-      "score": 8,
-      "comments": 4,
-      "source": "segue.ai"
-    },
-    {
-      "title": "Vehicle Motion Cues",
-      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-      "score": 158,
-      "comments": 78,
-      "source": "support.apple.com"
-    },
-    {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 250,
-      "comments": 34,
-      "source": "theconsensus.dev"
-    },
-    {
-      "title": "PyTorch: A Reference Language",
-      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-      "score": 56,
-      "comments": 4,
-      "source": "docs.pytorch.org"
-    },
-    {
-      "title": "TWC Classics",
-      "url": "https://twcclassics.com/",
-      "score": 27,
-      "comments": 3,
-      "source": "twcclassics.com"
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
-      "url": "https://up.codes/careers?utm_source=HN",
-      "score": 1,
-      "comments": 0,
-      "source": "up.codes"
     }
   ],
   "security": [
+    {
+      "title": "AWS KMS or AWS CloudHSM: Choose the right key management solution",
+      "url": "https://aws.amazon.com/blogs/security/aws-kms-or-aws-cloudhsm-choose-the-right-key-management-solution/",
+      "date": "2026-07-28 18:55:43",
+      "author": "Derek Tumulak"
+    },
+    {
+      "title": "2026 Phase 1a IRAP report is now available on AWS Artifact for Australian customers",
+      "url": "https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers/",
+      "date": "2026-07-28 17:16:34",
+      "author": "Patrick Chang"
+    },
     {
       "title": "AWS Shield Advanced is embracing the AWS WAF Anti-DDoS managed rule group: What changes and how to prepare",
       "url": "https://aws.amazon.com/blogs/security/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare/",
@@ -259,18 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/icymi-june-2026-aws-security/",
       "date": "2026-07-15 00:37:58",
       "author": "Rodolfo Brenes"
-    },
-    {
-      "title": "Security Hub adds AI workload protection and multicloud support for Microsoft Azure",
-      "url": "https://aws.amazon.com/blogs/security/security-hub-adds-ai-workload-protection-and-multicloud-support-for-microsoft-azure/",
-      "date": "2026-07-14 19:16:57",
-      "author": "Michael Fuller"
-    },
-    {
-      "title": "Authenticate legitimate AI agent traffic with AWS WAF Bot Control",
-      "url": "https://aws.amazon.com/blogs/security/authenticate-legitimate-ai-agent-traffic-with-aws-waf-bot-control/",
-      "date": "2026-07-14 15:18:42",
-      "author": "Harith Gaddamanugu"
     }
   ]
 }
