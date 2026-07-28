@@ -3,212 +3,212 @@
     {
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 91,
-      "comments": 14,
+      "score": 468,
+      "comments": 88,
       "source": "data.jma.go.jp"
+    },
+    {
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "score": 32,
+      "comments": 12,
+      "source": "github.com"
+    },
+    {
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "score": 62,
+      "comments": 15,
+      "source": "lji.org"
+    },
+    {
+      "title": "About the security content of macOS Tahoe 26.6",
+      "url": "https://support.apple.com/en-us/128067",
+      "score": 138,
+      "comments": 79,
+      "source": "support.apple.com"
+    },
+    {
+      "title": "Show HN: tale.fyi, we deserve a home for fiction",
+      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+      "score": 21,
+      "comments": 3,
+      "source": "tale.fyi"
+    },
+    {
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "score": 60,
+      "comments": 35,
+      "source": "spawn-queue.acm.org"
+    },
+    {
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "score": 43,
+      "comments": 5,
+      "source": "arxiv.org"
     },
     {
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 850,
-      "comments": 1237,
+      "score": 1036,
+      "comments": 1516,
       "source": "anthropic.com"
+    },
+    {
+      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "score": 34,
+      "comments": 20,
+      "source": "ciphercue.com"
+    },
+    {
+      "title": "How to Survive Boiling Water",
+      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "score": 161,
+      "comments": 24,
+      "source": "taxa.substack.com"
+    },
+    {
+      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+      "score": 20,
+      "comments": 7,
+      "source": "jfrog.com"
+    },
+    {
+      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+      "score": 26,
+      "comments": 3,
+      "source": "github.com"
+    },
+    {
+      "title": "What AI developers could learn from Charles Bukowski?",
+      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+      "score": 14,
+      "comments": 11,
+      "source": "galjot.si"
     },
     {
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
       "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 154,
-      "comments": 43,
+      "score": 250,
+      "comments": 79,
       "source": "fermisense.com"
     },
     {
-      "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
-      "url": "https://arsastronomica.com/",
-      "score": 51,
-      "comments": 8,
-      "source": "arsastronomica.com"
+      "title": "Show HN: Scala Tutorials \u2013 interactive Scala 3 lessons in the browser",
+      "url": "https://scalatutorials.com",
+      "score": 27,
+      "comments": 4,
+      "source": "scalatutorials.com"
+    },
+    {
+      "title": "Mondragon Corporation \u2013 a federation of co-operatives",
+      "url": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
+      "score": 66,
+      "comments": 2,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules",
+      "url": "https://necroticgnome.com/collections/dolmenwood",
+      "score": 8,
+      "comments": 1,
+      "source": "necroticgnome.com"
     },
     {
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 266,
-      "comments": 59,
+      "score": 343,
+      "comments": 89,
       "source": "github.com"
     },
     {
-      "title": "Neutrino-1 8B",
-      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-      "score": 67,
-      "comments": 12,
-      "source": "fermionresearch.com"
+      "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
+      "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
+      "score": 15,
+      "comments": 6,
+      "source": "simpleflying.com"
     },
     {
-      "title": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-      "score": 259,
-      "comments": 85,
-      "source": "matthewsaltz.com"
+      "title": "Can LLMs identify 16 cards in 45 bit-queries?",
+      "url": "https://snwagh.com/blog/2026/open-problem/",
+      "score": 6,
+      "comments": 0,
+      "source": "snwagh.com"
+    },
+    {
+      "title": "Solving Fermat: Andrew Wiles",
+      "url": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
+      "score": 3,
+      "comments": 0,
+      "source": "pbs.org"
+    },
+    {
+      "title": "Usenet Archive Toolkit \u2013 process Usenet messages into a searchable archive",
+      "url": "https://github.com/wolfpld/usenetarchive",
+      "score": 11,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Vivari \u2013 Open-Source WebContainer for Node, Bun, and Python",
+      "url": "https://vivari.jamesisme.com",
+      "score": 8,
+      "comments": 0,
+      "source": "vivari.jamesisme.com"
+    },
+    {
+      "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
+      "url": "https://arsastronomica.com/",
+      "score": 90,
+      "comments": 25,
+      "source": "arsastronomica.com"
+    },
+    {
+      "title": "Show HN: Segue \u2013 Save context in one AI, load it in another by a short handle",
+      "url": "https://segue.ai/",
+      "score": 8,
+      "comments": 4,
+      "source": "segue.ai"
     },
     {
       "title": "Vehicle Motion Cues",
       "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-      "score": 88,
-      "comments": 39,
+      "score": 158,
+      "comments": 78,
       "source": "support.apple.com"
-    },
-    {
-      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-      "score": 92,
-      "comments": 60,
-      "source": "gpusolutions.net"
-    },
-    {
-      "title": "PyTorch: A Reference Language",
-      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-      "score": 26,
-      "comments": 2,
-      "source": "docs.pytorch.org"
     },
     {
       "title": "Watching Go's new garbage collector move through the heap",
       "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 211,
-      "comments": 25,
+      "score": 250,
+      "comments": 34,
       "source": "theconsensus.dev"
     },
     {
-      "title": "Why copper still rules the motherboard trace",
-      "url": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
-      "score": 6,
-      "comments": 8,
-      "source": "psyll.com"
+      "title": "PyTorch: A Reference Language",
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "score": 56,
+      "comments": 4,
+      "source": "docs.pytorch.org"
     },
     {
-      "title": "Programming Languages Are Authoring Tools for Platforms",
-      "url": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
-      "score": 14,
-      "comments": 0,
-      "source": "makonea.com"
-    },
-    {
-      "title": "Kimi K3 Now Available via Telnyx Inference API",
-      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "score": 72,
-      "comments": 29,
-      "source": "telnyx.com"
-    },
-    {
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "score": 84,
-      "comments": 38,
-      "source": "dconf.org"
-    },
-    {
-      "title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
-      "url": "https://github.com/FrigadeHQ/yap",
-      "score": 63,
-      "comments": 18,
-      "source": "github.com"
-    },
-    {
-      "title": "EYG: A Programming Language for Humans",
-      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-      "score": 63,
-      "comments": 36,
-      "source": "crowdhailer.me"
-    },
-    {
-      "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
-      "url": "https://www.rise-reforming.com",
-      "score": 71,
-      "comments": 31,
-      "source": "rise-reforming.com"
-    },
-    {
-      "title": "C/C++ projects packaged for Zig",
-      "url": "https://github.com/allyourcodebase",
-      "score": 54,
-      "comments": 34,
-      "source": "github.com"
-    },
-    {
-      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-      "score": 101,
-      "comments": 12,
-      "source": "gpuopen.com"
-    },
-    {
-      "title": "Three Theses on the Literacy Crisis",
-      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
-      "score": 48,
-      "comments": 37,
-      "source": "trevoraleo.substack.com"
-    },
-    {
-      "title": "Some combinatorial applications of spacefilling curves",
-      "url": "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html",
-      "score": 50,
-      "comments": 5,
-      "source": "www2.isye.gatech.edu"
-    },
-    {
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "score": 142,
-      "comments": 31,
-      "source": "gregoryszorc.com"
-    },
-    {
-      "title": "The age of token efficiency, the age of libraries",
-      "url": "https://golemui.com/blog/the-age-of-token-efficiency/",
-      "score": 22,
-      "comments": 1,
-      "source": "golemui.com"
-    },
-    {
-      "title": "Paged Out #9 [pdf]",
-      "url": "https://pagedout.institute/download/PagedOut_009.pdf",
-      "score": 225,
-      "comments": 25,
-      "source": "pagedout.institute"
-    },
-    {
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "score": 92,
-      "comments": 28,
-      "source": "blog.coderspirit.xyz"
-    },
-    {
-      "title": "A Dying Art: The last of the morticians",
-      "url": "https://harpers.org/archive/2026/08/a-dying-art-john-semley-mortuary-sciences-competition/",
+      "title": "TWC Classics",
+      "url": "https://twcclassics.com/",
       "score": 27,
-      "comments": 1,
-      "source": "harpers.org"
+      "comments": 3,
+      "source": "twcclassics.com"
     },
     {
-      "title": "How real are real numbers? (2004)",
-      "url": "https://arxiv.org/abs/math/0411418",
-      "score": 75,
-      "comments": 54,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-      "score": 295,
-      "comments": 245,
-      "source": "nypost.com"
-    },
-    {
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "score": 271,
-      "comments": 155,
-      "source": "arstechnica.com"
+      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "score": 1,
+      "comments": 0,
+      "source": "up.codes"
     }
   ],
   "security": [
