@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Deflock Casa Grande",
-      "url": "https://deflockcg.com/",
-      "score": 73,
-      "comments": 7,
-      "source": "deflockcg.com"
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 356,
+      "comments": 106,
+      "source": "github.com"
     },
     {
-      "title": "A walk through of the DeltaNet family of linear attention variants",
-      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-      "score": 244,
-      "comments": 100,
-      "source": "blog.doubleword.ai"
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "score": 137,
+      "comments": 44,
+      "source": "github.com"
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 158,
+      "comments": 74,
+      "source": "mac-classic.com"
     },
     {
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 109,
-      "comments": 97,
+      "score": 421,
+      "comments": 214,
       "source": "elizabethtai.com"
+    },
+    {
+      "title": "Teach yourself programming in ten years (1998)",
+      "url": "https://www.norvig.com/21-days.html",
+      "score": 52,
+      "comments": 12,
+      "source": "norvig.com"
+    },
+    {
+      "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+      "url": "https://learnvector.ai/",
+      "score": 12,
+      "comments": 4,
+      "source": "learnvector.ai"
+    },
+    {
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "score": 38,
+      "comments": 7,
+      "source": "hubble.md"
     },
     {
       "title": "Steel Bank Common Lisp version 2.6.7",
       "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 87,
-      "comments": 16,
+      "score": 202,
+      "comments": 84,
       "source": "sbcl.org"
     },
     {
-      "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
-      "url": "https://www.slow-journalism.com/",
-      "score": 131,
-      "comments": 64,
-      "source": "slow-journalism.com"
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "score": 12,
+      "comments": 1,
+      "source": "abeljansma.nl"
+    },
+    {
+      "title": "ReFrame \u2013 The EPaper Camera",
+      "url": "https://reframe.camera/",
+      "score": 38,
+      "comments": 9,
+      "source": "reframe.camera"
     },
     {
       "title": "Kimi K3 Architecture Overview and Notes",
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 124,
-      "comments": 14,
+      "score": 321,
+      "comments": 46,
       "source": "sebastianraschka.com"
     },
     {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "score": 79,
-      "comments": 30,
-      "source": "anthropic.com"
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "score": 11,
+      "comments": 0,
+      "source": "pvrlabs.xyz"
+    },
+    {
+      "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "score": 240,
+      "comments": 139,
+      "source": "slow-journalism.com"
+    },
+    {
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "score": 142,
+      "comments": 271,
+      "source": "apple.com"
+    },
+    {
+      "title": "The Difference Between a Button and a Link",
+      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+      "score": 34,
+      "comments": 14,
+      "source": "unplannedobsolescence.com"
+    },
+    {
+      "title": "Multiple Mouse Cursors in Wayland",
+      "url": "https://blinry.org/multi-seat-wayland/",
+      "score": 13,
+      "comments": 1,
+      "source": "blinry.org"
     },
     {
       "title": "Zig's Incremental Compilation Internals",
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "score": 114,
-      "comments": 62,
+      "score": 197,
+      "comments": 140,
       "source": "mlugg.co.uk"
     },
     {
-      "title": "MCP 2026-07-28 Specification: transport going stateless",
-      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "score": 22,
-      "comments": 7,
-      "source": "blog.modelcontextprotocol.io"
+      "title": "Pacing the frontier",
+      "url": "https://www.pacingthefrontier.com/",
+      "score": 85,
+      "comments": 80,
+      "source": "pacingthefrontier.com"
     },
     {
-      "title": "How Do I Profile eBPF Code?",
-      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-      "score": 80,
-      "comments": 6,
-      "source": "naveensrinivasan.com"
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "score": 182,
+      "comments": 128,
+      "source": "anthropic.com"
     },
     {
-      "title": "Show HN: XY \u2013 A Fast, composable, GPU-accelerated interactive plotting library",
-      "url": "https://github.com/reflex-dev/xy",
-      "score": 69,
-      "comments": 24,
-      "source": "github.com"
+      "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+      "url": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+      "score": 7,
+      "comments": 2,
+      "source": "framerusercontent.com"
     },
     {
-      "title": "WOFF 1.0: a milestone on W3C's journey of fonts on the web",
-      "url": "https://www.w3.org/blog/2026/woff-1-0-a-milestone-on-w3cs-journey-of-fonts-on-the-web/",
-      "score": 38,
-      "comments": 0,
-      "source": "w3.org"
+      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
+      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
+      "score": 82,
+      "comments": 60,
+      "source": "aramcoworld.com"
     },
     {
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 414,
-      "comments": 197,
-      "source": "lji.org"
+      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+      "score": 7,
+      "comments": 3,
+      "source": "andreadimatteo.com"
     },
     {
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "url": "https://arxiv.org/abs/1202.4212",
-      "score": 65,
-      "comments": 47,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Donate to GrapheneOS",
-      "url": "https://grapheneos.org/donate",
-      "score": 4,
-      "comments": 0,
-      "source": "grapheneos.org"
+      "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
+      "url": "https://unawatch.com/",
+      "score": 145,
+      "comments": 90,
+      "source": "unawatch.com"
     },
     {
       "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
       "url": "https://arxiv.org/abs/2510.26692",
-      "score": 233,
-      "comments": 96,
+      "score": 284,
+      "comments": 121,
       "source": "arxiv.org"
     },
     {
-      "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+      "title": "Show HN: How far do I have to go to run into 100k people?",
+      "url": "https://imjasonh.github.io/playground/population-rays/",
+      "score": 51,
+      "comments": 36,
+      "source": "imjasonh.github.io"
+    },
+    {
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "score": 571,
+      "comments": 242,
+      "source": "lji.org"
+    },
+    {
+      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+      "url": "https://studio.academa.ai/",
+      "score": 23,
+      "comments": 6,
+      "source": "studio.academa.ai"
+    },
+    {
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "score": 108,
+      "comments": 35,
+      "source": "blog.modelcontextprotocol.io"
+    },
+    {
+      "title": "Now is the time to give LLMs access to the ACM digital library",
       "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "score": 63,
-      "comments": 22,
+      "score": 118,
+      "comments": 101,
       "source": "cacm.acm.org"
-    },
-    {
-      "title": "Anthropeum \u2013 Where in the world, and when, does this human artifact belong?",
-      "url": "https://anthropeum.com/",
-      "score": 89,
-      "comments": 25,
-      "source": "anthropeum.com"
-    },
-    {
-      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "score": 148,
-      "comments": 92,
-      "source": "ciphercue.com"
-    },
-    {
-      "title": "The most advanced robotic servicing satellite\u2013that we know about",
-      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-      "score": 11,
-      "comments": 0,
-      "source": "arstechnica.com"
     },
     {
       "title": "How to survive boiling water",
       "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 377,
-      "comments": 79,
+      "score": 463,
+      "comments": 106,
       "source": "taxa.substack.com"
-    },
-    {
-      "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
-      "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-      "score": 259,
-      "comments": 80,
-      "source": "citizens-initiative.europa.eu"
-    },
-    {
-      "title": "So, you want to make a game engine (2023)",
-      "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
-      "score": 34,
-      "comments": 25,
-      "source": "lisyarus.github.io"
-    },
-    {
-      "title": "7.1 Earthquake in Japan",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 735,
-      "comments": 192,
-      "source": "data.jma.go.jp"
-    },
-    {
-      "title": "Using a Gaming PC's RTX 5070 from a separate Linux workstation",
-      "url": "https://stephenkrings.com/posts/rtx-5070-linux-gpu-server/",
-      "score": 24,
-      "comments": 13,
-      "source": "stephenkrings.com"
-    },
-    {
-      "title": "VMs can't boot with Network Mode set to Bridged on Apple M5 Pro machines",
-      "url": "https://github.com/utmapp/UTM/issues/7658",
-      "score": 57,
-      "comments": 31,
-      "source": "github.com"
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai/",
-      "score": 27,
-      "comments": 8,
-      "source": "openai.com"
-    },
-    {
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 128,
-      "comments": 68,
-      "source": "spawn-queue.acm.org"
-    },
-    {
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 97,
-      "comments": 42,
-      "source": "github.com"
-    },
-    {
-      "title": "Solving Fermat: Andrew Wiles",
-      "url": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
-      "score": 65,
-      "comments": 28,
-      "source": "pbs.org"
     }
   ],
   "security": [
