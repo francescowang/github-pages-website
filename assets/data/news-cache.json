@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "score": 146,
+      "comments": 45,
+      "source": "tailscale.com"
+    },
+    {
+      "title": "User Interfaces of the Demo Scene",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "score": 135,
+      "comments": 22,
+      "source": "datagubbe.se"
+    },
+    {
       "title": "Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "score": 356,
-      "comments": 106,
+      "score": 487,
+      "comments": 160,
       "source": "github.com"
     },
     {
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 137,
-      "comments": 44,
+      "score": 292,
+      "comments": 75,
       "source": "github.com"
     },
     {
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 158,
-      "comments": 74,
-      "source": "mac-classic.com"
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+      "score": 36,
+      "comments": 8,
+      "source": "collabora.com"
     },
     {
       "title": "Substack writers, you need a website",
       "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 421,
-      "comments": 214,
+      "score": 518,
+      "comments": 255,
       "source": "elizabethtai.com"
     },
     {
-      "title": "Teach yourself programming in ten years (1998)",
-      "url": "https://www.norvig.com/21-days.html",
-      "score": 52,
-      "comments": 12,
-      "source": "norvig.com"
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 226,
+      "comments": 109,
+      "source": "mac-classic.com"
     },
     {
       "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
       "url": "https://learnvector.ai/",
-      "score": 12,
-      "comments": 4,
+      "score": 170,
+      "comments": 98,
       "source": "learnvector.ai"
+    },
+    {
+      "title": "ReFrame \u2013 The EPaper Camera",
+      "url": "https://reframe.camera/",
+      "score": 113,
+      "comments": 20,
+      "source": "reframe.camera"
+    },
+    {
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "url": "https://transformer-transformer.github.io/",
+      "score": 48,
+      "comments": 1,
+      "source": "transformer-transformer.github.io"
+    },
+    {
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 404,
+      "comments": 71,
+      "source": "sebastianraschka.com"
+    },
+    {
+      "title": "Teach yourself programming in ten years (1998)",
+      "url": "https://www.norvig.com/21-days.html",
+      "score": 126,
+      "comments": 72,
+      "source": "norvig.com"
+    },
+    {
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "score": 86,
+      "comments": 34,
+      "source": "abeljansma.nl"
     },
     {
       "title": "Hubble: Open-source notetaking app for you and your agents",
       "url": "https://www.hubble.md/",
-      "score": 38,
-      "comments": 7,
+      "score": 103,
+      "comments": 32,
       "source": "hubble.md"
     },
     {
       "title": "Steel Bank Common Lisp version 2.6.7",
       "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 202,
-      "comments": 84,
+      "score": 228,
+      "comments": 98,
       "source": "sbcl.org"
-    },
-    {
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "score": 12,
-      "comments": 1,
-      "source": "abeljansma.nl"
-    },
-    {
-      "title": "ReFrame \u2013 The EPaper Camera",
-      "url": "https://reframe.camera/",
-      "score": 38,
-      "comments": 9,
-      "source": "reframe.camera"
-    },
-    {
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 321,
-      "comments": 46,
-      "source": "sebastianraschka.com"
-    },
-    {
-      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-      "score": 11,
-      "comments": 0,
-      "source": "pvrlabs.xyz"
     },
     {
       "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
       "url": "https://www.slow-journalism.com/",
-      "score": 240,
-      "comments": 139,
+      "score": 291,
+      "comments": 164,
       "source": "slow-journalism.com"
     },
     {
-      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-      "score": 142,
-      "comments": 271,
-      "source": "apple.com"
+      "title": "Fixing a bug with byte order marks",
+      "url": "https://alexwlchan.net/2026/byte-order-marks/",
+      "score": 4,
+      "comments": 0,
+      "source": "alexwlchan.net"
     },
     {
-      "title": "The Difference Between a Button and a Link",
-      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-      "score": 34,
-      "comments": 14,
-      "source": "unplannedobsolescence.com"
+      "title": "Hooray for the Sockets Interface",
+      "url": "https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/",
+      "score": 30,
+      "comments": 16,
+      "source": "blog.apnic.net"
+    },
+    {
+      "title": "Log is non-monotonic in PHP and Lua",
+      "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/",
+      "score": 49,
+      "comments": 26,
+      "source": "purplesyringa.moe"
+    },
+    {
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "score": 4,
+      "comments": 0,
+      "source": "micrologics.org"
+    },
+    {
+      "title": "Mag Computer: A Mag History of RAM (1960\u20132025)",
+      "url": "https://magworld.pw/episodes/computer/",
+      "score": 19,
+      "comments": 2,
+      "source": "magworld.pw"
+    },
+    {
+      "title": "Beyond Greece and Rome",
+      "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
+      "score": 29,
+      "comments": 25,
+      "source": "aeon.co"
     },
     {
       "title": "Multiple Mouse Cursors in Wayland",
       "url": "https://blinry.org/multi-seat-wayland/",
-      "score": 13,
-      "comments": 1,
+      "score": 113,
+      "comments": 75,
       "source": "blinry.org"
     },
     {
       "title": "Zig's Incremental Compilation Internals",
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "score": 197,
-      "comments": 140,
+      "score": 233,
+      "comments": 160,
       "source": "mlugg.co.uk"
     },
     {
-      "title": "Pacing the frontier",
-      "url": "https://www.pacingthefrontier.com/",
-      "score": 85,
-      "comments": 80,
-      "source": "pacingthefrontier.com"
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "score": 171,
+      "comments": 321,
+      "source": "apple.com"
     },
     {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "score": 182,
-      "comments": 128,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-      "url": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
-      "score": 7,
-      "comments": 2,
-      "source": "framerusercontent.com"
-    },
-    {
-      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
-      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
-      "score": 82,
-      "comments": 60,
-      "source": "aramcoworld.com"
-    },
-    {
-      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
-      "score": 7,
-      "comments": 3,
-      "source": "andreadimatteo.com"
+      "title": "60 Years Ago, a Submerged Submarine Circled the Globe for the First Time (2020)",
+      "url": "https://www.popularmechanics.com/military/weapons/a32009109/operation-sandblast-sumbarine-circumnavigation/",
+      "score": 12,
+      "comments": 4,
+      "source": "popularmechanics.com"
     },
     {
       "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
       "url": "https://unawatch.com/",
-      "score": 145,
-      "comments": 90,
+      "score": 199,
+      "comments": 127,
       "source": "unawatch.com"
     },
     {
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "score": 284,
-      "comments": 121,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Show HN: How far do I have to go to run into 100k people?",
-      "url": "https://imjasonh.github.io/playground/population-rays/",
-      "score": 51,
-      "comments": 36,
-      "source": "imjasonh.github.io"
-    },
-    {
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 571,
-      "comments": 242,
-      "source": "lji.org"
-    },
-    {
-      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-      "url": "https://studio.academa.ai/",
-      "score": 23,
-      "comments": 6,
-      "source": "studio.academa.ai"
-    },
-    {
-      "title": "MCP 2026-07-28 Specification: transport going stateless",
-      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "score": 108,
-      "comments": 35,
-      "source": "blog.modelcontextprotocol.io"
+      "title": "Interview with Boris Cherny [video]",
+      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+      "score": 53,
+      "comments": 61,
+      "source": "youtube.com"
     },
     {
       "title": "Now is the time to give LLMs access to the ACM digital library",
       "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "score": 118,
-      "comments": 101,
+      "score": 153,
+      "comments": 123,
       "source": "cacm.acm.org"
     },
     {
-      "title": "How to survive boiling water",
-      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 463,
-      "comments": 106,
-      "source": "taxa.substack.com"
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "score": 215,
+      "comments": 152,
+      "source": "anthropic.com"
     }
   ],
   "security": [
