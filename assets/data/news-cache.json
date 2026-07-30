@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+      "url": "https://remysharp.com/links/2026-07-23-35890312",
+      "score": 102,
+      "comments": 40,
+      "source": "remysharp.com"
+    },
+    {
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
+      "score": 41,
+      "comments": 38,
+      "source": "openjdk.org"
+    },
+    {
+      "title": "RFC 8890 \u2013 The Internet is for End Users (2020)",
+      "url": "https://mnot.net/blog/2020/for_the_users",
+      "score": 18,
+      "comments": 3,
+      "source": "mnot.net"
+    },
+    {
+      "title": "Gpiozero Flow",
+      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+      "score": 87,
+      "comments": 25,
+      "source": "bennuttall.com"
+    },
+    {
+      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "score": 16,
+      "comments": 7,
+      "source": "construction-physics.com"
+    },
+    {
+      "title": "How Old Is Ann?",
+      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+      "score": 18,
+      "comments": 7,
+      "source": "quuxplusone.github.io"
+    },
+    {
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "url": "https://www.grumpygamer.com/twp2_announce/",
+      "score": 103,
+      "comments": 35,
+      "source": "grumpygamer.com"
+    },
+    {
+      "title": "Launch HN: Prized (YC S26) \u2013 Let non-engineer staff build secure internal tools",
+      "url": "https://prized.dev",
+      "score": 4,
+      "comments": 0,
+      "source": "prized.dev"
+    },
+    {
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 420,
-      "comments": 218,
+      "score": 550,
+      "comments": 286,
       "source": "science.org"
     },
     {
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 623,
-      "comments": 245,
-      "source": "christianselig.com"
-    },
-    {
-      "title": "I Have Thoughts on the iPhone Air",
-      "url": "https://christianselig.com/2026/07/iphone-air-review/",
-      "score": 7,
-      "comments": 1,
-      "source": "christianselig.com"
-    },
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 770,
-      "comments": 270,
-      "source": "github.com"
-    },
-    {
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 669,
-      "comments": 405,
-      "source": "superlogical.com"
-    },
-    {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 217,
-      "comments": 56,
-      "source": "llm2human.pages.dev"
-    },
-    {
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "score": 206,
-      "comments": 69,
-      "source": "frantic.im"
-    },
-    {
-      "title": "London\u2019s most equidistant pub",
-      "url": "https://equidistance.io/londons-most-equidistant-pub/",
-      "score": 32,
-      "comments": 15,
-      "source": "equidistance.io"
-    },
-    {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 363,
-      "comments": 147,
-      "source": "digitalfoundry.net"
-    },
-    {
-      "title": "Logic for Programmers",
-      "url": "https://logicforprogrammers.com/",
-      "score": 100,
-      "comments": 10,
-      "source": "logicforprogrammers.com"
-    },
-    {
-      "title": "Concurrency, interactivity, mutability, choose two",
-      "url": "https://www.n16f.net/blog/concurrency-interactivity-mutability-choose-two/",
-      "score": 9,
-      "comments": 1,
-      "source": "n16f.net"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 370,
-      "comments": 207,
-      "source": "huggingface.co"
-    },
-    {
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "score": 187,
-      "comments": 75,
-      "source": "zachholman.com"
-    },
-    {
-      "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "score": 277,
-      "comments": 331,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 417,
-      "comments": 124,
-      "source": "kimi.com"
-    },
-    {
-      "title": "Angels in Coptic Magic I: Introduction",
-      "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
-      "score": 44,
-      "comments": 4,
-      "source": "coptic-magic.phil.uni-wuerzburg.de"
-    },
-    {
-      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
-      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-      "score": 159,
-      "comments": 126,
-      "source": "prilik.com"
-    },
-    {
-      "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
-      "url": "https://cheapfoodmap.com/",
-      "score": 194,
-      "comments": 189,
-      "source": "cheapfoodmap.com"
-    },
-    {
-      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
-      "url": "https://noelo.org/blog/kuna-release/",
-      "score": 28,
-      "comments": 7,
-      "source": "noelo.org"
-    },
-    {
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "score": 146,
-      "comments": 77,
-      "source": "blog.cryptographyengineering.com"
-    },
-    {
-      "title": "The Rust on ESP Book",
-      "url": "https://docs.espressif.com/projects/rust/book/",
-      "score": 151,
-      "comments": 15,
-      "source": "docs.espressif.com"
-    },
-    {
-      "title": "NSF pilots 4-year PhDs with industry research placements",
-      "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
-      "score": 69,
-      "comments": 72,
-      "source": "nsf.gov"
-    },
-    {
-      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
-      "url": "https://archive.org/details/mancomputerbyjoh0000john",
-      "score": 45,
-      "comments": 12,
-      "source": "archive.org"
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "score": 61,
-      "comments": 53,
-      "source": "usetokenless.com"
-    },
-    {
-      "title": "A Trampoline",
-      "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
-      "score": 104,
-      "comments": 58,
-      "source": "dogdogfish.com"
-    },
-    {
-      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-      "score": 51,
-      "comments": 16,
-      "source": "iza.ac"
-    },
-    {
-      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
-      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "score": 35,
-      "comments": 12,
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "score": 54,
+      "comments": 38,
       "source": "github.com"
     },
     {
-      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
-      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-      "score": 148,
-      "comments": 39,
-      "source": "alsterrunde.com"
+      "title": "Why Don't People Use Formal Methods?",
+      "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+      "score": 21,
+      "comments": 11,
+      "source": "hillelwayne.com"
     },
     {
-      "title": "Recursive Filters: SMA, EMA, Low\u2011Pass, and a Tiny Kalman",
-      "url": "https://www.staszewski.xyz/blog/recursive-filters/",
-      "score": 37,
+      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+      "score": 46,
+      "comments": 29,
+      "source": "docs.carolinacloud.io"
+    },
+    {
+      "title": "I made a game where you build a CPU from logic gates",
+      "url": "https://select.supply/game/chipbuilder",
+      "score": 19,
       "comments": 9,
-      "source": "staszewski.xyz"
+      "source": "select.supply"
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "score": 759,
+      "comments": 289,
+      "source": "christianselig.com"
+    },
+    {
+      "title": "What it means for an API to be RESTful",
+      "url": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
+      "score": 15,
+      "comments": 14,
+      "source": "en.andros.dev"
+    },
+    {
+      "title": "3D Pinball for Windows (1995)",
+      "url": "https://98.js.org/programs/pinball/space-cadet.html",
+      "score": 13,
+      "comments": 2,
+      "source": "98.js.org"
+    },
+    {
+      "title": "The Glass Famine",
+      "url": "https://edconway.substack.com/p/the-glass-famine",
+      "score": 53,
+      "comments": 17,
+      "source": "edconway.substack.com"
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 335,
+      "comments": 93,
+      "source": "llm2human.pages.dev"
+    },
+    {
+      "title": "The first watch featuring computer functions",
+      "url": "https://by.seiko-design.com/140th/en/topic/58.html",
+      "score": 51,
+      "comments": 24,
+      "source": "by.seiko-design.com"
+    },
+    {
+      "title": "The Alice and Bob After Dinner Speech (1984)",
+      "url": "https://hex.ooo/library/alicebob.html",
+      "score": 3,
+      "comments": 1,
+      "source": "hex.ooo"
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "score": 131,
+      "comments": 139,
+      "source": "lwn.net"
+    },
+    {
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "score": 304,
+      "comments": 132,
+      "source": "frantic.im"
+    },
+    {
+      "title": "Azulejo",
+      "url": "https://en.wikipedia.org/wiki/Azulejo",
+      "score": 92,
+      "comments": 31,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Google will expand age checks on Android worldwide till the end of the year",
+      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+      "score": 176,
+      "comments": 208,
+      "source": "android-developers.googleblog.com"
+    },
+    {
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
+      "score": 16,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+      "score": 39,
+      "comments": 18,
+      "source": "bloomberg.com"
+    },
+    {
+      "title": "Are We Stuck with Lean?",
+      "url": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
+      "score": 7,
+      "comments": 1,
+      "source": "mathoverflow.net"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "score": 428,
+      "comments": 233,
+      "source": "huggingface.co"
+    },
+    {
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "score": 260,
+      "comments": 101,
+      "source": "zachholman.com"
     }
   ],
   "security": [
