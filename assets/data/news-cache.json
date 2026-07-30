@@ -1,217 +1,223 @@
 {
   "tech": [
     {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "score": 215,
+      "comments": 120,
+      "source": "science.org"
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "score": 396,
+      "comments": 190,
+      "source": "christianselig.com"
+    },
+    {
+      "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+      "url": "https://waveformsecurity.com/blog/flume/",
+      "score": 9,
+      "comments": 1,
+      "source": "waveformsecurity.com"
+    },
+    {
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 423,
-      "comments": 144,
+      "score": 657,
+      "comments": 227,
       "source": "github.com"
     },
     {
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 279,
-      "comments": 208,
+      "score": 533,
+      "comments": 328,
       "source": "superlogical.com"
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 57,
+      "comments": 22,
+      "source": "llm2human.pages.dev"
     },
     {
       "title": "Keychron announces first open-source firmware for gaming mice",
       "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 110,
-      "comments": 50,
+      "score": 294,
+      "comments": 110,
       "source": "digitalfoundry.net"
+    },
+    {
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "score": 92,
+      "comments": 40,
+      "source": "zachholman.com"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "score": 294,
+      "comments": 177,
+      "source": "huggingface.co"
+    },
+    {
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "score": 46,
+      "comments": 17,
+      "source": "frantic.im"
     },
     {
       "title": "KOReader",
       "url": "https://koreader.rocks/",
-      "score": 565,
-      "comments": 180,
+      "score": 670,
+      "comments": 211,
       "source": "koreader.rocks"
     },
     {
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "url": "https://arxiv.org/abs/2607.25398",
-      "score": 235,
-      "comments": 150,
-      "source": "arxiv.org"
+      "title": "Starter Homes Are Piling Up While Luxury Homes Fly Off the Market",
+      "url": "https://www.zillow.com/research/starter-homes-price-tiers-36571/",
+      "score": 16,
+      "comments": 6,
+      "source": "zillow.com"
     },
     {
-      "title": "Anatomy of a frontier-lab agent intrusion",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 124,
-      "comments": 47,
-      "source": "huggingface.co"
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "score": 342,
+      "comments": 99,
+      "source": "kimi.com"
     },
     {
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "score": 273,
-      "comments": 204,
-      "source": "enklypesalt.com"
-    },
-    {
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "score": 45,
-      "comments": 19,
-      "source": "blog.cryptographyengineering.com"
+      "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+      "score": 5,
+      "comments": 0,
+      "source": "vtdigger.org"
     },
     {
       "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
       "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "score": 96,
-      "comments": 147,
+      "score": 217,
+      "comments": 275,
       "source": "nytimes.com"
     },
     {
-      "title": "PgDog (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "The Rust on ESP Book",
-      "url": "https://docs.espressif.com/projects/rust/book/",
-      "score": 63,
-      "comments": 8,
-      "source": "docs.espressif.com"
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "score": 16,
+      "comments": 3,
+      "source": "github.com"
     },
     {
-      "title": "Darktable",
-      "url": "https://www.darktable.org/",
-      "score": 203,
-      "comments": 104,
-      "source": "darktable.org"
-    },
-    {
-      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
-      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
-      "score": 66,
-      "comments": 13,
-      "source": "alsterrunde.com"
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "score": 36,
-      "comments": 36,
-      "source": "usetokenless.com"
-    },
-    {
-      "title": "Austerity Breeds Financial Protectionism",
-      "url": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/",
-      "score": 4,
-      "comments": 1,
-      "source": "theloop.ecpr.eu"
-    },
-    {
-      "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
-      "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-      "score": 66,
-      "comments": 28,
-      "source": "aistack.imec-int.com"
-    },
-    {
-      "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-      "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-      "score": 89,
+      "title": "Recursive Filters: SMA, EMA, Low\u2011Pass, and a Tiny Kalman",
+      "url": "https://www.staszewski.xyz/blog/recursive-filters/",
+      "score": 12,
       "comments": 2,
-      "source": "claire-blackshaw.com"
+      "source": "staszewski.xyz"
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "score": 349,
+      "comments": 267,
+      "source": "enklypesalt.com"
+    },
+    {
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "url": "https://arxiv.org/abs/2607.25398",
+      "score": 294,
+      "comments": 183,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "A Trampoline",
+      "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+      "score": 72,
+      "comments": 41,
+      "source": "dogdogfish.com"
+    },
+    {
+      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+      "score": 110,
+      "comments": 89,
+      "source": "prilik.com"
     },
     {
       "title": "Show HN: CheapFoodMap \u2013 A map of good meals under $10",
       "url": "https://cheapfoodmap.com/",
-      "score": 32,
-      "comments": 26,
+      "score": 129,
+      "comments": 154,
       "source": "cheapfoodmap.com"
     },
     {
-      "title": "How to Not Die by a Thousand Cuts. Or, How to Think About Software Quality",
-      "url": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
-      "score": 4,
+      "title": "Angels in Coptic Magic I: Introduction",
+      "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
+      "score": 5,
       "comments": 0,
-      "source": "evalapply.org"
+      "source": "coptic-magic.phil.uni-wuerzburg.de"
     },
     {
-      "title": "PGSimCity \u2013 an explorable 3D model that shows how Postgres works",
-      "url": "https://github.com/NikolayS/pgsimcity",
-      "score": 6,
-      "comments": 1,
-      "source": "github.com"
+      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+      "score": 24,
+      "comments": 5,
+      "source": "iza.ac"
     },
     {
-      "title": "Learning Musical Multitasking",
-      "url": "https://www.jefftk.com/p/learning-musical-multitasking",
-      "score": 20,
-      "comments": 9,
-      "source": "jefftk.com"
-    },
-    {
-      "title": "Show HN: Qwen Scribe \u2013 local transcription and dictation for Apple Silicon",
-      "url": "https://github.com/VladUZH/qwen-scribe",
-      "score": 39,
-      "comments": 12,
-      "source": "github.com"
+      "title": "Darktable",
+      "url": "https://www.darktable.org/",
+      "score": 297,
+      "comments": 142,
+      "source": "darktable.org"
     },
     {
       "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
       "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-      "score": 4,
-      "comments": 1,
+      "score": 59,
+      "comments": 31,
       "source": "emergingtrajectories.com"
     },
     {
-      "title": "Turning a Dumb AC Unit Smart (Without Losing My Security Deposit)",
-      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
-      "score": 4,
-      "comments": 0,
-      "source": "prilik.com"
+      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+      "url": "https://archive.org/details/mancomputerbyjoh0000john",
+      "score": 19,
+      "comments": 9,
+      "source": "archive.org"
     },
     {
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "score": 367,
-      "comments": 105,
-      "source": "tailscale.com"
+      "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "score": 53,
+      "comments": 44,
+      "source": "usetokenless.com"
     },
     {
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "score": 56,
-      "comments": 11,
-      "source": "juliahub.com"
-    },
-    {
-      "title": "Show HN: Kedge \u2013 Full-stack cloud with forkable VM snapshots and global SQLite",
-      "url": "https://kedge.dev/",
-      "score": 36,
-      "comments": 10,
-      "source": "kedge.dev"
-    },
-    {
-      "title": "Amiga Graphics Archive",
-      "url": "https://amiga.lychesis.net/index.html",
-      "score": 136,
-      "comments": 24,
-      "source": "amiga.lychesis.net"
-    },
-    {
-      "title": "The motion-sickness cure hidden in iPhone settings",
-      "url": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings",
-      "score": 3,
-      "comments": 2,
-      "source": "bbc.com"
-    },
-    {
-      "title": "The Growing Threat of Docusign Phishing Attacks",
-      "url": "https://www.darktrace.com/blog/the-growing-threat-of-docusign-phishing-attacks",
-      "score": 3,
-      "comments": 1,
-      "source": "darktrace.com"
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "score": 107,
+      "comments": 55,
+      "source": "blog.cryptographyengineering.com"
     }
   ],
   "security": [
+    {
+      "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
+      "url": "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/",
+      "date": "2026-07-29 21:00:12",
+      "author": "CJ Moses"
+    },
     {
       "title": "Secure your npm and pip package updates in Amazon Linux",
       "url": "https://aws.amazon.com/blogs/security/secure-your-npm-and-pip-package-updates-in-amazon-linux/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment/",
       "date": "2026-07-20 21:59:00",
       "author": "Allan Holmes"
-    },
-    {
-      "title": "2026 ISO and CSA STAR certificates are now available with two additional services",
-      "url": "https://aws.amazon.com/blogs/security/2026-iso-and-csa-star-certificates-are-now-available-with-two-additional-services/",
-      "date": "2026-07-20 16:40:16",
-      "author": "Atulsing Patil"
     }
   ]
 }
