@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-      "url": "https://remysharp.com/links/2026-07-23-35890312",
-      "score": 102,
-      "comments": 40,
-      "source": "remysharp.com"
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "score": 145,
+      "comments": 54,
+      "source": "uefa.com"
     },
     {
-      "title": "OpenJDK Interim Policy on Generative AI",
-      "url": "https://openjdk.org/legal/ai",
-      "score": 41,
-      "comments": 38,
-      "source": "openjdk.org"
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 177,
+      "comments": 79,
+      "source": "krebsonsecurity.com"
     },
     {
-      "title": "RFC 8890 \u2013 The Internet is for End Users (2020)",
-      "url": "https://mnot.net/blog/2020/for_the_users",
-      "score": 18,
-      "comments": 3,
-      "source": "mnot.net"
+      "title": "Advancing the price-performance frontier with GPT\u20115.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "score": 310,
+      "comments": 191,
+      "source": "openai.com"
     },
     {
-      "title": "Gpiozero Flow",
-      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-      "score": 87,
-      "comments": 25,
-      "source": "bennuttall.com"
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 315,
+      "comments": 296,
+      "source": "deepmind.google"
     },
     {
-      "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "score": 16,
-      "comments": 7,
-      "source": "construction-physics.com"
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "score": 134,
+      "comments": 80,
+      "source": "bottlenecklabs.com"
     },
     {
-      "title": "How Old Is Ann?",
-      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
-      "score": 18,
-      "comments": 7,
-      "source": "quuxplusone.github.io"
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 138,
+      "comments": 50,
+      "source": "github.blog"
     },
     {
-      "title": "Ron Gilbert started production on Thimbleweed Park 2",
-      "url": "https://www.grumpygamer.com/twp2_announce/",
-      "score": 103,
-      "comments": 35,
-      "source": "grumpygamer.com"
+      "title": "Postgres Queues Actually Scale",
+      "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+      "score": 24,
+      "comments": 1,
+      "source": "dbos.dev"
     },
     {
-      "title": "Launch HN: Prized (YC S26) \u2013 Let non-engineer staff build secure internal tools",
-      "url": "https://prized.dev",
-      "score": 4,
-      "comments": 0,
-      "source": "prized.dev"
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "score": 109,
+      "comments": 54,
+      "source": "quantamagazine.org"
     },
     {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 550,
-      "comments": 286,
-      "source": "science.org"
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "score": 38,
+      "comments": 5,
+      "source": "obryant.dev"
     },
     {
-      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "title": "The Economic Benefit of Refactoring",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "score": 129,
+      "comments": 54,
+      "source": "martinfowler.com"
+    },
+    {
+      "title": "Rise Reforming (YC S26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-      "url": "https://github.com/YoanWai/agent-manager",
-      "score": 54,
-      "comments": 38,
-      "source": "github.com"
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "score": 29,
+      "comments": 8,
+      "source": "chriscoyier.net"
     },
     {
-      "title": "Why Don't People Use Formal Methods?",
-      "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
-      "score": 21,
-      "comments": 11,
-      "source": "hillelwayne.com"
+      "title": "So you want to use plants to reduce CO\u2082",
+      "url": "https://dynomight.net/plants/",
+      "score": 17,
+      "comments": 7,
+      "source": "dynomight.net"
     },
     {
-      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
-      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-      "score": 46,
-      "comments": 29,
-      "source": "docs.carolinacloud.io"
+      "title": "Hacker Public Radio",
+      "url": "https://hackerpublicradio.org/",
+      "score": 98,
+      "comments": 16,
+      "source": "hackerpublicradio.org"
     },
     {
-      "title": "I made a game where you build a CPU from logic gates",
-      "url": "https://select.supply/game/chipbuilder",
-      "score": 19,
-      "comments": 9,
-      "source": "select.supply"
+      "title": "Why is everyone trying to build a solid-state battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "score": 127,
+      "comments": 157,
+      "source": "construction-physics.com"
     },
     {
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 759,
-      "comments": 289,
-      "source": "christianselig.com"
+      "title": "Upper stage impacting the moon on 2026 August 5",
+      "url": "https://www.projectpluto.com/25010d.htm",
+      "score": 113,
+      "comments": 34,
+      "source": "projectpluto.com"
     },
     {
-      "title": "What it means for an API to be RESTful",
-      "url": "https://en.andros.dev/blog/9761fd2e/what-it-means-for-an-api-to-be-restful/",
-      "score": 15,
-      "comments": 14,
-      "source": "en.andros.dev"
-    },
-    {
-      "title": "3D Pinball for Windows (1995)",
-      "url": "https://98.js.org/programs/pinball/space-cadet.html",
-      "score": 13,
-      "comments": 2,
-      "source": "98.js.org"
-    },
-    {
-      "title": "The Glass Famine",
-      "url": "https://edconway.substack.com/p/the-glass-famine",
-      "score": 53,
-      "comments": 17,
-      "source": "edconway.substack.com"
-    },
-    {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 335,
-      "comments": 93,
-      "source": "llm2human.pages.dev"
-    },
-    {
-      "title": "The first watch featuring computer functions",
-      "url": "https://by.seiko-design.com/140th/en/topic/58.html",
-      "score": 51,
-      "comments": 24,
-      "source": "by.seiko-design.com"
-    },
-    {
-      "title": "The Alice and Bob After Dinner Speech (1984)",
-      "url": "https://hex.ooo/library/alicebob.html",
-      "score": 3,
-      "comments": 1,
-      "source": "hex.ooo"
-    },
-    {
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "score": 131,
-      "comments": 139,
-      "source": "lwn.net"
-    },
-    {
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "score": 304,
-      "comments": 132,
-      "source": "frantic.im"
-    },
-    {
-      "title": "Azulejo",
-      "url": "https://en.wikipedia.org/wiki/Azulejo",
-      "score": 92,
+      "title": "Launch HN: Prized (YC S26) \u2013 Let non-engineer staff build secure internal tools",
+      "url": "https://prized.dev",
+      "score": 55,
       "comments": 31,
-      "source": "en.wikipedia.org"
+      "source": "prized.dev"
     },
     {
-      "title": "Google will expand age checks on Android worldwide till the end of the year",
-      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-      "score": 176,
-      "comments": 208,
-      "source": "android-developers.googleblog.com"
-    },
-    {
-      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "url": "https://github.com/grafana/ai-sdk",
-      "score": 16,
-      "comments": 1,
+      "title": "Show HN: Noisegate \u2013 a differential-privacy gateway for untrusted AI agents",
+      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "score": 7,
+      "comments": 0,
       "source": "github.com"
     },
     {
-      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-      "score": 39,
-      "comments": 18,
-      "source": "bloomberg.com"
+      "title": "RFC 8890 \u2013 The Internet is for End Users (2020)",
+      "url": "https://mnot.net/blog/2020/for_the_users",
+      "score": 97,
+      "comments": 28,
+      "source": "mnot.net"
+    },
+    {
+      "title": "How to Mount a Balcony Awning (2025)",
+      "url": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/",
+      "score": 34,
+      "comments": 1,
+      "source": "solar.lowtechmagazine.com"
+    },
+    {
+      "title": "How Olinia Turns Mexico's EV Ambition into Reality",
+      "url": "https://spectrum.ieee.org/mexico-olinia-car-electric-vehicle",
+      "score": 23,
+      "comments": 26,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Ron Gilbert started production on Thimbleweed Park 2",
+      "url": "https://www.grumpygamer.com/twp2_announce/",
+      "score": 214,
+      "comments": 101,
+      "source": "grumpygamer.com"
+    },
+    {
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "url": "https://github.com/n67094/sdl_gp",
+      "score": 45,
+      "comments": 16,
+      "source": "github.com"
     },
     {
       "title": "Are We Stuck with Lean?",
       "url": "https://mathoverflow.net/questions/513742/are-we-stuck-with-lean",
-      "score": 7,
-      "comments": 1,
+      "score": 107,
+      "comments": 52,
       "source": "mathoverflow.net"
     },
     {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 428,
-      "comments": 233,
-      "source": "huggingface.co"
+      "title": "Show HN: Claude-account \u2013 switch Claude Code accounts without logging in again",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "score": 30,
+      "comments": 21,
+      "source": "github.com"
     },
     {
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "score": 260,
-      "comments": 101,
-      "source": "zachholman.com"
+      "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+      "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+      "score": 32,
+      "comments": 3,
+      "source": "rusty.today"
+    },
+    {
+      "title": "Show HN: I made a game where you build a CPU from logic gates",
+      "url": "https://select.supply/game/chipbuilder",
+      "score": 67,
+      "comments": 57,
+      "source": "select.supply"
+    },
+    {
+      "title": "How old is Ann?",
+      "url": "https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/",
+      "score": 53,
+      "comments": 56,
+      "source": "quuxplusone.github.io"
+    },
+    {
+      "title": "RCade: The Arcade Cabinet with CI/CD Deployment, Custom Graphics Card for CRT [video]",
+      "url": "https://www.youtube.com/watch?v=W-OpIbLUOU0",
+      "score": 23,
+      "comments": 3,
+      "source": "youtube.com"
+    },
+    {
+      "title": "3D Pinball for Windows (1995)",
+      "url": "https://98.js.org/programs/pinball/space-cadet.html",
+      "score": 87,
+      "comments": 41,
+      "source": "98.js.org"
     }
   ],
   "security": [
+    {
+      "title": "Extend Amazon Inspector SBOM Generator with Plugins",
+      "url": "https://aws.amazon.com/blogs/security/extend-amazon-inspector-sbom-generator-with-plugins/",
+      "date": "2026-07-30 17:22:54",
+      "author": "Michael Long"
+    },
     {
       "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
       "url": "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/do-more-with-aws-waf-labels-using-dynamic-label-interpolation/",
       "date": "2026-07-21 17:03:16",
       "author": "Eitav Arditti"
-    },
-    {
-      "title": "Introducing the Amazon GuardDuty investigation agent: on-demand AI-powered threat assessment",
-      "url": "https://aws.amazon.com/blogs/security/introducing-the-amazon-guardduty-investigation-agent-on-demand-ai-powered-threat-assessment/",
-      "date": "2026-07-20 21:59:00",
-      "author": "Allan Holmes"
     }
   ]
 }
