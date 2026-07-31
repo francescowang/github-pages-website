@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "The AI Aesthetic",
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "score": 131,
-      "comments": 67,
-      "source": "blog.jim-nielsen.com"
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "score": 261,
+      "comments": 53,
+      "source": "earendil.com"
     },
     {
-      "title": "Read this before you buy that TV streaming stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 582,
-      "comments": 345,
-      "source": "krebsonsecurity.com"
-    },
-    {
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 100,
-      "comments": 37,
-      "source": "geospatialml.com"
-    },
-    {
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 214,
-      "comments": 79,
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "score": 89,
+      "comments": 33,
       "source": "github.com"
+    },
+    {
+      "title": "DeepSeek-V4-Flash Update",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "score": 183,
+      "comments": 75,
+      "source": "api-docs.deepseek.com"
     },
     {
       "title": "Stacked PRs are now live on GitHub",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 484,
-      "comments": 167,
+      "score": 628,
+      "comments": 213,
       "source": "github.blog"
+    },
+    {
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "url": "https://marbleos.com/demo",
+      "score": 41,
+      "comments": 21,
+      "source": "marbleos.com"
+    },
+    {
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "score": 9,
+      "comments": 2,
+      "source": "blog.google"
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 482,
-      "comments": 396,
+      "score": 551,
+      "comments": 438,
       "source": "deepmind.google"
     },
     {
-      "title": "The American Grilled Cheese Sandwich Essay (2024)",
-      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
-      "score": 19,
-      "comments": 4,
-      "source": "buttondown.com"
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "score": 181,
+      "comments": 78,
+      "source": "geospatialml.com"
     },
     {
-      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-      "url": "https://rune.build/blog/rune-1-1-release",
-      "score": 51,
-      "comments": 16,
-      "source": "rune.build"
+      "title": "Where USB Memory Sticks are Born (2013)",
+      "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
+      "score": 45,
+      "comments": 3,
+      "source": "bunniestudios.com"
     },
     {
-      "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
-      "url": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
-      "score": 64,
-      "comments": 38,
-      "source": "gizmodo.com"
-    },
-    {
-      "title": "CodePen 2.0",
-      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-      "score": 134,
-      "comments": 41,
-      "source": "chriscoyier.net"
-    },
-    {
-      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-      "score": 183,
-      "comments": 94,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "score": 810,
-      "comments": 440,
-      "source": "uefa.com"
-    },
-    {
-      "title": "Bad Apple but It's Traceroute",
-      "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
-      "score": 66,
-      "comments": 14,
-      "source": "jssfr.de"
-    },
-    {
-      "title": "Google will expand age checks on Android worldwide till the end of the year",
-      "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-      "score": 357,
-      "comments": 439,
-      "source": "android-developers.googleblog.com"
-    },
-    {
-      "title": "The Economic Benefit of Refactoring",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "score": 199,
-      "comments": 81,
-      "source": "martinfowler.com"
-    },
-    {
-      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
-      "url": "https://github.com/MemoireMorte/Memo-1",
-      "score": 57,
-      "comments": 6,
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+      "url": "https://github.com/mokshablr/gander",
+      "score": 33,
+      "comments": 13,
       "source": "github.com"
     },
     {
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "score": 216,
-      "comments": 170,
-      "source": "obryant.dev"
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT\u20115.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "score": 502,
-      "comments": 335,
-      "source": "openai.com"
-    },
-    {
-      "title": "Saber-toothed cats became inbred\u2013and struggled to move\u2013before they went extinct",
-      "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
-      "score": 27,
-      "comments": 8,
-      "source": "science.org"
-    },
-    {
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "score": 87,
-      "comments": 61,
-      "source": "ctgt.ai"
-    },
-    {
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "score": 243,
-      "comments": 282,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "score": 99,
-      "comments": 88,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "Show HN: Kedge \u2013 Full-stack cloud with forkable VM snapshots and global SQLite",
-      "url": "https://kedge.dev/",
-      "score": 93,
-      "comments": 20,
-      "source": "kedge.dev"
-    },
-    {
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "score": 302,
-      "comments": 189,
-      "source": "bottlenecklabs.com"
-    },
-    {
-      "title": "Rise Reforming (YC S26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Why is everyone trying to build a solid-state battery?",
-      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
-      "score": 175,
-      "comments": 210,
-      "source": "construction-physics.com"
-    },
-    {
-      "title": "The lost civic life of movie rental stores",
-      "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
-      "score": 127,
-      "comments": 187,
-      "source": "thereader.mitpress.mit.edu"
-    },
-    {
-      "title": "Upper stage impacting the moon on 2026 August 5",
-      "url": "https://www.projectpluto.com/25010d.htm",
-      "score": 184,
-      "comments": 47,
-      "source": "projectpluto.com"
-    },
-    {
-      "title": "Hacker Public Radio",
-      "url": "https://hackerpublicradio.org/",
-      "score": 139,
-      "comments": 25,
-      "source": "hackerpublicradio.org"
+      "title": "The mean means nothing: data visualization to debug a latency problem",
+      "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+      "score": 30,
+      "comments": 3,
+      "source": "fzakaria.com"
     },
     {
       "title": "The Religion of Speed",
       "url": "https://graybeard.ing/the-religion-of-speed/",
-      "score": 7,
-      "comments": 2,
+      "score": 139,
+      "comments": 70,
       "source": "graybeard.ing"
+    },
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 700,
+      "comments": 398,
+      "source": "krebsonsecurity.com"
+    },
+    {
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "score": 213,
+      "comments": 129,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "score": 298,
+      "comments": 127,
+      "source": "blog.jim-nielsen.com"
+    },
+    {
+      "title": "The Economic Benefit of Refactoring",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+      "score": 233,
+      "comments": 96,
+      "source": "martinfowler.com"
+    },
+    {
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "score": 166,
+      "comments": 47,
+      "source": "chriscoyier.net"
+    },
+    {
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "url": "https://rune.build/blog/rune-1-1-release",
+      "score": 80,
+      "comments": 27,
+      "source": "rune.build"
+    },
+    {
+      "title": "Simulating TCP loss and congestion in browser using Go/WASM",
+      "url": "https://ccsim.fly.dev",
+      "score": 14,
+      "comments": 0,
+      "source": "ccsim.fly.dev"
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "score": 286,
+      "comments": 314,
+      "source": "lwn.net"
+    },
+    {
+      "title": "\"the very foundation of modern academia has been blown to bits\"",
+      "url": "https://twitter.com/lemire/status/2082851447499088173",
+      "score": 20,
+      "comments": 3,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Bad Apple but It's Traceroute",
+      "url": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+      "score": 106,
+      "comments": 24,
+      "source": "jssfr.de"
+    },
+    {
+      "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+      "url": "https://github.com/MemoireMorte/Memo-1",
+      "score": 74,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "score": 47,
+      "comments": 35,
+      "source": "buttondown.com"
+    },
+    {
+      "title": "UEFA and its national associations will not participate in FIFA competitions",
+      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+      "score": 997,
+      "comments": 535,
+      "source": "uefa.com"
+    },
+    {
+      "title": "The lost civic life of movie rental stores",
+      "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+      "score": 165,
+      "comments": 216,
+      "source": "thereader.mitpress.mit.edu"
+    },
+    {
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "score": 123,
+      "comments": 64,
+      "source": "ctgt.ai"
+    },
+    {
+      "title": "Saber-toothed cats became inbred\u2013and struggled to move\u2013before they went extinct",
+      "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+      "score": 50,
+      "comments": 22,
+      "source": "science.org"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT\u20115.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "score": 570,
+      "comments": 371,
+      "source": "openai.com"
+    },
+    {
+      "title": "Why is everyone trying to build a solid-state battery?",
+      "url": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+      "score": 192,
+      "comments": 239,
+      "source": "construction-physics.com"
     }
   ],
   "security": [
