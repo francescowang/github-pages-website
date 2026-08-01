@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 38,
-      "comments": 8,
-      "source": "openai.com"
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 41,
+      "comments": 17,
+      "source": "github.com"
     },
     {
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 1233,
-      "comments": 295,
+      "score": 1397,
+      "comments": 339,
       "source": "john.fun"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
-      "score": 97,
-      "comments": 31,
+      "score": 155,
+      "comments": 56,
       "source": "microsoft.github.io"
-    },
-    {
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 167,
-      "comments": 91,
-      "source": "raptitude.com"
     },
     {
       "title": "qm \u2013 Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 547,
-      "comments": 113,
+      "score": 595,
+      "comments": 124,
       "source": "github.com"
     },
     {
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "score": 67,
-      "comments": 22,
-      "source": "sundry.jerryorr.com"
-    },
-    {
-      "title": "Software for One",
-      "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "score": 91,
-      "comments": 73,
-      "source": "ajwaxman.com"
-    },
-    {
-      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-      "score": 20,
-      "comments": 0,
-      "source": "rocm.blogs.amd.com"
-    },
-    {
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
-      "score": 146,
-      "comments": 26,
-      "source": "arielsalminen.com"
-    },
-    {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "score": 500,
-      "comments": 518,
-      "source": "blog.google"
+      "title": "Manual: \u2022.,:;?\u00b7",
+      "url": "https://type.today/en/journal/dots",
+      "score": 26,
+      "comments": 1,
+      "source": "type.today"
     },
     {
       "title": "A tiny holdout building in the middle of Macy\u2019s is back in view",
       "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-      "score": 15,
-      "comments": 4,
+      "score": 70,
+      "comments": 13,
       "source": "ephemeralnewyork.wordpress.com"
     },
     {
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 105,
-      "comments": 53,
-      "source": "historytoday.com"
-    },
-    {
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "url": "https://github.com/sqliteai/waste",
-      "score": 235,
-      "comments": 96,
-      "source": "github.com"
-    },
-    {
-      "title": "A week in Matrix",
-      "url": "https://piegames.de/dumps/a-week-in-matrix/",
-      "score": 54,
-      "comments": 31,
-      "source": "piegames.de"
-    },
-    {
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 184,
-      "comments": 95,
-      "source": "jeffgeerling.com"
-    },
-    {
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "score": 137,
-      "comments": 46,
-      "source": "servo.org"
-    },
-    {
-      "title": "Ten Ways NAS Is Getting Enshitified",
-      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-      "score": 51,
-      "comments": 41,
-      "source": "nascompares.com"
-    },
-    {
-      "title": "Long Range Wi-Fi \u2013 Pushing 2.4 GHz Wi-Fi to the limits (2019)",
-      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
-      "score": 47,
-      "comments": 30,
-      "source": "phidgets.com"
-    },
-    {
-      "title": "Big Food vs. the People",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 225,
-      "comments": 143,
-      "source": "lighthousereports.com"
-    },
-    {
-      "title": "Golang proposal: container/: generic collection types",
-      "url": "https://github.com/golang/go/issues/80590",
-      "score": 147,
-      "comments": 115,
-      "source": "github.com"
-    },
-    {
-      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
-      "url": "https://maurycyz.com/misc/tungsten/",
-      "score": 73,
-      "comments": 73,
-      "source": "maurycyz.com"
-    },
-    {
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "url": "https://arxiv.org/abs/2607.28233",
-      "score": 48,
-      "comments": 26,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Let's make the worst Htmx",
-      "url": "https://zserge.com/posts/worst-htmx-ever/",
-      "score": 94,
-      "comments": 30,
-      "source": "zserge.com"
-    },
-    {
-      "title": "The most official water costs $120k a gallon",
-      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-      "score": 177,
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "score": 256,
       "comments": 145,
-      "source": "signoregalilei.com"
+      "source": "raptitude.com"
     },
     {
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "score": 538,
-      "comments": 200,
-      "source": "tailscale.com"
-    },
-    {
-      "title": "Loops (YC W22) Is Hiring a Product Educator",
-      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+      "title": "Kontigo (YC S24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
-      "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
-      "score": 7,
-      "comments": 1,
-      "source": "smolnero.com"
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "score": 107,
+      "comments": 45,
+      "source": "sundry.jerryorr.com"
     },
     {
-      "title": "Authorize, don't authenticate",
-      "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
-      "score": 83,
-      "comments": 31,
-      "source": "blog.marcua.net"
+      "title": "Solid Queue 1.6.0 now supports fiber workers",
+      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+      "score": 29,
+      "comments": 7,
+      "source": "github.com"
     },
     {
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-      "score": 158,
-      "comments": 182,
-      "source": "quantamagazine.org"
+      "title": "How to Do Great Work (2023)",
+      "url": "https://paulgraham.com/greatwork.html",
+      "score": 50,
+      "comments": 35,
+      "source": "paulgraham.com"
     },
     {
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "url": "https://weeraman.com/because-we-can/",
-      "score": 236,
-      "comments": 119,
+      "title": "G'mic 4.0: Squaring the Pixel, Easier",
+      "url": "https://gmic.eu/gmic40/",
+      "score": 44,
+      "comments": 2,
+      "source": "gmic.eu"
+    },
+    {
+      "title": "Software for One",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "score": 147,
+      "comments": 133,
+      "source": "ajwaxman.com"
+    },
+    {
+      "title": "RamenHaus",
+      "url": "https://ramen.haus/",
+      "score": 121,
+      "comments": 68,
+      "source": "ramen.haus"
+    },
+    {
+      "title": "Google kills Earth AI generator after one day",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+      "score": 4,
+      "comments": 0,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "score": 270,
+      "comments": 118,
+      "source": "github.com"
+    },
+    {
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "score": 148,
+      "comments": 66,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "score": 187,
+      "comments": 135,
+      "source": "openai.com"
+    },
+    {
+      "title": "The First Idempotency Key",
+      "url": "https://hatchet.run/blog/first-idempotency-key",
+      "score": 8,
+      "comments": 0,
+      "source": "hatchet.run"
+    },
+    {
+      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+      "score": 48,
+      "comments": 4,
+      "source": "rocm.blogs.amd.com"
+    },
+    {
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "score": 205,
+      "comments": 188,
       "source": "weeraman.com"
+    },
+    {
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "score": 168,
+      "comments": 51,
+      "source": "servo.org"
+    },
+    {
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "score": 202,
+      "comments": 103,
+      "source": "jeffgeerling.com"
+    },
+    {
+      "title": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "score": 164,
+      "comments": 36,
+      "source": "arielsalminen.com"
+    },
+    {
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "score": 239,
+      "comments": 151,
+      "source": "lighthousereports.com"
+    },
+    {
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "score": 128,
+      "comments": 119,
+      "source": "nascompares.com"
+    },
+    {
+      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
+      "url": "https://maurycyz.com/misc/tungsten/",
+      "score": 113,
+      "comments": 117,
+      "source": "maurycyz.com"
+    },
+    {
+      "title": "Long Range Wi-Fi \u2013 Pushing 2.4 GHz Wi-Fi to the limits (2019)",
+      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+      "score": 64,
+      "comments": 35,
+      "source": "phidgets.com"
+    },
+    {
+      "title": "The most official water costs $120k a gallon",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "score": 205,
+      "comments": 155,
+      "source": "signoregalilei.com"
+    },
+    {
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "score": 165,
+      "comments": 140,
+      "source": "github.com"
     }
   ],
   "security": [
