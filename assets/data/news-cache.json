@@ -3,215 +3,221 @@
     {
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 533,
-      "comments": 152,
+      "score": 910,
+      "comments": 223,
       "source": "john.fun"
     },
     {
-      "title": "qm",
+      "title": "qm \u2013 Multiplayer agent harness for work",
       "url": "https://github.com/yc-software/qm",
-      "score": 84,
-      "comments": 30,
+      "score": 474,
+      "comments": 101,
       "source": "github.com"
+    },
+    {
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "score": 26,
+      "comments": 8,
+      "source": "raptitude.com"
+    },
+    {
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "score": 57,
+      "comments": 35,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "score": 96,
+      "comments": 15,
+      "source": "arielsalminen.com"
+    },
+    {
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "score": 110,
+      "comments": 33,
+      "source": "servo.org"
     },
     {
       "title": "Big Food vs. the People",
       "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "score": 114,
-      "comments": 64,
+      "score": 195,
+      "comments": 132,
       "source": "lighthousereports.com"
-    },
-    {
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "score": 16,
-      "comments": 6,
-      "source": "tailscale.com"
-    },
-    {
-      "title": "Termixer (TUI DJ Mixer)",
-      "url": "https://github.com/l00sed/termixer",
-      "score": 14,
-      "comments": 4,
-      "source": "github.com"
     },
     {
       "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
       "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "score": 72,
-      "comments": 42,
+      "score": 147,
+      "comments": 85,
       "source": "jeffgeerling.com"
     },
     {
-      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-      "score": 54,
-      "comments": 12,
-      "source": "semyonsinchenko.github.io"
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "url": "https://arxiv.org/abs/2607.28233",
+      "score": 38,
+      "comments": 17,
+      "source": "arxiv.org"
     },
     {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "score": 460,
-      "comments": 248,
-      "source": "artificialanalysis.ai"
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "score": 468,
+      "comments": 181,
+      "source": "tailscale.com"
     },
     {
-      "title": "AFC Stands in Solidarity with UEFA and Concacaf to Protect the FIFA World Cup",
-      "url": "https://www.the-afc.com/en/more/afc_news.html/news/afc-stands-in-solidarity-with-uefa-and-concacaf-to-protect-the-fifa-world-cup",
-      "score": 15,
-      "comments": 1,
-      "source": "the-afc.com"
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "score": 162,
+      "comments": 63,
+      "source": "github.com"
     },
     {
-      "title": "DeepSeek-V4-Flash Update",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "score": 609,
-      "comments": 295,
-      "source": "api-docs.deepseek.com"
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "score": 128,
+      "comments": 78,
+      "source": "github.com"
     },
     {
-      "title": "Miso (YC S16) is hiring for U.S. expansion",
-      "url": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+      "title": "Let's make the worst Htmx",
+      "url": "https://zserge.com/posts/worst-htmx-ever/",
+      "score": 71,
+      "comments": 20,
+      "source": "zserge.com"
+    },
+    {
+      "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
+      "url": "https://cgjennings.ca/articles/jpeg-compression/",
+      "score": 114,
+      "comments": 13,
+      "source": "cgjennings.ca"
+    },
+    {
+      "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+      "url": "https://code.intellios.ai/cwbrowser/",
+      "score": 37,
+      "comments": 16,
+      "source": "code.intellios.ai"
+    },
+    {
+      "title": "The most official water costs $120k a gallon",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "score": 141,
+      "comments": 127,
+      "source": "signoregalilei.com"
+    },
+    {
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "The most official water costs $120k a gallon",
-      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-      "score": 71,
-      "comments": 41,
-      "source": "signoregalilei.com"
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can/",
+      "score": 175,
+      "comments": 73,
+      "source": "weeraman.com"
     },
     {
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "score": 12,
-      "comments": 1,
-      "source": "manifest.build"
-    },
-    {
-      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-      "url": "https://arxiv.org/abs/2607.28545",
-      "score": 6,
-      "comments": 1,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "url": "https://github.com/sqliteai/waste",
-      "score": 58,
-      "comments": 16,
+      "title": "Termixer (TUI DJ Mixer)",
+      "url": "https://github.com/l00sed/termixer",
+      "score": 55,
+      "comments": 35,
       "source": "github.com"
     },
     {
-      "title": "A GTK4 SSH-askpass in Zig",
-      "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
-      "score": 45,
-      "comments": 15,
-      "source": "xn--gckvb8fzb.com"
-    },
-    {
-      "title": "How JPEG works: Interactively explore JPEG's lossy compression methods",
-      "url": "https://cgjennings.ca/articles/jpeg-compression/",
-      "score": 39,
+      "title": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+      "score": 10,
       "comments": 3,
-      "source": "cgjennings.ca"
+      "source": "phidgets.com"
     },
     {
-      "title": "Severance",
-      "url": "https://lcamtuf.substack.com/p/severance",
-      "score": 12,
+      "title": "A past and future of trade secrets",
+      "url": "https://www.cabinetmagazine.org/issues/70/kofen.php",
+      "score": 15,
+      "comments": 3,
+      "source": "cabinetmagazine.org"
+    },
+    {
+      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+      "score": 21,
+      "comments": 3,
+      "source": "spectrum.ieee.org"
+    },
+    {
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "score": 32,
+      "comments": 3,
+      "source": "jwlabs.vercel.app"
+    },
+    {
+      "title": "Dubious research tied to Red Bull has shaped energy drink policy",
+      "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+      "score": 119,
+      "comments": 182,
+      "source": "theexamination.org"
+    },
+    {
+      "title": "Software for One",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "score": 5,
       "comments": 0,
-      "source": "lcamtuf.substack.com"
+      "source": "ajwaxman.com"
     },
     {
-      "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-      "url": "https://swe-rebench.com",
-      "score": 28,
-      "comments": 11,
-      "source": "swe-rebench.com"
-    },
-    {
-      "title": "The End of an Era",
-      "url": "https://hughhowey.com/the-end-of-an-era/",
-      "score": 337,
-      "comments": 379,
-      "source": "hughhowey.com"
-    },
-    {
-      "title": "The session you cannot take with you",
-      "url": "https://earendil.com/posts/session-portability/",
-      "score": 708,
-      "comments": 203,
-      "source": "earendil.com"
-    },
-    {
-      "title": "The C ``Clockwise/Spiral Rule''",
-      "url": "https://c-faq.com/decl/spiral.anderson.html",
-      "score": 48,
+      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+      "score": 104,
       "comments": 32,
-      "source": "c-faq.com"
-    },
-    {
-      "title": "Anti-fraud tools can't keep pace with robocall scammers",
-      "url": "https://broadbandbreakfast.com/how-to-fight-back-against-fraudulent-robocalls/",
-      "score": 41,
-      "comments": 53,
-      "source": "broadbandbreakfast.com"
-    },
-    {
-      "title": "The Art of Decision-Making (2019)",
-      "url": "https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making",
-      "score": 26,
-      "comments": 2,
-      "source": "newyorker.com"
-    },
-    {
-      "title": "Golang proposal: container/: generic collection types",
-      "url": "https://github.com/golang/go/issues/80590",
-      "score": 4,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Making Referential Stability a Type",
-      "url": "https://jovidecroock.com/blog/referential-stability-types/",
-      "score": 4,
-      "comments": 0,
-      "source": "jovidecroock.com"
-    },
-    {
-      "title": "Show HN: BitBang \u2013 Reach machines behind NAT from a browser, no account",
-      "url": "https://github.com/richlegrand/bitbang-cli",
-      "score": 47,
-      "comments": 8,
-      "source": "github.com"
-    },
-    {
-      "title": "Arch Linux disables AUR package adoption",
-      "url": "https://lwn.net/Articles/1086489/",
-      "score": 95,
-      "comments": 68,
-      "source": "lwn.net"
+      "source": "semyonsinchenko.github.io"
     },
     {
       "title": "Using the railway network as a flatbed scanner [video]",
       "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "score": 3,
-      "comments": 0,
+      "score": 53,
+      "comments": 26,
       "source": "media.ccc.de"
     },
     {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "url": "https://www.bbc.com/news/articles/cn0nqv05g0do",
-      "score": 98,
-      "comments": 109,
-      "source": "bbc.com"
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "score": 123,
+      "comments": 153,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "score": 95,
+      "comments": 51,
+      "source": "manifest.build"
+    },
+    {
+      "title": "Severance",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "score": 212,
+      "comments": 71,
+      "source": "lcamtuf.substack.com"
     }
   ],
   "security": [
+    {
+      "title": "HIPAA Security Rule on AWS \u2013 Technical Safeguards Implementation and Readiness Guidance",
+      "url": "https://aws.amazon.com/blogs/security/hipaa-security-rule-on-aws-technical-safeguards-implementation-and-readiness-guidance/",
+      "date": "2026-07-31 19:44:25",
+      "author": "Abdul Javid"
+    },
     {
       "title": "Balancing speed and safety: A control framework for AI coding agents",
       "url": "https://aws.amazon.com/blogs/security/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/accelerating-aws-network-firewall-troubleshooting-with-aws-devops-agent/",
       "date": "2026-07-24 19:54:48",
       "author": "Salman Ahmed"
-    },
-    {
-      "title": "Enterprise security at machine speed: AWS Black Hat 2026 preview",
-      "url": "https://aws.amazon.com/blogs/security/enterprise-security-at-machine-speed-aws-black-hat-2026-preview/",
-      "date": "2026-07-23 16:23:30",
-      "author": "Rahul Sahni"
     }
   ]
 }
