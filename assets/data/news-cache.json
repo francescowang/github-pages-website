@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 183,
-      "comments": 59,
-      "source": "victoriametrics.com"
-    },
-    {
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 131,
-      "comments": 24,
-      "source": "github.com"
-    },
-    {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 315,
-      "comments": 161,
-      "source": "seed.bytedance.com"
-    },
-    {
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 48,
-      "comments": 2,
-      "source": "oldvcr.blogspot.com"
-    },
-    {
-      "title": "Di\u00e1taxis",
-      "url": "https://diataxis.fr/",
-      "score": 316,
-      "comments": 40,
-      "source": "diataxis.fr"
-    },
-    {
-      "title": "Show HN: Tone Generator",
-      "url": "https://soundtonegenerator.com/",
-      "score": 4,
-      "comments": 0,
-      "source": "soundtonegenerator.com"
-    },
-    {
-      "title": "Elena, a library for building Progressive Web Components",
-      "url": "https://elenajs.com/",
-      "score": 26,
-      "comments": 1,
-      "source": "elenajs.com"
-    },
-    {
-      "title": "ASRock BC-250: Building the Budget Steam Machine",
-      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-      "score": 54,
-      "comments": 15,
-      "source": "plug-world.com"
-    },
-    {
-      "title": "CRM: An open-source, agentic-first CRM",
-      "url": "https://github.com/trycompai/crm",
-      "score": 5,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Australia's social media ban has failed",
-      "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
-      "score": 23,
-      "comments": 36,
-      "source": "reuters.com"
-    },
-    {
-      "title": "Unraveling the mysteries of habit formation",
-      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-      "score": 72,
-      "comments": 25,
-      "source": "kyoto-u.ac.jp"
-    },
-    {
-      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-      "score": 43,
-      "comments": 18,
-      "source": "science.org"
-    },
-    {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 143,
-      "comments": 55,
-      "source": "leodemoura.github.io"
-    },
-    {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-      "score": 55,
-      "comments": 12,
-      "source": "rfc-editor.org"
-    },
-    {
-      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "score": 113,
-      "comments": 21,
-      "source": "wafer.ai"
-    },
-    {
-      "title": "When random.bytes() runs but doesn't work",
-      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "url": "https://website-auditor.io/ai-visibility-index",
       "score": 32,
-      "comments": 12,
-      "source": "insider.btcpp.dev"
+      "comments": 36,
+      "source": "website-auditor.io"
     },
     {
-      "title": "A big win for Android interoperability",
-      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
-      "score": 27,
-      "comments": 3,
-      "source": "openhomefoundation.org"
+      "title": "Twenty Years of RISC OS Open",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "score": 13,
+      "comments": 1,
+      "source": "riscosopen.org"
     },
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 291,
-      "comments": 258,
-      "source": "mitsloan.mit.edu"
+      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+      "url": "https://meshdiff.com/",
+      "score": 58,
+      "comments": 7,
+      "source": "meshdiff.com"
     },
     {
-      "title": "But can your calculator run Linux?",
-      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "score": 92,
-      "comments": 9,
-      "source": "raymii.org"
+      "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "score": 66,
+      "comments": 13,
+      "source": "getbor.dev"
     },
     {
-      "title": "Four Time Scales for Technology Development and Deployment",
-      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-      "score": 26,
-      "comments": 4,
-      "source": "rodneybrooks.com"
+      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
+      "score": 37,
+      "comments": 30,
+      "source": "dallasexpress.com"
     },
     {
-      "title": "Atom is better than RSS, in ways that matter",
-      "url": "https://chrismorgan.info/atom%3Erss",
-      "score": 60,
-      "comments": 26,
-      "source": "chrismorgan.info"
+      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
+      "score": 131,
+      "comments": 78,
+      "source": "en.wikipedia.org"
     },
     {
-      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+      "url": "https://github.com/syncular/syncular",
+      "score": 33,
+      "comments": 16,
+      "source": "github.com"
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "score": 512,
-      "comments": 177,
-      "source": "openrss.org"
-    },
-    {
-      "title": "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
-      "url": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
-      "score": 8,
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "score": 44,
       "comments": 5,
-      "source": "blog.silentsignal.eu"
+      "source": "publicdomainreview.org"
     },
     {
-      "title": "We accidentally built an LLVM compiler for Jax",
-      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
-      "score": 40,
-      "comments": 12,
-      "source": "iza.ac"
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 257,
+      "comments": 104,
+      "source": "victoriametrics.com"
     },
     {
-      "title": "Nerd culture is murdering intellectuals",
-      "url": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
-      "score": 3,
+      "title": "Show HN: Fuse \u2013 statically typed functional programming language",
+      "url": "https://fuselang.org",
+      "score": 15,
       "comments": 0,
-      "source": "theintrinsicperspective.com"
+      "source": "fuselang.org"
     },
     {
-      "title": "Nyctography: A substituton cypher by Lewis Carroll",
-      "url": "https://en.wikipedia.org/wiki/Nyctography",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "score": 195,
+      "comments": 68,
+      "source": "github.com"
+    },
+    {
+      "title": "Cyberscript",
+      "url": "https://cyberscript.dev",
+      "score": 26,
+      "comments": 26,
+      "source": "cyberscript.dev"
+    },
+    {
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "score": 383,
+      "comments": 201,
+      "source": "seed.bytedance.com"
+    },
+    {
+      "title": "Di\u00e1taxis",
+      "url": "https://diataxis.fr/",
+      "score": 396,
+      "comments": 49,
+      "source": "diataxis.fr"
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "score": 69,
+      "comments": 4,
+      "source": "oldvcr.blogspot.com"
+    },
+    {
+      "title": "IBM i (OS/400) the Database Operating System",
+      "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+      "score": 29,
+      "comments": 15,
+      "source": "osadmins.com"
+    },
+    {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "score": 154,
+      "comments": 73,
+      "source": "wafer.ai"
+    },
+    {
+      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+      "score": 30,
+      "comments": 16,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+      "url": "https://github.com/kamalfarahani/katharos",
+      "score": 5,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Holocloth",
+      "url": "https://holocloth.vercel.app",
+      "score": 32,
+      "comments": 7,
+      "source": "holocloth.vercel.app"
+    },
+    {
+      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+      "score": 68,
+      "comments": 33,
+      "source": "science.org"
+    },
+    {
+      "title": "A big win for Android interoperability",
+      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+      "score": 157,
+      "comments": 115,
+      "source": "openhomefoundation.org"
+    },
+    {
+      "title": "When random.bytes() runs but doesn't work",
+      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "score": 65,
+      "comments": 31,
+      "source": "insider.btcpp.dev"
+    },
+    {
+      "title": "Atom is better than RSS, in ways that matter",
+      "url": "https://chrismorgan.info/atom%3Erss",
+      "score": 102,
+      "comments": 56,
+      "source": "chrismorgan.info"
+    },
+    {
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
       "score": 74,
-      "comments": 11,
-      "source": "en.wikipedia.org"
+      "comments": 33,
+      "source": "plug-world.com"
     },
     {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 99,
-      "comments": 25,
-      "source": "alexiglad.github.io"
+      "title": "Elena, a library for building Progressive Web Components",
+      "url": "https://elenajs.com/",
+      "score": 41,
+      "comments": 3,
+      "source": "elenajs.com"
     },
     {
-      "title": "NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 272,
-      "comments": 121,
-      "source": "blog.netbsd.org"
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "score": 155,
+      "comments": 59,
+      "source": "leodemoura.github.io"
     },
     {
-      "title": "Kenji/Serious Eats \u2013 30-Min Pressure Cooker Pho Ga",
-      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-      "score": 139,
-      "comments": 79,
-      "source": "seriouseats.com"
+      "title": "Unraveling the mysteries of habit formation",
+      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "score": 86,
+      "comments": 33,
+      "source": "kyoto-u.ac.jp"
+    },
+    {
+      "title": "US Treasury undertakes historic intervention in yen market",
+      "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
+      "score": 27,
+      "comments": 17,
+      "source": "ft.com"
     }
   ],
   "security": [
