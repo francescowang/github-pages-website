@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "NetBSD 11.0 Released",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 52,
-      "comments": 10,
-      "source": "blog.netbsd.org"
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 29,
+      "comments": 2,
+      "source": "victoriametrics.com"
     },
     {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 112,
-      "comments": 62,
-      "source": "nostarch.com"
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "score": 192,
+      "comments": 91,
+      "source": "seed.bytedance.com"
     },
     {
-      "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
-      "url": "https://kaisel.dev/",
+      "title": "Di\u00e1taxis",
+      "url": "https://diataxis.fr/",
+      "score": 208,
+      "comments": 30,
+      "source": "diataxis.fr"
+    },
+    {
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "score": 9,
+      "comments": 0,
+      "source": "plug-world.com"
+    },
+    {
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
       "score": 27,
-      "comments": 1,
-      "source": "kaisel.dev"
+      "comments": 0,
+      "source": "rfc-editor.org"
     },
     {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 45,
-      "comments": 17,
-      "source": "alexiglad.github.io"
-    },
-    {
-      "title": "Pgtestdb's template cloning approach to testing is fast",
-      "url": "https://brandur.org/fragments/pgtestdb",
-      "score": 37,
-      "comments": 17,
-      "source": "brandur.org"
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 171,
+      "comments": 136,
+      "source": "mitsloan.mit.edu"
     },
     {
       "title": "Postmortem for Kernel Soundness Bug #14576",
       "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 9,
-      "comments": 1,
+      "score": 119,
+      "comments": 42,
       "source": "leodemoura.github.io"
     },
     {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 200,
-      "comments": 140,
-      "source": "github.com"
+      "title": "Unraveling the mysteries of habit formation",
+      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "score": 38,
+      "comments": 11,
+      "source": "kyoto-u.ac.jp"
     },
     {
-      "title": "Cursor removed cost information from the usage page and CSV export",
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 206,
-      "comments": 90,
-      "source": "forum.cursor.com"
+      "title": "But can your calculator run Linux?",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "score": 67,
+      "comments": 4,
+      "source": "raymii.org"
     },
     {
-      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "score": 190,
-      "comments": 106,
-      "source": "michaelgeist.ca"
-    },
-    {
-      "title": "Register deprivation: spills and runtime under forced register scarcity",
-      "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
-      "score": 15,
-      "comments": 1,
-      "source": "rjp.io"
-    },
-    {
-      "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
-      "url": "https://franken.domains/",
+      "title": "We accidentally built an LLVM compiler for Jax",
+      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
       "score": 12,
-      "comments": 7,
-      "source": "franken.domains"
-    },
-    {
-      "title": "A directory of people who love RSS",
-      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-      "score": 112,
-      "comments": 62,
-      "source": "andrewshell.org"
-    },
-    {
-      "title": "Oil companies report sky-high profits thanks to wartime crude prices",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
-      "score": 10,
       "comments": 3,
-      "source": "npr.org"
+      "source": "iza.ac"
     },
     {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "score": 230,
-      "comments": 65,
-      "source": "microsoft.github.io"
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "score": 194,
+      "comments": 87,
+      "source": "nostarch.com"
     },
     {
-      "title": "Manual: \u2022.,:;\u2026!?\u00b7",
-      "url": "https://type.today/en/journal/dots",
-      "score": 93,
-      "comments": 19,
-      "source": "type.today"
+      "title": "CISA Alert: Water Sector PLC Targeting",
+      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+      "score": 76,
+      "comments": 49,
+      "source": "censys.com"
     },
     {
-      "title": "qm \u2013 Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "score": 635,
-      "comments": 149,
-      "source": "github.com"
-    },
-    {
-      "title": "Glyphs 4 \u2013 the leading Mac font editor",
-      "url": "https://glyphsapp.com",
-      "score": 9,
-      "comments": 2,
-      "source": "glyphsapp.com"
-    },
-    {
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "score": 78,
-      "comments": 33,
-      "source": "github.com"
-    },
-    {
-      "title": "Kontigo (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "RamenHaus",
-      "url": "https://ramen.haus/",
-      "score": 176,
-      "comments": 88,
-      "source": "ramen.haus"
+      "title": "Kobuk the Destroyer \u2013 Tales from the Wild, Unseen World of Test Engineering",
+      "url": "https://wwnorton.com/books/9781324051299",
+      "score": 8,
+      "comments": 1,
+      "source": "wwnorton.com"
     },
     {
-      "title": "The tiny holdout building in the middle of Macy\u2019s is back in view",
-      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-      "score": 165,
-      "comments": 48,
-      "source": "ephemeralnewyork.wordpress.com"
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "score": 409,
+      "comments": 146,
+      "source": "openrss.org"
     },
     {
-      "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
-      "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
-      "score": 62,
-      "comments": 45,
-      "source": "theautopian.com"
+      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "url": "https://zenodo.org/records/21753002",
+      "score": 3,
+      "comments": 0,
+      "source": "zenodo.org"
+    },
+    {
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 255,
+      "comments": 170,
+      "source": "github.com"
+    },
+    {
+      "title": "NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 221,
+      "comments": 97,
+      "source": "blog.netbsd.org"
+    },
+    {
+      "title": "Nyctography: A substituton cypher by Lewis Carroll",
+      "url": "https://en.wikipedia.org/wiki/Nyctography",
+      "score": 51,
+      "comments": 5,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+      "score": 4,
+      "comments": 1,
+      "source": "brethorsting.com"
+    },
+    {
+      "title": "Anime User Interfaces",
+      "url": "https://animeuserinterface.tumblr.com",
+      "score": 104,
+      "comments": 19,
+      "source": "animeuserinterface.tumblr.com"
+    },
+    {
+      "title": "Kenji/Serious Eats \u2013 30-Min Pressure Cooker Pho Ga",
+      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+      "score": 104,
+      "comments": 63,
+      "source": "seriouseats.com"
+    },
+    {
+      "title": "Glyphs 4 \u2013 the leading Mac font editor",
+      "url": "https://glyphsapp.com",
+      "score": 59,
+      "comments": 10,
+      "source": "glyphsapp.com"
+    },
+    {
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "score": 78,
+      "comments": 23,
+      "source": "alexiglad.github.io"
     },
     {
       "title": "Linux on ESP32",
       "url": "https://github.com/GrieferPig/esp32-s31-linux",
-      "score": 55,
-      "comments": 23,
+      "score": 101,
+      "comments": 36,
       "source": "github.com"
     },
     {
-      "title": "Study uncovers lost 'golden age' of languages",
-      "url": "https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages",
-      "score": 42,
-      "comments": 41,
-      "source": "news.yale.edu"
+      "title": "AI opens new era in cognitive studies of wild primates",
+      "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+      "score": 7,
+      "comments": 1,
+      "source": "news.emory.edu"
     },
     {
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "score": 144,
-      "comments": 69,
-      "source": "sundry.jerryorr.com"
-    },
-    {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 1528,
-      "comments": 382,
-      "source": "john.fun"
-    },
-    {
-      "title": "Software for One",
-      "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "score": 217,
-      "comments": 219,
-      "source": "ajwaxman.com"
-    },
-    {
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "url": "https://github.com/sqliteai/waste",
-      "score": 312,
-      "comments": 148,
+      "title": "Show HN: Legionlinuxtui \u2013 Control Lenovo legion laptops in the terminal",
+      "url": "https://github.com/nooneknowspeter/legionlinuxtui",
+      "score": 8,
+      "comments": 0,
       "source": "github.com"
     },
     {
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 338,
-      "comments": 202,
-      "source": "raptitude.com"
+      "title": "Art Invented Humanity",
+      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+      "score": 6,
+      "comments": 0,
+      "source": "aeon.co"
+    },
+    {
+      "title": "A Uiua Type System (2025)",
+      "url": "https://www.uiua.org/blog/a-uiua-type-system",
+      "score": 4,
+      "comments": 1,
+      "source": "uiua.org"
+    },
+    {
+      "title": "Designing Icons",
+      "url": "https://m3.material.io/styles/icons/designing-icons",
+      "score": 13,
+      "comments": 5,
+      "source": "m3.material.io"
     }
   ],
   "security": [
