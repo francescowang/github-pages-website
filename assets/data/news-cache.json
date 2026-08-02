@@ -1,53 +1,130 @@
 {
   "tech": [
     {
-      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-      "url": "https://website-auditor.io/ai-visibility-index",
-      "score": 32,
-      "comments": 36,
-      "source": "website-auditor.io"
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "score": 73,
+      "comments": 25,
+      "source": "github.com"
+    },
+    {
+      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "score": 41,
+      "comments": 10,
+      "source": "stackoverflow.blog"
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "score": 36,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "score": 38,
+      "comments": 1,
+      "source": "blog.juni-mp4.com"
+    },
+    {
+      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+      "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+      "score": 12,
+      "comments": 6,
+      "source": "uphillsecurity.com"
     },
     {
       "title": "Twenty Years of RISC OS Open",
       "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "score": 13,
-      "comments": 1,
+      "score": 115,
+      "comments": 20,
       "source": "riscosopen.org"
+    },
+    {
+      "title": "How the words we teach English language learners changed",
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "score": 130,
+      "comments": 76,
+      "source": "pudding.cool"
+    },
+    {
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "score": 105,
+      "comments": 34,
+      "source": "fstar-lang.org"
     },
     {
       "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
       "url": "https://meshdiff.com/",
-      "score": 58,
-      "comments": 7,
+      "score": 146,
+      "comments": 13,
       "source": "meshdiff.com"
+    },
+    {
+      "title": "Karpathy\u2019s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "score": 165,
+      "comments": 139,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Fasttracker II clone in C using SDL 2",
+      "url": "https://16-bits.org/ft2.php",
+      "score": 74,
+      "comments": 25,
+      "source": "16-bits.org"
+    },
+    {
+      "title": "When transit passes were designed by hand (2022)",
+      "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
+      "score": 51,
+      "comments": 16,
+      "source": "letterformarchive.org"
+    },
+    {
+      "title": "Folding Paper Globes",
+      "url": "https://foldingglobes.com/globes",
+      "score": 104,
+      "comments": 20,
+      "source": "foldingglobes.com"
     },
     {
       "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
       "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "score": 66,
-      "comments": 13,
+      "score": 143,
+      "comments": 19,
       "source": "getbor.dev"
     },
     {
-      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
-      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
-      "score": 37,
-      "comments": 30,
-      "source": "dallasexpress.com"
+      "title": "Turtle-inspired interactive Python project",
+      "url": "https://www.codembark.com/projects/fv20lz9map/spider-web-drawing",
+      "score": 8,
+      "comments": 0,
+      "source": "codembark.com"
     },
     {
-      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-      "score": 131,
-      "comments": 78,
-      "source": "en.wikipedia.org"
+      "title": "Microsoft raises Xbox prices by up to 43%",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "score": 10,
+      "comments": 0,
+      "source": "theverge.com"
     },
     {
-      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
-      "url": "https://github.com/syncular/syncular",
-      "score": 33,
-      "comments": 16,
-      "source": "github.com"
+      "title": "Show HN: Fuse \u2013 statically typed functional programming language",
+      "url": "https://fuselang.org",
+      "score": 79,
+      "comments": 15,
+      "source": "fuselang.org"
+    },
+    {
+      "title": "Rust All Hands 2026 Retrospective",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+      "score": 67,
+      "comments": 28,
+      "source": "blog.rust-lang.org"
     },
     {
       "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
@@ -59,156 +136,79 @@
     {
       "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
       "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "score": 44,
-      "comments": 5,
+      "score": 99,
+      "comments": 25,
       "source": "publicdomainreview.org"
     },
     {
       "title": "Go 1.27 Interactive Tour",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 257,
-      "comments": 104,
+      "score": 328,
+      "comments": 160,
       "source": "victoriametrics.com"
-    },
-    {
-      "title": "Show HN: Fuse \u2013 statically typed functional programming language",
-      "url": "https://fuselang.org",
-      "score": 15,
-      "comments": 0,
-      "source": "fuselang.org"
     },
     {
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
       "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 195,
-      "comments": 68,
+      "score": 285,
+      "comments": 94,
       "source": "github.com"
     },
     {
-      "title": "Cyberscript",
-      "url": "https://cyberscript.dev",
-      "score": 26,
-      "comments": 26,
-      "source": "cyberscript.dev"
-    },
-    {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 383,
-      "comments": 201,
-      "source": "seed.bytedance.com"
-    },
-    {
-      "title": "Di\u00e1taxis",
-      "url": "https://diataxis.fr/",
-      "score": 396,
-      "comments": 49,
-      "source": "diataxis.fr"
-    },
-    {
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 69,
-      "comments": 4,
-      "source": "oldvcr.blogspot.com"
-    },
-    {
-      "title": "IBM i (OS/400) the Database Operating System",
-      "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-      "score": 29,
-      "comments": 15,
-      "source": "osadmins.com"
-    },
-    {
-      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "score": 154,
-      "comments": 73,
-      "source": "wafer.ai"
-    },
-    {
-      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
-      "score": 30,
-      "comments": 16,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
-      "url": "https://github.com/kamalfarahani/katharos",
-      "score": 5,
-      "comments": 1,
-      "source": "github.com"
+      "title": "Pushes to arch AUR are suspendended right now.",
+      "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+      "score": 43,
+      "comments": 18,
+      "source": "lists.archlinux.org"
     },
     {
       "title": "Holocloth",
       "url": "https://holocloth.vercel.app",
-      "score": 32,
-      "comments": 7,
+      "score": 128,
+      "comments": 24,
       "source": "holocloth.vercel.app"
     },
     {
-      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-      "score": 68,
-      "comments": 33,
-      "source": "science.org"
-    },
-    {
-      "title": "A big win for Android interoperability",
-      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
-      "score": 157,
-      "comments": 115,
-      "source": "openhomefoundation.org"
-    },
-    {
-      "title": "When random.bytes() runs but doesn't work",
-      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-      "score": 65,
-      "comments": 31,
-      "source": "insider.btcpp.dev"
-    },
-    {
-      "title": "Atom is better than RSS, in ways that matter",
-      "url": "https://chrismorgan.info/atom%3Erss",
-      "score": 102,
+      "title": "Di\u00e1taxis",
+      "url": "https://diataxis.fr/",
+      "score": 484,
       "comments": 56,
-      "source": "chrismorgan.info"
+      "source": "diataxis.fr"
     },
     {
-      "title": "ASRock BC-250: Building the Budget Steam Machine",
-      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-      "score": 74,
-      "comments": 33,
-      "source": "plug-world.com"
+      "title": "Norway Salmon",
+      "url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
+      "score": 92,
+      "comments": 58,
+      "source": "abc.net.au"
     },
     {
-      "title": "Elena, a library for building Progressive Web Components",
-      "url": "https://elenajs.com/",
-      "score": 41,
-      "comments": 3,
-      "source": "elenajs.com"
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "score": 97,
+      "comments": 13,
+      "source": "oldvcr.blogspot.com"
     },
     {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 155,
-      "comments": 59,
-      "source": "leodemoura.github.io"
+      "title": "ESP32-C3 SuperMini antenna modification",
+      "url": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
+      "score": 63,
+      "comments": 11,
+      "source": "peterneufeld.wordpress.com"
     },
     {
-      "title": "Unraveling the mysteries of habit formation",
-      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-      "score": 86,
-      "comments": 33,
-      "source": "kyoto-u.ac.jp"
+      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+      "url": "https://github.com/syncular/syncular",
+      "score": 67,
+      "comments": 23,
+      "source": "github.com"
     },
     {
-      "title": "US Treasury undertakes historic intervention in yen market",
-      "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-      "score": 27,
-      "comments": 17,
-      "source": "ft.com"
+      "title": "A Rant About \u201cTechnology\u201d (2005)",
+      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "score": 117,
+      "comments": 66,
+      "source": "ursulakleguin.com"
     }
   ],
   "security": [
