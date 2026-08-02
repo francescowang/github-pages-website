@@ -3,86 +3,149 @@
     {
       "title": "Go 1.27 Interactive Tour",
       "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 29,
-      "comments": 2,
+      "score": 183,
+      "comments": 59,
       "source": "victoriametrics.com"
+    },
+    {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "score": 131,
+      "comments": 24,
+      "source": "github.com"
     },
     {
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 192,
-      "comments": 91,
+      "score": 315,
+      "comments": 161,
       "source": "seed.bytedance.com"
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "score": 48,
+      "comments": 2,
+      "source": "oldvcr.blogspot.com"
     },
     {
       "title": "Di\u00e1taxis",
       "url": "https://diataxis.fr/",
-      "score": 208,
-      "comments": 30,
+      "score": 316,
+      "comments": 40,
       "source": "diataxis.fr"
+    },
+    {
+      "title": "Show HN: Tone Generator",
+      "url": "https://soundtonegenerator.com/",
+      "score": 4,
+      "comments": 0,
+      "source": "soundtonegenerator.com"
+    },
+    {
+      "title": "Elena, a library for building Progressive Web Components",
+      "url": "https://elenajs.com/",
+      "score": 26,
+      "comments": 1,
+      "source": "elenajs.com"
     },
     {
       "title": "ASRock BC-250: Building the Budget Steam Machine",
       "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-      "score": 9,
-      "comments": 0,
+      "score": 54,
+      "comments": 15,
       "source": "plug-world.com"
     },
     {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-      "score": 27,
+      "title": "CRM: An open-source, agentic-first CRM",
+      "url": "https://github.com/trycompai/crm",
+      "score": 5,
       "comments": 0,
-      "source": "rfc-editor.org"
+      "source": "github.com"
     },
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 171,
-      "comments": 136,
-      "source": "mitsloan.mit.edu"
-    },
-    {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 119,
-      "comments": 42,
-      "source": "leodemoura.github.io"
+      "title": "Australia's social media ban has failed",
+      "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
+      "score": 23,
+      "comments": 36,
+      "source": "reuters.com"
     },
     {
       "title": "Unraveling the mysteries of habit formation",
       "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-      "score": 38,
-      "comments": 11,
+      "score": 72,
+      "comments": 25,
       "source": "kyoto-u.ac.jp"
+    },
+    {
+      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+      "score": 43,
+      "comments": 18,
+      "source": "science.org"
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "score": 143,
+      "comments": 55,
+      "source": "leodemoura.github.io"
+    },
+    {
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "score": 55,
+      "comments": 12,
+      "source": "rfc-editor.org"
+    },
+    {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "score": 113,
+      "comments": 21,
+      "source": "wafer.ai"
+    },
+    {
+      "title": "When random.bytes() runs but doesn't work",
+      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "score": 32,
+      "comments": 12,
+      "source": "insider.btcpp.dev"
+    },
+    {
+      "title": "A big win for Android interoperability",
+      "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+      "score": 27,
+      "comments": 3,
+      "source": "openhomefoundation.org"
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 291,
+      "comments": 258,
+      "source": "mitsloan.mit.edu"
     },
     {
       "title": "But can your calculator run Linux?",
       "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "score": 67,
-      "comments": 4,
+      "score": 92,
+      "comments": 9,
       "source": "raymii.org"
     },
     {
-      "title": "We accidentally built an LLVM compiler for Jax",
-      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
-      "score": 12,
-      "comments": 3,
-      "source": "iza.ac"
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "score": 26,
+      "comments": 4,
+      "source": "rodneybrooks.com"
     },
     {
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 194,
-      "comments": 87,
-      "source": "nostarch.com"
-    },
-    {
-      "title": "CISA Alert: Water Sector PLC Targeting",
-      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-      "score": 76,
-      "comments": 49,
-      "source": "censys.com"
+      "title": "Atom is better than RSS, in ways that matter",
+      "url": "https://chrismorgan.info/atom%3Erss",
+      "score": 60,
+      "comments": 26,
+      "source": "chrismorgan.info"
     },
     {
       "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
@@ -92,123 +155,60 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Kobuk the Destroyer \u2013 Tales from the Wild, Unseen World of Test Engineering",
-      "url": "https://wwnorton.com/books/9781324051299",
-      "score": 8,
-      "comments": 1,
-      "source": "wwnorton.com"
-    },
-    {
       "title": "How Google helped destroy adoption of RSS feeds (2023)",
       "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "score": 409,
-      "comments": 146,
+      "score": 512,
+      "comments": 177,
       "source": "openrss.org"
     },
     {
-      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-      "url": "https://zenodo.org/records/21753002",
+      "title": "The Cipher Behind QSYRUPWD: Reconstructing IBM i Password Hashes",
+      "url": "https://blog.silentsignal.eu/2026/07/28/the-cipher-behind-qsyrupwd-reconstructing-ibm-i-password-hashes/",
+      "score": 8,
+      "comments": 5,
+      "source": "blog.silentsignal.eu"
+    },
+    {
+      "title": "We accidentally built an LLVM compiler for Jax",
+      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
+      "score": 40,
+      "comments": 12,
+      "source": "iza.ac"
+    },
+    {
+      "title": "Nerd culture is murdering intellectuals",
+      "url": "https://www.theintrinsicperspective.com/p/nerd-culture-is-murdering-intellectuals",
       "score": 3,
       "comments": 0,
-      "source": "zenodo.org"
-    },
-    {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 255,
-      "comments": 170,
-      "source": "github.com"
-    },
-    {
-      "title": "NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 221,
-      "comments": 97,
-      "source": "blog.netbsd.org"
+      "source": "theintrinsicperspective.com"
     },
     {
       "title": "Nyctography: A substituton cypher by Lewis Carroll",
       "url": "https://en.wikipedia.org/wiki/Nyctography",
-      "score": 51,
-      "comments": 5,
+      "score": 74,
+      "comments": 11,
       "source": "en.wikipedia.org"
-    },
-    {
-      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-      "score": 4,
-      "comments": 1,
-      "source": "brethorsting.com"
-    },
-    {
-      "title": "Anime User Interfaces",
-      "url": "https://animeuserinterface.tumblr.com",
-      "score": 104,
-      "comments": 19,
-      "source": "animeuserinterface.tumblr.com"
-    },
-    {
-      "title": "Kenji/Serious Eats \u2013 30-Min Pressure Cooker Pho Ga",
-      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-      "score": 104,
-      "comments": 63,
-      "source": "seriouseats.com"
-    },
-    {
-      "title": "Glyphs 4 \u2013 the leading Mac font editor",
-      "url": "https://glyphsapp.com",
-      "score": 59,
-      "comments": 10,
-      "source": "glyphsapp.com"
     },
     {
       "title": "Explorative modeling: Train on the best of K guesses",
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 78,
-      "comments": 23,
+      "score": 99,
+      "comments": 25,
       "source": "alexiglad.github.io"
     },
     {
-      "title": "Linux on ESP32",
-      "url": "https://github.com/GrieferPig/esp32-s31-linux",
-      "score": 101,
-      "comments": 36,
-      "source": "github.com"
+      "title": "NetBSD 11.0",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 272,
+      "comments": 121,
+      "source": "blog.netbsd.org"
     },
     {
-      "title": "AI opens new era in cognitive studies of wild primates",
-      "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-      "score": 7,
-      "comments": 1,
-      "source": "news.emory.edu"
-    },
-    {
-      "title": "Show HN: Legionlinuxtui \u2013 Control Lenovo legion laptops in the terminal",
-      "url": "https://github.com/nooneknowspeter/legionlinuxtui",
-      "score": 8,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "Art Invented Humanity",
-      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "score": 6,
-      "comments": 0,
-      "source": "aeon.co"
-    },
-    {
-      "title": "A Uiua Type System (2025)",
-      "url": "https://www.uiua.org/blog/a-uiua-type-system",
-      "score": 4,
-      "comments": 1,
-      "source": "uiua.org"
-    },
-    {
-      "title": "Designing Icons",
-      "url": "https://m3.material.io/styles/icons/designing-icons",
-      "score": 13,
-      "comments": 5,
-      "source": "m3.material.io"
+      "title": "Kenji/Serious Eats \u2013 30-Min Pressure Cooker Pho Ga",
+      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+      "score": 139,
+      "comments": 79,
+      "source": "seriouseats.com"
     }
   ],
   "security": [
