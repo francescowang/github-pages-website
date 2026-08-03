@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
-      "score": 73,
-      "comments": 25,
-      "source": "github.com"
-    },
-    {
-      "title": "Developers are attached to tools because tools encode trust",
-      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-      "score": 41,
-      "comments": 10,
-      "source": "stackoverflow.blog"
-    },
-    {
-      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
-      "url": "https://github.com/graham33/nixos-dgx-spark",
-      "score": 36,
-      "comments": 8,
-      "source": "github.com"
-    },
-    {
-      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-      "score": 38,
-      "comments": 1,
-      "source": "blog.juni-mp4.com"
-    },
-    {
-      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-      "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-      "score": 12,
+      "title": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
+      "url": "https://github.com/johnsonjh/cpm386",
+      "score": 29,
       "comments": 6,
-      "source": "uphillsecurity.com"
+      "source": "github.com"
     },
     {
-      "title": "Twenty Years of RISC OS Open",
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "score": 115,
-      "comments": 20,
-      "source": "riscosopen.org"
-    },
-    {
-      "title": "How the words we teach English language learners changed",
-      "url": "https://pudding.cool/2026/07/essential-words/",
-      "score": 130,
-      "comments": 76,
-      "source": "pudding.cool"
-    },
-    {
-      "title": "F*: A general-purpose proof-oriented programming language",
-      "url": "https://fstar-lang.org/",
-      "score": 105,
-      "comments": 34,
-      "source": "fstar-lang.org"
-    },
-    {
-      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-      "url": "https://meshdiff.com/",
-      "score": 146,
-      "comments": 13,
-      "source": "meshdiff.com"
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "score": 46,
+      "comments": 22,
+      "source": "andreagrandi.it"
     },
     {
       "title": "Karpathy\u2019s Pelican",
       "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 165,
-      "comments": 139,
+      "score": 451,
+      "comments": 348,
       "source": "twitter.com"
     },
     {
-      "title": "Fasttracker II clone in C using SDL 2",
-      "url": "https://16-bits.org/ft2.php",
-      "score": 74,
-      "comments": 25,
-      "source": "16-bits.org"
+      "title": "Show HN: Isopolis \u2013 isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "score": 35,
+      "comments": 9,
+      "source": "sf.isopolis.city"
+    },
+    {
+      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+      "score": 12,
+      "comments": 3,
+      "source": "rfc-editor.org"
+    },
+    {
+      "title": "Show HN: ssh ssh.place",
+      "url": "https://ssh.place",
+      "score": 28,
+      "comments": 12,
+      "source": "ssh.place"
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "score": 62,
+      "comments": 6,
+      "source": "mattbeton.com"
+    },
+    {
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "score": 186,
+      "comments": 39,
+      "source": "github.com"
+    },
+    {
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "score": 139,
+      "comments": 39,
+      "source": "unattributed.cc"
+    },
+    {
+      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "score": 160,
+      "comments": 83,
+      "source": "stackoverflow.blog"
+    },
+    {
+      "title": "Read the Novels and Forget Everything Else",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+      "score": 60,
+      "comments": 28,
+      "source": "hedgehogreview.com"
+    },
+    {
+      "title": "The Computational Theory of Mind (2015)",
+      "url": "https://plato.stanford.edu/entries/computational-mind/",
+      "score": 33,
+      "comments": 10,
+      "source": "plato.stanford.edu"
+    },
+    {
+      "title": "Show HN: Make your Framework 12 sound like a creaky door",
+      "url": "https://github.com/ArcaEge/creakwork12",
+      "score": 56,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: Mu \u2013 Tools for Agents",
+      "url": "https://github.com/micro/mu",
+      "score": 34,
+      "comments": 9,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "score": 99,
+      "comments": 29,
+      "source": "github.com"
+    },
+    {
+      "title": "TinyNES Review \u2013 A Super Niche NES Console",
+      "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+      "score": 35,
+      "comments": 5,
+      "source": "blog.lon.tv"
+    },
+    {
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "url": "https://fstar-lang.org/",
+      "score": 159,
+      "comments": 68,
+      "source": "fstar-lang.org"
+    },
+    {
+      "title": "Twenty Years of RISC OS Open",
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "score": 152,
+      "comments": 29,
+      "source": "riscosopen.org"
+    },
+    {
+      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+      "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+      "score": 93,
+      "comments": 36,
+      "source": "nbcsandiego.com"
+    },
+    {
+      "title": "A tool for finding the causes of unstable Python tests",
+      "url": "https://github.com/mgaitan/pytest-leak-finder",
+      "score": 14,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es/",
+      "score": 110,
+      "comments": 51,
+      "source": "frogs.vaguespac.es"
     },
     {
       "title": "When transit passes were designed by hand (2022)",
       "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
-      "score": 51,
-      "comments": 16,
+      "score": 109,
+      "comments": 28,
       "source": "letterformarchive.org"
+    },
+    {
+      "title": "Playing with Georgia",
+      "url": "https://mighil.com/playing-with-georgia",
+      "score": 11,
+      "comments": 6,
+      "source": "mighil.com"
+    },
+    {
+      "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+      "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+      "score": 36,
+      "comments": 10,
+      "source": "dobrowolski.dev"
+    },
+    {
+      "title": "A Playable History of Sudoku",
+      "url": "https://doku.su/history-of-sudoku",
+      "score": 6,
+      "comments": 1,
+      "source": "doku.su"
+    },
+    {
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "score": 194,
+      "comments": 93,
+      "source": "ft.com"
+    },
+    {
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "score": 85,
+      "comments": 15,
+      "source": "blog.juni-mp4.com"
     },
     {
       "title": "Folding Paper Globes",
       "url": "https://foldingglobes.com/globes",
-      "score": 104,
-      "comments": 20,
+      "score": 151,
+      "comments": 30,
       "source": "foldingglobes.com"
     },
     {
-      "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "score": 143,
-      "comments": 19,
-      "source": "getbor.dev"
-    },
-    {
-      "title": "Turtle-inspired interactive Python project",
-      "url": "https://www.codembark.com/projects/fv20lz9map/spider-web-drawing",
-      "score": 8,
-      "comments": 0,
-      "source": "codembark.com"
-    },
-    {
-      "title": "Microsoft raises Xbox prices by up to 43%",
-      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-      "score": 10,
-      "comments": 0,
-      "source": "theverge.com"
-    },
-    {
-      "title": "Show HN: Fuse \u2013 statically typed functional programming language",
-      "url": "https://fuselang.org",
-      "score": 79,
-      "comments": 15,
-      "source": "fuselang.org"
-    },
-    {
-      "title": "Rust All Hands 2026 Retrospective",
-      "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
-      "score": 67,
-      "comments": 28,
-      "source": "blog.rust-lang.org"
-    },
-    {
-      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "score": 99,
-      "comments": 25,
-      "source": "publicdomainreview.org"
-    },
-    {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 328,
-      "comments": 160,
-      "source": "victoriametrics.com"
-    },
-    {
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "score": 285,
-      "comments": 94,
-      "source": "github.com"
-    },
-    {
-      "title": "Pushes to arch AUR are suspendended right now.",
-      "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-      "score": 43,
-      "comments": 18,
-      "source": "lists.archlinux.org"
-    },
-    {
-      "title": "Holocloth",
-      "url": "https://holocloth.vercel.app",
-      "score": 128,
-      "comments": 24,
-      "source": "holocloth.vercel.app"
-    },
-    {
-      "title": "Di\u00e1taxis",
-      "url": "https://diataxis.fr/",
-      "score": 484,
-      "comments": 56,
-      "source": "diataxis.fr"
-    },
-    {
-      "title": "Norway Salmon",
-      "url": "https://www.abc.net.au/news/2026-07-28/how-norway-s-salmon-industry-became-a-global-behemoth/106949872",
-      "score": 92,
-      "comments": 58,
-      "source": "abc.net.au"
-    },
-    {
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 97,
-      "comments": 13,
-      "source": "oldvcr.blogspot.com"
-    },
-    {
-      "title": "ESP32-C3 SuperMini antenna modification",
-      "url": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/",
-      "score": 63,
-      "comments": 11,
-      "source": "peterneufeld.wordpress.com"
-    },
-    {
-      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
-      "url": "https://github.com/syncular/syncular",
-      "score": 67,
-      "comments": 23,
-      "source": "github.com"
-    },
-    {
-      "title": "A Rant About \u201cTechnology\u201d (2005)",
-      "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+      "title": "Fasttracker II clone in C using SDL 2",
+      "url": "https://16-bits.org/ft2.php",
       "score": 117,
-      "comments": 66,
-      "source": "ursulakleguin.com"
+      "comments": 46,
+      "source": "16-bits.org"
+    },
+    {
+      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+      "url": "https://meshdiff.com/",
+      "score": 182,
+      "comments": 19,
+      "source": "meshdiff.com"
     }
   ],
   "security": [
