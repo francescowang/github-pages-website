@@ -1,200 +1,207 @@
 {
   "tech": [
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 871,
-      "comments": 360,
-      "source": "seangoedecke.com"
-    },
-    {
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 155,
-      "comments": 63,
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "score": 163,
+      "comments": 41,
       "source": "github.com"
     },
     {
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 136,
-      "comments": 102,
-      "source": "science.org"
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "score": 159,
+      "comments": 39,
+      "source": "short-stories.co"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 525,
-      "comments": 807,
-      "source": "openai.com"
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "score": 174,
+      "comments": 169,
+      "source": "birchtree.me"
     },
     {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 590,
-      "comments": 199,
-      "source": "blog.exe.dev"
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "score": 1124,
+      "comments": 472,
+      "source": "seangoedecke.com"
     },
     {
-      "title": "NHS apologises and admits Palantir have access to identifiable patient data",
-      "url": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
-      "score": 9,
-      "comments": 0,
-      "source": "publictechnology.net"
+      "title": "Buckminster Fuller: everything I know",
+      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+      "score": 41,
+      "comments": 15,
+      "source": "bfi.org"
     },
     {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 142,
-      "comments": 54,
-      "source": "users.wpi.edu"
+      "title": "Harness Engineering for Self-Improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "score": 145,
+      "comments": 27,
+      "source": "lilianweng.github.io"
     },
     {
-      "title": "Beauty in my backyard",
-      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-      "score": 15,
-      "comments": 1,
-      "source": "worksinprogress.co"
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "score": 37,
+      "comments": 6,
+      "source": "github.com"
     },
     {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "score": 44,
+      "comments": 8,
+      "source": "aikido.dev"
+    },
+    {
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "score": 413,
+      "comments": 243,
+      "source": "nelson.cloud"
+    },
+    {
+      "title": "Roame (YC S23) Is Hiring Lead Engineer",
+      "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "That time when I failed the Microsoft interview",
-      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-      "score": 42,
-      "comments": 73,
-      "source": "ochagavia.nl"
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "score": 245,
+      "comments": 111,
+      "source": "github.com"
     },
     {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "score": 209,
-      "comments": 50,
-      "source": "blog.cloudflare.com"
+      "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
+      "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
+      "score": 26,
+      "comments": 5,
+      "source": "resobscura.substack.com"
     },
     {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "score": 472,
-      "comments": 382,
-      "source": "ankursethi.com"
+      "title": "Why Large Language Models Fail at Tabular Prediction",
+      "url": "https://arxiv.org/abs/2608.02412",
+      "score": 27,
+      "comments": 4,
+      "source": "arxiv.org"
     },
     {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "score": 293,
-      "comments": 85,
-      "source": "blog.comfy.org"
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "score": 577,
+      "comments": 864,
+      "source": "openai.com"
     },
     {
-      "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
-      "score": 70,
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "score": 661,
+      "comments": 214,
+      "source": "blog.exe.dev"
+    },
+    {
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "score": 202,
+      "comments": 154,
+      "source": "science.org"
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "score": 237,
+      "comments": 80,
+      "source": "users.wpi.edu"
+    },
+    {
+      "title": "FFmpeg 9.0",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "score": 316,
       "comments": 55,
-      "source": "hoplite.sh"
+      "source": "github.com"
+    },
+    {
+      "title": "Nobel Disease",
+      "url": "https://en.wikipedia.org/wiki/Nobel_disease",
+      "score": 49,
+      "comments": 39,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Mosh in a Lift (2012)",
+      "url": "https://mosh.org/elevator.txt",
+      "score": 12,
+      "comments": 1,
+      "source": "mosh.org"
+    },
+    {
+      "title": "Homebench \u2013 Benchmark local LLMs for speed, memory, and quality",
+      "url": "https://github.com/david-g-3654/homebench",
+      "score": 16,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "Twenty Years of Pandoc",
       "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "score": 231,
-      "comments": 29,
+      "score": 333,
+      "comments": 40,
       "source": "pandoc.org"
     },
     {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "score": 157,
-      "comments": 40,
-      "source": "changelog.complete.org"
+      "title": "That time when I failed the Microsoft interview",
+      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+      "score": 98,
+      "comments": 189,
+      "source": "ochagavia.nl"
     },
     {
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "score": 307,
-      "comments": 64,
-      "source": "clickhouse.com"
+      "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
+      "url": "https://learning-rust.github.io",
+      "score": 15,
+      "comments": 1,
+      "source": "learning-rust.github.io"
     },
     {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "score": 101,
-      "comments": 52,
-      "source": "virtuallyfun.com"
+      "title": "Archaeologists Find Ancient Glyphs in the Amazon",
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+      "score": 19,
+      "comments": 8,
+      "source": "nytimes.com"
     },
     {
-      "title": "Why did we wait so long for the bicycle? (2019)",
-      "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-      "score": 38,
-      "comments": 33,
-      "source": "blog.rootsofprogress.org"
-    },
-    {
-      "title": "200 Milliseconds",
-      "url": "https://200ms.thenodebook.com",
-      "score": 269,
-      "comments": 77,
-      "source": "200ms.thenodebook.com"
-    },
-    {
-      "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
-      "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
+      "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
+      "url": "https://ekxide.io/blog/byte-wise-atomic-wrapper-to-prevent-ub/",
       "score": 8,
-      "comments": 0,
-      "source": "chipsandcheese.com"
-    },
-    {
-      "title": "Replacing the Kobo Libra H2O Battery",
-      "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
-      "score": 71,
-      "comments": 24,
-      "source": "ei3lh.eu"
-    },
-    {
-      "title": "Harness Engineering for Self-Improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "score": 4,
-      "comments": 0,
-      "source": "lilianweng.github.io"
-    },
-    {
-      "title": "How Hollywood stopped making movies in Hollywood",
-      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
-      "score": 193,
-      "comments": 239,
-      "source": "statsignificant.com"
-    },
-    {
-      "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
-      "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
-      "score": 12,
       "comments": 4,
-      "source": "scancad.net"
+      "source": "ekxide.io"
     },
     {
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "score": 345,
-      "comments": 145,
-      "source": "github.com"
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "score": 240,
+      "comments": 60,
+      "source": "blog.cloudflare.com"
     },
     {
-      "title": "Decades-old fish sauce at abandoned factory in Canada finally being removed",
-      "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
-      "score": 242,
-      "comments": 247,
-      "source": "defector.com"
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "score": 315,
+      "comments": 89,
+      "source": "blog.comfy.org"
     },
     {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
-      "score": 156,
-      "comments": 153,
-      "source": "openai.com"
+      "title": "Beauty in my backyard",
+      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
+      "score": 37,
+      "comments": 25,
+      "source": "worksinprogress.co"
     }
   ],
   "security": [
