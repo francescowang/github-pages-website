@@ -1,74 +1,165 @@
 {
   "tech": [
     {
-      "title": "Why some people mow a lawn better than others",
-      "url": "https://pudding.cool/2026/06/mow/",
-      "score": 54,
-      "comments": 38,
-      "source": "pudding.cool"
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "score": 133,
+      "comments": 5,
+      "source": "blog.hartwork.org"
     },
     {
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 295,
-      "comments": 68,
-      "source": "toneyalexander.github.io"
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "score": 66,
+      "comments": 30,
+      "source": "queue.acm.org"
     },
     {
-      "title": "Hop.earth \u2013 OpenStreetMap based car racing game",
-      "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-      "score": 32,
-      "comments": 21,
-      "source": "hop.earth"
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 112,
+      "comments": 32,
+      "source": "earendil.com"
     },
     {
-      "title": "The Warp Agent CLI",
-      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-      "score": 52,
-      "comments": 20,
-      "source": "warp.dev"
-    },
-    {
-      "title": "Waymo \u2013 Dallas Open to All",
-      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 16,
-      "comments": 3,
-      "source": "waymo.com"
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 179,
+      "comments": 88,
+      "source": "twitter.com"
     },
     {
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 48,
-      "comments": 7,
+      "score": 312,
+      "comments": 74,
       "source": "mistral.ai"
     },
     {
-      "title": "Launch HN: EdotEnv (YC S26) \u2013 Quant Trading RL Envs to Teach LLMs Research",
-      "url": "https://edotenv.com/",
-      "score": 11,
-      "comments": 3,
-      "source": "edotenv.com"
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "score": 38,
+      "comments": 5,
+      "source": "mysk.blog"
     },
     {
-      "title": "Investors in Situational Awareness deserved to lose their shirts",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
-      "score": 7,
-      "comments": 3,
-      "source": "economist.com"
+      "title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "score": 53,
+      "comments": 5,
+      "source": "techascent.com"
     },
     {
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "score": 318,
-      "comments": 73,
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "score": 38,
+      "comments": 32,
+      "source": "unit42.paloaltonetworks.com"
+    },
+    {
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "score": 468,
+      "comments": 88,
+      "source": "toneyalexander.github.io"
+    },
+    {
+      "title": "Bugtraq Is Back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "score": 17,
+      "comments": 2,
+      "source": "lists.securityfocus.com"
+    },
+    {
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "score": 946,
+      "comments": 53,
+      "source": "writings.stephenwolfram.com"
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "score": 145,
+      "comments": 100,
+      "source": "africanews.com"
+    },
+    {
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "score": 61,
+      "comments": 52,
+      "source": "seg6.space"
+    },
+    {
+      "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+      "score": 25,
+      "comments": 11,
+      "source": "808bits.com"
+    },
+    {
+      "title": "Show HN: Maple-Preview \u2013 ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "score": 50,
+      "comments": 14,
+      "source": "deepgrove.ai"
+    },
+    {
+      "title": "Show HN: SIMD Viterbi Decoder in Rust",
+      "url": "https://github.com/brian-armstrong/fec",
+      "score": 24,
+      "comments": 1,
       "source": "github.com"
     },
     {
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2602.16763",
-      "score": 39,
-      "comments": 52,
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "url": "https://arxiv.org/abs/2603.04221",
+      "score": 18,
+      "comments": 11,
       "source": "arxiv.org"
+    },
+    {
+      "title": "Waymo in Dallas",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "score": 250,
+      "comments": 376,
+      "source": "waymo.com"
+    },
+    {
+      "title": "Video2NAND \u2013 Abusing video codecs for great computational power",
+      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+      "score": 31,
+      "comments": 8,
+      "source": "sharedobject.blog"
+    },
+    {
+      "title": "Flowise Is Shutting Down",
+      "url": "https://flowiseai.com/sunset",
+      "score": 13,
+      "comments": 4,
+      "source": "flowiseai.com"
+    },
+    {
+      "title": "Godox Transparent Viewfinder Camera C100",
+      "url": "https://www.godox.com/product-e/C100.html",
+      "score": 8,
+      "comments": 2,
+      "source": "godox.com"
+    },
+    {
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "score": 232,
+      "comments": 124,
+      "source": "aikido.dev"
+    },
+    {
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "score": 190,
+      "comments": 89,
+      "source": "sec.gov"
     },
     {
       "title": "Truemetrics (YC S23) Is Hiring in Berlin \u2013 GTM Lead",
@@ -78,137 +169,46 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Vlt 1.0 and Hosted Package Registries",
-      "url": "https://www.vlt.io/blog/1-0",
-      "score": 33,
-      "comments": 4,
-      "source": "vlt.io"
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "score": 232,
+      "comments": 63,
+      "source": "troyhunt.com"
     },
     {
-      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-      "score": 174,
-      "comments": 249,
-      "source": "cnbc.com"
-    },
-    {
-      "title": "Web security is too hard",
-      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-      "score": 90,
-      "comments": 27,
-      "source": "textslashplain.com"
-    },
-    {
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "score": 193,
-      "comments": 98,
-      "source": "aikido.dev"
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "score": 213,
-      "comments": 155,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Most countries provide between 20 and 40 paid days off",
-      "url": "https://www.not-ship.com/not-ship-summer-vacation/",
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "score": 50,
-      "comments": 38,
-      "source": "not-ship.com"
+      "comments": 17,
+      "source": "github.blog"
     },
     {
-      "title": "The Red Strings Club",
-      "url": "https://www.vegard.net/the-red-strings-club-review/",
-      "score": 5,
-      "comments": 0,
-      "source": "vegard.net"
-    },
-    {
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "score": 457,
-      "comments": 516,
-      "source": "birchtree.me"
-    },
-    {
-      "title": "Blackmail Fail (2013)",
-      "url": "https://gwern.net/blackmail",
-      "score": 8,
-      "comments": 0,
-      "source": "gwern.net"
-    },
-    {
-      "title": "Perspec 1.0",
-      "url": "https://adriansieber.com/announcing-perspec-1-0/",
-      "score": 25,
-      "comments": 5,
-      "source": "adriansieber.com"
-    },
-    {
-      "title": "Dates That Don't Exist (2015)",
-      "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
-      "score": 87,
-      "comments": 58,
-      "source": "blog.yossarian.net"
-    },
-    {
-      "title": "Everything I Know (1975)",
-      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-      "score": 107,
-      "comments": 31,
-      "source": "bfi.org"
-    },
-    {
-      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
-      "score": 161,
-      "comments": 52,
-      "source": "this.weekinsecurity.com"
-    },
-    {
-      "title": "Harness engineering for self-improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "score": 255,
-      "comments": 55,
-      "source": "lilianweng.github.io"
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "score": 81,
+      "comments": 84,
+      "source": "arxiv.org"
     },
     {
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 298,
-      "comments": 335,
+      "score": 352,
+      "comments": 382,
       "source": "users.wpi.edu"
     },
     {
-      "title": "Stephen Wolfram's Wife Has Died",
-      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 23,
-      "comments": 0,
-      "source": "writings.stephenwolfram.com"
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "score": 41,
+      "comments": 7,
+      "source": "openai.com"
     },
     {
-      "title": "The Pedagogy Behind the Studio",
-      "url": "https://gail.wharton.upenn.edu/gen-ai-studio/the-generative-ai-studio-pedagogy/",
-      "score": 6,
-      "comments": 1,
-      "source": "gail.wharton.upenn.edu"
-    },
-    {
-      "title": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
-      "url": "https://github.com/MariaDB/server/pull/4262",
-      "score": 19,
-      "comments": 11,
-      "source": "github.com"
-    },
-    {
-      "title": "Where .env Went Wrong",
-      "url": "https://secretspec.dev/blog/where-env-went-wrong/",
-      "score": 76,
-      "comments": 56,
-      "source": "secretspec.dev"
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "score": 593,
+      "comments": 633,
+      "source": "birchtree.me"
     }
   ],
   "security": [
