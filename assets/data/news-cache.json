@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "score": 118,
+      "comments": 71,
+      "source": "openreview.net"
+    },
+    {
+      "title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "score": 42,
+      "comments": 21,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "score": 208,
+      "comments": 94,
+      "source": "wired.com"
+    },
+    {
       "title": "Stateless MCP has recaptured my interest",
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "score": 159,
-      "comments": 80,
+      "score": 311,
+      "comments": 167,
       "source": "simonwillison.net"
     },
     {
-      "title": "\"Gravity is worth asking about.\"",
-      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-      "score": 36,
-      "comments": 20,
-      "source": "unsung.aresluna.org"
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "score": 64,
+      "comments": 22,
+      "source": "vincentschmalbach.com"
     },
     {
-      "title": "The Golden Age of British Ice Cream",
-      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
-      "score": 52,
-      "comments": 37,
-      "source": "vittlesmagazine.com"
+      "title": "Scaling NumPy on Free-Threaded Python",
+      "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+      "score": 48,
+      "comments": 11,
+      "source": "labs.quansight.org"
+    },
+    {
+      "title": "\u201cGravity is worth asking about\u201d",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "score": 158,
+      "comments": 96,
+      "source": "unsung.aresluna.org"
     },
     {
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 324,
-      "comments": 125,
+      "score": 457,
+      "comments": 231,
       "source": "earendil.com"
     },
     {
-      "title": "The Pneumatics of Hero of Alexandria",
-      "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
-      "score": 18,
-      "comments": 1,
-      "source": "thehopkinthomasproject.com"
+      "title": "Bubble Memory",
+      "url": "https://en.wikipedia.org/wiki/Bubble_memory",
+      "score": 41,
+      "comments": 14,
+      "source": "en.wikipedia.org"
     },
     {
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "url": "https://arxiv.org/abs/2607.29377",
-      "score": 27,
-      "comments": 7,
-      "source": "arxiv.org"
+      "title": "Birduino: A card-triggered audio player for [learning] the birds",
+      "url": "https://hannahilea.com/blog/birduino/",
+      "score": 26,
+      "comments": 5,
+      "source": "hannahilea.com"
     },
     {
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "score": 394,
-      "comments": 97,
+      "score": 456,
+      "comments": 118,
       "source": "mistral.ai"
     },
     {
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "score": 516,
-      "comments": 92,
+      "score": 573,
+      "comments": 98,
       "source": "toneyalexander.github.io"
+    },
+    {
+      "title": "Helsinki Hacker News Meetup",
+      "url": "https://calpaterson.com/helsinki-hn.html",
+      "score": 157,
+      "comments": 105,
+      "source": "calpaterson.com"
+    },
+    {
+      "title": "BSD Make extravaganza: Mandelbrot Set In bmake",
+      "url": "https://github.com/b-aaz/bmake-extravaganza/tree/master",
+      "score": 7,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Could psilocybin be the key to treating anorexia?",
+      "url": "https://www.scientificamerican.com/article/psilocybin-could-kick-start-anorexia-recovery-early-results-suggest/",
+      "score": 29,
+      "comments": 27,
+      "source": "scientificamerican.com"
     },
     {
       "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
       "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "score": 97,
-      "comments": 14,
+      "score": 144,
+      "comments": 22,
       "source": "mysk.blog"
+    },
+    {
+      "title": "The Pneumatics of Hero of Alexandria (1851)",
+      "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+      "score": 45,
+      "comments": 8,
+      "source": "thehopkinthomasproject.com"
+    },
+    {
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "score": 74,
+      "comments": 10,
+      "source": "arxiv.org"
     },
     {
       "title": "Show HN: Maple-Preview \u2013 Ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
-      "score": 106,
-      "comments": 30,
+      "score": 157,
+      "comments": 47,
       "source": "deepgrove.ai"
     },
     {
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "score": 1304,
-      "comments": 74,
+      "score": 1510,
+      "comments": 88,
       "source": "writings.stephenwolfram.com"
     },
     {
       "title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
       "url": "https://techascent.com/blog/just-ducking-around.html",
-      "score": 94,
-      "comments": 15,
+      "score": 136,
+      "comments": 19,
       "source": "techascent.com"
     },
     {
-      "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
-      "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-      "score": 30,
-      "comments": 7,
-      "source": "rioterm.com"
-    },
-    {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "score": 197,
-      "comments": 159,
-      "source": "queue.acm.org"
-    },
-    {
-      "title": "Rust-lang/rust is adopting an LLM policy",
-      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-      "score": 53,
-      "comments": 32,
-      "source": "blog.rust-lang.org"
-    },
-    {
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge \u2013 Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "score": 221,
-      "comments": 168,
-      "source": "africanews.com"
-    },
-    {
-      "title": "Bugtraq is back",
-      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-      "score": 39,
-      "comments": 9,
-      "source": "lists.securityfocus.com"
-    },
-    {
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "score": 259,
-      "comments": 44,
-      "source": "blog.hartwork.org"
-    },
-    {
-      "title": "Colorimeter 3nh CR4501 RAL Hack",
-      "url": "https://github.com/hallko1234/cr4501-ral-hack",
-      "score": 4,
+      "title": "Piece of SpaceX rocket believed to have crashed into the moon",
+      "url": "https://www.reuters.com/science/piece-spacex-rocket-will-crash-into-moon-wednesday-2026-08-04/",
+      "score": 6,
       "comments": 0,
+      "source": "reuters.com"
+    },
+    {
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+      "score": 17,
+      "comments": 0,
+      "source": "bbc.co.uk"
+    },
+    {
+      "title": "Universities would prefer no AI",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
+      "score": 6,
+      "comments": 1,
+      "source": "hollisrobbinsanecdotal.substack.com"
+    },
+    {
+      "title": "An SLM trained on $8 ESP32-S3",
+      "url": "https://github.com/Carloscodix/qapla",
+      "score": 55,
+      "comments": 17,
       "source": "github.com"
     },
     {
       "title": "We finally learned to center a div, then browsers added sidebars",
       "url": "https://seg6.space/posts/center-div/",
-      "score": 121,
-      "comments": 102,
+      "score": 166,
+      "comments": 129,
       "source": "seg6.space"
     },
     {
-      "title": "Video2NAND \u2013 Abusing video codecs for great computational power",
-      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-      "score": 60,
-      "comments": 11,
-      "source": "sharedobject.blog"
+      "title": "Three Six Mafia \u2013 Data about \"6/6/6 dating\" (2024)",
+      "url": "https://divingintheshallowend.com/three-six-mafia/",
+      "score": 99,
+      "comments": 98,
+      "source": "divingintheshallowend.com"
     },
     {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "score": 377,
-      "comments": 399,
-      "source": "users.wpi.edu"
+      "title": "Bugtraq is back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "score": 68,
+      "comments": 23,
+      "source": "lists.securityfocus.com"
     },
     {
-      "title": "Waymo in Dallas",
-      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "score": 288,
-      "comments": 497,
-      "source": "waymo.com"
-    },
-    {
-      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-      "url": "https://arxiv.org/abs/2603.04221",
-      "score": 81,
-      "comments": 63,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "An SLM trained on $8 ESP32-S3",
-      "url": "https://github.com/Carloscodix/qapla",
-      "score": 18,
-      "comments": 6,
-      "source": "github.com"
-    },
-    {
-      "title": "Flowise is shutting down",
-      "url": "https://flowiseai.com/sunset",
-      "score": 46,
+      "title": "Why is it all in the kernel?",
+      "url": "https://lawrencecpaulson.github.io//2026/07/30/Collatz.html",
+      "score": 70,
       "comments": 29,
-      "source": "flowiseai.com"
+      "source": "lawrencecpaulson.github.io"
     },
     {
-      "title": "Show HN: SIMD Viterbi Decoder in Rust",
-      "url": "https://github.com/brian-armstrong/fec",
-      "score": 43,
-      "comments": 3,
-      "source": "github.com"
-    },
-    {
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "score": 272,
-      "comments": 174,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Godox Transparent Viewfinder Camera C100",
-      "url": "https://www.godox.com/product-e/C100.html",
-      "score": 36,
-      "comments": 19,
-      "source": "godox.com"
-    },
-    {
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "score": 639,
-      "comments": 668,
-      "source": "birchtree.me"
+      "title": "Iowa-led states ask OpenAI to keep their bots on a leash",
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "score": 49,
+      "comments": 80,
+      "source": "iowaattorneygeneral.gov"
     }
   ],
   "security": [
