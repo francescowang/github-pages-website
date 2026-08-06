@@ -3,215 +3,221 @@
     {
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 321,
-      "comments": 188,
+      "score": 611,
+      "comments": 385,
       "source": "discoveryloop.com"
     },
     {
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "score": 49,
-      "comments": 4,
+      "score": 315,
+      "comments": 156,
       "source": "zed.dev"
     },
     {
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 41,
-      "comments": 22,
-      "source": "blog.fogus.me"
-    },
-    {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 44,
-      "comments": 8,
-      "source": "neon.com"
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "score": 154,
+      "comments": 67,
+      "source": "randsinrepose.com"
     },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 164,
-      "comments": 346,
+      "score": 489,
+      "comments": 598,
       "source": "blog.google"
+    },
+    {
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "score": 182,
+      "comments": 107,
+      "source": "research.meta.ai"
+    },
+    {
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "score": 5,
+      "comments": 0,
+      "source": "bfswa.blog"
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "score": 227,
+      "comments": 50,
+      "source": "neon.com"
+    },
+    {
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "score": 106,
+      "comments": 19,
+      "source": "primeintellect.ai"
     },
     {
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "score": 52,
-      "comments": 11,
+      "score": 174,
+      "comments": 68,
       "source": "promptarmor.com"
     },
     {
-      "title": "GNU Hurd News 2026-Q2",
-      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "score": 31,
-      "comments": 9,
-      "source": "gnu.org"
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "score": 135,
+      "comments": 143,
+      "source": "blog.fogus.me"
     },
     {
-      "title": "Phishers are hijacking legitimate cloud infrastructure",
-      "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
-      "score": 22,
-      "comments": 5,
-      "source": "securelist.com"
+      "title": "NVIDIA\u2019s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "score": 87,
+      "comments": 13,
+      "source": "chipsandcheese.com"
     },
     {
-      "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
-      "url": "https://www.hyperprobe.co",
-      "score": 25,
-      "comments": 17,
-      "source": "hyperprobe.co"
+      "title": "I'll be stepping back from leading product for X",
+      "url": "https://twitter.com/nikitabier/status/2085105586966827343/",
+      "score": 65,
+      "comments": 93,
+      "source": "twitter.com"
     },
     {
-      "title": "Western Sahara",
-      "url": "https://en.wikipedia.org/wiki/Western_Sahara",
-      "score": 77,
-      "comments": 40,
-      "source": "en.wikipedia.org"
+      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+      "url": "https://www.greyblake.com/blog/branchless-rust/",
+      "score": 19,
+      "comments": 0,
+      "source": "greyblake.com"
     },
     {
-      "title": "The Valley of Webhooks",
-      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-      "score": 71,
-      "comments": 31,
-      "source": "weli.dev"
+      "title": "Something is changing in the unit economics of software",
+      "url": "https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/",
+      "score": 30,
+      "comments": 21,
+      "source": "nicolo.xyz"
     },
     {
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 355,
-      "comments": 197,
+      "score": 475,
+      "comments": 240,
       "source": "blog.cloudflare.com"
+    },
+    {
+      "title": "GNU Hurd News 2026-Q2",
+      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+      "score": 129,
+      "comments": 92,
+      "source": "gnu.org"
+    },
+    {
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/",
+      "score": 214,
+      "comments": 177,
+      "source": "runarcn.no"
     },
     {
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://github.com/denoland/celld",
-      "score": 33,
-      "comments": 1,
+      "score": 149,
+      "comments": 26,
       "source": "github.com"
     },
     {
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "score": 72,
-      "comments": 24,
-      "source": "science.org"
-    },
-    {
-      "title": "The Entropy of a Markov Chain",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "score": 70,
+      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+      "url": "https://github.com/morishuz/delaunay32",
+      "score": 33,
       "comments": 2,
-      "source": "chillphysicsenjoyer.substack.com"
-    },
-    {
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "score": 126,
-      "comments": 42,
-      "source": "campion.edu.au"
-    },
-    {
-      "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
-      "score": 34,
-      "comments": 6,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
-      "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
-      "score": 58,
-      "comments": 6,
-      "source": "rubinobservatory.org"
-    },
-    {
-      "title": "Building an Advanced Agentic Harness",
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "score": 71,
-      "comments": 37,
-      "source": "data4sci.com"
-    },
-    {
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "score": 14,
-      "comments": 3,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Painting with Gaussians",
-      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-      "score": 65,
-      "comments": 10,
-      "source": "yogthos.net"
-    },
-    {
-      "title": "Faster Than Ninja",
-      "url": "https://build2.org/blog/faster-than-ninja.xhtml",
-      "score": 68,
-      "comments": 26,
-      "source": "build2.org"
+      "source": "github.com"
     },
     {
       "title": "Position: LLMs Can't Jump",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 204,
-      "comments": 139,
+      "score": 247,
+      "comments": 168,
       "source": "openreview.net"
     },
     {
-      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-      "score": 397,
-      "comments": 196,
-      "source": "wired.com"
-    },
-    {
-      "title": "Oracle cut its Always Free ARM limits to 2 OCPU / 12GB, enforced Aug 18",
-      "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-      "score": 139,
-      "comments": 94,
-      "source": "cnelecar.com"
-    },
-    {
-      "title": "The Law of Jante (2015)",
-      "url": "https://www.theparisreview.org/blog/2015/02/11/the-law-of-jante/",
-      "score": 20,
+      "title": "The Origins of Vintage Comics Part 1",
+      "url": "https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1",
+      "score": 11,
       "comments": 1,
-      "source": "theparisreview.org"
+      "source": "truegrittexturesupply.com"
     },
     {
-      "title": "Proxmox VE now available for ARM64",
-      "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
-      "score": 14,
-      "comments": 2,
-      "source": "forum.proxmox.com"
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "score": 63,
+      "comments": 30,
+      "source": "cacm.acm.org"
     },
     {
-      "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
-      "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
-      "score": 36,
-      "comments": 7,
-      "source": "righto.com"
+      "title": "Pushing the limits of RISC-V emulation",
+      "url": "https://shuklaayu.sh/blog/riscv-recompiler",
+      "score": 23,
+      "comments": 9,
+      "source": "shuklaayu.sh"
     },
     {
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "score": 209,
-      "comments": 88,
-      "source": "vincentschmalbach.com"
+      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "score": 111,
+      "comments": 49,
+      "source": "science.org"
     },
     {
-      "title": "See the Sun like never before with most detailed images yet",
-      "url": "https://www.bbc.com/news/articles/c36d4376nd2o",
-      "score": 8,
-      "comments": 0,
-      "source": "bbc.com"
+      "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
+      "url": "https://www.hyperprobe.co",
+      "score": 45,
+      "comments": 31,
+      "source": "hyperprobe.co"
+    },
+    {
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "score": 77,
+      "comments": 54,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "score": 107,
+      "comments": 9,
+      "source": "chillphysicsenjoyer.substack.com"
+    },
+    {
+      "title": "The Valley of Webhooks",
+      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "score": 155,
+      "comments": 74,
+      "source": "weli.dev"
+    },
+    {
+      "title": "Online Friends Are Real Friends",
+      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+      "score": 68,
+      "comments": 49,
+      "source": "toska.bearblog.dev"
+    },
+    {
+      "title": "What happens if you put work into the second dimension?",
+      "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+      "score": 51,
+      "comments": 43,
+      "source": "norbertkozsir.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows",
+      "url": "https://aws.amazon.com/blogs/security/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows/",
+      "date": "2026-08-05 21:00:11",
+      "author": "Chet Kapoor"
+    },
     {
       "title": "From 2 weeks to 2 minutes: Amazon Cognito launches Provisioned limits for self-service rate limit management",
       "url": "https://aws.amazon.com/blogs/security/from-2-weeks-to-2-minutes-amazon-cognito-launches-provisioned-limits-for-self-service-rate-limit-management/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/2026-phase-1a-irap-report-is-now-available-on-aws-artifact-for-australian-customers/",
       "date": "2026-07-28 17:16:34",
       "author": "Patrick Chang"
-    },
-    {
-      "title": "AWS Shield Advanced is embracing the AWS WAF Anti-DDoS managed rule group: What changes and how to prepare",
-      "url": "https://aws.amazon.com/blogs/security/aws-shield-advanced-is-embracing-the-aws-waf-anti-ddos-managed-rule-group-what-changes-and-how-to-prepare/",
-      "date": "2026-07-27 19:01:23",
-      "author": "Eitav Arditti"
     }
   ]
 }
