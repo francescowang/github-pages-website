@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Crime Pays but Botany Doesn't",
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "score": 134,
-      "comments": 50,
-      "source": "crimepaysbutbotanydoesnt.com"
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "score": 179,
+      "comments": 31,
+      "source": "mayerowitz.io"
     },
     {
-      "title": "What I love about Django",
-      "url": "https://buttondown.com/blog/what-i-love-about-django",
-      "score": 23,
-      "comments": 1,
-      "source": "buttondown.com"
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "score": 40,
+      "comments": 17,
+      "source": "scalex.dev"
     },
     {
       "title": "How to Make a Nintendo 64 Game in 2026",
       "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "score": 28,
-      "comments": 1,
+      "score": 259,
+      "comments": 76,
       "source": "phoboslab.org"
+    },
+    {
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "score": 374,
+      "comments": 121,
+      "source": "crimepaysbutbotanydoesnt.com"
+    },
+    {
+      "title": "Pareto Front",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front",
+      "score": 91,
+      "comments": 41,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 736,
-      "comments": 457,
+      "score": 808,
+      "comments": 503,
       "source": "discoveryloop.com"
-    },
-    {
-      "title": "Let's all meet up in the Y2K",
-      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-      "score": 18,
-      "comments": 3,
-      "source": "blog.gingerbeardman.com"
     },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 642,
-      "comments": 693,
+      "score": 729,
+      "comments": 782,
       "source": "blog.google"
+    },
+    {
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+      "score": 139,
+      "comments": 82,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: demake \u2013 one source project compiles to any retro game console ROM",
+      "url": "https://geosona.com/demake/",
+      "score": 12,
+      "comments": 1,
+      "source": "geosona.com"
     },
     {
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "score": 409,
-      "comments": 215,
+      "score": 470,
+      "comments": 264,
       "source": "zed.dev"
     },
     {
       "title": "The title cards in Blade Runner are amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 249,
-      "comments": 114,
+      "score": 329,
+      "comments": 162,
       "source": "randsinrepose.com"
+    },
+    {
+      "title": "Telephones Caught in Between",
+      "url": "https://computer.rip/2026-08-02-telephone-leasing.html",
+      "score": 3,
+      "comments": 0,
+      "source": "computer.rip"
     },
     {
       "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
       "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "score": 161,
-      "comments": 38,
+      "score": 230,
+      "comments": 71,
       "source": "greyblake.com"
-    },
-    {
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "score": 226,
-      "comments": 262,
-      "source": "costar.com"
-    },
-    {
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 249,
-      "comments": 145,
-      "source": "research.meta.ai"
     },
     {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 306,
-      "comments": 76,
+      "score": 358,
+      "comments": 87,
       "source": "neon.com"
+    },
+    {
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "score": 279,
+      "comments": 180,
+      "source": "research.meta.ai"
     },
     {
       "title": "Born Against, or why hobby programming communities are against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 250,
-      "comments": 228,
+      "score": 316,
+      "comments": 351,
       "source": "blog.fogus.me"
     },
     {
-      "title": "Morioka Shoten",
-      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
-      "score": 7,
-      "comments": 1,
-      "source": "takram.com"
+      "title": "Rice Deserves Better Than a Kochbeutel",
+      "url": "https://blog.hofstede.it/rice-deserves-better-than-a-kochbeutel/",
+      "score": 13,
+      "comments": 2,
+      "source": "blog.hofstede.it"
+    },
+    {
+      "title": "Join Me in Jamverse",
+      "url": "https://contraptions.venkateshrao.com/p/join-me-in-jamverse",
+      "score": 8,
+      "comments": 0,
+      "source": "contraptions.venkateshrao.com"
+    },
+    {
+      "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
+      "url": "https://nanochess.org/the_am29000_computer.html",
+      "score": 63,
+      "comments": 4,
+      "source": "nanochess.org"
     },
     {
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 548,
-      "comments": 263,
+      "score": 598,
+      "comments": 287,
       "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Prime Agent: A self-improving RLM agent",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "score": 176,
-      "comments": 33,
-      "source": "primeintellect.ai"
     },
     {
       "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
       "url": "https://quantego.org/",
-      "score": 21,
-      "comments": 7,
+      "score": 47,
+      "comments": 24,
       "source": "quantego.org"
     },
     {
-      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "score": 16,
-      "comments": 7,
-      "source": "github.com"
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "score": 201,
+      "comments": 46,
+      "source": "primeintellect.ai"
     },
     {
-      "title": "Virginia Orders Data Centers to Pay for Dedicated New Electric Infrastructure",
-      "url": "https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/",
-      "score": 28,
-      "comments": 10,
-      "source": "realtor.com"
+      "title": "Morioka Shoten",
+      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+      "score": 32,
+      "comments": 11,
+      "source": "takram.com"
+    },
+    {
+      "title": "NVIDIA\u2019s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "score": 163,
+      "comments": 34,
+      "source": "chipsandcheese.com"
     },
     {
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "score": 218,
-      "comments": 89,
+      "score": 260,
+      "comments": 110,
       "source": "promptarmor.com"
-    },
-    {
-      "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
-      "url": "https://www.hyperprobe.co",
-      "score": 56,
-      "comments": 41,
-      "source": "hyperprobe.co"
     },
     {
       "title": "GNU Hurd News 2026-Q2",
       "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "score": 171,
-      "comments": 110,
+      "score": 197,
+      "comments": 132,
       "source": "gnu.org"
     },
     {
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://github.com/denoland/celld",
-      "score": 205,
-      "comments": 33,
+      "score": 241,
+      "comments": 43,
       "source": "github.com"
     },
     {
-      "title": "NVIDIA\u2019s Vera Whitepaper Has a Thread Loose",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "score": 124,
-      "comments": 23,
-      "source": "chipsandcheese.com"
+      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "score": 40,
+      "comments": 34,
+      "source": "github.com"
+    },
+    {
+      "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
+      "url": "https://www.hyperprobe.co",
+      "score": 62,
+      "comments": 44,
+      "source": "hyperprobe.co"
     },
     {
       "title": "I'm switching my phone from Android to Linux",
       "url": "https://runarcn.no/android-to-linux/",
-      "score": 312,
-      "comments": 301,
+      "score": 390,
+      "comments": 396,
       "source": "runarcn.no"
-    },
-    {
-      "title": "Show HN: Wallfacer \u2013 A terminal session manager for Claude Code, and more",
-      "url": "https://github.com/pradipta/wallfacer",
-      "score": 19,
-      "comments": 9,
-      "source": "github.com"
-    },
-    {
-      "title": "Position: LLMs Can't Jump",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "score": 269,
-      "comments": 182,
-      "source": "openreview.net"
-    },
-    {
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "score": 114,
-      "comments": 64,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "score": 131,
-      "comments": 59,
-      "source": "science.org"
-    },
-    {
-      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
-      "url": "https://github.com/morishuz/delaunay32",
-      "score": 54,
-      "comments": 16,
-      "source": "github.com"
     }
   ],
   "security": [
