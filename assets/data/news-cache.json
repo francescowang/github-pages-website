@@ -3,212 +3,212 @@
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 392,
-      "comments": 312,
+      "score": 576,
+      "comments": 438,
       "source": "theregister.com"
     },
     {
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 152,
-      "comments": 31,
-      "source": "nso.edu"
+      "title": "What Is a Product?",
+      "url": "https://roge.onwrite.app/what-is-a-product",
+      "score": 13,
+      "comments": 2,
+      "source": "roge.onwrite.app"
     },
     {
       "title": "Mario Meets Pareto",
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 894,
-      "comments": 150,
+      "score": 1004,
+      "comments": 155,
       "source": "mayerowitz.io"
     },
     {
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "score": 94,
-      "comments": 16,
-      "source": "troyhunt.com"
-    },
-    {
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "score": 86,
-      "comments": 52,
-      "source": "makeuseof.com"
-    },
-    {
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "score": 60,
-      "comments": 9,
-      "source": "sciencedaily.com"
+      "title": "Atomic Clocks",
+      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
+      "score": 33,
+      "comments": 18,
+      "source": "nist.gov"
     },
     {
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 224,
-      "comments": 177,
+      "score": 351,
+      "comments": 265,
       "source": "notashelf.dev"
     },
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "score": 68,
-      "comments": 2,
-      "source": "aleksagordic.com"
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 203,
+      "comments": 42,
+      "source": "nso.edu"
     },
     {
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-      "score": 151,
-      "comments": 102,
-      "source": "herdr.dev"
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "score": 106,
+      "comments": 24,
+      "source": "sciencedaily.com"
+    },
+    {
+      "title": "Reverse Jevons Paradox",
+      "url": "https://mht.wtf/post/jevons/",
+      "score": 15,
+      "comments": 5,
+      "source": "mht.wtf"
+    },
+    {
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron\u2013sulfur clusters",
+      "url": "https://zenodo.org/records/21359923",
+      "score": 9,
+      "comments": 1,
+      "source": "zenodo.org"
+    },
+    {
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 156,
+      "comments": 123,
+      "source": "makeuseof.com"
+    },
+    {
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "score": 45,
+      "comments": 7,
+      "source": "community.frame.work"
+    },
+    {
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 344,
+      "comments": 374,
+      "source": "blog.sydorets.com"
     },
     {
       "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "score": 160,
-      "comments": 116,
+      "score": 215,
+      "comments": 156,
       "source": "openai.com"
-    },
-    {
-      "title": "Almost no skill required to cook a steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "score": 282,
-      "comments": 328,
-      "source": "blog.sydorets.com"
-    },
-    {
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "score": 187,
-      "comments": 131,
-      "source": "provenmetal.com"
     },
     {
       "title": "GitHub Actions and Pages are experiencing degraded availability",
       "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "score": 334,
-      "comments": 274,
+      "score": 376,
+      "comments": 306,
       "source": "githubstatus.com"
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 136,
+      "comments": 21,
+      "source": "troyhunt.com"
+    },
+    {
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "score": 198,
+      "comments": 141,
+      "source": "provenmetal.com"
+    },
+    {
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "score": 191,
+      "comments": 126,
+      "source": "herdr.dev"
     },
     {
       "title": "Why Estonians invite strangers into their back gardens each summer",
       "url": "https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer",
-      "score": 19,
-      "comments": 4,
+      "score": 52,
+      "comments": 17,
       "source": "bbc.com"
     },
     {
-      "title": "The Sylvester\u2013Gallai Theorem",
-      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-      "score": 19,
-      "comments": 1,
-      "source": "futilitycloset.com"
-    },
-    {
-      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
-      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-      "score": 70,
-      "comments": 35,
-      "source": "wsj.com"
-    },
-    {
       "title": "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2003-a-retired-man-planted-trees-on-forgotten-land-alone-20-years-later-it-had-become-one-of-sao-paulos-largest-urban-forests/articleshow/132761848.cms",
-      "score": 31,
-      "comments": 5,
-      "source": "timesofindia.indiatimes.com"
+      "url": "https://thursd.com/articles/helio-da-silva-sao-paulo-tiquatira-linear-park",
+      "score": 87,
+      "comments": 31,
+      "source": "thursd.com"
     },
     {
-      "title": "STV: A full-motion video codec for the Atari ST",
-      "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
-      "score": 22,
-      "comments": 1,
-      "source": "medium.com"
+      "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "score": 52,
+      "comments": 67,
+      "source": "shreveporttimes.com"
     },
     {
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
       "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "score": 259,
-      "comments": 194,
+      "score": 288,
+      "comments": 205,
       "source": "scalex.dev"
     },
     {
-      "title": "Quake \u2013 30th Anniversary Update",
-      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-      "score": 222,
-      "comments": 111,
-      "source": "slayersclub.bethesda.net"
+      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+      "score": 173,
+      "comments": 109,
+      "source": "wsj.com"
     },
     {
       "title": "My phone detects going on a run as \u201csomeone snatching my phone and running off\u201d",
       "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
-      "score": 90,
-      "comments": 168,
+      "score": 123,
+      "comments": 216,
       "source": "mastodon.gamedev.place"
+    },
+    {
+      "title": "STV: A full-motion video codec for the Atari ST",
+      "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+      "score": 41,
+      "comments": 4,
+      "source": "medium.com"
     },
     {
       "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
       "url": "https://laurentiugabriel.github.io/ChipTycoon/",
-      "score": 111,
-      "comments": 19,
+      "score": 140,
+      "comments": 29,
       "source": "laurentiugabriel.github.io"
+    },
+    {
+      "title": "Quake \u2013 30th Anniversary Update",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "score": 274,
+      "comments": 141,
+      "source": "slayersclub.bethesda.net"
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 91,
+      "comments": 5,
+      "source": "aleksagordic.com"
     },
     {
       "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
       "url": "https://github.com/CopilotKit/channels-sdk",
-      "score": 89,
-      "comments": 20,
+      "score": 100,
+      "comments": 22,
       "source": "github.com"
-    },
-    {
-      "title": "Can you reverse engineer an ASIC?",
-      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
-      "score": 64,
-      "comments": 45,
-      "source": "blog.janestreet.com"
     },
     {
       "title": "The simple elegance of the integrated timing belt loopback fastener",
       "url": "https://danielmangum.com/posts/integrated-timing-belt-loopback-fastener/",
-      "score": 101,
-      "comments": 20,
+      "score": 114,
+      "comments": 24,
       "source": "danielmangum.com"
     },
     {
       "title": "Pareto Front",
       "url": "https://en.wikipedia.org/wiki/Pareto_front",
-      "score": 222,
-      "comments": 95,
+      "score": 241,
+      "comments": 97,
       "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Building Progressively Enhanced Forms Using htmx",
-      "url": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-      "score": 65,
-      "comments": 11,
-      "source": "rafa.ee"
-    },
-    {
-      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "score": 443,
-      "comments": 283,
-      "source": "artificialanalysis.ai"
-    },
-    {
-      "title": "Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization",
-      "url": "https://arxiv.org/abs/2607.25373",
-      "score": 13,
-      "comments": 1,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Four simple rules behind Japan's most liveable cities",
-      "url": "https://www.bbc.com/travel/article/20260805-four-simple-rules-behind-japans-most-liveable-cities",
-      "score": 82,
-      "comments": 99,
-      "source": "bbc.com"
     }
   ],
   "security": [
