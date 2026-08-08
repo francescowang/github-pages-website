@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 143,
-      "comments": 87,
-      "source": "app.dealroom.co"
-    },
-    {
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 79,
-      "comments": 47,
+      "score": 450,
+      "comments": 265,
       "source": "arcprize.org"
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "score": 73,
+      "comments": 29,
+      "source": "genesisopenmodels.anl.gov"
+    },
+    {
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "score": 22,
+      "comments": 27,
+      "source": "economist.com"
     },
     {
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 24,
-      "comments": 8,
+      "score": 245,
+      "comments": 55,
       "source": "github.com"
+    },
+    {
+      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "score": 144,
+      "comments": 48,
+      "source": "ancientlibrary.net"
+    },
+    {
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "score": 404,
+      "comments": 528,
+      "source": "noemamag.com"
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "score": 160,
+      "comments": 169,
+      "source": "databricks.com"
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "score": 152,
+      "comments": 167,
+      "source": "openai.com"
     },
     {
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 79,
-      "comments": 26,
+      "score": 139,
+      "comments": 35,
       "source": "sdss.org"
     },
     {
-      "title": "The End of No Code",
-      "url": "https://blog.exe.dev/the-end-of-no-code",
-      "score": 15,
-      "comments": 3,
-      "source": "blog.exe.dev"
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 381,
+      "comments": 256,
+      "source": "app.dealroom.co"
     },
     {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 636,
-      "comments": 351,
-      "source": "theguardian.com"
+      "title": "Guarded Methods in OCaml (2025)",
+      "url": "https://xvw.lol/en/articles/oop-refl.html",
+      "score": 55,
+      "comments": 5,
+      "source": "xvw.lol"
     },
     {
-      "title": "Show HN: Wyzer Programming Language",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
-      "score": 139,
-      "comments": 77,
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "score": 119,
+      "comments": 71,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
+      "score": 96,
+      "comments": 10,
+      "source": "carlkolon.com"
+    },
+    {
+      "title": "Captain Bible Reverse Engineering",
+      "url": "https://github.com/peterkelly/captain-bible-re",
+      "score": 9,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "url": "https://github.com/xoreaxeaxeax/repsych",
+      "score": 48,
+      "comments": 2,
       "source": "github.com"
     },
     {
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "score": 157,
-      "comments": 74,
+      "score": 242,
+      "comments": 118,
       "source": "malisper.me"
     },
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 839,
-      "comments": 635,
-      "source": "theregister.com"
-    },
-    {
-      "title": "M\u00f6bius-Strip Crosswords",
-      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "score": 25,
-      "comments": 4,
-      "source": "quuxplusone.github.io"
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "score": 230,
+      "comments": 220,
+      "source": "ign.com"
     },
     {
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://blog.cloudflare.com/kitesurf/",
-      "score": 102,
-      "comments": 26,
+      "score": 161,
+      "comments": 42,
       "source": "blog.cloudflare.com"
     },
     {
       "title": "Show HN: textlog \u2013 A quiet, text-only microblogging platform, open-source, no JS",
       "url": "https://textlog.cc/about",
-      "score": 92,
-      "comments": 37,
+      "score": 135,
+      "comments": 60,
       "source": "textlog.cc"
     },
     {
-      "title": "ICE will release body cam video only when seen in the agency's 'best interests'",
-      "url": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57",
-      "score": 71,
-      "comments": 24,
-      "source": "apnews.com"
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "score": 92,
+      "comments": 82,
+      "source": "sciencealert.com"
     },
     {
-      "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
-      "url": "https://londonist.com/london/history/oxford-street-beavers",
-      "score": 33,
-      "comments": 11,
-      "source": "londonist.com"
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "score": 171,
+      "comments": 100,
+      "source": "github.com"
     },
     {
-      "title": "Petri Nets as a Music Sequencer",
-      "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
-      "score": 45,
-      "comments": 16,
-      "source": "blog.stackdump.com"
+      "title": "Curlese, Five Years Later",
+      "url": "https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later",
+      "score": 7,
+      "comments": 2,
+      "source": "hypertesto.me"
     },
     {
-      "title": "Building Community Out of Strangers",
-      "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
-      "score": 17,
-      "comments": 1,
-      "source": "tracydurnell.com"
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 83,
-      "comments": 84,
-      "source": "openai.com"
-    },
-    {
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 622,
-      "comments": 491,
-      "source": "notashelf.dev"
+      "title": "Why are all the amounts values negative?",
+      "url": "https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/",
+      "score": 34,
+      "comments": 7,
+      "source": "bankstatementconverter.com"
     },
     {
       "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
       "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
-      "score": 5,
-      "comments": 1,
+      "score": 21,
+      "comments": 4,
       "source": "righto.com"
     },
     {
-      "title": "S\u00e3o Paulo resident transforms degraded area into urban forest",
-      "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-      "score": 291,
-      "comments": 112,
-      "source": "saopaulosecreto.com"
-    },
-    {
-      "title": "This Mine Predicts Major Wars. It's Opening Again",
-      "url": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
-      "score": 45,
-      "comments": 13,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "score": 195,
-      "comments": 59,
-      "source": "sciencedaily.com"
-    },
-    {
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 296,
-      "comments": 60,
-      "source": "nso.edu"
-    },
-    {
-      "title": "TypeStax: A type scale generator with vintage audio hardware interface",
-      "url": "https://www.typestax.com/",
-      "score": 41,
-      "comments": 11,
-      "source": "typestax.com"
-    },
-    {
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "score": 480,
-      "comments": 401,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "USA Today Co., partners with Palantir to analyze audience data",
-      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-      "score": 160,
-      "comments": 67,
-      "source": "niemanlab.org"
-    },
-    {
-      "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "score": 299,
-      "comments": 245,
-      "source": "openai.com"
-    },
-    {
-      "title": "A quine in Piet \u2013 a GIF image that prints itself [video]",
-      "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
-      "score": 67,
-      "comments": 8,
-      "source": "youtube.com"
-    },
-    {
-      "title": "99% of My Website Traffic Is Bots",
+      "title": "A year of fighting scrapers on my 1.5 million-page website",
       "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "score": 278,
-      "comments": 273,
+      "score": 370,
+      "comments": 350,
       "source": "patronview.com"
     },
     {
-      "title": "The BBC Tetris Companion",
-      "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
-      "score": 67,
-      "comments": 10,
-      "source": "leadedsolder.com"
+      "title": "M\u00f6bius-Strip Crosswords",
+      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+      "score": 52,
+      "comments": 6,
+      "source": "quuxplusone.github.io"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 715,
+      "comments": 389,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
+      "url": "https://londonist.com/london/history/oxford-street-beavers",
+      "score": 52,
+      "comments": 30,
+      "source": "londonist.com"
+    },
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 882,
+      "comments": 665,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Building community out of strangers (2023)",
+      "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
+      "score": 34,
+      "comments": 1,
+      "source": "tracydurnell.com"
     }
   ],
   "security": [
+    {
+      "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
+      "url": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad/",
+      "date": "2026-08-07 19:37:57",
+      "author": "Vladimir Provorov"
+    },
     {
       "title": "Securing your Amazon S3 buckets: Identifying and remediating over-permissioned access",
       "url": "https://aws.amazon.com/blogs/security/securing-your-amazon-s3-buckets-identifying-and-remediating-over-permissioned-access/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents/",
       "date": "2026-07-30 21:49:15",
       "author": "Daniel Begimher"
-    },
-    {
-      "title": "Extend Amazon Inspector SBOM Generator with Plugins",
-      "url": "https://aws.amazon.com/blogs/security/extend-amazon-inspector-sbom-generator-with-plugins/",
-      "date": "2026-07-30 17:22:54",
-      "author": "Michael Long"
     }
   ]
 }
