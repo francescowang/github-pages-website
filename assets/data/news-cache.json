@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "score": 175,
+      "comments": 28,
+      "source": "space.com"
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "score": 255,
+      "comments": 114,
+      "source": "discourse.nixos.org"
+    },
+    {
+      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "score": 94,
+      "comments": 16,
+      "source": "runnersworld.com"
+    },
+    {
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 450,
-      "comments": 265,
+      "score": 561,
+      "comments": 338,
       "source": "arcprize.org"
     },
     {
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "url": "https://genesisopenmodels.anl.gov/",
-      "score": 73,
-      "comments": 29,
+      "score": 192,
+      "comments": 64,
       "source": "genesisopenmodels.anl.gov"
-    },
-    {
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "score": 22,
-      "comments": 27,
-      "source": "economist.com"
     },
     {
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 245,
-      "comments": 55,
+      "score": 306,
+      "comments": 73,
       "source": "github.com"
-    },
-    {
-      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "score": 144,
-      "comments": 48,
-      "source": "ancientlibrary.net"
     },
     {
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "score": 404,
-      "comments": 528,
+      "score": 543,
+      "comments": 632,
       "source": "noemamag.com"
+    },
+    {
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "score": 79,
+      "comments": 13,
+      "source": "shirtpocket.com"
+    },
+    {
+      "title": "As a Windows user, it's a surreal way to install a program",
+      "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+      "score": 77,
+      "comments": 30,
+      "source": "unsung.aresluna.org"
+    },
+    {
+      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "score": 183,
+      "comments": 58,
+      "source": "ancientlibrary.net"
     },
     {
       "title": "Managing AI Coding Costs at Scale",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "score": 160,
-      "comments": 169,
+      "score": 213,
+      "comments": 194,
       "source": "databricks.com"
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 152,
-      "comments": 167,
-      "source": "openai.com"
     },
     {
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 139,
-      "comments": 35,
+      "score": 159,
+      "comments": 37,
       "source": "sdss.org"
-    },
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 381,
-      "comments": 256,
-      "source": "app.dealroom.co"
-    },
-    {
-      "title": "Guarded Methods in OCaml (2025)",
-      "url": "https://xvw.lol/en/articles/oop-refl.html",
-      "score": 55,
-      "comments": 5,
-      "source": "xvw.lol"
-    },
-    {
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "score": 119,
-      "comments": 71,
-      "source": "theregister.com"
-    },
-    {
-      "title": "Carl's Required Reading",
-      "url": "https://carlkolon.com/reading/",
-      "score": 96,
-      "comments": 10,
-      "source": "carlkolon.com"
-    },
-    {
-      "title": "Captain Bible Reverse Engineering",
-      "url": "https://github.com/peterkelly/captain-bible-re",
-      "score": 9,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Psychological Warfare in Reverse Engineering (2015)",
-      "url": "https://github.com/xoreaxeaxeax/repsych",
-      "score": 48,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "score": 242,
-      "comments": 118,
-      "source": "malisper.me"
     },
     {
       "title": "2027 memory capacity is reportedly sold out",
       "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "score": 230,
-      "comments": 220,
+      "score": 315,
+      "comments": 291,
       "source": "ign.com"
     },
     {
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "url": "https://blog.cloudflare.com/kitesurf/",
-      "score": 161,
-      "comments": 42,
-      "source": "blog.cloudflare.com"
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "score": 175,
+      "comments": 173,
+      "source": "openai.com"
     },
     {
-      "title": "Show HN: textlog \u2013 A quiet, text-only microblogging platform, open-source, no JS",
-      "url": "https://textlog.cc/about",
-      "score": 135,
-      "comments": 60,
-      "source": "textlog.cc"
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 442,
+      "comments": 307,
+      "source": "app.dealroom.co"
+    },
+    {
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
+      "score": 143,
+      "comments": 19,
+      "source": "carlkolon.com"
+    },
+    {
+      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
+      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
+      "score": 40,
+      "comments": 17,
+      "source": "travelandtannins.com"
+    },
+    {
+      "title": "From One Seed to a Thousand Leaves \u2013 Merkle's Authentication Tree",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
+      "score": 4,
+      "comments": 0,
+      "source": "0xkrt26.github.io"
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "score": 270,
+      "comments": 132,
+      "source": "malisper.me"
+    },
+    {
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "score": 44,
+      "comments": 16,
+      "source": "web.archive.org"
     },
     {
       "title": "Radical Study Suggests Life on Earth Arose Twice",
       "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-      "score": 92,
-      "comments": 82,
+      "score": 127,
+      "comments": 94,
       "source": "sciencealert.com"
     },
     {
-      "title": "Show HN: Wyzer Programming Language",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
       "score": 171,
-      "comments": 100,
+      "comments": 114,
+      "source": "theregister.com"
+    },
+    {
+      "title": "Psychological Warfare in Reverse Engineering (2015)",
+      "url": "https://github.com/xoreaxeaxeax/repsych",
+      "score": 62,
+      "comments": 3,
       "source": "github.com"
     },
     {
-      "title": "Curlese, Five Years Later",
-      "url": "https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later",
-      "score": 7,
-      "comments": 2,
-      "source": "hypertesto.me"
+      "title": "Games at the press of a button: The Rip-O-Bot (1989)",
+      "url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
+      "score": 29,
+      "comments": 9,
+      "source": "blog.gingerbeardman.com"
     },
     {
-      "title": "Why are all the amounts values negative?",
-      "url": "https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/",
-      "score": 34,
-      "comments": 7,
-      "source": "bankstatementconverter.com"
+      "title": "Guarded Methods in OCaml (2025)",
+      "url": "https://xvw.lol/en/articles/oop-refl.html",
+      "score": 62,
+      "comments": 5,
+      "source": "xvw.lol"
     },
     {
-      "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
-      "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
-      "score": 21,
-      "comments": 4,
-      "source": "righto.com"
-    },
-    {
-      "title": "A year of fighting scrapers on my 1.5 million-page website",
-      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "score": 370,
-      "comments": 350,
-      "source": "patronview.com"
-    },
-    {
-      "title": "M\u00f6bius-Strip Crosswords",
-      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "score": 52,
-      "comments": 6,
-      "source": "quuxplusone.github.io"
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "score": 183,
+      "comments": 48,
+      "source": "blog.cloudflare.com"
     },
     {
       "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 715,
-      "comments": 389,
+      "score": 753,
+      "comments": 402,
       "source": "theguardian.com"
     },
     {
-      "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
-      "url": "https://londonist.com/london/history/oxford-street-beavers",
-      "score": 52,
-      "comments": 30,
-      "source": "londonist.com"
+      "title": "M\u00f6bius-Strip Crosswords",
+      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+      "score": 66,
+      "comments": 10,
+      "source": "quuxplusone.github.io"
     },
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 882,
-      "comments": 665,
-      "source": "theregister.com"
+      "title": "Show HN: textlog \u2013 A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
+      "score": 159,
+      "comments": 65,
+      "source": "textlog.cc"
     },
     {
-      "title": "Building community out of strangers (2023)",
-      "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
-      "score": 34,
-      "comments": 1,
-      "source": "tracydurnell.com"
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "score": 188,
+      "comments": 105,
+      "source": "github.com"
     }
   ],
   "security": [
