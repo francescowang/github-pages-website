@@ -1,210 +1,222 @@
 {
   "tech": [
     {
+      "title": "The UK's War on Anonymity Has Come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "score": 125,
+      "comments": 56,
+      "source": "effort.news"
+    },
+    {
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 15,
+      "comments": 2,
+      "source": "code.call-cc.org"
+    },
+    {
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "score": 44,
+      "comments": 7,
+      "source": "everycube.alen.is"
+    },
+    {
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 814,
-      "comments": 455,
+      "score": 1029,
+      "comments": 574,
       "source": "research.meta.ai"
     },
     {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "score": 64,
-      "comments": 28,
-      "source": "anthropic.com"
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 162,
+      "comments": 75,
+      "source": "cactuscompute.com"
     },
     {
-      "title": "Sonic Pi v5",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "score": 141,
-      "comments": 36,
-      "source": "patreon.com"
-    },
-    {
-      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-      "url": "https://www.stoaexchange.com",
-      "score": 36,
-      "comments": 16,
-      "source": "stoaexchange.com"
-    },
-    {
-      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "url": "https://github.com/AntigmaLabs/ante",
-      "score": 78,
-      "comments": 50,
-      "source": "github.com"
-    },
-    {
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "score": 64,
-      "comments": 15,
-      "source": "github.com"
+      "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "score": 32,
+      "comments": 7,
+      "source": "resobscura.substack.com"
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "score": 101,
-      "comments": 110,
+      "score": 356,
+      "comments": 380,
       "source": "ft.com"
     },
     {
-      "title": "The Tragedy of the Cognitive Commons",
-      "url": "https://arxiv.org/abs/2607.29380",
-      "score": 42,
-      "comments": 20,
-      "source": "arxiv.org"
+      "title": "Publishing Schematics Before \u201cOpen Source\u201d Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "score": 63,
+      "comments": 15,
+      "source": "fabscene.medium.com"
     },
     {
-      "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
-      "url": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
-      "score": 48,
-      "comments": 24,
-      "source": "neurology.org"
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+      "score": 304,
+      "comments": 79,
+      "source": "patreon.com"
     },
     {
-      "title": "Itadakimasu: A word you say to the food, not the cook",
-      "url": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
-      "score": 82,
-      "comments": 37,
-      "source": "thetokyohermit.substack.com"
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "score": 119,
+      "comments": 61,
+      "source": "vectorware.com"
+    },
+    {
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "score": 59,
+      "comments": 11,
+      "source": "arachnoid.com"
+    },
+    {
+      "title": "World Train Map \u2013 1247 train routes around the world",
+      "url": "https://worldtrainmap.com/",
+      "score": 25,
+      "comments": 7,
+      "source": "worldtrainmap.com"
+    },
+    {
+      "title": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "score": 154,
+      "comments": 67,
+      "source": "massaschadeconsument.nl"
+    },
+    {
+      "title": "Stowaway \u2013 Take the window seat on any plane or satellite overhead",
+      "url": "https://stowaway.live/",
+      "score": 107,
+      "comments": 11,
+      "source": "stowaway.live"
+    },
+    {
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't",
+      "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "score": 14,
+      "comments": 1,
+      "source": "nytimes.com"
     },
     {
       "title": "Squeak 6.1",
       "url": "https://squeak.org/release_notes/6.1/",
-      "score": 140,
-      "comments": 82,
+      "score": 221,
+      "comments": 114,
       "source": "squeak.org"
     },
     {
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "score": 120,
-      "comments": 73,
-      "source": "beautifulpublicdata.com"
-    },
-    {
-      "title": "Magnitude 7.4 Earthquake \u2013 5 km S of San Jos\u00e9 del Palmar, Colombia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-      "score": 113,
-      "comments": 32,
-      "source": "earthquake.usgs.gov"
-    },
-    {
-      "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 537,
-      "comments": 317,
-      "source": "docker.com"
-    },
-    {
-      "title": "The Psychedelic Toad of the Sonoran Desert",
-      "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
-      "score": 7,
-      "comments": 2,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "score": 55,
-      "comments": 74,
-      "source": "openai.com"
-    },
-    {
-      "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
-      "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
-      "score": 30,
-      "comments": 8,
-      "source": "pim.murata.com"
-    },
-    {
-      "title": "Mistral Patent for \u201cCode implemented tool calls\u201d",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "score": 147,
-      "comments": 126,
-      "source": "patentsgazette.uspto.gov"
-    },
-    {
-      "title": "Mars Bar from 1991 found \u2013 and it's 20g bigger than today's",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "score": 204,
-      "comments": 283,
-      "source": "bbc.com"
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "score": 125,
+      "comments": 42,
+      "source": "github.com"
     },
     {
       "title": "Humanising LLM Outputs Is Dumb",
       "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "score": 43,
-      "comments": 17,
+      "score": 151,
+      "comments": 88,
       "source": "kuber.studio"
     },
     {
-      "title": "Back to the Future of Handwriting Recognition (2016)",
-      "url": "https://jackschaedler.github.io/handwriting-recognition/",
-      "score": 21,
-      "comments": 6,
-      "source": "jackschaedler.github.io"
-    },
-    {
-      "title": "Tail-call optimization in C is relatively recent (2025)",
-      "url": "https://lwn.net/Articles/1034703/",
-      "score": 95,
-      "comments": 74,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Sorting, hashing, and sketches on 370,103 words",
-      "url": "https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/",
-      "score": 11,
+      "title": "The Story of Mac: A Just-So Story",
+      "url": "https://gigamonkeys.com/book/macros-defining-your-own",
+      "score": 4,
       "comments": 0,
-      "source": "stochastic.blog"
+      "source": "gigamonkeys.com"
     },
     {
-      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-      "score": 102,
-      "comments": 112,
-      "source": "wcax.com"
+      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "score": 63,
+      "comments": 39,
+      "source": "stoaexchange.com"
+    },
+    {
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "score": 56,
+      "comments": 36,
+      "source": "danluu.com"
+    },
+    {
+      "title": "The Psychedelic Toad of the Sonoran Desert",
+      "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
+      "score": 75,
+      "comments": 53,
+      "source": "en.wikipedia.org"
     },
     {
       "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
       "url": "https://ethw.org/Milestones:Parametron,_1954",
-      "score": 127,
-      "comments": 38,
+      "score": 183,
+      "comments": 47,
       "source": "ethw.org"
     },
     {
-      "title": "Security Vulnerability in Pioneer Rekordbox",
-      "url": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
-      "score": 3,
-      "comments": 0,
-      "source": "alphatheta.com"
-    },
-    {
-      "title": "Tl;dv: Over 180k meetings left wide open",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "score": 398,
-      "comments": 134,
-      "source": "bobdahacker.com"
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "score": 89,
+      "comments": 169,
+      "source": "openai.com"
     },
     {
       "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
       "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "score": 34,
-      "comments": 5,
+      "score": 96,
+      "comments": 14,
       "source": "blog.sshh.io"
     },
     {
-      "title": "Why Addresses Have Numbers",
-      "url": "https://thehistoricalinsights.page/2026/06/why-addresses-have-numbers.html",
-      "score": 16,
-      "comments": 37,
-      "source": "thehistoricalinsights.page"
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
+      "score": 121,
+      "comments": 122,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Magnitude 7.4 Earthquake \u2013 5 km S of San Jos\u00e9 del Palmar, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+      "score": 160,
+      "comments": 62,
+      "source": "earthquake.usgs.gov"
+    },
+    {
+      "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
+      "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
+      "score": 61,
+      "comments": 25,
+      "source": "pim.murata.com"
+    },
+    {
+      "title": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "score": 152,
+      "comments": 105,
+      "source": "beautifulpublicdata.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS completes the 2026 Police-Assured Secure Facilities (PASF) audit in Europe (London)",
+      "url": "https://aws.amazon.com/blogs/security/aws-completes-the-2026-police-assured-secure-facilities-pasf-audit-in-europe-london/",
+      "date": "2026-08-10 20:21:40",
+      "author": "Tariro Dongo"
+    },
+    {
+      "title": "2026 AWS CyberVadis report now available for due diligence on third-party suppliers",
+      "url": "https://aws.amazon.com/blogs/security/2026-aws-cybervadis-report-now-available-for-due-diligence-on-third-party-suppliers/",
+      "date": "2026-08-10 17:09:02",
+      "author": "Tariro Dongo"
+    },
     {
       "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
       "url": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad/",
@@ -222,12 +234,6 @@
       "url": "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager/",
       "date": "2026-08-06 22:03:36",
       "author": "Anthony Harvey"
-    },
-    {
-      "title": "Route Amazon Bedrock Guardrails interventions to Amazon Security Lake",
-      "url": "https://aws.amazon.com/blogs/security/route-amazon-bedrock-guardrails-interventions-to-amazon-security-lake/",
-      "date": "2026-08-06 19:00:15",
-      "author": "Dhananjay Karanjkar"
     },
     {
       "title": "Caching KMS data keys in multi-thread environments: Per-tenant encryption for event-driven systems at scale",
@@ -258,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/hipaa-security-rule-on-aws-technical-safeguards-implementation-and-readiness-guidance/",
       "date": "2026-07-31 19:44:25",
       "author": "Abdul Javid"
-    },
-    {
-      "title": "Balancing speed and safety: A control framework for AI coding agents",
-      "url": "https://aws.amazon.com/blogs/security/balancing-speed-and-safety-a-control-framework-for-ai-coding-agents/",
-      "date": "2026-07-30 21:49:15",
-      "author": "Daniel Begimher"
     }
   ]
 }
