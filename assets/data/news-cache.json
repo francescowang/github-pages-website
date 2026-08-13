@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 877,
-      "comments": 351,
-      "source": "openrouter.ai"
-    },
-    {
-      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 979,
-      "comments": 185,
-      "source": "tailscale.com"
-    },
-    {
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "score": 72,
-      "comments": 36,
-      "source": "phys.org"
-    },
-    {
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "score": 511,
-      "comments": 178,
-      "source": "zed.dev"
-    },
-    {
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 588,
-      "comments": 135,
-      "source": "huggingface.co"
-    },
-    {
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "score": 129,
-      "comments": 57,
-      "source": "okmij.org"
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "score": 97,
+      "comments": 52,
+      "source": "tradersunion.com"
     },
     {
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
       "url": "https://openai.com/codex/",
-      "score": 24,
-      "comments": 6,
+      "score": 253,
+      "comments": 166,
       "source": "openai.com"
+    },
+    {
+      "title": "The lattice of sets of natural numbers is rich",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "score": 56,
+      "comments": 9,
+      "source": "jdh.hamkins.org"
+    },
+    {
+      "title": "Picking berries is my meditation",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "score": 34,
+      "comments": 22,
+      "source": "tsoon.com"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 972,
+      "comments": 420,
+      "source": "openrouter.ai"
+    },
+    {
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 1104,
+      "comments": 207,
+      "source": "tailscale.com"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 665,
+      "comments": 154,
+      "source": "huggingface.co"
+    },
+    {
+      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+      "url": "https://atg.science/careers",
+      "score": 1,
+      "comments": 0,
+      "source": "atg.science"
+    },
+    {
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "score": 600,
+      "comments": 220,
+      "source": "zed.dev"
+    },
+    {
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "score": 205,
+      "comments": 91,
+      "source": "okmij.org"
+    },
+    {
+      "title": "Come for Eniac, Stay for Univac and Skeduflo",
+      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+      "score": 11,
+      "comments": 1,
+      "source": "uniqueatpenn.wordpress.com"
     },
     {
       "title": "Antiqua\u2013Fraktur dispute",
       "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-      "score": 69,
-      "comments": 8,
+      "score": 121,
+      "comments": 39,
       "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "score": 75,
-      "comments": 20,
-      "source": "sharktastica.co.uk"
-    },
-    {
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 476,
-      "comments": 128,
-      "source": "jonty.github.io"
     },
     {
       "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 425,
-      "comments": 544,
+      "score": 601,
+      "comments": 716,
       "source": "digitalescapetools.com"
     },
     {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 263,
-      "comments": 31,
-      "source": "amiga-news.de"
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+      "score": 204,
+      "comments": 161,
+      "source": "phys.org"
+    },
+    {
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "score": 500,
+      "comments": 134,
+      "source": "jonty.github.io"
     },
     {
       "title": "Flutter 3.47",
       "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "score": 74,
-      "comments": 65,
+      "score": 145,
+      "comments": 161,
       "source": "flutter.dev"
+    },
+    {
+      "title": "The punched card tabulator",
+      "url": "https://www.ibm.com/history/punched-card-tabulator",
+      "score": 26,
+      "comments": 9,
+      "source": "ibm.com"
     },
     {
       "title": "Why Target Common Lisp for Code Generation?",
       "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "score": 83,
-      "comments": 68,
+      "score": 124,
+      "comments": 104,
       "source": "funcall.blogspot.com"
-    },
-    {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 184,
-      "comments": 125,
-      "source": "en.andros.dev"
-    },
-    {
-      "title": "Build Wide, Ship Narrow",
-      "url": "https://adapt.com/blog/build-wide-ship-narrow",
-      "score": 78,
-      "comments": 19,
-      "source": "adapt.com"
     },
     {
       "title": "Grok 4.6",
       "url": "https://x.ai/news/grok-4-6",
-      "score": 508,
-      "comments": 463,
+      "score": 588,
+      "comments": 540,
       "source": "x.ai"
+    },
+    {
+      "title": "Better Gaussian Splatting in Julia",
+      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+      "score": 7,
+      "comments": 1,
+      "source": "pxl-th.github.io"
+    },
+    {
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 287,
+      "comments": 35,
+      "source": "amiga-news.de"
     },
     {
       "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
-      "score": 132,
-      "comments": 28,
+      "score": 149,
+      "comments": 32,
       "source": "discoveredmaterials.com"
     },
     {
-      "title": "Why tiny JPEGs look different in Chrome",
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 290,
-      "comments": 63,
-      "source": "guillaumetech.github.io"
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "score": 222,
+      "comments": 156,
+      "source": "en.andros.dev"
     },
     {
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "url": "https://celld.dev/",
-      "score": 12,
-      "comments": 0,
-      "source": "celld.dev"
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "score": 104,
+      "comments": 41,
+      "source": "sharktastica.co.uk"
     },
     {
       "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
       "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "score": 107,
-      "comments": 121,
+      "score": 150,
+      "comments": 194,
       "source": "corneroffifth.studio"
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "score": 267,
-      "comments": 200,
-      "source": "knownagents.com"
-    },
-    {
-      "title": "Locating an unknown source of radiation in a heterogeneous environment (2019)",
-      "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
-      "score": 25,
-      "comments": 20,
-      "source": "repository.lib.ncsu.edu"
-    },
-    {
-      "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
-      "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
-      "score": 13,
-      "comments": 0,
-      "source": "spillhistorie.no"
-    },
-    {
-      "title": "Pixel Watch 5",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "score": 135,
-      "comments": 253,
-      "source": "blog.google"
-    },
-    {
-      "title": "Breaking the WAL",
-      "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
-      "score": 93,
-      "comments": 42,
-      "source": "antithesis.com"
     },
     {
       "title": "The Three-Stroke Problem",
       "url": "https://penpot.app/blog/the-three-stroke-problem/",
-      "score": 4,
+      "score": 23,
       "comments": 0,
       "source": "penpot.app"
     },
     {
-      "title": "Lovable raises $400M Series C",
-      "url": "https://lovable.dev/blog/series-c",
-      "score": 131,
-      "comments": 123,
-      "source": "lovable.dev"
+      "title": "Why tiny JPEGs look different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "score": 322,
+      "comments": 66,
+      "source": "guillaumetech.github.io"
+    },
+    {
+      "title": "Breaking the WAL",
+      "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
+      "score": 135,
+      "comments": 47,
+      "source": "antithesis.com"
     },
     {
       "title": "Shade Map",
       "url": "https://shademap.app",
-      "score": 183,
-      "comments": 45,
+      "score": 224,
+      "comments": 56,
       "source": "shademap.app"
     },
     {
-      "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
-      "url": "https://www.ballet.dev/",
-      "score": 29,
-      "comments": 7,
-      "source": "ballet.dev"
+      "title": "Rapid warming may tip AMOC at 2\u00b0C, slower warming may avert collapse",
+      "url": "https://phys.org/news/2026-08-rapid-atlantic-circulation-2c-slower.html",
+      "score": 16,
+      "comments": 0,
+      "source": "phys.org"
     }
   ],
   "security": [
