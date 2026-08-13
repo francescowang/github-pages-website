@@ -3,215 +3,221 @@
     {
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 743,
-      "comments": 284,
+      "score": 877,
+      "comments": 351,
       "source": "openrouter.ai"
+    },
+    {
+      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 979,
+      "comments": 185,
+      "source": "tailscale.com"
+    },
+    {
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+      "score": 72,
+      "comments": 36,
+      "source": "phys.org"
     },
     {
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
-      "score": 391,
-      "comments": 129,
+      "score": 511,
+      "comments": 178,
       "source": "zed.dev"
-    },
-    {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 797,
-      "comments": 141,
-      "source": "tailscale.com"
-    },
-    {
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-      "score": 25,
-      "comments": 5,
-      "source": "sharktastica.co.uk"
     },
     {
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 495,
-      "comments": 107,
+      "score": 588,
+      "comments": 135,
       "source": "huggingface.co"
-    },
-    {
-      "title": "What's New in Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "score": 35,
-      "comments": 24,
-      "source": "flutter.dev"
     },
     {
       "title": "Principia Mathematica is modern and insightful",
       "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "score": 36,
-      "comments": 11,
+      "score": 129,
+      "comments": 57,
       "source": "okmij.org"
     },
     {
-      "title": "Build Wide, Ship Narrow",
-      "url": "https://adapt.com/blog/build-wide-ship-narrow",
-      "score": 21,
-      "comments": 0,
-      "source": "adapt.com"
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "score": 24,
+      "comments": 6,
+      "source": "openai.com"
+    },
+    {
+      "title": "Antiqua\u2013Fraktur dispute",
+      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+      "score": 69,
+      "comments": 8,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "score": 75,
+      "comments": 20,
+      "source": "sharktastica.co.uk"
     },
     {
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 458,
-      "comments": 124,
+      "score": 476,
+      "comments": 128,
       "source": "jonty.github.io"
-    },
-    {
-      "title": "Why Target Common Lisp for Code Generation?",
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "score": 28,
-      "comments": 24,
-      "source": "funcall.blogspot.com"
-    },
-    {
-      "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
-      "url": "https://www.ballet.dev/",
-      "score": 13,
-      "comments": 1,
-      "source": "ballet.dev"
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "score": 235,
-      "comments": 29,
-      "source": "amiga-news.de"
-    },
-    {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "score": 147,
-      "comments": 110,
-      "source": "en.andros.dev"
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "score": 233,
-      "comments": 166,
-      "source": "knownagents.com"
-    },
-    {
-      "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "score": 114,
-      "comments": 21,
-      "source": "discoveredmaterials.com"
-    },
-    {
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "score": 400,
-      "comments": 384,
-      "source": "x.ai"
     },
     {
       "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
       "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "score": 300,
-      "comments": 432,
+      "score": 425,
+      "comments": 544,
       "source": "digitalescapetools.com"
     },
     {
-      "title": "Waits: Arthur Samuel's Checkers",
-      "url": "https://timereshared.com/waits-samuel-checkers/",
-      "score": 4,
-      "comments": 0,
-      "source": "timereshared.com"
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 263,
+      "comments": 31,
+      "source": "amiga-news.de"
+    },
+    {
+      "title": "Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "score": 74,
+      "comments": 65,
+      "source": "flutter.dev"
+    },
+    {
+      "title": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "score": 83,
+      "comments": 68,
+      "source": "funcall.blogspot.com"
+    },
+    {
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "score": 184,
+      "comments": 125,
+      "source": "en.andros.dev"
+    },
+    {
+      "title": "Build Wide, Ship Narrow",
+      "url": "https://adapt.com/blog/build-wide-ship-narrow",
+      "score": 78,
+      "comments": 19,
+      "source": "adapt.com"
+    },
+    {
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "score": 508,
+      "comments": 463,
+      "source": "x.ai"
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "score": 132,
+      "comments": 28,
+      "source": "discoveredmaterials.com"
     },
     {
       "title": "Why tiny JPEGs look different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "score": 254,
-      "comments": 59,
+      "score": 290,
+      "comments": 63,
       "source": "guillaumetech.github.io"
+    },
+    {
+      "title": "Celld: Self-hosted, distributed Durable Objects",
+      "url": "https://celld.dev/",
+      "score": 12,
+      "comments": 0,
+      "source": "celld.dev"
+    },
+    {
+      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+      "score": 107,
+      "comments": 121,
+      "source": "corneroffifth.studio"
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "score": 267,
+      "comments": 200,
+      "source": "knownagents.com"
+    },
+    {
+      "title": "Locating an unknown source of radiation in a heterogeneous environment (2019)",
+      "url": "https://repository.lib.ncsu.edu/items/451b001d-e63a-4968-866d-3fb3a599b1e7",
+      "score": 25,
+      "comments": 20,
+      "source": "repository.lib.ncsu.edu"
+    },
+    {
+      "title": "From rubber boots to Copa: When MicroProse Soccer revolutionized football",
+      "url": "https://spillhistorie.no/2026/08/08/fra-gummistovler-til-copa-da-microprose-soccer-revolusjonerte-fotballen/",
+      "score": 13,
+      "comments": 0,
+      "source": "spillhistorie.no"
     },
     {
       "title": "Pixel Watch 5",
       "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "score": 103,
-      "comments": 193,
+      "score": 135,
+      "comments": 253,
       "source": "blog.google"
     },
     {
       "title": "Breaking the WAL",
       "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
-      "score": 57,
-      "comments": 33,
+      "score": 93,
+      "comments": 42,
       "source": "antithesis.com"
     },
     {
-      "title": "Process as a Proxy for Motivation",
-      "url": "https://bengodfrey.dev/blog/process/",
-      "score": 23,
-      "comments": 3,
-      "source": "bengodfrey.dev"
-    },
-    {
-      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-      "score": 1,
+      "title": "The Three-Stroke Problem",
+      "url": "https://penpot.app/blog/the-three-stroke-problem/",
+      "score": 4,
       "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "A Tale of Dynamic Programming (2022)",
-      "url": "https://iagoleal.com/posts/dynamic-programming/",
-      "score": 69,
-      "comments": 5,
-      "source": "iagoleal.com"
+      "source": "penpot.app"
     },
     {
       "title": "Lovable raises $400M Series C",
       "url": "https://lovable.dev/blog/series-c",
-      "score": 94,
-      "comments": 93,
+      "score": 131,
+      "comments": 123,
       "source": "lovable.dev"
     },
     {
       "title": "Shade Map",
       "url": "https://shademap.app",
-      "score": 145,
-      "comments": 41,
+      "score": 183,
+      "comments": 45,
       "source": "shademap.app"
     },
     {
-      "title": "Debugging Information for Inlined Functions",
-      "url": "https://lwn.net/Articles/1083985/",
-      "score": 19,
-      "comments": 0,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
-      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "score": 43,
-      "comments": 51,
-      "source": "corneroffifth.studio"
-    },
-    {
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "score": 719,
-      "comments": 656,
-      "source": "blog.florianherrengt.com"
-    },
-    {
-      "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
-      "url": "https://bipluk.com/",
-      "score": 8,
-      "comments": 5,
-      "source": "bipluk.com"
+      "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
+      "url": "https://www.ballet.dev/",
+      "score": 29,
+      "comments": 7,
+      "source": "ballet.dev"
     }
   ],
   "security": [
+    {
+      "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
+      "url": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles/",
+      "date": "2026-08-12 22:16:55",
+      "author": "Zach Jiang"
+    },
     {
       "title": "Landing Zone Accelerator Independent Assessment Report for C5:2020 now available on AWS Artifact",
       "url": "https://aws.amazon.com/blogs/security/landing-zone-accelerator-independent-assessment-report-for-c52020-now-available-on-aws-artifact/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/caching-kms-data-keys-in-multi-thread-environments-per-tenant-encryption-for-event-driven-systems-at-scale/",
       "date": "2026-08-06 16:16:06",
       "author": "Maria Gutovsky"
-    },
-    {
-      "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows",
-      "url": "https://aws.amazon.com/blogs/security/aws-partners-with-anthropic-and-openai-to-bring-aws-continuum-into-developer-workflows/",
-      "date": "2026-08-05 21:00:11",
-      "author": "Chet Kapoor"
     }
   ]
 }
