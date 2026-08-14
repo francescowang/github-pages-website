@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 617,
-      "comments": 344,
-      "source": "blog.google"
+      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "score": 251,
+      "comments": 84,
+      "source": "z.ai"
     },
     {
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 59,
-      "comments": 11,
-      "source": "atproto.com"
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "score": 778,
+      "comments": 405,
+      "source": "blog.google"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 420,
-      "comments": 174,
+      "score": 546,
+      "comments": 228,
       "source": "cerebras.ai"
     },
     {
-      "title": "SparrowMap \u2013 Cameras that watch government vehicles",
-      "url": "https://sparrowmap.com/",
-      "score": 24,
-      "comments": 5,
-      "source": "sparrowmap.com"
+      "title": "Hello, me. It's been a while",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "score": 160,
+      "comments": 65,
+      "source": "themech.net"
     },
     {
-      "title": "NP-Overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "score": 148,
-      "comments": 90,
-      "source": "gruhn.me"
-    },
-    {
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "score": 202,
-      "comments": 111,
-      "source": "geoffreylitt.com"
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "score": 144,
+      "comments": 23,
+      "source": "atproto.com"
     },
     {
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
-      "score": 555,
-      "comments": 241,
+      "score": 627,
+      "comments": 263,
       "source": "deepseek.com"
-    },
-    {
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 252,
-      "comments": 99,
-      "source": "docs.mistral.ai"
-    },
-    {
-      "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "score": 188,
-      "comments": 79,
-      "source": "donkeybas.com"
     },
     {
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 496,
-      "comments": 138,
+      "score": 583,
+      "comments": 153,
+      "source": "github.com"
+    },
+    {
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 314,
+      "comments": 119,
+      "source": "docs.mistral.ai"
+    },
+    {
+      "title": "The Library of Ashurbanipal",
+      "url": "https://www.historytoday.com/archive/feature/library-ashurbanipal",
+      "score": 16,
+      "comments": 1,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "score": 294,
+      "comments": 159,
+      "source": "geoffreylitt.com"
+    },
+    {
+      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
+      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+      "score": 9,
+      "comments": 0,
       "source": "github.com"
     },
     {
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 251,
-      "comments": 131,
+      "score": 321,
+      "comments": 159,
       "source": "mcfunley.com"
     },
     {
-      "title": "How AI text watermarking works",
-      "url": "https://declaude.org/watermarking/",
-      "score": 74,
-      "comments": 43,
-      "source": "declaude.org"
+      "title": "NP-overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "score": 196,
+      "comments": 124,
+      "source": "gruhn.me"
     },
     {
-      "title": "Hello, me. It's been a while",
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 22,
-      "comments": 7,
-      "source": "themech.net"
+      "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "score": 221,
+      "comments": 104,
+      "source": "donkeybas.com"
     },
     {
-      "title": "Finite State Machines in Forth (1994)",
-      "url": "https://www.forth.org/literature/noble.html",
-      "score": 45,
-      "comments": 1,
-      "source": "forth.org"
-    },
-    {
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "url": "https://0.mk/blog/link-rot",
-      "score": 131,
-      "comments": 110,
-      "source": "0.mk"
-    },
-    {
-      "title": "How a device finds encrypted DNS by itself",
-      "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
-      "score": 15,
-      "comments": 3,
-      "source": "blog.dundns.eu"
-    },
-    {
-      "title": "How G\u00f6del's Proof Works (2020)",
-      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "score": 69,
-      "comments": 35,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "score": 65,
-      "comments": 36,
-      "source": "cdn.openai.com"
-    },
-    {
-      "title": "How Compaction Works in Pi",
-      "url": "https://earendil.com/posts/compaction-in-pi/",
-      "score": 106,
-      "comments": 40,
-      "source": "earendil.com"
-    },
-    {
-      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-      "url": "https://github.com/systemd/systemd/issues/40262",
-      "score": 146,
-      "comments": 94,
-      "source": "github.com"
+      "title": "How do you sell a CPU design when the instruction set is free?",
+      "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
+      "score": 18,
+      "comments": 6,
+      "source": "siliconimist.com"
     },
     {
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "score": 245,
-      "comments": 135,
+      "score": 294,
+      "comments": 166,
       "source": "current.org"
-    },
-    {
-      "title": "An ambiguity in c89 which will never be fixed",
-      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
-      "score": 30,
-      "comments": 5,
-      "source": "sebsite.pw"
-    },
-    {
-      "title": "I want extern \"fil-C\"",
-      "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-      "score": 22,
-      "comments": 2,
-      "source": "domenkozar.com"
     },
     {
       "title": "Blog about things you don't understand yet",
       "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-      "score": 9,
-      "comments": 1,
+      "score": 78,
+      "comments": 29,
       "source": "seangoedecke.com"
     },
     {
-      "title": "Smooth Move: Taming Trajectories with Polynomials",
-      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
-      "score": 22,
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "score": 147,
+      "comments": 58,
+      "source": "earendil.com"
+    },
+    {
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "score": 166,
+      "comments": 151,
+      "source": "0.mk"
+    },
+    {
+      "title": "The Legend of the Novell NE2000 [video]",
+      "url": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
+      "score": 39,
+      "comments": 11,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "score": 196,
+      "comments": 122,
+      "source": "github.com"
+    },
+    {
+      "title": "Finite State Machines in Forth (1994)",
+      "url": "https://www.forth.org/literature/noble.html",
+      "score": 71,
+      "comments": 2,
+      "source": "forth.org"
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "score": 97,
+      "comments": 55,
+      "source": "cdn.openai.com"
+    },
+    {
+      "title": "How G\u00f6del's Proof Works (2020)",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "score": 98,
+      "comments": 42,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "An ambiguity in c89 which will never be fixed",
+      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+      "score": 57,
+      "comments": 19,
+      "source": "sebsite.pw"
+    },
+    {
+      "title": "Ordinary Abundance",
+      "url": "https://ordinaryabundance.com/",
+      "score": 285,
+      "comments": 142,
+      "source": "ordinaryabundance.com"
+    },
+    {
+      "title": "Cave of the Crystals",
+      "url": "https://en.wikipedia.org/wiki/Cave_of_the_Crystals",
+      "score": 34,
+      "comments": 1,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Homeland Security spied on Minnesotans who spoke out against ICE",
+      "url": "https://www.mprnews.org/story/2026/08/13/attorney-says-homeland-security-spied-on-minnesotans-who-opposed-ice",
+      "score": 26,
       "comments": 0,
-      "source": "nick.zoic.org"
+      "source": "mprnews.org"
     },
     {
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "score": 155,
-      "comments": 69,
-      "source": "oxide.computer"
-    },
-    {
-      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
-      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-      "score": 40,
-      "comments": 9,
-      "source": "nicole.express"
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 197,
+      "comments": 83,
+      "source": "netlify.com"
     },
     {
       "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
       "url": "https://www.codewithbullet.com",
-      "score": 84,
-      "comments": 54,
+      "score": 95,
+      "comments": 73,
       "source": "codewithbullet.com"
-    },
-    {
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "score": 89,
-      "comments": 47,
-      "source": "jdagostino.github.io"
-    },
-    {
-      "title": "Ordinary abundance",
-      "url": "https://ordinaryabundance.com/",
-      "score": 208,
-      "comments": 117,
-      "source": "ordinaryabundance.com"
     }
   ],
   "security": [
