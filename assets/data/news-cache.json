@@ -3,215 +3,221 @@
     {
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 261,
-      "comments": 179,
+      "score": 617,
+      "comments": 344,
       "source": "blog.google"
+    },
+    {
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "score": 59,
+      "comments": 11,
+      "source": "atproto.com"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 80,
-      "comments": 13,
+      "score": 420,
+      "comments": 174,
       "source": "cerebras.ai"
     },
     {
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "score": 70,
-      "comments": 36,
-      "source": "mcfunley.com"
+      "title": "SparrowMap \u2013 Cameras that watch government vehicles",
+      "url": "https://sparrowmap.com/",
+      "score": 24,
+      "comments": 5,
+      "source": "sparrowmap.com"
+    },
+    {
+      "title": "NP-Overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "score": 148,
+      "comments": 90,
+      "source": "gruhn.me"
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "score": 202,
+      "comments": 111,
+      "source": "geoffreylitt.com"
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "score": 555,
+      "comments": 241,
+      "source": "deepseek.com"
     },
     {
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "score": 103,
-      "comments": 28,
+      "score": 252,
+      "comments": 99,
       "source": "docs.mistral.ai"
     },
     {
       "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "score": 44,
-      "comments": 16,
+      "score": 188,
+      "comments": 79,
       "source": "donkeybas.com"
     },
     {
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "score": 322,
-      "comments": 98,
+      "score": 496,
+      "comments": 138,
       "source": "github.com"
+    },
+    {
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "score": 251,
+      "comments": 131,
+      "source": "mcfunley.com"
+    },
+    {
+      "title": "How AI text watermarking works",
+      "url": "https://declaude.org/watermarking/",
+      "score": 74,
+      "comments": 43,
+      "source": "declaude.org"
+    },
+    {
+      "title": "Hello, me. It's been a while",
+      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "score": 22,
+      "comments": 7,
+      "source": "themech.net"
+    },
+    {
+      "title": "Finite State Machines in Forth (1994)",
+      "url": "https://www.forth.org/literature/noble.html",
+      "score": 45,
+      "comments": 1,
+      "source": "forth.org"
     },
     {
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "url": "https://0.mk/blog/link-rot",
-      "score": 31,
-      "comments": 11,
+      "score": 131,
+      "comments": 110,
       "source": "0.mk"
     },
     {
-      "title": "Tocharian Online",
-      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "score": 26,
+      "title": "How a device finds encrypted DNS by itself",
+      "url": "https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/",
+      "score": 15,
+      "comments": 3,
+      "source": "blog.dundns.eu"
+    },
+    {
+      "title": "How G\u00f6del's Proof Works (2020)",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "score": 69,
+      "comments": 35,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "score": 65,
+      "comments": 36,
+      "source": "cdn.openai.com"
+    },
+    {
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "score": 106,
+      "comments": 40,
+      "source": "earendil.com"
+    },
+    {
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "score": 146,
+      "comments": 94,
+      "source": "github.com"
+    },
+    {
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "score": 245,
+      "comments": 135,
+      "source": "current.org"
+    },
+    {
+      "title": "An ambiguity in c89 which will never be fixed",
+      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+      "score": 30,
+      "comments": 5,
+      "source": "sebsite.pw"
+    },
+    {
+      "title": "I want extern \"fil-C\"",
+      "url": "https://domenkozar.com/2026/08/13/i-want-extern-fil-c/",
+      "score": 22,
+      "comments": 2,
+      "source": "domenkozar.com"
+    },
+    {
+      "title": "Blog about things you don't understand yet",
+      "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+      "score": 9,
       "comments": 1,
-      "source": "lrc.la.utexas.edu"
+      "source": "seangoedecke.com"
     },
     {
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "score": 33,
-      "comments": 12,
-      "source": "jdagostino.github.io"
-    },
-    {
-      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-      "score": 45,
-      "comments": 11,
-      "source": "uniqueatpenn.wordpress.com"
-    },
-    {
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "score": 451,
-      "comments": 203,
-      "source": "deepseek.com"
+      "title": "Smooth Move: Taming Trajectories with Polynomials",
+      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
+      "score": 22,
+      "comments": 0,
+      "source": "nick.zoic.org"
     },
     {
       "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "score": 100,
-      "comments": 39,
+      "score": 155,
+      "comments": 69,
       "source": "oxide.computer"
     },
     {
-      "title": "How art invented humanity",
-      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "score": 51,
-      "comments": 8,
-      "source": "aeon.co"
-    },
-    {
-      "title": "Ordinary abundance",
-      "url": "https://ordinaryabundance.com/",
-      "score": 111,
-      "comments": 36,
-      "source": "ordinaryabundance.com"
-    },
-    {
-      "title": "Gloomberb",
-      "url": "https://gloom.sh/",
-      "score": 303,
-      "comments": 156,
-      "source": "gloom.sh"
-    },
-    {
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "score": 131,
-      "comments": 57,
-      "source": "netlify.com"
-    },
-    {
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "score": 407,
-      "comments": 279,
-      "source": "community.openai.com"
-    },
-    {
-      "title": "GoAccess \u2013 Open-source real-time log analyzer and interactive viewer",
-      "url": "https://goaccess.io/",
-      "score": 20,
-      "comments": 2,
-      "source": "goaccess.io"
-    },
-    {
-      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "score": 95,
-      "comments": 54,
-      "source": "alexmorleyfinch.github.io"
-    },
-    {
-      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-      "url": "https://atg.science/careers",
-      "score": 1,
-      "comments": 0,
-      "source": "atg.science"
-    },
-    {
-      "title": "JDK 27 G1/Parallel/Serial GC Changes",
-      "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
-      "score": 14,
-      "comments": 2,
-      "source": "tschatzl.github.io"
-    },
-    {
-      "title": "Graduate student proves a quantum uncertainty principle for fractals",
-      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-      "score": 47,
-      "comments": 6,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "Show HN: MCP Memory \u2013 Fast Agent Memory Using Google's OKF and SQLite FTS5",
-      "url": "https://github.com/fellowgeek/mcp-memory",
-      "score": 47,
-      "comments": 29,
-      "source": "github.com"
+      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+      "score": 40,
+      "comments": 9,
+      "source": "nicole.express"
     },
     {
       "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
       "url": "https://www.codewithbullet.com",
-      "score": 25,
-      "comments": 27,
+      "score": 84,
+      "comments": 54,
       "source": "codewithbullet.com"
     },
     {
-      "title": "Better Gaussian Splatting in Julia",
-      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-      "score": 98,
-      "comments": 13,
-      "source": "pxl-th.github.io"
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "score": 89,
+      "comments": 47,
+      "source": "jdagostino.github.io"
     },
     {
-      "title": "Show HN: OJCP \u2013 an open protocol for agent-consumable job data",
-      "url": "https://ojcp.dev/",
-      "score": 16,
-      "comments": 3,
-      "source": "ojcp.dev"
-    },
-    {
-      "title": "I requested a copy of my data from McDonald\u2019s loyalty program",
-      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-      "score": 164,
-      "comments": 195,
-      "source": "wired.com"
-    },
-    {
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "score": 346,
-      "comments": 378,
-      "source": "tradersunion.com"
-    },
-    {
-      "title": "The Indo-European Family Tree",
-      "url": "https://djbinder.com/language-tree/",
-      "score": 42,
-      "comments": 32,
-      "source": "djbinder.com"
-    },
-    {
-      "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
-      "score": 26,
-      "comments": 2,
-      "source": "tlakoba.w3.uvm.edu"
+      "title": "Ordinary abundance",
+      "url": "https://ordinaryabundance.com/",
+      "score": 208,
+      "comments": 117,
+      "source": "ordinaryabundance.com"
     }
   ],
   "security": [
+    {
+      "title": "AWS Certificate Manager will discontinue email validation to prove domain validation for certificates",
+      "url": "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/",
+      "date": "2026-08-13 21:23:00",
+      "author": "Adam Aboudi"
+    },
     {
       "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
       "url": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager/",
       "date": "2026-08-06 22:03:36",
       "author": "Anthony Harvey"
-    },
-    {
-      "title": "Caching KMS data keys in multi-thread environments: Per-tenant encryption for event-driven systems at scale",
-      "url": "https://aws.amazon.com/blogs/security/caching-kms-data-keys-in-multi-thread-environments-per-tenant-encryption-for-event-driven-systems-at-scale/",
-      "date": "2026-08-06 16:16:06",
-      "author": "Maria Gutovsky"
     }
   ]
 }
