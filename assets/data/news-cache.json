@@ -1,102 +1,179 @@
 {
   "tech": [
     {
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "score": 358,
+      "comments": 189,
+      "source": "rvembedded.com"
+    },
+    {
+      "title": "The Life and Death of Direct File [pdf]",
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "score": 13,
+      "comments": 0,
+      "source": "ischool.berkeley.edu"
+    },
+    {
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 349,
-      "comments": 148,
+      "score": 526,
+      "comments": 222,
       "source": "platform.claude.com"
+    },
+    {
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "score": 67,
+      "comments": 29,
+      "source": "pikuma.com"
+    },
+    {
+      "title": "Low-Tech Ceramic Water Filter",
+      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "score": 88,
+      "comments": 22,
+      "source": "wiki.lowtechlab.org"
+    },
+    {
+      "title": "A quick look at zero-knowledge proofs",
+      "url": "https://bernsteinbear.com/blog/zkp/",
+      "score": 37,
+      "comments": 13,
+      "source": "bernsteinbear.com"
+    },
+    {
+      "title": "Protobuf has LSP support. You're welcome",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "score": 104,
+      "comments": 76,
+      "source": "buf.build"
     },
     {
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 138,
-      "comments": 54,
+      "score": 222,
+      "comments": 88,
       "source": "vectoral.com"
     },
     {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "score": 37,
-      "comments": 16,
-      "source": "rvembedded.com"
+      "title": "Models Are Getting Dumber on Purpose",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "score": 255,
+      "comments": 146,
+      "source": "w4g1.dev"
     },
     {
-      "title": "NIH is ending a key grant for budding clinical researchers",
-      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-      "score": 46,
-      "comments": 11,
-      "source": "science.org"
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "score": 54,
+      "comments": 17,
+      "source": "math-ai-org.github.io"
     },
     {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "score": 84,
-      "comments": 53,
-      "source": "wptv.com"
-    },
-    {
-      "title": "Anton Chekhov played at love most of his life",
-      "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
-      "score": 26,
-      "comments": 3,
-      "source": "commonreader.wustl.edu"
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "score": 91,
+      "comments": 22,
+      "source": "reuters.com"
     },
     {
       "title": "Clamiga: Common Lisp for the Amiga",
       "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-      "score": 38,
-      "comments": 2,
+      "score": 81,
+      "comments": 8,
       "source": "nnamgreb.de"
     },
     {
-      "title": "GPS and the Lost Art of Getting Lost",
-      "url": "https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost",
-      "score": 37,
-      "comments": 23,
-      "source": "newyorker.com"
+      "title": "Dancing with friends and enemies: boids' swarm intelligence",
+      "url": "https://community.wolfram.com/groups/-/m/t/122095",
+      "score": 5,
+      "comments": 1,
+      "source": "community.wolfram.com"
     },
     {
-      "title": "Firefox for iOS now has a native adblocker",
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "score": 328,
-      "comments": 128,
-      "source": "support.mozilla.org"
-    },
-    {
-      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918\u201322)",
-      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
-      "score": 13,
-      "comments": 2,
-      "source": "publicdomainreview.org"
+      "title": "Anton Chekhov played at love most of his life",
+      "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
+      "score": 58,
+      "comments": 13,
+      "source": "commonreader.wustl.edu"
     },
     {
       "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
       "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
-      "score": 8,
-      "comments": 2,
+      "score": 44,
+      "comments": 12,
       "source": "youtube.com"
     },
     {
-      "title": "Before Rightmove, there was the Cosmorama",
-      "url": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/",
-      "score": 9,
+      "title": "Firefox for iOS now has a native adblocker",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "score": 525,
+      "comments": 217,
+      "source": "support.mozilla.org"
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "score": 176,
+      "comments": 124,
+      "source": "bloomberg.com"
+    },
+    {
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "score": 155,
+      "comments": 117,
+      "source": "wptv.com"
+    },
+    {
+      "title": "Webmaster a Manifesto for Everyone",
+      "url": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
+      "score": 8,
       "comments": 1,
-      "source": "ianvisits.co.uk"
+      "source": "brennan.day"
+    },
+    {
+      "title": "NIH is ending a key grant for budding clinical researchers",
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "score": 135,
+      "comments": 67,
+      "source": "science.org"
+    },
+    {
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "score": 78,
+      "comments": 70,
+      "source": "ivan-gavran.github.io"
+    },
+    {
+      "title": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "score": 608,
+      "comments": 428,
+      "source": "asus.com"
     },
     {
       "title": "A True Telnet BBS on a Casio Calculator",
       "url": "https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/",
-      "score": 56,
-      "comments": 7,
+      "score": 84,
+      "comments": 9,
       "source": "ei3lh.eu"
     },
     {
-      "title": "The weekend is 100 years old",
-      "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-      "score": 91,
-      "comments": 53,
-      "source": "theguardian.com"
+      "title": "A SAT Attack on Tarski's High School Algebra Problem",
+      "url": "https://arxiv.org/abs/2608.08421",
+      "score": 82,
+      "comments": 34,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Before Rightmove, there was the Cosmorama",
+      "url": "https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/",
+      "score": 24,
+      "comments": 3,
+      "source": "ianvisits.co.uk"
     },
     {
       "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
@@ -106,109 +183,25 @@
       "source": "tasklet.ai"
     },
     {
-      "title": "A SAT Attack on Tarski's High School Algebra Problem",
-      "url": "https://arxiv.org/abs/2608.08421",
-      "score": 62,
-      "comments": 21,
-      "source": "arxiv.org"
-    },
-    {
       "title": "Chestnut \u2013 eGPU dock with open-source firmware",
       "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-      "score": 111,
-      "comments": 28,
+      "score": 134,
+      "comments": 39,
       "source": "hwbusters.com"
     },
     {
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-      "score": 255,
-      "comments": 97,
-      "source": "scholar.google.com"
-    },
-    {
-      "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
-      "url": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
-      "score": 6,
-      "comments": 0,
-      "source": "wunc.org"
-    },
-    {
-      "title": "Asus Bike Booster",
-      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 565,
-      "comments": 391,
-      "source": "asus.com"
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 139,
+      "comments": 140,
+      "source": "daringfireball.net"
     },
     {
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 249,
-      "comments": 27,
+      "score": 270,
+      "comments": 31,
       "source": "duckdb.org"
-    },
-    {
-      "title": "AI Coding Without the Vibes",
-      "url": "https://peterbloem.nl/blog/craft-coding",
-      "score": 51,
-      "comments": 28,
-      "source": "peterbloem.nl"
-    },
-    {
-      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
-      "url": "https://www.nature.com/articles/s41586-026-10857-1",
-      "score": 53,
-      "comments": 13,
-      "source": "nature.com"
-    },
-    {
-      "title": "Show HN: A public AI whose memory is shared across all users",
-      "url": "https://wildstatic.com/",
-      "score": 43,
-      "comments": 30,
-      "source": "wildstatic.com"
-    },
-    {
-      "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
-      "score": 22,
-      "comments": 33,
-      "source": "sciencedaily.com"
-    },
-    {
-      "title": "Does anyone run Postgres without PgBouncer?",
-      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
-      "score": 108,
-      "comments": 71,
-      "source": "brandur.org"
-    },
-    {
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "score": 242,
-      "comments": 58,
-      "source": "henrikkarlsson.xyz"
-    },
-    {
-      "title": "Super El Ni\u00f1o Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-      "score": 382,
-      "comments": 267,
-      "source": "severe-weather.eu"
-    },
-    {
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 468,
-      "comments": 368,
-      "source": "alz-journals.onlinelibrary.wiley.com"
-    },
-    {
-      "title": "Software Engineering fundamentals matter more",
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "score": 273,
-      "comments": 181,
-      "source": "rhonabwy.com"
     }
   ],
   "security": [
