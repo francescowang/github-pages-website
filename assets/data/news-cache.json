@@ -1,207 +1,207 @@
 {
   "tech": [
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 581,
-      "comments": 278,
-      "source": "simonwillison.net"
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "score": 345,
+      "comments": 55,
+      "source": "duckdb.org"
     },
     {
-      "title": "On A.I. regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "score": 124,
-      "comments": 215,
-      "source": "twitter.com"
+      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 195,
+      "comments": 90,
+      "source": "wiz.io"
     },
     {
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "score": 50,
+      "comments": 16,
+      "source": "artificialanalysis.ai"
+    },
+    {
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "score": 266,
+      "comments": 741,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "score": 146,
+      "comments": 64,
+      "source": "librarian.net"
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "score": 58,
+      "comments": 32,
+      "source": "speko.ai"
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 222,
+      "comments": 119,
+      "source": "blog.roboflow.com"
+    },
+    {
+      "title": "Olo (Color)",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "score": 141,
+      "comments": 33,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "score": 24,
+      "comments": 12,
+      "source": "sunclock.net"
+    },
+    {
+      "title": "How to put 170 atoms in an atom",
+      "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+      "score": 65,
+      "comments": 6,
+      "source": "signoregalilei.com"
+    },
+    {
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "score": 19,
+      "comments": 5,
+      "source": "current.org"
+    },
+    {
+      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
+      "url": "https://www.nature.com/articles/d41586-026-02498-1",
+      "score": 20,
+      "comments": 0,
+      "source": "nature.com"
+    },
+    {
+      "title": "Buy Your Friends Batteries",
+      "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
+      "score": 85,
+      "comments": 92,
+      "source": "domenkozar.com"
+    },
+    {
+      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
+      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "score": 39,
+      "comments": 27,
+      "source": "tomshardware.com"
+    },
+    {
+      "title": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "score": 391,
-      "comments": 382,
+      "score": 691,
+      "comments": 602,
       "source": "daringfireball.net"
     },
     {
-      "title": "People are worried about America's solvency",
-      "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
-      "score": 32,
-      "comments": 28,
-      "source": "ft.com"
+      "title": "Show HN: Sokoban AI Solver",
+      "url": "https://mkornreich.me/projects/sokoban/",
+      "score": 52,
+      "comments": 32,
+      "source": "mkornreich.me"
     },
     {
-      "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "score": 550,
-      "comments": 280,
-      "source": "rvembedded.com"
+      "title": "How I developed an Am29000 C compiler and web browser",
+      "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
+      "score": 54,
+      "comments": 7,
+      "source": "nanochess.org"
+    },
+    {
+      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
+      "url": "https://saggar.marginalutility.dev/",
+      "score": 27,
+      "comments": 22,
+      "source": "saggar.marginalutility.dev"
+    },
+    {
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "score": 202,
+      "comments": 75,
+      "source": "bundeskartellamt.de"
+    },
+    {
+      "title": "How to ship a database every day",
+      "url": "https://turbopuffer.com/blog/control-plane",
+      "score": 46,
+      "comments": 7,
+      "source": "turbopuffer.com"
+    },
+    {
+      "title": "On AI regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "score": 211,
+      "comments": 424,
+      "source": "twitter.com"
     },
     {
       "title": "Show HN: Desktopcolors.com \u2013 A museum for solid background colors of classic OS",
       "url": "https://desktopcolors.com",
-      "score": 34,
-      "comments": 17,
+      "score": 110,
+      "comments": 42,
       "source": "desktopcolors.com"
+    },
+    {
+      "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "score": 11,
+      "comments": 3,
+      "source": "cnbc.com"
+    },
+    {
+      "title": "Show HN: Learn Flags Quiz",
+      "url": "https://flagquizzes.com/",
+      "score": 27,
+      "comments": 14,
+      "source": "flagquizzes.com"
+    },
+    {
+      "title": "Mexico crackdown on coastal development",
+      "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+      "score": 98,
+      "comments": 24,
+      "source": "yucatanmagazine.com"
+    },
+    {
+      "title": "Anthropic's War on open source AI",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "score": 93,
+      "comments": 32,
+      "source": "twitter.com"
     },
     {
       "title": "Reticulum \u2013 Decentralized Mesh Network",
       "url": "https://reticulum.network/",
-      "score": 150,
-      "comments": 49,
+      "score": 212,
+      "comments": 66,
       "source": "reticulum.network"
-    },
-    {
-      "title": "How Go detects struct copies with sync.noCopy",
-      "url": "https://func25.dev/posts/go-sync-nocopy/",
-      "score": 5,
-      "comments": 5,
-      "source": "func25.dev"
-    },
-    {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 689,
-      "comments": 267,
-      "source": "platform.claude.com"
-    },
-    {
-      "title": "The Mysterious Syndrome Destroying Endurance Athletes",
-      "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
-      "score": 32,
-      "comments": 24,
-      "source": "outsideonline.com"
-    },
-    {
-      "title": "Production-ready detection and response queries for osquery",
-      "url": "https://github.com/chainguard-dev/osquery-defense-kit",
-      "score": 16,
-      "comments": 1,
-      "source": "github.com"
     },
     {
       "title": "Linear algebra done right",
       "url": "https://linear.axler.net/",
-      "score": 115,
-      "comments": 48,
+      "score": 214,
+      "comments": 82,
       "source": "linear.axler.net"
     },
     {
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "score": 99,
-      "comments": 13,
-      "source": "meanhamster.com"
-    },
-    {
-      "title": "Self hosted email continues to steeply decline",
-      "url": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
-      "score": 57,
-      "comments": 68,
-      "source": "labs.ripe.net"
-    },
-    {
-      "title": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "score": 97,
-      "comments": 30,
-      "source": "blog.racket-lang.org"
-    },
-    {
-      "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
-      "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
-      "score": 154,
-      "comments": 102,
-      "source": "support.google.com"
-    },
-    {
-      "title": "Gakutensoku",
-      "url": "https://en.wikipedia.org/wiki/Gakutensoku",
-      "score": 44,
-      "comments": 6,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "score": 128,
-      "comments": 54,
-      "source": "pikuma.com"
-    },
-    {
-      "title": "Applying a photosynthetic process to treat \u201cdry eye\u201d",
-      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-      "score": 55,
-      "comments": 17,
-      "source": "science.org"
-    },
-    {
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "score": 302,
-      "comments": 122,
-      "source": "vectoral.com"
-    },
-    {
-      "title": "GIMP Development Update",
-      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "score": 212,
-      "comments": 170,
-      "source": "gimp.org"
-    },
-    {
-      "title": "Protobuf has LSP support",
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "score": 163,
-      "comments": 111,
-      "source": "buf.build"
-    },
-    {
-      "title": "MathCode, Mathematical Coding Agent",
-      "url": "https://math-ai-org.github.io/mathcode/",
-      "score": 106,
-      "comments": 29,
-      "source": "math-ai-org.github.io"
-    },
-    {
-      "title": "Prolly: A content-addressed ordered map built on prolly trees",
-      "url": "https://github.com/crabbuild/prolly",
-      "score": 48,
-      "comments": 4,
-      "source": "github.com"
-    },
-    {
-      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "score": 396,
-      "comments": 244,
-      "source": "techcrunch.com"
-    },
-    {
-      "title": "Clamiga: Common Lisp for the Amiga",
-      "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
-      "score": 119,
-      "comments": 23,
-      "source": "nnamgreb.de"
-    },
-    {
-      "title": "Who Owns Commodore? The Retro PC Brand Still Exists, but a Lot Has Changed",
-      "url": "https://www.bgr.com/2233625/who-owns-commodore-retro-brand/",
-      "score": 3,
+      "title": "Cross-Validation From Scratch and a Surprise at n=100",
+      "url": "https://www.kenkoonwong.com/blog/crossvalidation/",
+      "score": 4,
       "comments": 0,
-      "source": "bgr.com"
-    },
-    {
-      "title": "Red queen hypothesis \u2013 A new way forward for self-improving AI",
-      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-      "score": 79,
-      "comments": 22,
-      "source": "cst.cam.ac.uk"
-    },
-    {
-      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
-      "score": 72,
-      "comments": 18,
-      "source": "youtube.com"
+      "source": "kenkoonwong.com"
     }
   ],
   "security": [
