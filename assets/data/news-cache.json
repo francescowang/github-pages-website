@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "score": 259,
+      "comments": 79,
+      "source": "pixelcluster.dev"
+    },
+    {
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "score": 164,
+      "comments": 83,
+      "source": "theregister.com"
+    },
+    {
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 400,
-      "comments": 272,
+      "score": 584,
+      "comments": 372,
       "source": "timmarinin.net"
+    },
+    {
+      "title": "Teaching my kid to code with a modern MUD",
+      "url": "https://tau.dev/2026/08/07/canon",
+      "score": 13,
+      "comments": 0,
+      "source": "tau.dev"
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 334,
-      "comments": 172,
+      "score": 514,
+      "comments": 329,
       "source": "openrouter.ai"
     },
     {
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 275,
-      "comments": 115,
+      "score": 394,
+      "comments": 171,
       "source": "fabiensanglard.net"
     },
     {
-      "title": "The Benchmarkpocalypse",
-      "url": "https://danluu.com/benchpocalypse/",
-      "score": 57,
-      "comments": 8,
-      "source": "danluu.com"
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "score": 690,
+      "comments": 394,
+      "source": "responsiblestatecraft.org"
     },
     {
-      "title": "Shattered skeleton is first confirmed death from trebuchet",
-      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "score": 47,
-      "comments": 30,
-      "source": "science.org"
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "score": 107,
+      "comments": 51,
+      "source": "acadia.engineering"
+    },
+    {
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+      "score": 33,
+      "comments": 5,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Finger: Social network that never died",
+      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+      "score": 44,
+      "comments": 16,
+      "source": "en.andros.dev"
     },
     {
       "title": "Fairphone 6 and PostmarketOS working main camera",
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 138,
-      "comments": 31,
+      "score": 238,
+      "comments": 55,
       "source": "catcrafts.net"
+    },
+    {
+      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+      "score": 50,
+      "comments": 18,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Ranking the Most Brilliantly Colored Birds with Data",
+      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "score": 43,
+      "comments": 4,
+      "source": "moultano.wordpress.com"
     },
     {
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 598,
-      "comments": 110,
+      "score": 665,
+      "comments": 118,
       "source": "duckdb.org"
     },
     {
-      "title": "The 37signals Manager Playbook",
-      "url": "https://basecamp.com/managers",
-      "score": 24,
-      "comments": 2,
-      "source": "basecamp.com"
+      "title": "Exercise intensity modulates interorgan communication and is associated with",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+      "score": 56,
+      "comments": 21,
+      "source": "cell.com"
     },
     {
       "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 353,
-      "comments": 137,
+      "score": 394,
+      "comments": 149,
       "source": "wiz.io"
     },
     {
-      "title": "Wellington second-hand bookstore's mysterious orders",
-      "url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
-      "score": 57,
-      "comments": 37,
-      "source": "rnz.co.nz"
+      "title": "The Benchmarkpocalypse",
+      "url": "https://danluu.com/benchpocalypse/",
+      "score": 130,
+      "comments": 38,
+      "source": "danluu.com"
     },
     {
       "title": "Olo (Color)",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "score": 391,
-      "comments": 74,
+      "score": 480,
+      "comments": 85,
       "source": "en.wikipedia.org"
     },
     {
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "score": 189,
-      "comments": 37,
+      "score": 228,
+      "comments": 47,
       "source": "arxiv.org"
+    },
+    {
+      "title": "An update on leaving Gmail for Fastmail",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "score": 267,
+      "comments": 168,
+      "source": "moddedbear.com"
+    },
+    {
+      "title": "Repair Cafe \u2013 Fix Your Broken Items",
+      "url": "https://www.repaircafe.org/",
+      "score": 140,
+      "comments": 28,
+      "source": "repaircafe.org"
     },
     {
       "title": "The Road to MS-DOS 2.0",
       "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
-      "score": 53,
-      "comments": 19,
+      "score": 87,
+      "comments": 37,
       "source": "nemanjatrifunovic.substack.com"
     },
     {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "score": 327,
-      "comments": 158,
+      "score": 348,
+      "comments": 163,
       "source": "blog.roboflow.com"
     },
     {
-      "title": "An update on leaving Gmail for Fastmail",
-      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-      "score": 179,
-      "comments": 122,
-      "source": "moddedbear.com"
-    },
-    {
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "score": 765,
-      "comments": 491,
-      "source": "rickmanelius.com"
-    },
-    {
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "score": 336,
-      "comments": 212,
-      "source": "responsiblestatecraft.org"
-    },
-    {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "score": 154,
-      "comments": 59,
-      "source": "current.org"
-    },
-    {
-      "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
-      "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-      "score": 134,
-      "comments": 46,
-      "source": "newyorker.com"
-    },
-    {
-      "title": "India has paved the way for charging merchants a fee on UPI transactions",
-      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-      "score": 131,
-      "comments": 156,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Sun Clock",
-      "url": "https://sunclock.net/",
-      "score": 209,
-      "comments": 67,
-      "source": "sunclock.net"
+      "title": "Shattered skeleton is first confirmed death from trebuchet",
+      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+      "score": 79,
+      "comments": 52,
+      "source": "science.org"
     },
     {
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
-      "score": 281,
-      "comments": 165,
+      "score": 312,
+      "comments": 186,
       "source": "librarian.net"
     },
     {
-      "title": "Repair Cafe \u2013 Fix Your Broken Items",
-      "url": "https://www.repaircafe.org/",
-      "score": 81,
-      "comments": 10,
-      "source": "repaircafe.org"
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "score": 255,
+      "comments": 81,
+      "source": "sunclock.net"
     },
     {
-      "title": "How do functions like alloca allocate memory from the stack?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
-      "score": 48,
-      "comments": 21,
-      "source": "devblogs.microsoft.com"
+      "title": "Climbing Guide as a Shared Infrastructure",
+      "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+      "score": 28,
+      "comments": 12,
+      "source": "irz.fr"
     },
     {
-      "title": "Ghosts of the Past and Devils of the Present",
-      "url": "https://thenewcuriosityshop.substack.com/p/ghosts-of-the-past-and-devils-of",
-      "score": 4,
-      "comments": 0,
-      "source": "thenewcuriosityshop.substack.com"
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "score": 173,
+      "comments": 68,
+      "source": "current.org"
     },
     {
-      "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
-      "url": "https://speko.ai/",
-      "score": 99,
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "score": 964,
+      "comments": 584,
+      "source": "rickmanelius.com"
+    },
+    {
+      "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+      "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+      "score": 154,
       "comments": 58,
-      "source": "speko.ai"
-    },
-    {
-      "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
-      "url": "https://www.nature.com/articles/d41586-026-02498-1",
-      "score": 119,
-      "comments": 30,
-      "source": "nature.com"
-    },
-    {
-      "title": "A digestion of the proof of Sendov's conjecture",
-      "url": "https://terrytao.wordpress.com/2026/08/12/a-digestion-of-the-proof-of-sendovs-conjecture/",
-      "score": 23,
-      "comments": 9,
-      "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "scScript for Linux",
-      "url": "https://scapplications.com/",
-      "score": 30,
-      "comments": 10,
-      "source": "scapplications.com"
+      "source": "newyorker.com"
     }
   ],
   "security": [
