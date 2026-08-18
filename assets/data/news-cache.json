@@ -1,217 +1,209 @@
 {
   "tech": [
     {
+      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "score": 185,
+      "comments": 112,
+      "source": "support.claude.com"
+    },
+    {
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "score": 92,
+      "comments": 74,
+      "source": "asmedigitalcollection.asme.org"
+    },
+    {
+      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 13,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "score": 293,
+      "comments": 52,
+      "source": "philo.gay"
+    },
+    {
+      "title": "Fixing a bricked Framework laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 238,
+      "comments": 152,
+      "source": "quantum5.ca"
+    },
+    {
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 540,
+      "comments": 376,
+      "source": "seths.blog"
+    },
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "score": 11,
+      "comments": 2,
+      "source": "ikea.com"
+    },
+    {
+      "title": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "score": 256,
+      "comments": 202,
+      "source": "cursor.com"
+    },
+    {
+      "title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io",
+      "score": 25,
+      "comments": 17,
+      "source": "machine0.io"
+    },
+    {
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "score": 259,
-      "comments": 79,
+      "score": 436,
+      "comments": 192,
       "source": "pixelcluster.dev"
     },
     {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "score": 164,
-      "comments": 83,
-      "source": "theregister.com"
-    },
-    {
-      "title": "How Bluesky draws its logo on screenshots",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 584,
-      "comments": 372,
-      "source": "timmarinin.net"
-    },
-    {
-      "title": "Teaching my kid to code with a modern MUD",
-      "url": "https://tau.dev/2026/08/07/canon",
-      "score": 13,
-      "comments": 0,
-      "source": "tau.dev"
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 514,
-      "comments": 329,
-      "source": "openrouter.ai"
-    },
-    {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 394,
-      "comments": 171,
-      "source": "fabiensanglard.net"
-    },
-    {
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "score": 690,
-      "comments": 394,
-      "source": "responsiblestatecraft.org"
-    },
-    {
-      "title": "Rethinking Database Programming",
-      "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "score": 107,
-      "comments": 51,
-      "source": "acadia.engineering"
-    },
-    {
-      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-      "score": 33,
+      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+      "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+      "score": 28,
       "comments": 5,
       "source": "arstechnica.com"
     },
     {
-      "title": "Finger: Social network that never died",
-      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "score": 44,
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "score": 106,
       "comments": 16,
-      "source": "en.andros.dev"
+      "source": "opensource.posit.co"
     },
     {
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 238,
-      "comments": 55,
-      "source": "catcrafts.net"
+      "title": "Splitting a Git Commit",
+      "url": "https://blog.gnoack.org/post/git-history-split",
+      "score": 79,
+      "comments": 36,
+      "source": "blog.gnoack.org"
     },
     {
-      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
-      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
-      "score": 50,
-      "comments": 18,
-      "source": "youtube.com"
+      "title": "Superpowers, Not Superintelligence",
+      "url": "https://bond.now/news/superpowers-not-superintelligence",
+      "score": 19,
+      "comments": 22,
+      "source": "bond.now"
     },
     {
-      "title": "Ranking the Most Brilliantly Colored Birds with Data",
-      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-      "score": 43,
-      "comments": 4,
-      "source": "moultano.wordpress.com"
+      "title": "Teaching my kid to code with a modern MUD",
+      "url": "https://tau.dev/2026/08/07/canon",
+      "score": 173,
+      "comments": 50,
+      "source": "tau.dev"
     },
     {
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 665,
-      "comments": 118,
-      "source": "duckdb.org"
+      "title": "Memory prices climb 500% in 12 months",
+      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "score": 214,
+      "comments": 162,
+      "source": "tomshardware.com"
     },
     {
-      "title": "Exercise intensity modulates interorgan communication and is associated with",
-      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
-      "score": 56,
-      "comments": 21,
-      "source": "cell.com"
+      "title": "Evolve: An incremental game about evolving a civilization",
+      "url": "https://pmotschmann.github.io/Evolve/",
+      "score": 6,
+      "comments": 1,
+      "source": "pmotschmann.github.io"
     },
     {
-      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 394,
-      "comments": 149,
-      "source": "wiz.io"
+      "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+      "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+      "score": 162,
+      "comments": 37,
+      "source": "theconversation.com"
     },
     {
-      "title": "The Benchmarkpocalypse",
-      "url": "https://danluu.com/benchpocalypse/",
-      "score": 130,
-      "comments": 38,
-      "source": "danluu.com"
+      "title": "Fairphone is now officially available in the United States",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "score": 281,
+      "comments": 137,
+      "source": "fairphone.com"
     },
     {
-      "title": "Olo (Color)",
-      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "score": 480,
-      "comments": 85,
-      "source": "en.wikipedia.org"
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "url": "https://github.com/biw/keychain-store",
+      "score": 4,
+      "comments": 0,
+      "source": "github.com"
     },
     {
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/abs/2608.13759",
-      "score": 228,
-      "comments": 47,
+      "title": "Show HN: Openleetcode \u2013 local LeetCode runner where tests live in the repo",
+      "url": "https://github.com/therepanic/openleetcode",
+      "score": 18,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "score": 484,
+      "comments": 592,
+      "source": "ysph.yale.edu"
+    },
+    {
+      "title": "Code-native generation of highly programmable 3D assets (2026)",
+      "url": "https://arxiv.org/abs/2607.22738",
+      "score": 36,
+      "comments": 34,
       "source": "arxiv.org"
     },
     {
-      "title": "An update on leaving Gmail for Fastmail",
-      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-      "score": 267,
-      "comments": 168,
-      "source": "moddedbear.com"
+      "title": "California's new tire efficiency rules could save drivers $1B a year",
+      "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
+      "score": 81,
+      "comments": 108,
+      "source": "grist.org"
     },
     {
-      "title": "Repair Cafe \u2013 Fix Your Broken Items",
-      "url": "https://www.repaircafe.org/",
-      "score": 140,
-      "comments": 28,
-      "source": "repaircafe.org"
+      "title": "Google has acquired the data of failed US airline Spirit",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "score": 495,
+      "comments": 344,
+      "source": "theregister.com"
     },
     {
-      "title": "The Road to MS-DOS 2.0",
-      "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
-      "score": 87,
-      "comments": 37,
-      "source": "nemanjatrifunovic.substack.com"
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "score": 199,
+      "comments": 102,
+      "source": "acadia.engineering"
     },
     {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "score": 348,
-      "comments": 163,
-      "source": "blog.roboflow.com"
+      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+      "score": 207,
+      "comments": 129,
+      "source": "privacyguides.org"
     },
     {
-      "title": "Shattered skeleton is first confirmed death from trebuchet",
-      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "score": 79,
-      "comments": 52,
-      "source": "science.org"
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "score": 312,
-      "comments": 186,
-      "source": "librarian.net"
-    },
-    {
-      "title": "Sun Clock",
-      "url": "https://sunclock.net/",
-      "score": 255,
-      "comments": 81,
-      "source": "sunclock.net"
-    },
-    {
-      "title": "Climbing Guide as a Shared Infrastructure",
-      "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
-      "score": 28,
+      "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+      "score": 34,
       "comments": 12,
-      "source": "irz.fr"
-    },
-    {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "score": 173,
-      "comments": 68,
-      "source": "current.org"
-    },
-    {
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "score": 964,
-      "comments": 584,
-      "source": "rickmanelius.com"
-    },
-    {
-      "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
-      "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-      "score": 154,
-      "comments": 58,
-      "source": "newyorker.com"
+      "source": "bloomberg.com"
     }
   ],
   "security": [
+    {
+      "title": "Security Hub Extended adds Supply Chain Security as its tenth category",
+      "url": "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/",
+      "date": "2026-08-18 17:04:28",
+      "author": "Michael Fuller"
+    },
     {
       "title": "Updates to your AWS Sign-In experience",
       "url": "https://aws.amazon.com/blogs/security/updates-to-your-aws-sign-in-experience/",
@@ -265,12 +257,6 @@
       "url": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad/",
       "date": "2026-08-07 19:37:57",
       "author": "Vladimir Provorov"
-    },
-    {
-      "title": "Securing your Amazon S3 buckets: Identifying and remediating over-permissioned access",
-      "url": "https://aws.amazon.com/blogs/security/securing-your-amazon-s3-buckets-identifying-and-remediating-over-permissioned-access/",
-      "date": "2026-08-07 16:46:40",
-      "author": "Hetal Kolekar"
     }
   ]
 }
