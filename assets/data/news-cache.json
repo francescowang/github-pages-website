@@ -1,210 +1,216 @@
 {
   "tech": [
     {
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "score": 183,
+      "comments": 132,
+      "source": "timmarinin.net"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "score": 121,
+      "comments": 55,
+      "source": "fabiensanglard.net"
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "score": 72,
+      "comments": 14,
+      "source": "catcrafts.net"
+    },
+    {
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 345,
-      "comments": 55,
+      "score": 524,
+      "comments": 93,
       "source": "duckdb.org"
     },
     {
-      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 195,
-      "comments": 90,
-      "source": "wiz.io"
-    },
-    {
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "score": 50,
-      "comments": 16,
-      "source": "artificialanalysis.ai"
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "score": 153,
+      "comments": 34,
+      "source": "arxiv.org"
     },
     {
       "title": "Incident with Github.com",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 266,
-      "comments": 741,
+      "score": 520,
+      "comments": 906,
       "source": "githubstatus.com"
     },
     {
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "score": 146,
-      "comments": 64,
-      "source": "librarian.net"
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "score": 77,
+      "comments": 23,
+      "source": "openrouter.ai"
     },
     {
-      "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
-      "url": "https://speko.ai/",
-      "score": 58,
-      "comments": 32,
-      "source": "speko.ai"
+      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 310,
+      "comments": 124,
+      "source": "wiz.io"
     },
     {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "score": 222,
-      "comments": 119,
-      "source": "blog.roboflow.com"
+      "title": "Flock cameras haven't improved Atlanta's crime clearance rates",
+      "url": "https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/",
+      "score": 19,
+      "comments": 5,
+      "source": "atlpresscollective.com"
     },
     {
       "title": "Olo (Color)",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "score": 141,
-      "comments": 33,
+      "score": 303,
+      "comments": 64,
       "source": "en.wikipedia.org"
     },
     {
-      "title": "Sun Clock",
-      "url": "https://sunclock.net/",
-      "score": 24,
-      "comments": 12,
-      "source": "sunclock.net"
+      "title": "The Road to MS-DOS 2.0",
+      "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
+      "score": 12,
+      "comments": 1,
+      "source": "nemanjatrifunovic.substack.com"
     },
     {
-      "title": "How to put 170 atoms in an atom",
-      "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-      "score": 65,
-      "comments": 6,
-      "source": "signoregalilei.com"
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 297,
+      "comments": 152,
+      "source": "blog.roboflow.com"
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "score": 562,
+      "comments": 354,
+      "source": "rickmanelius.com"
     },
     {
       "title": "Judge sets framework for Nine PBS to retrieve archival data",
       "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "score": 19,
-      "comments": 5,
+      "score": 130,
+      "comments": 52,
       "source": "current.org"
+    },
+    {
+      "title": "How do functions like alloca allocate memory from the stack?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+      "score": 23,
+      "comments": 4,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "score": 164,
+      "comments": 54,
+      "source": "sunclock.net"
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "score": 249,
+      "comments": 152,
+      "source": "librarian.net"
+    },
+    {
+      "title": "PM Carney announces largest clean energy investment in North American history",
+      "url": "https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north",
+      "score": 18,
+      "comments": 2,
+      "source": "pm.gc.ca"
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "score": 90,
+      "comments": 51,
+      "source": "speko.ai"
     },
     {
       "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
       "url": "https://www.nature.com/articles/d41586-026-02498-1",
-      "score": 20,
-      "comments": 0,
+      "score": 97,
+      "comments": 14,
       "source": "nature.com"
     },
     {
-      "title": "Buy Your Friends Batteries",
-      "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-      "score": 85,
-      "comments": 92,
-      "source": "domenkozar.com"
-    },
-    {
-      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "score": 39,
-      "comments": 27,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "Anthropic's \u2018watermark\u2019 text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "score": 691,
-      "comments": 602,
-      "source": "daringfireball.net"
-    },
-    {
-      "title": "Show HN: Sokoban AI Solver",
-      "url": "https://mkornreich.me/projects/sokoban/",
-      "score": 52,
-      "comments": 32,
-      "source": "mkornreich.me"
-    },
-    {
-      "title": "How I developed an Am29000 C compiler and web browser",
-      "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-      "score": 54,
-      "comments": 7,
-      "source": "nanochess.org"
-    },
-    {
-      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
-      "url": "https://saggar.marginalutility.dev/",
-      "score": 27,
-      "comments": 22,
-      "source": "saggar.marginalutility.dev"
-    },
-    {
-      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-      "score": 202,
-      "comments": 75,
-      "source": "bundeskartellamt.de"
-    },
-    {
-      "title": "How to ship a database every day",
-      "url": "https://turbopuffer.com/blog/control-plane",
-      "score": 46,
-      "comments": 7,
-      "source": "turbopuffer.com"
-    },
-    {
-      "title": "On AI regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "score": 211,
-      "comments": 424,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Show HN: Desktopcolors.com \u2013 A museum for solid background colors of classic OS",
-      "url": "https://desktopcolors.com",
-      "score": 110,
-      "comments": 42,
-      "source": "desktopcolors.com"
-    },
-    {
-      "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
-      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-      "score": 11,
+      "title": "Puppy PPE",
+      "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
+      "score": 12,
       "comments": 3,
-      "source": "cnbc.com"
+      "source": "amosdudley.com"
     },
     {
-      "title": "Show HN: Learn Flags Quiz",
-      "url": "https://flagquizzes.com/",
-      "score": 27,
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "score": 42,
+      "comments": 3,
+      "source": "blog.roboflow.com"
+    },
+    {
+      "title": "A simple fix for LLM tail latency",
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+      "score": 36,
       "comments": 14,
-      "source": "flagquizzes.com"
+      "source": "engineering.myhoai.com"
     },
     {
-      "title": "Mexico crackdown on coastal development",
-      "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
-      "score": 98,
-      "comments": 24,
-      "source": "yucatanmagazine.com"
+      "title": "Intriguing stories in computer science",
+      "url": "https://inventwithpython.com/blog/intriguing-stories-in-cs.html",
+      "score": 27,
+      "comments": 4,
+      "source": "inventwithpython.com"
     },
     {
-      "title": "Anthropic's War on open source AI",
-      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "score": 93,
-      "comments": 32,
-      "source": "twitter.com"
+      "title": "GitHub degradation affects Cursor Origin, its new Git platform",
+      "url": "https://status.cursor.com/incidents/l9h9vrd726jv",
+      "score": 21,
+      "comments": 3,
+      "source": "status.cursor.com"
     },
     {
-      "title": "Reticulum \u2013 Decentralized Mesh Network",
-      "url": "https://reticulum.network/",
-      "score": 212,
-      "comments": 66,
-      "source": "reticulum.network"
+      "title": "The oldest bar in every state",
+      "url": "https://www.businessinsider.com/oldest-bar-every-state",
+      "score": 64,
+      "comments": 31,
+      "source": "businessinsider.com"
     },
     {
-      "title": "Linear algebra done right",
-      "url": "https://linear.axler.net/",
-      "score": 214,
-      "comments": 82,
-      "source": "linear.axler.net"
+      "title": "scScript for Linux",
+      "url": "https://scapplications.com/",
+      "score": 10,
+      "comments": 2,
+      "source": "scapplications.com"
     },
     {
-      "title": "Cross-Validation From Scratch and a Surprise at n=100",
-      "url": "https://www.kenkoonwong.com/blog/crossvalidation/",
-      "score": 4,
-      "comments": 0,
-      "source": "kenkoonwong.com"
+      "title": "Repair Cafe \u2013 Fix Your Broken Items",
+      "url": "https://www.repaircafe.org/",
+      "score": 5,
+      "comments": 1,
+      "source": "repaircafe.org"
+    },
+    {
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "score": 300,
+      "comments": 132,
+      "source": "artificialanalysis.ai"
     }
   ],
   "security": [
+    {
+      "title": "Updates to your AWS Sign-In experience",
+      "url": "https://aws.amazon.com/blogs/security/updates-to-your-aws-sign-in-experience/",
+      "date": "2026-08-17 17:22:33",
+      "author": "Vaibhav Chowla"
+    },
     {
       "title": "AWS Certificate Manager will discontinue email validation to prove domain validation for certificates",
       "url": "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/",
@@ -258,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/securing-your-amazon-s3-buckets-identifying-and-remediating-over-permissioned-access/",
       "date": "2026-08-07 16:46:40",
       "author": "Hetal Kolekar"
-    },
-    {
-      "title": "Automate certificates with ACME support in AWS Certificate Manager",
-      "url": "https://aws.amazon.com/blogs/security/automate-certificates-with-acme-support-in-aws-certificate-manager/",
-      "date": "2026-08-06 22:03:36",
-      "author": "Anthony Harvey"
     }
   ]
 }
