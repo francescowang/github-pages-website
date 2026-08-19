@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "score": 185,
-      "comments": 131,
-      "source": "economist.com"
+      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "score": 75,
+      "comments": 15,
+      "source": "grapheneos.social"
     },
     {
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "score": 289,
-      "comments": 57,
+      "score": 971,
+      "comments": 263,
       "source": "openlogi.org"
     },
     {
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "score": 63,
-      "comments": 11,
-      "source": "terrytao.wordpress.com"
-    },
-    {
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "score": 143,
-      "comments": 82,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Supersonic Trebuchet [video]",
-      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "score": 46,
-      "comments": 3,
-      "source": "youtube.com"
+      "title": "Air Theremin \u2013 a browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "score": 70,
+      "comments": 37,
+      "source": "theremin.bizibah.com"
     },
     {
       "title": "Cerebras CS-4",
       "url": "https://www.cerebras.ai/cs4",
-      "score": 199,
-      "comments": 139,
+      "score": 343,
+      "comments": 214,
       "source": "cerebras.ai"
+    },
+    {
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "url": "https://yassa9.github.io/osint/gralhix-004/",
+      "score": 3,
+      "comments": 0,
+      "source": "yassa9.github.io"
+    },
+    {
+      "title": "Being ambitious and being a dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 629,
+      "comments": 424,
+      "source": "nicholascharriere.com"
+    },
+    {
+      "title": "Supersonic Trebuchet [video]",
+      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+      "score": 152,
+      "comments": 64,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
+      "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
+      "score": 25,
+      "comments": 10,
+      "source": "phys.org"
+    },
+    {
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "score": 125,
+      "comments": 25,
+      "source": "terrytao.wordpress.com"
     },
     {
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 236,
-      "comments": 78,
+      "score": 315,
+      "comments": 130,
       "source": "github.com"
     },
     {
-      "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
-      "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
-      "score": 23,
-      "comments": 0,
-      "source": "koh-antique.com"
+      "title": "Activation Energy is a good model for a lot of things",
+      "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
+      "score": 40,
+      "comments": 8,
+      "source": "homosabiens.substack.com"
+    },
+    {
+      "title": "\u03bb\u03bb: A Programming Language for Silicon Photonics",
+      "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+      "score": 41,
+      "comments": 11,
+      "source": "dl.acm.org"
     },
     {
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 301,
-      "comments": 178,
+      "score": 384,
+      "comments": 265,
       "source": "ikea.com"
     },
     {
-      "title": "CUDA Shared Memory Swizzling",
-      "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
-      "score": 31,
-      "comments": 0,
-      "source": "leimao.github.io"
-    },
-    {
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "score": 108,
-      "comments": 56,
-      "source": "linear.app"
+      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+      "url": "https://www.modular.com/blog/modcon-announcements",
+      "score": 106,
+      "comments": 37,
+      "source": "modular.com"
     },
     {
       "title": "Solo \u2013 a .so loader for static Linux binaries",
       "url": "https://github.com/pg83/solo",
-      "score": 105,
-      "comments": 85,
+      "score": 156,
+      "comments": 179,
+      "source": "github.com"
+    },
+    {
+      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "score": 315,
+      "comments": 253,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Finger: the 1971 social network that never died",
+      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+      "score": 240,
+      "comments": 73,
+      "source": "en.andros.dev"
+    },
+    {
+      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+      "score": 225,
+      "comments": 101,
+      "source": "xda-developers.com"
+    },
+    {
+      "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+      "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+      "score": 44,
+      "comments": 3,
+      "source": "koh-antique.com"
+    },
+    {
+      "title": "Win-V combo from Windows on Ubuntu",
+      "url": "https://leo98ml.github.io/win-v/",
+      "score": 7,
+      "comments": 3,
+      "source": "leo98ml.github.io"
+    },
+    {
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "score": 232,
+      "comments": 176,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 265,
+      "comments": 32,
       "source": "github.com"
     },
     {
       "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
       "url": "https://github.com/katiahayati/lucasartsifier/",
-      "score": 29,
-      "comments": 12,
+      "score": 92,
+      "comments": 39,
       "source": "github.com"
-    },
-    {
-      "title": "Cursor launches Origin, GitHub alternative",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "score": 545,
-      "comments": 401,
-      "source": "cursor.com"
-    },
-    {
-      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 230,
-      "comments": 31,
-      "source": "github.com"
-    },
-    {
-      "title": "Finger: the 1971 social network that never died",
-      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "score": 176,
-      "comments": 54,
-      "source": "en.andros.dev"
-    },
-    {
-      "title": "And then the men with guns tell you to do it anyway",
-      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
-      "score": 266,
-      "comments": 167,
-      "source": "shkspr.mobi"
-    },
-    {
-      "title": "Memory prices climb 500% in 12 months",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "score": 574,
-      "comments": 475,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
-      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
-      "score": 151,
-      "comments": 50,
-      "source": "xda-developers.com"
-    },
-    {
-      "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool",
-      "url": "https://blog.regehr.org/archives/2124",
-      "score": 4,
-      "comments": 0,
-      "source": "blog.regehr.org"
     },
     {
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 1104,
-      "comments": 610,
+      "score": 1226,
+      "comments": 639,
       "source": "seths.blog"
     },
     {
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
-      "score": 68,
-      "comments": 7,
-      "source": "modelmap.cc"
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "score": 348,
+      "comments": 253,
+      "source": "shkspr.mobi"
     },
     {
-      "title": "Sticky wage norms and the real wage cost of unexpected inflation",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "score": 345,
-      "comments": 194,
-      "source": "bfi.uchicago.edu"
-    },
-    {
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "score": 170,
-      "comments": 142,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "score": 816,
-      "comments": 862,
-      "source": "ysph.yale.edu"
-    },
-    {
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 405,
-      "comments": 241,
-      "source": "nicholascharriere.com"
-    },
-    {
-      "title": "Tiny satellite will use the dark side of the Moon as a shield",
-      "url": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
-      "score": 31,
-      "comments": 5,
-      "source": "cam.ac.uk"
-    },
-    {
-      "title": "That Disgraceful, Disreputable, (Wonderful) Form of Punctuation: The Parenthesis",
-      "url": "https://lithub.com/on-that-disgraceful-disreputable-wonderful-form-of-punctuation-the-parenthesis/",
-      "score": 21,
-      "comments": 14,
-      "source": "lithub.com"
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "score": 271,
+      "comments": 221,
+      "source": "economist.com"
     },
     {
       "title": "Apple announces changes for apps in the European Union",
       "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "score": 150,
-      "comments": 205,
+      "score": 228,
+      "comments": 316,
       "source": "apple.com"
     },
     {
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 509,
-      "comments": 126,
-      "source": "about.iceland.co.uk"
+      "title": "Looking for Missed Alarm Bugs in a Formal Verification Tool",
+      "url": "https://blog.regehr.org/archives/2124",
+      "score": 19,
+      "comments": 1,
+      "source": "blog.regehr.org"
+    },
+    {
+      "title": "CUDA Shared Memory Swizzling",
+      "url": "https://leimao.github.io/blog/CUDA-Shared-Memory-Swizzling/",
+      "score": 55,
+      "comments": 2,
+      "source": "leimao.github.io"
+    },
+    {
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "url": "https://modelmap.cc",
+      "score": 91,
+      "comments": 10,
+      "source": "modelmap.cc"
     }
   ],
   "security": [
