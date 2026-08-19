@@ -1,203 +1,223 @@
 {
   "tech": [
     {
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "score": 185,
-      "comments": 112,
-      "source": "support.claude.com"
-    },
-    {
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "score": 92,
-      "comments": 74,
-      "source": "asmedigitalcollection.asme.org"
-    },
-    {
-      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 13,
-      "comments": 1,
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "score": 123,
+      "comments": 30,
       "source": "github.com"
     },
     {
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "score": 293,
-      "comments": 52,
-      "source": "philo.gay"
-    },
-    {
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 238,
-      "comments": 152,
-      "source": "quantum5.ca"
+      "title": "Solo \u2013 a .so loader for static Linux binaries",
+      "url": "https://github.com/pg83/solo",
+      "score": 21,
+      "comments": 18,
+      "source": "github.com"
     },
     {
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 540,
-      "comments": 376,
+      "score": 903,
+      "comments": 526,
       "source": "seths.blog"
     },
     {
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 11,
-      "comments": 2,
+      "score": 217,
+      "comments": 137,
       "source": "ikea.com"
+    },
+    {
+      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+      "url": "https://modelmap.cc",
+      "score": 23,
+      "comments": 1,
+      "source": "modelmap.cc"
+    },
+    {
+      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 200,
+      "comments": 27,
+      "source": "github.com"
+    },
+    {
+      "title": "Being ambitious and being a dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 245,
+      "comments": 129,
+      "source": "nicholascharriere.com"
+    },
+    {
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "score": 29,
+      "comments": 17,
+      "source": "linear.app"
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "score": 392,
+      "comments": 63,
+      "source": "philo.gay"
     },
     {
       "title": "Cursor launches Origin, GitHub alternative",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "score": 256,
-      "comments": 202,
+      "score": 452,
+      "comments": 360,
       "source": "cursor.com"
     },
     {
-      "title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
-      "url": "https://machine0.io",
-      "score": 25,
-      "comments": 17,
-      "source": "machine0.io"
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "score": 430,
+      "comments": 121,
+      "source": "about.iceland.co.uk"
     },
     {
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "score": 436,
-      "comments": 192,
-      "source": "pixelcluster.dev"
+      "title": "Fixing a bricked Framework laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 347,
+      "comments": 239,
+      "source": "quantum5.ca"
     },
     {
-      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-      "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-      "score": 28,
-      "comments": 5,
-      "source": "arstechnica.com"
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "score": 69,
+      "comments": 31,
+      "source": "artificialanalysis.ai"
     },
     {
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "score": 106,
-      "comments": 16,
-      "source": "opensource.posit.co"
+      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
+      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
+      "score": 73,
+      "comments": 21,
+      "source": "xda-developers.com"
     },
     {
-      "title": "Splitting a Git Commit",
-      "url": "https://blog.gnoack.org/post/git-history-split",
-      "score": 79,
-      "comments": 36,
-      "source": "blog.gnoack.org"
-    },
-    {
-      "title": "Superpowers, Not Superintelligence",
-      "url": "https://bond.now/news/superpowers-not-superintelligence",
-      "score": 19,
-      "comments": 22,
-      "source": "bond.now"
-    },
-    {
-      "title": "Teaching my kid to code with a modern MUD",
-      "url": "https://tau.dev/2026/08/07/canon",
-      "score": 173,
-      "comments": 50,
-      "source": "tau.dev"
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "score": 149,
+      "comments": 74,
+      "source": "shkspr.mobi"
     },
     {
       "title": "Memory prices climb 500% in 12 months",
       "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "score": 214,
-      "comments": 162,
+      "score": 466,
+      "comments": 383,
       "source": "tomshardware.com"
     },
     {
-      "title": "Evolve: An incremental game about evolving a civilization",
-      "url": "https://pmotschmann.github.io/Evolve/",
-      "score": 6,
-      "comments": 1,
-      "source": "pmotschmann.github.io"
-    },
-    {
-      "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
-      "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-      "score": 162,
-      "comments": 37,
-      "source": "theconversation.com"
-    },
-    {
-      "title": "Fairphone is now officially available in the United States",
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-      "score": 281,
-      "comments": 137,
-      "source": "fairphone.com"
-    },
-    {
-      "title": "Show HN: macOS data protection keychain for Electron apps",
-      "url": "https://github.com/biw/keychain-store",
-      "score": 4,
+      "title": "The 90-year history of the binoculars bolted to scenic overlooks",
+      "url": "https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/",
+      "score": 14,
       "comments": 0,
-      "source": "github.com"
+      "source": "dpreview.com"
     },
     {
-      "title": "Show HN: Openleetcode \u2013 local LeetCode runner where tests live in the repo",
-      "url": "https://github.com/therepanic/openleetcode",
-      "score": 18,
-      "comments": 8,
-      "source": "github.com"
+      "title": "Show HN: Loft Day \u2013 a wedding invitation turned point-and-click game",
+      "url": "https://marketa.behdad.org/loft-day",
+      "score": 5,
+      "comments": 0,
+      "source": "marketa.behdad.org"
+    },
+    {
+      "title": "How a giant battery is transforming a town centre in Cannington, Ontario",
+      "url": "https://betakit.com/how-a-giant-battery-is-transforming-a-town-centre-in-cannington-ontario/",
+      "score": 13,
+      "comments": 7,
+      "source": "betakit.com"
+    },
+    {
+      "title": "Programmable Property-Based Testing",
+      "url": "https://dl.acm.org/doi/10.1145/3828685",
+      "score": 13,
+      "comments": 1,
+      "source": "dl.acm.org"
+    },
+    {
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "score": 205,
+      "comments": 224,
+      "source": "onethousandmeans.com"
+    },
+    {
+      "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
+      "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
+      "score": 69,
+      "comments": 22,
+      "source": "theartnewspaper.com"
+    },
+    {
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "score": 105,
+      "comments": 165,
+      "source": "apple.com"
+    },
+    {
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "score": 107,
+      "comments": 71,
+      "source": "cdn.kuber.studio"
+    },
+    {
+      "title": "Simulated red blood cells and microscopy",
+      "url": "https://lucasamoudruz.com/blog/red-blood-cells.html",
+      "score": 6,
+      "comments": 0,
+      "source": "lucasamoudruz.com"
     },
     {
       "title": "Universal health coverage could save $1T and 114k lives a year: study",
       "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "score": 484,
-      "comments": 592,
+      "score": 691,
+      "comments": 786,
       "source": "ysph.yale.edu"
     },
     {
-      "title": "Code-native generation of highly programmable 3D assets (2026)",
-      "url": "https://arxiv.org/abs/2607.22738",
-      "score": 36,
-      "comments": 34,
-      "source": "arxiv.org"
+      "title": "Claude Code May\u2013August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "score": 255,
+      "comments": 223,
+      "source": "support.claude.com"
     },
     {
-      "title": "California's new tire efficiency rules could save drivers $1B a year",
-      "url": "https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/",
-      "score": 81,
-      "comments": 108,
-      "source": "grist.org"
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "score": 158,
+      "comments": 33,
+      "source": "opensource.posit.co"
     },
     {
-      "title": "Google has acquired the data of failed US airline Spirit",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "score": 495,
-      "comments": 344,
-      "source": "theregister.com"
+      "title": "Launch HN: machine0 (YC S26) \u2013 Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io",
+      "score": 59,
+      "comments": 36,
+      "source": "machine0.io"
     },
     {
-      "title": "Rethinking Database Programming",
-      "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "score": 199,
-      "comments": 102,
-      "source": "acadia.engineering"
-    },
-    {
-      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
-      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-      "score": 207,
-      "comments": 129,
-      "source": "privacyguides.org"
-    },
-    {
-      "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
-      "score": 34,
-      "comments": 12,
-      "source": "bloomberg.com"
+      "title": "Teaching my kid to code with a modern MUD",
+      "url": "https://tau.dev/2026/08/07/canon",
+      "score": 229,
+      "comments": 60,
+      "source": "tau.dev"
     }
   ],
   "security": [
+    {
+      "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
+      "url": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/",
+      "date": "2026-08-18 20:46:26",
+      "author": "Nishant Mainro"
+    },
     {
       "title": "Security Hub Extended adds Supply Chain Security as its tenth category",
       "url": "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/",
@@ -251,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/2026-aws-cybervadis-report-now-available-for-due-diligence-on-third-party-suppliers/",
       "date": "2026-08-10 17:09:02",
       "author": "Tariro Dongo"
-    },
-    {
-      "title": "A decade of enterprise identity in the cloud with AWS Managed Microsoft AD",
-      "url": "https://aws.amazon.com/blogs/security/a-decade-of-enterprise-identity-in-the-cloud-with-aws-managed-microsoft-ad/",
-      "date": "2026-08-07 19:37:57",
-      "author": "Vladimir Provorov"
     }
   ]
 }
