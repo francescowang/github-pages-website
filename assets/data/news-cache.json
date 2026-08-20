@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-      "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-      "score": 79,
-      "comments": 23,
-      "source": "kmbc.com"
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana/",
+      "score": 23,
+      "comments": 37,
+      "source": "openai.com"
+    },
+    {
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "score": 30,
+      "comments": 6,
+      "source": "devblogs.microsoft.com"
     },
     {
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 611,
-      "comments": 325,
+      "score": 784,
+      "comments": 396,
       "source": "openrouter.ai"
+    },
+    {
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "score": 134,
+      "comments": 58,
+      "source": "computerenhance.com"
     },
     {
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 426,
-      "comments": 105,
+      "score": 575,
+      "comments": 144,
       "source": "go.dev"
     },
     {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "score": 100,
+      "comments": 10,
+      "source": "benjoffe.com"
+    },
+    {
+      "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 279,
-      "comments": 113,
+      "score": 430,
+      "comments": 174,
       "source": "grapheneos.social"
+    },
+    {
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "score": 101,
+      "comments": 12,
+      "source": "coca11272000.wixsite.com"
     },
     {
       "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 126,
-      "comments": 33,
+      "score": 186,
+      "comments": 45,
+      "source": "sprocketfox.io"
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "score": 837,
+      "comments": 129,
       "source": "sprocketfox.io"
     },
     {
       "title": "Unsloth Dynamic 3.0 GGUFs",
       "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 180,
-      "comments": 65,
+      "score": 230,
+      "comments": 90,
       "source": "unsloth.ai"
     },
     {
-      "title": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "score": 15,
-      "comments": 0,
-      "source": "coca11272000.wixsite.com"
-    },
-    {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 739,
-      "comments": 114,
-      "source": "sprocketfox.io"
-    },
-    {
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "score": 38,
-      "comments": 24,
-      "source": "os8088.com"
+      "title": "Sol loves to cheat",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "score": 133,
+      "comments": 82,
+      "source": "jumploops.com"
     },
     {
       "title": "Casio F-B100W-1A",
       "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "score": 268,
-      "comments": 216,
+      "score": 332,
+      "comments": 277,
       "source": "casio.com"
     },
     {
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "url": "https://inco.ai/blog/dflash2/",
-      "score": 69,
-      "comments": 8,
-      "source": "inco.ai"
-    },
-    {
-      "title": "Sol Loves to Cheat",
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "score": 72,
-      "comments": 40,
-      "source": "jumploops.com"
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "score": 76,
+      "comments": 37,
+      "source": "os8088.com"
     },
     {
       "title": "Geolocating a random island using geometry and CUDA programming",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 397,
-      "comments": 75,
+      "score": 454,
+      "comments": 77,
       "source": "yassa9.github.io"
-    },
-    {
-      "title": "The little-known winstart.bat batch file",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
-      "score": 71,
-      "comments": 18,
-      "source": "devblogs.microsoft.com"
-    },
-    {
-      "title": "Universality of Gradient Descent Neural Network Training",
-      "url": "https://arxiv.org/abs/2007.13664",
-      "score": 5,
-      "comments": 0,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "PostgreSQL for Everything",
-      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-      "score": 297,
-      "comments": 184,
-      "source": "raphaelbauer.com:443"
-    },
-    {
-      "title": "Mathematics in the age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "score": 117,
-      "comments": 118,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Xwayland 26.1.0 rc1",
-      "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
-      "score": 52,
-      "comments": 35,
-      "source": "lists.x.org"
-    },
-    {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "score": 166,
-      "comments": 58,
-      "source": "ornith.ai"
-    },
-    {
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "score": 172,
-      "comments": 86,
-      "source": "fx.sh"
-    },
-    {
-      "title": "Why travellers are obsessed with foreign supermarkets",
-      "url": "https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction",
-      "score": 15,
-      "comments": 9,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Pressed Penny Machine Map",
-      "url": "https://pennypresses.net/home/map.php",
-      "score": 39,
-      "comments": 34,
-      "source": "pennypresses.net"
-    },
-    {
-      "title": "Simulacra and Simulation",
-      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-      "score": 5,
-      "comments": 2,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "A portable, sensitive, low power, analog Geiger counter (2025)",
-      "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
-      "score": 40,
-      "comments": 1,
-      "source": "ludens.cl"
     },
     {
       "title": "Feature Request: Support AGENTS.md",
       "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "score": 126,
-      "comments": 71,
+      "score": 204,
+      "comments": 115,
       "source": "github.com"
     },
     {
-      "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
-      "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
-      "score": 6,
-      "comments": 0,
-      "source": "fetzu.ch"
+      "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+      "url": "https://github.com/cesarblum/sectorforth",
+      "score": 16,
+      "comments": 2,
+      "source": "github.com"
+    },
+    {
+      "title": "Pixel 11 Pro Fold feels like the end of an era",
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "score": 53,
+      "comments": 115,
+      "source": "theverge.com"
+    },
+    {
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "score": 235,
+      "comments": 97,
+      "source": "fx.sh"
+    },
+    {
+      "title": "Rewriting in Rust",
+      "url": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
+      "score": 27,
+      "comments": 11,
+      "source": "blog.jetbrains.com"
+    },
+    {
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "score": 343,
+      "comments": 211,
+      "source": "raphaelbauer.com:443"
+    },
+    {
+      "title": "The little-known winstart.bat batch file",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "score": 107,
+      "comments": 26,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "score": 152,
+      "comments": 182,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Simulacra and Simulation",
+      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+      "score": 55,
+      "comments": 22,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
+      "url": "https://github.com/onecli/onecli",
+      "score": 73,
+      "comments": 21,
+      "source": "github.com"
+    },
+    {
+      "title": "Xorshift Generators",
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "score": 71,
+      "comments": 39,
+      "source": "alanzucconi.com"
     },
     {
       "title": "Extensible Software in the age of LLMs",
       "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "score": 104,
-      "comments": 48,
+      "score": 140,
+      "comments": 55,
       "source": "jeremymorrell.dev"
-    },
-    {
-      "title": "IDE Nostalgia (2022)",
-      "url": "https://davidsmaynard.com/blog/keyset",
-      "score": 35,
-      "comments": 1,
-      "source": "davidsmaynard.com"
     },
     {
       "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
-      "score": 246,
-      "comments": 83,
+      "score": 268,
+      "comments": 90,
       "source": "theremin.bizibah.com"
     },
     {
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "score": 127,
-      "comments": 164,
+      "score": 146,
+      "comments": 217,
       "source": "openai.com"
+    },
+    {
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "score": 187,
+      "comments": 61,
+      "source": "ornith.ai"
     }
   ],
   "security": [
