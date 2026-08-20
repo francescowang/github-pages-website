@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "OpenRouter Is Joining Stripe",
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "score": 79,
+      "comments": 23,
+      "source": "kmbc.com"
+    },
+    {
+      "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 93,
-      "comments": 60,
+      "score": 611,
+      "comments": 325,
       "source": "openrouter.ai"
+    },
+    {
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "score": 426,
+      "comments": 105,
+      "source": "go.dev"
+    },
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 279,
+      "comments": 113,
+      "source": "grapheneos.social"
+    },
+    {
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 126,
+      "comments": 33,
+      "source": "sprocketfox.io"
+    },
+    {
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "score": 180,
+      "comments": 65,
+      "source": "unsloth.ai"
+    },
+    {
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "score": 15,
+      "comments": 0,
+      "source": "coca11272000.wixsite.com"
     },
     {
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 449,
-      "comments": 61,
+      "score": 739,
+      "comments": 114,
       "source": "sprocketfox.io"
+    },
+    {
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "score": 38,
+      "comments": 24,
+      "source": "os8088.com"
+    },
+    {
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "score": 268,
+      "comments": 216,
+      "source": "casio.com"
+    },
+    {
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "url": "https://inco.ai/blog/dflash2/",
+      "score": 69,
+      "comments": 8,
+      "source": "inco.ai"
+    },
+    {
+      "title": "Sol Loves to Cheat",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "score": 72,
+      "comments": 40,
+      "source": "jumploops.com"
     },
     {
       "title": "Geolocating a random island using geometry and CUDA programming",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 296,
-      "comments": 55,
+      "score": 397,
+      "comments": 75,
       "source": "yassa9.github.io"
     },
     {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "score": 93,
+      "title": "The little-known winstart.bat batch file",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
+      "score": 71,
       "comments": 18,
-      "source": "ornith.ai"
+      "source": "devblogs.microsoft.com"
     },
     {
-      "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
-      "url": "https://github.com/onecli/onecli",
-      "score": 24,
-      "comments": 7,
-      "source": "github.com"
-    },
-    {
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "score": 1395,
-      "comments": 378,
-      "source": "openlogi.org"
-    },
-    {
-      "title": "How Kubernetes Probes Work",
-      "url": "https://ngrok.com/blog/probes",
-      "score": 33,
-      "comments": 2,
-      "source": "ngrok.com"
-    },
-    {
-      "title": "Remote workers report the highest well-being in study of 7,700 employees",
-      "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-      "score": 238,
-      "comments": 106,
-      "source": "colorado.edu"
-    },
-    {
-      "title": "Extensible Software in the Age of LLMs",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "score": 34,
-      "comments": 19,
-      "source": "jeremymorrell.dev"
+      "title": "Universality of Gradient Descent Neural Network Training",
+      "url": "https://arxiv.org/abs/2007.13664",
+      "score": 5,
+      "comments": 0,
+      "source": "arxiv.org"
     },
     {
       "title": "PostgreSQL for Everything",
       "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-      "score": 192,
-      "comments": 133,
+      "score": 297,
+      "comments": 184,
       "source": "raphaelbauer.com:443"
     },
     {
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-      "url": "https://arxiv.org/abs/2503.08679",
-      "score": 29,
-      "comments": 15,
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "score": 117,
+      "comments": 118,
       "source": "arxiv.org"
     },
     {
-      "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
-      "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
-      "score": 362,
-      "comments": 154,
-      "source": "twitter.com"
+      "title": "Xwayland 26.1.0 rc1",
+      "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+      "score": 52,
+      "comments": 35,
+      "source": "lists.x.org"
     },
     {
-      "title": "Air Theremin \u2013 a browser theremin you play by waving at your webcam",
+      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "score": 166,
+      "comments": 58,
+      "source": "ornith.ai"
+    },
+    {
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "score": 172,
+      "comments": 86,
+      "source": "fx.sh"
+    },
+    {
+      "title": "Why travellers are obsessed with foreign supermarkets",
+      "url": "https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction",
+      "score": 15,
+      "comments": 9,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Pressed Penny Machine Map",
+      "url": "https://pennypresses.net/home/map.php",
+      "score": 39,
+      "comments": 34,
+      "source": "pennypresses.net"
+    },
+    {
+      "title": "Simulacra and Simulation",
+      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
+      "score": 5,
+      "comments": 2,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "A portable, sensitive, low power, analog Geiger counter (2025)",
+      "url": "https://ludens.cl/Electron/geiger2/geiger2.html",
+      "score": 40,
+      "comments": 1,
+      "source": "ludens.cl"
+    },
+    {
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "score": 126,
+      "comments": 71,
+      "source": "github.com"
+    },
+    {
+      "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+      "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+      "score": 6,
+      "comments": 0,
+      "source": "fetzu.ch"
+    },
+    {
+      "title": "Extensible Software in the age of LLMs",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "score": 104,
+      "comments": 48,
+      "source": "jeremymorrell.dev"
+    },
+    {
+      "title": "IDE Nostalgia (2022)",
+      "url": "https://davidsmaynard.com/blog/keyset",
+      "score": 35,
+      "comments": 1,
+      "source": "davidsmaynard.com"
+    },
+    {
+      "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
-      "score": 186,
-      "comments": 70,
+      "score": 246,
+      "comments": 83,
       "source": "theremin.bizibah.com"
     },
     {
-      "title": "Devices with GrapheneOS support should be available in 2027",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "score": 495,
-      "comments": 306,
-      "source": "grapheneos.social"
-    },
-    {
-      "title": "Microgpt in pure C hits 10M tps on Apple m5",
-      "url": "https://github.com/vixhal-baraiya/microgpt-c",
-      "score": 74,
-      "comments": 24,
-      "source": "github.com"
-    },
-    {
-      "title": "Mathematics in the Age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "score": 29,
-      "comments": 14,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Taffy: A flexible, high-performance, cross-platform UI layout library",
-      "url": "https://github.com/DioxusLabs/taffy",
-      "score": 76,
-      "comments": 28,
-      "source": "github.com"
-    },
-    {
-      "title": "Opus 5.0 drives incoherence into the stratosphere",
-      "url": "https://github.com/anthropics/claude-code/issues/77136",
-      "score": 92,
-      "comments": 58,
-      "source": "github.com"
-    },
-    {
-      "title": "A recipe for drone racing with reinforcement learning",
-      "url": "https://mrandri19.github.io/2026/07/19/drone-racing-with-reinforcement-learning.html",
-      "score": 19,
-      "comments": 3,
-      "source": "mrandri19.github.io"
-    },
-    {
-      "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
-      "url": "https://kolja.rs/algorithm-d/",
-      "score": 134,
-      "comments": 24,
-      "source": "kolja.rs"
-    },
-    {
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 835,
-      "comments": 654,
-      "source": "nicholascharriere.com"
-    },
-    {
-      "title": "Cerebras CS-4",
-      "url": "https://www.cerebras.ai/cs4",
-      "score": 419,
-      "comments": 253,
-      "source": "cerebras.ai"
-    },
-    {
-      "title": "Show HN: Frugal Tokens \u2013 explore costs and usage across coding agents",
-      "url": "https://demo.frugaltokens.com/",
-      "score": 14,
-      "comments": 4,
-      "source": "demo.frugaltokens.com"
-    },
-    {
-      "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
-      "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
-      "score": 96,
-      "comments": 37,
-      "source": "phys.org"
-    },
-    {
-      "title": "Civic Hygiene \u2013 avoid building technologies that could be used by a police state (2013)",
-      "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
-      "score": 347,
-      "comments": 236,
-      "source": "shkspr.mobi"
-    },
-    {
-      "title": "Activation Energy is a good model for a lot of things",
-      "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
-      "score": 140,
-      "comments": 36,
-      "source": "homosabiens.substack.com"
-    },
-    {
-      "title": "Turning molecules into reliable electronic devices",
-      "url": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803",
-      "score": 4,
-      "comments": 0,
-      "source": "news.mit.edu"
-    },
-    {
-      "title": "New Casio F-B100W \u2013 Upgrade to the iconic F-91W after 40 years",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "score": 145,
-      "comments": 117,
-      "source": "casio.com"
-    },
-    {
-      "title": "Supersonic Trebuchet [video]",
-      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "score": 220,
-      "comments": 96,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Show HN: Nikon F100 Film Camera Repair Notes",
-      "url": "https://github.com/enthdegree/f100",
-      "score": 34,
-      "comments": 17,
-      "source": "github.com"
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "score": 127,
+      "comments": 164,
+      "source": "openai.com"
     }
   ],
   "security": [
+    {
+      "title": "Propagate user authorization context in AI agents with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore/",
+      "date": "2026-08-19 17:24:15",
+      "author": "Anshu Bathla"
+    },
     {
       "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
       "url": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/",
@@ -264,12 +270,6 @@
       "title": "AWS completes the 2026 Police-Assured Secure Facilities (PASF) audit in Europe (London)",
       "url": "https://aws.amazon.com/blogs/security/aws-completes-the-2026-police-assured-secure-facilities-pasf-audit-in-europe-london/",
       "date": "2026-08-10 20:21:40",
-      "author": "Tariro Dongo"
-    },
-    {
-      "title": "2026 AWS CyberVadis report now available for due diligence on third-party suppliers",
-      "url": "https://aws.amazon.com/blogs/security/2026-aws-cybervadis-report-now-available-for-due-diligence-on-third-party-suppliers/",
-      "date": "2026-08-10 17:09:02",
       "author": "Tariro Dongo"
     }
   ]
