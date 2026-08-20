@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana/",
-      "score": 23,
-      "comments": 37,
-      "source": "openai.com"
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "score": 588,
+      "comments": 282,
+      "source": "dontpastetheai.com"
     },
     {
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-      "score": 30,
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 184,
+      "comments": 53,
+      "source": "blog.laserphile.com"
+    },
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "score": 21,
       "comments": 6,
+      "source": "simedw.com"
+    },
+    {
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "score": 250,
+      "comments": 94,
       "source": "devblogs.microsoft.com"
     },
     {
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 784,
-      "comments": 396,
+      "score": 890,
+      "comments": 456,
       "source": "openrouter.ai"
     },
     {
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "score": 134,
-      "comments": 58,
+      "score": 248,
+      "comments": 128,
       "source": "computerenhance.com"
+    },
+    {
+      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Google has stopped pushing Git tags for some Android source code",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 672,
+      "comments": 260,
+      "source": "grapheneos.social"
     },
     {
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 575,
-      "comments": 144,
+      "score": 688,
+      "comments": 210,
       "source": "go.dev"
     },
     {
       "title": "A faster way to calculate the day of the week",
       "url": "https://www.benjoffe.com/fast-day-of-week",
-      "score": 100,
-      "comments": 10,
+      "score": 192,
+      "comments": 43,
       "source": "benjoffe.com"
     },
     {
-      "title": "Google has stopped pushing Git tags for some Android source code",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 430,
-      "comments": 174,
-      "source": "grapheneos.social"
-    },
-    {
-      "title": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "score": 101,
-      "comments": 12,
-      "source": "coca11272000.wixsite.com"
-    },
-    {
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 186,
-      "comments": 45,
-      "source": "sprocketfox.io"
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "score": 4,
+      "comments": 0,
+      "source": "research.google"
     },
     {
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 837,
-      "comments": 129,
+      "score": 942,
+      "comments": 150,
       "source": "sprocketfox.io"
+    },
+    {
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "score": 149,
+      "comments": 19,
+      "source": "coca11272000.wixsite.com"
     },
     {
       "title": "Unsloth Dynamic 3.0 GGUFs",
       "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 230,
-      "comments": 90,
+      "score": 294,
+      "comments": 102,
       "source": "unsloth.ai"
     },
     {
-      "title": "Sol loves to cheat",
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "score": 133,
-      "comments": 82,
-      "source": "jumploops.com"
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 229,
+      "comments": 56,
+      "source": "sprocketfox.io"
     },
     {
       "title": "Casio F-B100W-1A",
       "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "score": 332,
-      "comments": 277,
+      "score": 416,
+      "comments": 343,
       "source": "casio.com"
     },
     {
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "score": 76,
-      "comments": 37,
-      "source": "os8088.com"
+      "title": "Sol loves to cheat",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "score": 190,
+      "comments": 146,
+      "source": "jumploops.com"
     },
     {
       "title": "Geolocating a random island using geometry and CUDA programming",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 454,
-      "comments": 77,
+      "score": 495,
+      "comments": 79,
       "source": "yassa9.github.io"
     },
     {
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "score": 204,
-      "comments": 115,
-      "source": "github.com"
-    },
-    {
-      "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
-      "url": "https://github.com/cesarblum/sectorforth",
-      "score": 16,
-      "comments": 2,
-      "source": "github.com"
-    },
-    {
-      "title": "Pixel 11 Pro Fold feels like the end of an era",
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "score": 53,
-      "comments": 115,
-      "source": "theverge.com"
-    },
-    {
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "score": 235,
-      "comments": 97,
-      "source": "fx.sh"
-    },
-    {
-      "title": "Rewriting in Rust",
-      "url": "https://blog.jetbrains.com/rust/2026/08/10/rewriting-in-rust/",
-      "score": 27,
-      "comments": 11,
-      "source": "blog.jetbrains.com"
+      "title": "The Chauffeur Problem",
+      "url": "https://engines.egr.uh.edu/episode/1495",
+      "score": 32,
+      "comments": 15,
+      "source": "engines.egr.uh.edu"
     },
     {
       "title": "PostgreSQL for Everything",
       "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-      "score": 343,
-      "comments": 211,
+      "score": 395,
+      "comments": 234,
       "source": "raphaelbauer.com:443"
     },
     {
-      "title": "The little-known winstart.bat batch file",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605",
-      "score": 107,
-      "comments": 26,
-      "source": "devblogs.microsoft.com"
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "score": 292,
+      "comments": 123,
+      "source": "fx.sh"
+    },
+    {
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "score": 103,
+      "comments": 46,
+      "source": "os8088.com"
     },
     {
       "title": "Mathematics in the age of AI",
       "url": "https://arxiv.org/abs/2608.16753",
-      "score": 152,
-      "comments": 182,
+      "score": 186,
+      "comments": 218,
       "source": "arxiv.org"
     },
     {
-      "title": "Simulacra and Simulation",
-      "url": "https://en.wikipedia.org/wiki/Simulacra_and_Simulation",
-      "score": 55,
-      "comments": 22,
-      "source": "en.wikipedia.org"
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "score": 302,
+      "comments": 188,
+      "source": "github.com"
+    },
+    {
+      "title": "Risk Engineering",
+      "url": "https://risk-engineering.org/",
+      "score": 3,
+      "comments": 0,
+      "source": "risk-engineering.org"
+    },
+    {
+      "title": "Pixel 11 Pro Fold feels like the end of an era",
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "score": 79,
+      "comments": 208,
+      "source": "theverge.com"
+    },
+    {
+      "title": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
+      "url": "https://qdrant.tech/articles/filtered-vector-search-acorn/",
+      "score": 4,
+      "comments": 0,
+      "source": "qdrant.tech"
+    },
+    {
+      "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
+      "url": "https://github.com/cesarblum/sectorforth",
+      "score": 40,
+      "comments": 11,
+      "source": "github.com"
+    },
+    {
+      "title": "Browser De-Slop",
+      "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+      "score": 9,
+      "comments": 1,
+      "source": "sacredheartsc.com"
     },
     {
       "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
       "url": "https://github.com/onecli/onecli",
-      "score": 73,
-      "comments": 21,
+      "score": 80,
+      "comments": 24,
       "source": "github.com"
-    },
-    {
-      "title": "Xorshift Generators",
-      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-      "score": 71,
-      "comments": 39,
-      "source": "alanzucconi.com"
-    },
-    {
-      "title": "Extensible Software in the age of LLMs",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "score": 140,
-      "comments": 55,
-      "source": "jeremymorrell.dev"
-    },
-    {
-      "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "score": 268,
-      "comments": 90,
-      "source": "theremin.bizibah.com"
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "score": 146,
-      "comments": 217,
-      "source": "openai.com"
-    },
-    {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "score": 187,
-      "comments": 61,
-      "source": "ornith.ai"
     }
   ],
   "security": [
