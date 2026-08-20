@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Don't Paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "score": 588,
-      "comments": 282,
-      "source": "dontpastetheai.com"
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "score": 303,
+      "comments": 135,
+      "source": "experimental-history.com"
     },
     {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 184,
-      "comments": 53,
+      "score": 697,
+      "comments": 230,
       "source": "blog.laserphile.com"
+    },
+    {
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 329,
+      "comments": 91,
+      "source": "chrisburnell.com"
+    },
+    {
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "score": 69,
+      "comments": 17,
+      "source": "igalia.com"
+    },
+    {
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "score": 204,
+      "comments": 105,
+      "source": "wsj.com"
+    },
+    {
+      "title": "I should have loved biology",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "score": 17,
+      "comments": 8,
+      "source": "jsomers.net"
     },
     {
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 21,
-      "comments": 6,
+      "score": 369,
+      "comments": 88,
       "source": "simedw.com"
     },
     {
-      "title": "Windows brings out the Rorschach test in everyone (2003)",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "score": 250,
-      "comments": 94,
-      "source": "devblogs.microsoft.com"
+      "title": "Show HN: We chased a weather balloon across Montana and never found it",
+      "url": "https://radi8.dev/blog/uplink/",
+      "score": 22,
+      "comments": 8,
+      "source": "radi8.dev"
     },
     {
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 890,
-      "comments": 456,
-      "source": "openrouter.ai"
-    },
-    {
-      "title": "Turns are Better than Radians (2022)",
-      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "score": 248,
-      "comments": 128,
-      "source": "computerenhance.com"
-    },
-    {
-      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Google has stopped pushing Git tags for some Android source code",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 672,
-      "comments": 260,
-      "source": "grapheneos.social"
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "score": 285,
+      "comments": 232,
+      "source": "safedep.io"
     },
     {
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "score": 688,
-      "comments": 210,
-      "source": "go.dev"
+      "title": "Optimizing things in the USSR (2016)",
+      "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+      "score": 9,
+      "comments": 2,
+      "source": "chris-said.io"
     },
     {
-      "title": "A faster way to calculate the day of the week",
-      "url": "https://www.benjoffe.com/fast-day-of-week",
-      "score": 192,
-      "comments": 43,
-      "source": "benjoffe.com"
+      "title": "How to compromise your system with a job interview",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+      "score": 57,
+      "comments": 24,
+      "source": "codedge.de"
     },
     {
-      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "score": 4,
-      "comments": 0,
-      "source": "research.google"
-    },
-    {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 942,
-      "comments": 150,
-      "source": "sprocketfox.io"
-    },
-    {
-      "title": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "score": 149,
-      "comments": 19,
-      "source": "coca11272000.wixsite.com"
-    },
-    {
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 294,
-      "comments": 102,
-      "source": "unsloth.ai"
-    },
-    {
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 229,
-      "comments": 56,
-      "source": "sprocketfox.io"
-    },
-    {
-      "title": "Casio F-B100W-1A",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "score": 416,
-      "comments": 343,
-      "source": "casio.com"
-    },
-    {
-      "title": "Sol loves to cheat",
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "score": 190,
-      "comments": 146,
-      "source": "jumploops.com"
-    },
-    {
-      "title": "Geolocating a random island using geometry and CUDA programming",
-      "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 495,
-      "comments": 79,
-      "source": "yassa9.github.io"
-    },
-    {
-      "title": "The Chauffeur Problem",
-      "url": "https://engines.egr.uh.edu/episode/1495",
-      "score": 32,
-      "comments": 15,
-      "source": "engines.egr.uh.edu"
-    },
-    {
-      "title": "PostgreSQL for Everything",
-      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-      "score": 395,
-      "comments": 234,
-      "source": "raphaelbauer.com:443"
-    },
-    {
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "score": 292,
-      "comments": 123,
-      "source": "fx.sh"
-    },
-    {
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "score": 103,
-      "comments": 46,
-      "source": "os8088.com"
-    },
-    {
-      "title": "Mathematics in the age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "score": 186,
-      "comments": 218,
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "score": 106,
+      "comments": 20,
       "source": "arxiv.org"
     },
     {
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "score": 302,
-      "comments": 188,
+      "title": "Xorg-server 26.1.0 rc1",
+      "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+      "score": 84,
+      "comments": 47,
+      "source": "lists.x.org"
+    },
+    {
+      "title": "Generic Methods in Go 1.27",
+      "url": "https://dominik.info/blog/go-generic-methods",
+      "score": 41,
+      "comments": 15,
+      "source": "dominik.info"
+    },
+    {
+      "title": "URL shortener links stored in your ATProto PDS",
+      "url": "https://atpr.to/",
+      "score": 12,
+      "comments": 2,
+      "source": "atpr.to"
+    },
+    {
+      "title": "Project Cybersyn",
+      "url": "https://bactra.org/notebooks/cybersyn.html",
+      "score": 6,
+      "comments": 0,
+      "source": "bactra.org"
+    },
+    {
+      "title": "Mojo is now open source",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "score": 258,
+      "comments": 62,
+      "source": "modular.com"
+    },
+    {
+      "title": "Show HN: Omacosy \u2013 Omarchy-style tiling desktop for macOS, no SIP",
+      "url": "https://github.com/paulsp94/omacosy",
+      "score": 11,
+      "comments": 10,
       "source": "github.com"
     },
     {
-      "title": "Risk Engineering",
-      "url": "https://risk-engineering.org/",
-      "score": 3,
-      "comments": 0,
-      "source": "risk-engineering.org"
+      "title": "Git at any scale",
+      "url": "https://cursor.com/blog/git-at-any-scale",
+      "score": 178,
+      "comments": 29,
+      "source": "cursor.com"
     },
     {
-      "title": "Pixel 11 Pro Fold feels like the end of an era",
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "score": 79,
-      "comments": 208,
-      "source": "theverge.com"
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "score": 59,
+      "comments": 33,
+      "source": "mikekasberg.com"
     },
     {
-      "title": "Filtered Vector Search: What Acorn Fixes, and What Fixes Acorn",
-      "url": "https://qdrant.tech/articles/filtered-vector-search-acorn/",
-      "score": 4,
-      "comments": 0,
-      "source": "qdrant.tech"
-    },
-    {
-      "title": "Sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector (2020)",
-      "url": "https://github.com/cesarblum/sectorforth",
-      "score": 40,
+      "title": "Launch HN: Vendo (YC S26) \u2013 Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "score": 24,
       "comments": 11,
       "source": "github.com"
     },
     {
-      "title": "Browser De-Slop",
-      "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
-      "score": 9,
-      "comments": 1,
-      "source": "sacredheartsc.com"
+      "title": "An elliptic curve of rank \u2265 30",
+      "url": "https://elliptic-rank.icarm.cloud/curve/273",
+      "score": 65,
+      "comments": 20,
+      "source": "elliptic-rank.icarm.cloud"
     },
     {
-      "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
-      "url": "https://github.com/onecli/onecli",
-      "score": 80,
-      "comments": 24,
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "score": 50,
+      "comments": 31,
+      "source": "dreadnode.io"
+    },
+    {
+      "title": "The Defense-Tech Bubble Is Headed for Consolidation",
+      "url": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
+      "score": 23,
+      "comments": 11,
+      "source": "foxandlion.pub"
+    },
+    {
+      "title": "Show HN: sce (Simple Console Editor)",
+      "url": "https://github.com/volution/simple-console-editor",
+      "score": 5,
+      "comments": 0,
       "source": "github.com"
+    },
+    {
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "score": 324,
+      "comments": 118,
+      "source": "devblogs.microsoft.com"
+    },
+    {
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "url": "https://zoneless.com",
+      "score": 37,
+      "comments": 18,
+      "source": "zoneless.com"
+    },
+    {
+      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+      "url": "https://pub.doub.ly/",
+      "score": 45,
+      "comments": 23,
+      "source": "pub.doub.ly"
+    },
+    {
+      "title": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+      "url": "https://bitflash.network/",
+      "score": 5,
+      "comments": 0,
+      "source": "bitflash.network"
     }
   ],
   "security": [
