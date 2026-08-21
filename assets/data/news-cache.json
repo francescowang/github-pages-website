@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "score": 93,
-      "comments": 27,
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "score": 167,
+      "comments": 38,
+      "source": "api-docs.deepseek.com"
+    },
+    {
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "score": 116,
+      "comments": 61,
+      "source": "annas-archive.pk"
+    },
+    {
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+      "score": 28,
+      "comments": 9,
+      "source": "ixuvo.com"
+    },
+    {
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "score": 142,
+      "comments": 74,
+      "source": "remapradio.com"
+    },
+    {
+      "title": "Small, native web tricks worth remembering",
+      "url": "https://htmlcat.net/",
+      "score": 84,
+      "comments": 20,
+      "source": "htmlcat.net"
+    },
+    {
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "score": 109,
+      "comments": 53,
+      "source": "encore.dev"
+    },
+    {
+      "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+      "url": "https://github.com/yaroslav/kino",
+      "score": 11,
+      "comments": 1,
       "source": "github.com"
     },
     {
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "score": 444,
-      "comments": 511,
+      "score": 571,
+      "comments": 635,
       "source": "github.blog"
+    },
+    {
+      "title": "Flat Chair by Sara Paculdo",
+      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+      "score": 50,
+      "comments": 16,
+      "source": "toxel.com"
+    },
+    {
+      "title": "The Mystery of Dark Oxygen",
+      "url": "https://www.newyorker.com/science/elements/the-mystery-of-dark-oxygen",
+      "score": 10,
+      "comments": 1,
+      "source": "newyorker.com"
     },
     {
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 671,
-      "comments": 277,
+      "score": 781,
+      "comments": 319,
       "source": "experimental-history.com"
-    },
-    {
-      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "score": 11,
-      "comments": 1,
-      "source": "philipdick.com"
     },
     {
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 698,
-      "comments": 176,
+      "score": 882,
+      "comments": 201,
       "source": "chrisburnell.com"
+    },
+    {
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "score": 62,
+      "comments": 39,
+      "source": "philipdick.com"
     },
     {
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "score": 462,
-      "comments": 394,
+      "score": 517,
+      "comments": 446,
       "source": "safedep.io"
-    },
-    {
-      "title": "I should have loved biology (2020)",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "score": 245,
-      "comments": 93,
-      "source": "jsomers.net"
     },
     {
       "title": "Ox Alpha",
       "url": "https://openrouter.ai/stealth/ox-alpha",
-      "score": 91,
-      "comments": 74,
+      "score": 185,
+      "comments": 144,
       "source": "openrouter.ai"
     },
     {
-      "title": "There's no such thing as a small software team anymore",
-      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "score": 70,
+      "title": "Micron announces $10B research hub in Boise",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
+      "score": 58,
+      "comments": 12,
+      "source": "investors.micron.com"
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "score": 302,
       "comments": 114,
-      "source": "jacob.gold"
-    },
-    {
-      "title": "Captain Zilog",
-      "url": "https://www.zilog.com/captain_zilog/",
-      "score": 41,
-      "comments": 4,
-      "source": "zilog.com"
-    },
-    {
-      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "score": 280,
-      "comments": 146,
-      "source": "danielvaughn.dev"
+      "source": "jsomers.net"
     },
     {
       "title": "Why aren't smart people happier? (2022)",
       "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "score": 144,
-      "comments": 196,
+      "score": 211,
+      "comments": 301,
       "source": "experimental-history.com"
-    },
-    {
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "score": 258,
-      "comments": 179,
-      "source": "annas-archive.gl"
     },
     {
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "score": 387,
-      "comments": 232,
+      "score": 420,
+      "comments": 256,
       "source": "wsj.com"
     },
     {
-      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
-      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
-      "score": 32,
-      "comments": 5,
-      "source": "journals.aps.org"
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "url": "https://github.com/vivekhaldar/seed",
+      "score": 39,
+      "comments": 12,
+      "source": "github.com"
+    },
+    {
+      "title": "Launch HN: Vendo (YC S26) \u2013 Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "score": 46,
+      "comments": 20,
+      "source": "github.com"
     },
     {
       "title": "Japan tried to build an operating system for the world, the US intervened",
       "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "score": 26,
-      "comments": 7,
+      "score": 255,
+      "comments": 143,
       "source": "xda-developers.com"
-    },
-    {
-      "title": "Version Control for Everything",
-      "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
-      "score": 5,
-      "comments": 0,
-      "source": "tyoverby.com"
     },
     {
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
-      "score": 230,
-      "comments": 232,
+      "score": 267,
+      "comments": 262,
       "source": "github.com"
     },
     {
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 942,
-      "comments": 297,
-      "source": "blog.laserphile.com"
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
+      "url": "https://arxiv.org/abs/2504.09762",
+      "score": 259,
+      "comments": 214,
+      "source": "arxiv.org"
     },
     {
       "title": "Linux 7.2",
       "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "score": 228,
-      "comments": 77,
+      "score": 268,
+      "comments": 114,
       "source": "igalia.com"
     },
     {
-      "title": "Speeding Up (Small) Ruby Hashes",
-      "url": "https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html",
-      "score": 44,
-      "comments": 0,
-      "source": "byroot.github.io"
+      "title": "Captain Zilog",
+      "url": "https://www.zilog.com/captain_zilog/",
+      "score": 62,
+      "comments": 8,
+      "source": "zilog.com"
     },
     {
-      "title": "Git at any scale",
-      "url": "https://cursor.com/blog/git-at-any-scale",
-      "score": 318,
-      "comments": 102,
-      "source": "cursor.com"
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 984,
+      "comments": 313,
+      "source": "blog.laserphile.com"
     },
     {
-      "title": "SpacetimeDB: A Short Technical Review",
-      "url": "https://strn.cat/posts/spacetime/",
-      "score": 81,
-      "comments": 17,
-      "source": "strn.cat"
+      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "score": 336,
+      "comments": 183,
+      "source": "danielvaughn.dev"
     },
     {
       "title": "Anti-AI fonts are useless and harmful",
       "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "score": 144,
-      "comments": 102,
+      "score": 178,
+      "comments": 134,
       "source": "blog.yaros.ae"
     },
     {
-      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces",
-      "url": "https://arxiv.org/abs/2504.09762",
-      "score": 223,
-      "comments": 136,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "score": 264,
-      "comments": 49,
-      "source": "consumerrights.wiki"
-    },
-    {
-      "title": "Project Cybersyn (2022)",
-      "url": "https://bactra.org/notebooks/cybersyn.html",
-      "score": 58,
-      "comments": 44,
-      "source": "bactra.org"
-    },
-    {
-      "title": "How to compromise your system with a job interview",
-      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "score": 149,
-      "comments": 131,
-      "source": "codedge.de"
-    },
-    {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "score": 1358,
-      "comments": 294,
-      "source": "blog.curiousquail.com"
-    },
-    {
-      "title": "Every Model Cheats",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "score": 94,
-      "comments": 76,
-      "source": "dreadnode.io"
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 11,
+      "comments": 5,
+      "source": "nytimes.com"
     }
   ],
   "security": [
