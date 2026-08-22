@@ -1,95 +1,158 @@
 {
   "tech": [
     {
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 416,
-      "comments": 142,
-      "source": "bandarlabs.github.io"
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "score": 293,
+      "comments": 210,
+      "source": "danluu.com"
+    },
+    {
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+      "score": 29,
+      "comments": 15,
+      "source": "developers.openai.com"
+    },
+    {
+      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "score": 86,
+      "comments": 29,
+      "source": "grapheneos.social"
     },
     {
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 505,
-      "comments": 225,
+      "score": 616,
+      "comments": 256,
       "source": "felonybench.com"
+    },
+    {
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 488,
+      "comments": 168,
+      "source": "bandarlabs.github.io"
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 109,
+      "comments": 31,
+      "source": "rust-glancer.github.io"
+    },
+    {
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 692,
+      "comments": 836,
+      "source": "nytimes.com"
     },
     {
       "title": "Three important steps in my maturation process",
       "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "score": 33,
-      "comments": 8,
+      "score": 110,
+      "comments": 37,
       "source": "thomasdullien.github.io"
     },
     {
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 141,
-      "comments": 45,
-      "source": "newscenter.lbl.gov"
+      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+      "score": 6,
+      "comments": 0,
+      "source": "zeux.io"
+    },
+    {
+      "title": "Zig's Io.Threaded Is Neat",
+      "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+      "score": 40,
+      "comments": 3,
+      "source": "matklad.github.io"
     },
     {
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "score": 994,
-      "comments": 337,
+      "score": 1080,
+      "comments": 356,
       "source": "kagi.com"
     },
     {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "score": 26,
-      "comments": 10,
-      "source": "ozbrain.com"
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "score": 179,
+      "comments": 54,
+      "source": "newscenter.lbl.gov"
+    },
+    {
+      "title": "OTel isn't going well (and I made a spreadsheet about it)",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "score": 82,
+      "comments": 31,
+      "source": "matduggan.com"
     },
     {
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 434,
-      "comments": 49,
+      "score": 494,
+      "comments": 55,
       "source": "lina.sh"
     },
     {
       "title": "People of ACM \u2013 Russ Cox",
       "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-      "score": 88,
-      "comments": 11,
+      "score": 122,
+      "comments": 13,
       "source": "acm.org"
-    },
-    {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 535,
-      "comments": 718,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 456,
-      "comments": 143,
-      "source": "api-docs.deepseek.com"
     },
     {
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "score": 224,
-      "comments": 284,
+      "score": 282,
+      "comments": 309,
       "source": "economist.com"
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "score": 63,
+      "comments": 30,
+      "source": "ozbrain.com"
+    },
+    {
+      "title": "Stop Making TUIs",
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "score": 83,
+      "comments": 140,
+      "source": "sockpuppet.org"
+    },
+    {
+      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "score": 76,
+      "comments": 26,
+      "source": "medicine.washu.edu"
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "score": 241,
+      "comments": 170,
+      "source": "github.com"
     },
     {
       "title": "How we made a text-to-speech model respond in sub-50 ms",
       "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "score": 100,
-      "comments": 26,
+      "score": 131,
+      "comments": 32,
       "source": "nari-labs.com"
     },
     {
-      "title": "I ran Photoshop on a \u00a30.60 computer chip",
-      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-      "score": 120,
-      "comments": 28,
-      "source": "pointinthecloud.com"
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "score": 228,
+      "comments": 163,
+      "source": "precastreinforced.co.uk"
     },
     {
       "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
@@ -99,116 +162,53 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "A look under our trunk: what's in our compute",
-      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-      "score": 91,
-      "comments": 47,
-      "source": "waymo.com"
-    },
-    {
-      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "score": 201,
-      "comments": 144,
-      "source": "precastreinforced.co.uk"
-    },
-    {
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "score": 193,
-      "comments": 134,
-      "source": "github.com"
-    },
-    {
-      "title": "Tumble Forth \u2013 from assembly to OS with C compiler",
-      "url": "https://tumbleforth.hardcoded.net/",
-      "score": 53,
-      "comments": 5,
-      "source": "tumbleforth.hardcoded.net"
-    },
-    {
-      "title": "Remotely Unlocking Electric Scooters",
-      "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
-      "score": 21,
-      "comments": 3,
-      "source": "henriemategui.com"
+      "title": "HN: The Good Parts (2016)",
+      "url": "https://danluu.com/hn-comments/",
+      "score": 38,
+      "comments": 8,
+      "source": "danluu.com"
     },
     {
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "score": 260,
-      "comments": 268,
+      "score": 330,
+      "comments": 337,
       "source": "cymerys.com"
+    },
+    {
+      "title": "Everyone says assembly is untyped\u2014everyone is wrong",
+      "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+      "score": 64,
+      "comments": 21,
+      "source": "gingerbill.org"
+    },
+    {
+      "title": "Ozone: The fault is not in our trees, but in ourselves",
+      "url": "https://www.science.org/content/blog-post/fault-not-our-trees-ourselves",
+      "score": 19,
+      "comments": 1,
+      "source": "science.org"
+    },
+    {
+      "title": "A look under our trunk: what's in our compute",
+      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+      "score": 118,
+      "comments": 66,
+      "source": "waymo.com"
     },
     {
       "title": "The coolest anti-surveillance tools at Defcon [video]",
       "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-      "score": 154,
-      "comments": 9,
+      "score": 185,
+      "comments": 22,
       "source": "youtube.com"
     },
     {
-      "title": "What happens when a GPU reads memory",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "score": 97,
-      "comments": 17,
-      "source": "blog.doubleword.ai"
-    },
-    {
-      "title": "Show HN: Rex, a parallel functional language for scientific workflows",
-      "url": "https://github.com/peterkelly/rex",
-      "score": 4,
-      "comments": 0,
-      "source": "github.com"
-    },
-    {
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "score": 525,
-      "comments": 834,
-      "source": "annas-archive.gl"
-    },
-    {
-      "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
-      "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-      "score": 66,
-      "comments": 33,
-      "source": "wsj.com"
-    },
-    {
-      "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
-      "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-      "score": 53,
-      "comments": 2,
-      "source": "invertingvision.com"
-    },
-    {
-      "title": "HN: The Good Parts (2016)",
-      "url": "https://danluu.com/hn-comments/",
-      "score": 9,
-      "comments": 6,
-      "source": "danluu.com"
-    },
-    {
-      "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
-      "url": "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70",
-      "score": 38,
-      "comments": 1,
-      "source": "apnews.com"
-    },
-    {
-      "title": "Paul Atkins misreads Adam Smith and the American founding",
-      "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-      "score": 52,
-      "comments": 3,
-      "source": "sites.duke.edu"
-    },
-    {
-      "title": "Using an old Android phone as a music player",
-      "url": "https://monocyte.blog/using-an-old-android-phone-as-a-music-player/",
-      "score": 35,
-      "comments": 19,
-      "source": "monocyte.blog"
+      "title": "Tumble Forth \u2013 from assembly to OS with C compiler (2023)",
+      "url": "https://tumbleforth.hardcoded.net/",
+      "score": 70,
+      "comments": 11,
+      "source": "tumbleforth.hardcoded.net"
     }
   ],
   "security": [
