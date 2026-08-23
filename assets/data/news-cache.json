@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "score": 71,
-      "comments": 12,
-      "source": "martypc.net"
-    },
-    {
-      "title": "The Golden Rule for Becoming a Better Writer",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 46,
-      "comments": 21,
-      "source": "nappertime.com"
-    },
-    {
       "title": "The End of an Athlon",
       "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "score": 7,
-      "comments": 0,
+      "score": 124,
+      "comments": 39,
       "source": "os2museum.com"
     },
     {
-      "title": "I Dream of Quieter Computing",
-      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-      "score": 46,
-      "comments": 14,
-      "source": "henry.codes"
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "score": 228,
+      "comments": 148,
+      "source": "nappertime.com"
     },
     {
-      "title": "The Art and Beauty of Blade Runner",
-      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "score": 52,
-      "comments": 13,
-      "source": "nappertime.com"
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+      "score": 20,
+      "comments": 5,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "url": "https://skylens.yantraai.app/",
+      "score": 19,
+      "comments": 0,
+      "source": "skylens.yantraai.app"
+    },
+    {
+      "title": "JIT Compiling Code in 5\u03bcs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "score": 88,
+      "comments": 50,
+      "source": "malisper.me"
+    },
+    {
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "score": 136,
+      "comments": 45,
+      "source": "martypc.net"
+    },
+    {
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "score": 51,
+      "comments": 11,
+      "source": "xda-developers.com"
+    },
+    {
+      "title": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "score": 54,
+      "comments": 19,
+      "source": "lucumr.pocoo.org"
     },
     {
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 277,
-      "comments": 90,
+      "score": 386,
+      "comments": 147,
       "source": "forum.level1techs.com"
+    },
+    {
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "score": 105,
+      "comments": 44,
+      "source": "nappertime.com"
     },
     {
       "title": "Scrap (2006)",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 364,
-      "comments": 193,
+      "score": 382,
+      "comments": 201,
       "source": "twitter.com"
-    },
-    {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "score": 84,
-      "comments": 24,
-      "source": "primeintellect.ai"
-    },
-    {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "score": 363,
-      "comments": 113,
-      "source": "quantumi.sh"
     },
     {
       "title": "Hister \u2013 A private, full content search index that you control",
       "url": "https://hister.org/",
-      "score": 302,
-      "comments": 77,
+      "score": 386,
+      "comments": 87,
       "source": "hister.org"
     },
     {
-      "title": "I set a trap for a book-marketing scammer (2025)",
-      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-      "score": 29,
+      "title": "The Sloppification of Peptides",
+      "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+      "score": 47,
       "comments": 17,
-      "source": "rwwgreene.substack.com"
+      "source": "henryaj.substack.com"
     },
     {
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "score": 187,
-      "comments": 32,
-      "source": "rfcafe.com"
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "score": 417,
+      "comments": 129,
+      "source": "quantumi.sh"
     },
     {
       "title": "typ.ing",
       "url": "https://typ.ing/",
-      "score": 238,
-      "comments": 73,
+      "score": 292,
+      "comments": 92,
       "source": "typ.ing"
-    },
-    {
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "score": 147,
-      "comments": 48,
-      "source": "reuters.com"
     },
     {
       "title": "Thinking in Python",
       "url": "https://thinkinginpython.com/",
-      "score": 126,
-      "comments": 23,
+      "score": 204,
+      "comments": 38,
       "source": "thinkinginpython.com"
     },
     {
-      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "score": 595,
-      "comments": 1376,
-      "source": "bbc.com"
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "score": 215,
+      "comments": 37,
+      "source": "rfcafe.com"
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 115,
+      "comments": 28,
+      "source": "primeintellect.ai"
+    },
+    {
+      "title": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "score": 224,
+      "comments": 136,
+      "source": "blog.modelcontextprotocol.io"
+    },
+    {
+      "title": "A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "score": 212,
+      "comments": 236,
+      "source": "allaboutcoding.ghinda.com"
+    },
+    {
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "score": 174,
+      "comments": 82,
+      "source": "reuters.com"
     },
     {
       "title": "A Friendly Introduction to Racket",
       "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "score": 218,
-      "comments": 115,
+      "score": 242,
+      "comments": 131,
       "source": "geometridae.bearblog.dev"
     },
     {
       "title": "NetBSD and my life (2005)",
       "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "score": 111,
-      "comments": 28,
+      "score": 131,
+      "comments": 29,
       "source": "mail-index.netbsd.org"
     },
     {
       "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
       "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "score": 132,
-      "comments": 18,
+      "score": 150,
+      "comments": 20,
       "source": "atproto.com"
     },
     {
-      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-      "url": "https://www.pianoify.net/",
-      "score": 34,
-      "comments": 7,
-      "source": "pianoify.net"
-    },
-    {
-      "title": "A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 178,
-      "comments": 191,
-      "source": "allaboutcoding.ghinda.com"
-    },
-    {
-      "title": "Reading Maps \u2013 Journeys from fiction drawn on the real world",
-      "url": "https://readingmaps.com/",
-      "score": 27,
-      "comments": 2,
-      "source": "readingmaps.com"
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "score": 133,
+      "comments": 99,
+      "source": "xda-developers.com"
     },
     {
       "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
       "url": "https://munderdiffl.in/",
-      "score": 273,
-      "comments": 118,
+      "score": 290,
+      "comments": 125,
       "source": "munderdiffl.in"
-    },
-    {
-      "title": "New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "score": 193,
-      "comments": 129,
-      "source": "blog.modelcontextprotocol.io"
     },
     {
       "title": "Figmimic \u2013 A bookmarklet to copy any webpage into Figma as editable layers",
       "url": "https://marcua.net/minitools/figmimic/",
-      "score": 85,
-      "comments": 12,
+      "score": 105,
+      "comments": 14,
       "source": "marcua.net"
     },
     {
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "score": 121,
-      "comments": 48,
-      "source": "lambda-symbolics.com"
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "score": 56,
+      "comments": 39,
+      "source": "rwwgreene.substack.com"
     },
     {
-      "title": "What's in a PowerPoint File?",
-      "url": "https://editide.com/blog/what-is-a-pptx-file/",
-      "score": 79,
-      "comments": 40,
-      "source": "editide.com"
+      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+      "url": "https://www.pianoify.net/",
+      "score": 50,
+      "comments": 9,
+      "source": "pianoify.net"
     },
     {
       "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
       "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "score": 133,
-      "comments": 63,
+      "score": 143,
+      "comments": 74,
       "source": "computer.org"
-    },
-    {
-      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
-      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-      "score": 18,
-      "comments": 4,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "score": 83,
-      "comments": 49,
-      "source": "ozbrain.com"
     }
   ],
   "security": [
