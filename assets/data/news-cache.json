@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "score": 42,
-      "comments": 9,
-      "source": "primeintellect.ai"
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "score": 71,
+      "comments": 12,
+      "source": "martypc.net"
     },
     {
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 304,
-      "comments": 162,
-      "source": "twitter.com"
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "score": 46,
+      "comments": 21,
+      "source": "nappertime.com"
+    },
+    {
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "score": 7,
+      "comments": 0,
+      "source": "os2museum.com"
+    },
+    {
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "score": 46,
+      "comments": 14,
+      "source": "henry.codes"
+    },
+    {
+      "title": "The Art and Beauty of Blade Runner",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "score": 52,
+      "comments": 13,
+      "source": "nappertime.com"
     },
     {
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 170,
-      "comments": 52,
+      "score": 277,
+      "comments": 90,
       "source": "forum.level1techs.com"
+    },
+    {
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 364,
+      "comments": 193,
+      "source": "twitter.com"
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 84,
+      "comments": 24,
+      "source": "primeintellect.ai"
     },
     {
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "url": "https://quantumi.sh/public/labs.html",
-      "score": 295,
-      "comments": 100,
+      "score": 363,
+      "comments": 113,
       "source": "quantumi.sh"
     },
     {
       "title": "Hister \u2013 A private, full content search index that you control",
       "url": "https://hister.org/",
-      "score": 225,
-      "comments": 65,
+      "score": 302,
+      "comments": 77,
       "source": "hister.org"
     },
     {
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "score": 93,
-      "comments": 22,
-      "source": "mail-index.netbsd.org"
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "score": 29,
+      "comments": 17,
+      "source": "rwwgreene.substack.com"
     },
     {
       "title": "RF Cafe",
       "url": "https://www.rfcafe.com/",
-      "score": 145,
-      "comments": 23,
+      "score": 187,
+      "comments": 32,
       "source": "rfcafe.com"
     },
     {
       "title": "typ.ing",
       "url": "https://typ.ing/",
-      "score": 170,
-      "comments": 54,
+      "score": 238,
+      "comments": 73,
       "source": "typ.ing"
     },
     {
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "score": 105,
-      "comments": 37,
+      "score": 147,
+      "comments": 48,
       "source": "reuters.com"
     },
     {
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "score": 186,
-      "comments": 92,
-      "source": "geometridae.bearblog.dev"
-    },
-    {
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "score": 107,
-      "comments": 13,
-      "source": "atproto.com"
-    },
-    {
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "score": 158,
-      "comments": 63,
-      "source": "lapcatsoftware.com"
+      "title": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "score": 126,
+      "comments": 23,
+      "source": "thinkinginpython.com"
     },
     {
       "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
       "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "score": 476,
-      "comments": 1211,
+      "score": 595,
+      "comments": 1376,
       "source": "bbc.com"
     },
     {
-      "title": "One night in Uzbekistan: Why was this one data point so influential?",
-      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
-      "score": 75,
-      "comments": 12,
-      "source": "statmodeling.stat.columbia.edu"
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "score": 218,
+      "comments": 115,
+      "source": "geometridae.bearblog.dev"
     },
     {
-      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "score": 248,
-      "comments": 114,
-      "source": "munderdiffl.in"
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "score": 111,
+      "comments": 28,
+      "source": "mail-index.netbsd.org"
     },
     {
-      "title": "Conway's Game of Life in real life",
-      "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
-      "score": 35,
-      "comments": 8,
-      "source": "blog.coredump.cx"
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "score": 132,
+      "comments": 18,
+      "source": "atproto.com"
     },
     {
-      "title": "Thinking in Python by Bruce Eckel",
-      "url": "https://thinkinginpython.com/",
-      "score": 45,
-      "comments": 9,
-      "source": "thinkinginpython.com"
+      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+      "url": "https://www.pianoify.net/",
+      "score": 34,
+      "comments": 7,
+      "source": "pianoify.net"
     },
     {
       "title": "A week of using Codex more than Claude",
       "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 121,
-      "comments": 124,
+      "score": 178,
+      "comments": 191,
       "source": "allaboutcoding.ghinda.com"
     },
     {
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "score": 109,
-      "comments": 43,
-      "source": "lambda-symbolics.com"
+      "title": "Reading Maps \u2013 Journeys from fiction drawn on the real world",
+      "url": "https://readingmaps.com/",
+      "score": 27,
+      "comments": 2,
+      "source": "readingmaps.com"
     },
     {
-      "title": "Why it might be time to rethink the human family tree",
-      "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
-      "score": 55,
-      "comments": 31,
-      "source": "nautil.us"
-    },
-    {
-      "title": "What's in a PowerPoint File?",
-      "url": "https://editide.com/blog/what-is-a-pptx-file/",
-      "score": 52,
-      "comments": 27,
-      "source": "editide.com"
-    },
-    {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "score": 78,
-      "comments": 46,
-      "source": "ozbrain.com"
-    },
-    {
-      "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
-      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "score": 114,
-      "comments": 55,
-      "source": "computer.org"
-    },
-    {
-      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-      "score": 194,
-      "comments": 83,
-      "source": "decodingvibes.com"
-    },
-    {
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 394,
-      "comments": 97,
-      "source": "rust-glancer.github.io"
-    },
-    {
-      "title": "Show HN: terminal-code \u2013 VS Code inside the terminal",
-      "url": "https://terminal-code.com",
-      "score": 71,
-      "comments": 19,
-      "source": "terminal-code.com"
+      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "score": 273,
+      "comments": 118,
+      "source": "munderdiffl.in"
     },
     {
       "title": "New MCP Roadmap",
       "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "score": 173,
-      "comments": 126,
+      "score": 193,
+      "comments": 129,
       "source": "blog.modelcontextprotocol.io"
     },
     {
-      "title": "Dynamical dark energy and the week that broke cosmology",
-      "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
-      "score": 40,
-      "comments": 15,
-      "source": "perimeterinstitute.ca"
+      "title": "Figmimic \u2013 A bookmarklet to copy any webpage into Figma as editable layers",
+      "url": "https://marcua.net/minitools/figmimic/",
+      "score": 85,
+      "comments": 12,
+      "source": "marcua.net"
     },
     {
-      "title": "MiniageOS: \"Dumbphone\" Version of LineageOS",
-      "url": "https://github.com/ofdryads/miniageOS",
-      "score": 37,
-      "comments": 23,
-      "source": "github.com"
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "score": 121,
+      "comments": 48,
+      "source": "lambda-symbolics.com"
     },
     {
-      "title": "US Military newspaper editor voices censorship fears after being fired",
-      "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
-      "score": 5,
-      "comments": 0,
-      "source": "bbc.com"
+      "title": "What's in a PowerPoint File?",
+      "url": "https://editide.com/blog/what-is-a-pptx-file/",
+      "score": 79,
+      "comments": 40,
+      "source": "editide.com"
+    },
+    {
+      "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "score": 133,
+      "comments": 63,
+      "source": "computer.org"
+    },
+    {
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+      "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "score": 18,
+      "comments": 4,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "score": 83,
+      "comments": 49,
+      "source": "ozbrain.com"
     }
   ],
   "security": [
