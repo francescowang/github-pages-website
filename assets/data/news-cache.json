@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "score": 124,
-      "comments": 39,
-      "source": "os2museum.com"
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "score": 310,
+      "comments": 129,
+      "source": "ericpardee.github.io"
+    },
+    {
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models \u2013 for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "score": 170,
+      "comments": 70,
+      "source": "reinvently.co.uk"
+    },
+    {
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "score": 110,
+      "comments": 28,
+      "source": "how.complexsystems.fail"
+    },
+    {
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "score": 45,
+      "comments": 17,
+      "source": "debloat.dev"
+    },
+    {
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "score": 162,
+      "comments": 75,
+      "source": "securelist.com"
+    },
+    {
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "score": 39,
+      "comments": 13,
+      "source": "punyamishra.com"
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "score": 117,
+      "comments": 32,
+      "source": "bookdna.com"
+    },
+    {
+      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "score": 60,
+      "comments": 52,
+      "source": "studyfinds.com"
+    },
+    {
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "score": 217,
+      "comments": 86,
+      "source": "risky.biz"
+    },
+    {
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "score": 133,
+      "comments": 84,
+      "source": "earendil.com"
     },
     {
       "title": "To become a better writer, read as much as you can",
       "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 228,
-      "comments": 148,
+      "score": 377,
+      "comments": 239,
       "source": "nappertime.com"
     },
     {
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-      "score": 20,
-      "comments": 5,
-      "source": "bbc.com"
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "score": 202,
+      "comments": 155,
+      "source": "xda-developers.com"
+    },
+    {
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "score": 165,
+      "comments": 74,
+      "source": "os2museum.com"
+    },
+    {
+      "title": "We must not grant AI agents legal personhood",
+      "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+      "score": 18,
+      "comments": 15,
+      "source": "ft.com"
+    },
+    {
+      "title": "Things I want in a modern relational query language",
+      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+      "score": 54,
+      "comments": 41,
+      "source": "sporks.space"
+    },
+    {
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "score": 242,
+      "comments": 107,
+      "source": "xda-developers.com"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 452,
+      "comments": 184,
+      "source": "forum.level1techs.com"
+    },
+    {
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "score": 180,
+      "comments": 63,
+      "source": "martypc.net"
     },
     {
       "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
       "url": "https://skylens.yantraai.app/",
-      "score": 19,
-      "comments": 0,
+      "score": 55,
+      "comments": 27,
       "source": "skylens.yantraai.app"
     },
     {
       "title": "JIT Compiling Code in 5\u03bcs",
       "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "score": 88,
-      "comments": 50,
+      "score": 139,
+      "comments": 90,
       "source": "malisper.me"
     },
     {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "score": 136,
-      "comments": 45,
-      "source": "martypc.net"
+      "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
+      "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
+      "score": 37,
+      "comments": 4,
+      "source": "hackaday.com"
     },
     {
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "score": 51,
-      "comments": 11,
-      "source": "xda-developers.com"
-    },
-    {
-      "title": "Fast and Hard Code",
-      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-      "score": 54,
-      "comments": 19,
-      "source": "lucumr.pocoo.org"
-    },
-    {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 386,
-      "comments": 147,
-      "source": "forum.level1techs.com"
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "score": 99,
+      "comments": 106,
+      "source": "henry.codes"
     },
     {
       "title": "The Art and Beauty of Blade Runner (2015)",
       "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "score": 105,
-      "comments": 44,
+      "score": 160,
+      "comments": 97,
       "source": "nappertime.com"
-    },
-    {
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 382,
-      "comments": 201,
-      "source": "twitter.com"
     },
     {
       "title": "Hister \u2013 A private, full content search index that you control",
       "url": "https://hister.org/",
-      "score": 386,
-      "comments": 87,
+      "score": 454,
+      "comments": 98,
       "source": "hister.org"
     },
     {
-      "title": "The Sloppification of Peptides",
-      "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-      "score": 47,
-      "comments": 17,
-      "source": "henryaj.substack.com"
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
+      "score": 72,
+      "comments": 47,
+      "source": "rwwgreene.substack.com"
+    },
+    {
+      "title": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "score": 99,
+      "comments": 65,
+      "source": "lucumr.pocoo.org"
+    },
+    {
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 401,
+      "comments": 217,
+      "source": "twitter.com"
     },
     {
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "url": "https://quantumi.sh/public/labs.html",
-      "score": 417,
-      "comments": 129,
+      "score": 463,
+      "comments": 138,
       "source": "quantumi.sh"
     },
     {
       "title": "typ.ing",
       "url": "https://typ.ing/",
-      "score": 292,
-      "comments": 92,
+      "score": 341,
+      "comments": 110,
       "source": "typ.ing"
     },
     {
       "title": "Thinking in Python",
       "url": "https://thinkinginpython.com/",
-      "score": 204,
-      "comments": 38,
+      "score": 274,
+      "comments": 58,
       "source": "thinkinginpython.com"
-    },
-    {
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "score": 215,
-      "comments": 37,
-      "source": "rfcafe.com"
-    },
-    {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "score": 115,
-      "comments": 28,
-      "source": "primeintellect.ai"
-    },
-    {
-      "title": "New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "score": 224,
-      "comments": 136,
-      "source": "blog.modelcontextprotocol.io"
-    },
-    {
-      "title": "A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "score": 212,
-      "comments": 236,
-      "source": "allaboutcoding.ghinda.com"
-    },
-    {
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "score": 174,
-      "comments": 82,
-      "source": "reuters.com"
-    },
-    {
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "score": 242,
-      "comments": 131,
-      "source": "geometridae.bearblog.dev"
-    },
-    {
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "score": 131,
-      "comments": 29,
-      "source": "mail-index.netbsd.org"
-    },
-    {
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "score": 150,
-      "comments": 20,
-      "source": "atproto.com"
-    },
-    {
-      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-      "score": 133,
-      "comments": 99,
-      "source": "xda-developers.com"
-    },
-    {
-      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "score": 290,
-      "comments": 125,
-      "source": "munderdiffl.in"
-    },
-    {
-      "title": "Figmimic \u2013 A bookmarklet to copy any webpage into Figma as editable layers",
-      "url": "https://marcua.net/minitools/figmimic/",
-      "score": 105,
-      "comments": 14,
-      "source": "marcua.net"
-    },
-    {
-      "title": "I set a trap for a book-marketing scammer (2025)",
-      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-      "score": 56,
-      "comments": 39,
-      "source": "rwwgreene.substack.com"
-    },
-    {
-      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-      "url": "https://www.pianoify.net/",
-      "score": 50,
-      "comments": 9,
-      "source": "pianoify.net"
-    },
-    {
-      "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
-      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "score": 143,
-      "comments": 74,
-      "source": "computer.org"
     }
   ],
   "security": [
