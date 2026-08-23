@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 42,
+      "comments": 9,
+      "source": "primeintellect.ai"
+    },
+    {
+      "title": "Scrap",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 304,
+      "comments": 162,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 170,
+      "comments": 52,
+      "source": "forum.level1techs.com"
+    },
+    {
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "url": "https://quantumi.sh/public/labs.html",
-      "score": 125,
-      "comments": 50,
+      "score": 295,
+      "comments": 100,
       "source": "quantumi.sh"
-    },
-    {
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "score": 70,
-      "comments": 18,
-      "source": "geometridae.bearblog.dev"
-    },
-    {
-      "title": "New MCP Roadmap",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "score": 128,
-      "comments": 95,
-      "source": "blog.modelcontextprotocol.io"
-    },
-    {
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
-      "score": 28,
-      "comments": 4,
-      "source": "rfcafe.com"
-    },
-    {
-      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "score": 198,
-      "comments": 81,
-      "source": "munderdiffl.in"
-    },
-    {
-      "title": "Learning about \"The Unix Time-Sharing System\"",
-      "url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
-      "score": 14,
-      "comments": 3,
-      "source": "playtechnique.io"
     },
     {
       "title": "Hister \u2013 A private, full content search index that you control",
       "url": "https://hister.org/",
-      "score": 17,
-      "comments": 0,
+      "score": 225,
+      "comments": 65,
       "source": "hister.org"
     },
     {
-      "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
-      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "score": 88,
-      "comments": 43,
-      "source": "computer.org"
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "score": 93,
+      "comments": 22,
+      "source": "mail-index.netbsd.org"
     },
     {
-      "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
-      "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
-      "score": 36,
-      "comments": 20,
-      "source": "cnn.com"
-    },
-    {
-      "title": "Show HN: Rotation via Double Reflection",
-      "url": "https://static.laszlokorte.de/rotor-reflect/",
-      "score": 36,
-      "comments": 8,
-      "source": "static.laszlokorte.de"
-    },
-    {
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "score": 51,
-      "comments": 41,
-      "source": "twitter.com"
-    },
-    {
-      "title": "Ameliorate",
-      "url": "https://ameliorate.app/",
-      "score": 50,
-      "comments": 15,
-      "source": "ameliorate.app"
-    },
-    {
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 370,
-      "comments": 82,
-      "source": "rust-glancer.github.io"
-    },
-    {
-      "title": "Dynamical dark energy and the week that broke cosmology",
-      "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
-      "score": 17,
-      "comments": 1,
-      "source": "perimeterinstitute.ca"
-    },
-    {
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "score": 806,
-      "comments": 321,
-      "source": "felonybench.com"
-    },
-    {
-      "title": "What's in a PowerPoint File?",
-      "url": "https://editide.com/blog/what-is-a-pptx-file/",
-      "score": 16,
-      "comments": 10,
-      "source": "editide.com"
-    },
-    {
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 633,
-      "comments": 201,
-      "source": "bandarlabs.github.io"
-    },
-    {
-      "title": "Why it might be time to rethink the human family tree",
-      "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
-      "score": 13,
-      "comments": 8,
-      "source": "nautil.us"
-    },
-    {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 1005,
-      "comments": 1224,
-      "source": "nytimes.com"
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
+      "score": 145,
+      "comments": 23,
+      "source": "rfcafe.com"
     },
     {
       "title": "typ.ing",
       "url": "https://typ.ing/",
-      "score": 16,
-      "comments": 3,
+      "score": 170,
+      "comments": 54,
       "source": "typ.ing"
     },
     {
-      "title": "MiniageOS: \"Dumbphone\" Version of LineageOS",
-      "url": "https://github.com/ofdryads/miniageOS",
-      "score": 15,
-      "comments": 5,
-      "source": "github.com"
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "score": 105,
+      "comments": 37,
+      "source": "reuters.com"
     },
     {
-      "title": "Show HN: Anonymous age verification with passkey-powered encryption",
-      "url": "https://loginwithone.com/",
-      "score": 17,
-      "comments": 9,
-      "source": "loginwithone.com"
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "score": 186,
+      "comments": 92,
+      "source": "geometridae.bearblog.dev"
     },
     {
-      "title": "Stop Making TUIs",
-      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-      "score": 349,
-      "comments": 447,
-      "source": "sockpuppet.org"
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "url": "https://atproto.com/blog/atproto-spaces-alpha",
+      "score": 107,
+      "comments": 13,
+      "source": "atproto.com"
     },
     {
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "score": 636,
-      "comments": 82,
-      "source": "lina.sh"
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "score": 158,
+      "comments": 63,
+      "source": "lapcatsoftware.com"
     },
     {
       "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
       "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "score": 156,
-      "comments": 740,
+      "score": 476,
+      "comments": 1211,
       "source": "bbc.com"
     },
     {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "score": 1216,
-      "comments": 379,
-      "source": "kagi.com"
+      "title": "One night in Uzbekistan: Why was this one data point so influential?",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
+      "score": 75,
+      "comments": 12,
+      "source": "statmodeling.stat.columbia.edu"
     },
     {
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "score": 590,
-      "comments": 440,
-      "source": "danluu.com"
+      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "score": 248,
+      "comments": 114,
+      "source": "munderdiffl.in"
     },
     {
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "score": 176,
-      "comments": 140,
-      "source": "theguardian.com"
+      "title": "Conway's Game of Life in real life",
+      "url": "https://blog.coredump.cx/p/conways-game-of-life-in-real-life",
+      "score": 35,
+      "comments": 8,
+      "source": "blog.coredump.cx"
     },
     {
-      "title": "Zig\u2019s Io.Threaded is neat",
-      "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-      "score": 137,
-      "comments": 81,
-      "source": "matklad.github.io"
+      "title": "Thinking in Python by Bruce Eckel",
+      "url": "https://thinkinginpython.com/",
+      "score": 45,
+      "comments": 9,
+      "source": "thinkinginpython.com"
     },
     {
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 247,
-      "comments": 65,
-      "source": "newscenter.lbl.gov"
+      "title": "A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "score": 121,
+      "comments": 124,
+      "source": "allaboutcoding.ghinda.com"
+    },
+    {
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "score": 109,
+      "comments": 43,
+      "source": "lambda-symbolics.com"
+    },
+    {
+      "title": "Why it might be time to rethink the human family tree",
+      "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985",
+      "score": 55,
+      "comments": 31,
+      "source": "nautil.us"
+    },
+    {
+      "title": "What's in a PowerPoint File?",
+      "url": "https://editide.com/blog/what-is-a-pptx-file/",
+      "score": 52,
+      "comments": 27,
+      "source": "editide.com"
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "score": 78,
+      "comments": 46,
+      "source": "ozbrain.com"
+    },
+    {
+      "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "score": 114,
+      "comments": 55,
+      "source": "computer.org"
+    },
+    {
+      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "score": 194,
+      "comments": 83,
+      "source": "decodingvibes.com"
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 394,
+      "comments": 97,
+      "source": "rust-glancer.github.io"
+    },
+    {
+      "title": "Show HN: terminal-code \u2013 VS Code inside the terminal",
+      "url": "https://terminal-code.com",
+      "score": 71,
+      "comments": 19,
+      "source": "terminal-code.com"
+    },
+    {
+      "title": "New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "score": 173,
+      "comments": 126,
+      "source": "blog.modelcontextprotocol.io"
+    },
+    {
+      "title": "Dynamical dark energy and the week that broke cosmology",
+      "url": "https://perimeterinstitute.ca/news/dynamical-dark-energy-and-week-broke-cosmology",
+      "score": 40,
+      "comments": 15,
+      "source": "perimeterinstitute.ca"
+    },
+    {
+      "title": "MiniageOS: \"Dumbphone\" Version of LineageOS",
+      "url": "https://github.com/ofdryads/miniageOS",
+      "score": 37,
+      "comments": 23,
+      "source": "github.com"
+    },
+    {
+      "title": "US Military newspaper editor voices censorship fears after being fired",
+      "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
+      "score": 5,
+      "comments": 0,
+      "source": "bbc.com"
     }
   ],
   "security": [
