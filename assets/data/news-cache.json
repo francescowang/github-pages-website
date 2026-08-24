@@ -3,211 +3,211 @@
     {
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "score": 214,
-      "comments": 63,
+      "score": 646,
+      "comments": 200,
       "source": "schlarp.com"
-    },
-    {
-      "title": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "score": 253,
-      "comments": 96,
-      "source": "lalitm.com"
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 187,
-      "comments": 146,
+      "score": 427,
+      "comments": 370,
       "source": "ft.com"
     },
     {
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "score": 165,
-      "comments": 37,
-      "source": "blog.elis.cc"
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "score": 12,
+      "comments": 11,
+      "source": "twitter.com"
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "score": 374,
+      "comments": 123,
+      "source": "lalitm.com"
+    },
+    {
+      "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "score": 4,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 142,
-      "comments": 72,
+      "score": 280,
+      "comments": 109,
       "source": "fabiensanglard.net"
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "score": 265,
+      "comments": 78,
+      "source": "blog.elis.cc"
+    },
+    {
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "score": 90,
+      "comments": 18,
+      "source": "pantel.is"
+    },
+    {
+      "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+      "score": 41,
+      "comments": 35,
+      "source": "hanselman.com"
     },
     {
       "title": "What Is a Harness?",
       "url": "https://earendil.com/posts/what-is-a-harness/",
-      "score": 290,
-      "comments": 131,
+      "score": 404,
+      "comments": 146,
       "source": "earendil.com"
     },
     {
       "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
-      "score": 234,
-      "comments": 62,
+      "score": 295,
+      "comments": 68,
       "source": "how.complexsystems.fail"
     },
     {
       "title": "AI Chip Architectures",
       "url": "https://www.jepeake.com/ai-chip-architectures",
-      "score": 35,
-      "comments": 6,
+      "score": 59,
+      "comments": 24,
       "source": "jepeake.com"
+    },
+    {
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+      "score": 76,
+      "comments": 50,
+      "source": "cntraveler.com"
     },
     {
       "title": "Malware infects Android-based automotive head unit firmware",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 210,
-      "comments": 106,
+      "score": 231,
+      "comments": 120,
       "source": "securelist.com"
-    },
-    {
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "score": 23,
-      "comments": 8,
-      "source": "github.com"
     },
     {
       "title": "My favorite nonfiction books about cults, scams, and schemes",
       "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "score": 189,
-      "comments": 66,
+      "score": 221,
+      "comments": 81,
       "source": "bookdna.com"
     },
     {
-      "title": "A website for debloated open source alternatives",
-      "url": "https://debloat.dev/",
-      "score": 257,
-      "comments": 88,
-      "source": "debloat.dev"
+      "title": "Elevated Errors for Multiple Models",
+      "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
+      "score": 16,
+      "comments": 2,
+      "source": "status.claude.com"
     },
     {
       "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
       "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-      "score": 128,
-      "comments": 78,
+      "score": 173,
+      "comments": 100,
       "source": "punyamishra.com"
     },
     {
       "title": "Explain it to me like I'm ten",
       "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "score": 78,
-      "comments": 38,
+      "score": 120,
+      "comments": 46,
       "source": "timharford.com"
+    },
+    {
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "score": 69,
+      "comments": 14,
+      "source": "github.com"
+    },
+    {
+      "title": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "score": 14,
+      "comments": 0,
+      "source": "rte.ie"
+    },
+    {
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "score": 311,
+      "comments": 97,
+      "source": "debloat.dev"
+    },
+    {
+      "title": "The first search engine for Internet-connected devices",
+      "url": "https://www.shodan.io/",
+      "score": 15,
+      "comments": 0,
+      "source": "shodan.io"
+    },
+    {
+      "title": "Nearly 3M Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.com/news/articles/c4g6ggdg030o",
+      "score": 86,
+      "comments": 85,
+      "source": "bbc.com"
     },
     {
       "title": "Decoding silent reading from non-invasive EEG",
       "url": "https://arxiv.org/abs/2608.20186",
-      "score": 25,
-      "comments": 11,
+      "score": 47,
+      "comments": 22,
       "source": "arxiv.org"
     },
     {
-      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-      "score": 20,
-      "comments": 8,
-      "source": "cntraveler.com"
-    },
-    {
-      "title": "Declarative WebGPU with S-Expressions",
-      "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-      "score": 18,
-      "comments": 1,
-      "source": "hugodaniel.com"
-    },
-    {
-      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-      "score": 160,
-      "comments": 63,
-      "source": "slate.com"
-    },
-    {
-      "title": "AI and Infrastructure Engineering",
-      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-      "score": 38,
-      "comments": 11,
-      "source": "omegion.dev"
+      "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
+      "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
+      "score": 43,
+      "comments": 21,
+      "source": "rnz.co.nz"
     },
     {
       "title": "Kodak DC50 now usable on the Apple II",
       "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
-      "score": 32,
-      "comments": 5,
+      "score": 57,
+      "comments": 9,
       "source": "colino.net"
     },
     {
-      "title": "The planet now has more trees than it did 35 years ago (2018)",
-      "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-      "score": 48,
-      "comments": 27,
-      "source": "psmag.com"
+      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+      "score": 231,
+      "comments": 108,
+      "source": "slate.com"
     },
     {
-      "title": "The Vibe Tax",
-      "url": "https://insufferable.dev/posts/vibe-tax/",
-      "score": 100,
-      "comments": 77,
-      "source": "insufferable.dev"
+      "title": "Declarative WebGPU with S-Expressions",
+      "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+      "score": 37,
+      "comments": 4,
+      "source": "hugodaniel.com"
     },
     {
       "title": "The Remote Work Challenge: Lessons from 5 Cities",
       "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-      "score": 30,
-      "comments": 13,
+      "score": 53,
+      "comments": 28,
       "source": "pew.org"
-    },
-    {
-      "title": "Fable and the end of the free lunch",
-      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-      "score": 108,
-      "comments": 87,
-      "source": "dbreunig.com"
-    },
-    {
-      "title": "Parallel development without the headaches using Git worktree",
-      "url": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
-      "score": 14,
-      "comments": 7,
-      "source": "barrd.dev"
-    },
-    {
-      "title": "Things I want in a modern relational query language",
-      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-      "score": 83,
-      "comments": 79,
-      "source": "sporks.space"
-    },
-    {
-      "title": "A complex structure on S^6 [pdf]",
-      "url": "https://alpo.ge/s6.pdf",
-      "score": 45,
-      "comments": 14,
-      "source": "alpo.ge"
-    },
-    {
-      "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
-      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-      "score": 142,
-      "comments": 168,
-      "source": "studyfinds.com"
-    },
-    {
-      "title": "Death to px, long live ch",
-      "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-      "score": 60,
-      "comments": 41,
-      "source": "shkspr.mobi"
     },
     {
       "title": "The Sloppification of Peptides",
       "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-      "score": 90,
-      "comments": 70,
+      "score": 126,
+      "comments": 112,
       "source": "henryaj.substack.com"
     }
   ],
