@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "score": 424,
+      "comments": 249,
+      "source": "twitter.com"
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "score": 264,
+      "comments": 117,
+      "source": "xusheng.dev"
+    },
+    {
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "score": 174,
+      "comments": 73,
+      "source": "ipshipyard.com"
+    },
+    {
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "score": 72,
+      "comments": 27,
+      "source": "sf.thijs.gg"
+    },
+    {
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "score": 734,
+      "comments": 489,
+      "source": "lectronz.com"
+    },
+    {
+      "title": "Hot Chips 2026: CUDA Targets RISC-V \u2013 By Chester Lam",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+      "score": 34,
+      "comments": 3,
+      "source": "chipsandcheese.com"
+    },
+    {
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "url": "https://www.ycombinator.com/companies/autostep/jobs",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "score": 54,
+      "comments": 22,
+      "source": "gultsch.de"
+    },
+    {
+      "title": "Show HN: GlassBox \u2013 what the browser reveals, and how identifiable you are",
+      "url": "https://glassbox.codecanary.org",
+      "score": 42,
+      "comments": 16,
+      "source": "glassbox.codecanary.org"
+    },
+    {
+      "title": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
+      "url": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
+      "score": 9,
+      "comments": 1,
+      "source": "catskull.net"
+    },
+    {
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "score": 245,
+      "comments": 270,
+      "source": "larsfaye.com"
+    },
+    {
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "score": 169,
+      "comments": 164,
+      "source": "developers.openai.com"
+    },
+    {
+      "title": "Show HN: PicoMQ \u2013 Durable Streams over HTTP, on object storage",
+      "url": "https://picomq.com/",
+      "score": 33,
+      "comments": 0,
+      "source": "picomq.com"
+    },
+    {
       "title": "SeL4 security proofs now complete on AArch64",
       "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "score": 31,
-      "comments": 4,
+      "score": 142,
+      "comments": 31,
       "source": "proofcraft.systems"
     },
     {
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "score": 234,
-      "comments": 339,
+      "score": 422,
+      "comments": 532,
       "source": "twitter.com"
     },
     {
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "score": 1073,
-      "comments": 293,
-      "source": "schlarp.com"
+      "title": "Adafruit USB Type C CC Resistor Fixer",
+      "url": "https://www.adafruit.com/product/6323",
+      "score": 44,
+      "comments": 30,
+      "source": "adafruit.com"
     },
     {
-      "title": "Omakase Computing",
-      "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
-      "score": 25,
-      "comments": 22,
-      "source": "learn.omacom.io"
+      "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+      "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+      "score": 71,
+      "comments": 21,
+      "source": "alexschapiro.com"
     },
     {
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "score": 75,
-      "comments": 27,
-      "source": "medicine.washu.edu"
+      "title": "What Is a Syslog Server?",
+      "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+      "score": 3,
+      "comments": 3,
+      "source": "blog.greencloudvps.com"
+    },
+    {
+      "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+      "score": 32,
+      "comments": 11,
+      "source": "chipsandcheese.com"
     },
     {
       "title": "Executable Is a SQLite Database",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "score": 172,
-      "comments": 22,
+      "score": 382,
+      "comments": 78,
       "source": "fzakaria.com"
     },
     {
-      "title": "The Future Belongs to the Weird",
-      "url": "https://essays.georgestrakhov.com/weird/",
-      "score": 43,
-      "comments": 23,
-      "source": "essays.georgestrakhov.com"
+      "title": "Curvature Beziers \u2013 Improving on a timeless recipe",
+      "url": "https://acko.net/blog/curvature-beziers/",
+      "score": 20,
+      "comments": 2,
+      "source": "acko.net"
     },
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "score": 592,
-      "comments": 529,
-      "source": "ft.com"
-    },
-    {
-      "title": "Agent Is Not the Model",
-      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+      "title": "EuroHPC Launches 6 Quantum Calls with \u20ac119M in Funding",
+      "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
       "score": 8,
-      "comments": 0,
-      "source": "code.joejag.com"
+      "comments": 6,
+      "source": "hpcwire.com"
     },
     {
-      "title": "Fast drilldown dashboards from a single Parquet file",
-      "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-      "score": 46,
-      "comments": 0,
-      "source": "hamiltonulmer.com"
+      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "url": "https://ssx360.github.io/rack-02/?src=hn",
+      "score": 88,
+      "comments": 18,
+      "source": "ssx360.github.io"
     },
     {
-      "title": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "score": 444,
-      "comments": 136,
-      "source": "lalitm.com"
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "score": 157,
+      "comments": 75,
+      "source": "medicine.washu.edu"
     },
     {
-      "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "score": 68,
-      "comments": 11,
-      "source": "github.com"
+      "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+      "url": "https://arxiv.org/abs/2608.16603",
+      "score": 49,
+      "comments": 59,
+      "source": "arxiv.org"
     },
     {
-      "title": "Andreessen Horowitz is investing billions into a bleak future",
-      "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-      "score": 292,
-      "comments": 104,
-      "source": "modelrepublic.org"
+      "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+      "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+      "score": 20,
+      "comments": 15,
+      "source": "solar.lowtechmagazine.com"
     },
     {
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "score": 210,
-      "comments": 41,
-      "source": "pantel.is"
+      "title": "Codefloe Is a Professionally Hosted Public Git Forge",
+      "url": "https://codefloe.com/",
+      "score": 18,
+      "comments": 4,
+      "source": "codefloe.com"
     },
     {
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "score": 335,
+      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+      "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+      "score": 182,
       "comments": 112,
-      "source": "blog.elis.cc"
+      "source": "torrentfreak.com"
     },
     {
-      "title": "What Is a Harness?",
-      "url": "https://earendil.com/posts/what-is-a-harness/",
-      "score": 481,
-      "comments": 157,
-      "source": "earendil.com"
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "score": 19,
+      "comments": 4,
+      "source": "journals.plos.org"
     },
     {
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "score": 331,
-      "comments": 143,
-      "source": "fabiensanglard.net"
-    },
-    {
-      "title": "Anthropic candidates face blunt money question",
-      "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
-      "score": 12,
-      "comments": 10,
-      "source": "axios.com"
-    },
-    {
-      "title": "New EU-wide product repair rules come into force",
-      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-      "score": 161,
-      "comments": 98,
-      "source": "rte.ie"
-    },
-    {
-      "title": "How Complex Systems Fail (1998)",
-      "url": "https://how.complexsystems.fail/",
-      "score": 336,
-      "comments": 72,
-      "source": "how.complexsystems.fail"
-    },
-    {
-      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-      "score": 81,
-      "comments": 66,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 249,
-      "comments": 126,
-      "source": "securelist.com"
-    },
-    {
-      "title": "Over 5,200 Ebola cases recorded in Congo",
-      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
-      "score": 76,
-      "comments": 31,
-      "source": "afro.who.int"
-    },
-    {
-      "title": "Omacom Foundation funding hits $10M",
-      "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
-      "score": 44,
-      "comments": 42,
-      "source": "omarchy.org"
-    },
-    {
-      "title": "AI Chip Architectures",
-      "url": "https://www.jepeake.com/ai-chip-architectures",
-      "score": 98,
-      "comments": 35,
-      "source": "jepeake.com"
-    },
-    {
-      "title": "Fable and the end of the free lunch",
-      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-      "score": 176,
-      "comments": 164,
-      "source": "dbreunig.com"
-    },
-    {
-      "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-      "url": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-      "score": 38,
-      "comments": 20,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Mourning Steve French",
-      "url": "https://lwn.net/Articles/1090098/",
-      "score": 26,
-      "comments": 0,
-      "source": "lwn.net"
-    },
-    {
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "score": 246,
-      "comments": 93,
-      "source": "bookdna.com"
+      "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
+      "score": 11,
+      "comments": 3,
+      "source": "chipsandcheese.com"
     }
   ],
   "security": [
