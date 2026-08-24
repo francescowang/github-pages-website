@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "score": 310,
-      "comments": 129,
-      "source": "ericpardee.github.io"
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "score": 214,
+      "comments": 63,
+      "source": "schlarp.com"
     },
     {
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models \u2013 for 1/5 the cost",
-      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-      "score": 170,
-      "comments": 70,
-      "source": "reinvently.co.uk"
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "score": 253,
+      "comments": 96,
+      "source": "lalitm.com"
     },
     {
-      "title": "How Complex Systems Fail (1998)",
-      "url": "https://how.complexsystems.fail/",
-      "score": 110,
-      "comments": 28,
-      "source": "how.complexsystems.fail"
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 187,
+      "comments": 146,
+      "source": "ft.com"
     },
     {
-      "title": "A website for debloated open source alternatives",
-      "url": "https://debloat.dev/",
-      "score": 45,
-      "comments": 17,
-      "source": "debloat.dev"
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "score": 165,
+      "comments": 37,
+      "source": "blog.elis.cc"
     },
     {
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 162,
-      "comments": 75,
-      "source": "securelist.com"
-    },
-    {
-      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-      "score": 39,
-      "comments": 13,
-      "source": "punyamishra.com"
-    },
-    {
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "score": 117,
-      "comments": 32,
-      "source": "bookdna.com"
-    },
-    {
-      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
-      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-      "score": 60,
-      "comments": 52,
-      "source": "studyfinds.com"
-    },
-    {
-      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-      "score": 217,
-      "comments": 86,
-      "source": "risky.biz"
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "score": 142,
+      "comments": 72,
+      "source": "fabiensanglard.net"
     },
     {
       "title": "What Is a Harness?",
       "url": "https://earendil.com/posts/what-is-a-harness/",
-      "score": 133,
-      "comments": 84,
+      "score": 290,
+      "comments": 131,
       "source": "earendil.com"
     },
     {
-      "title": "To become a better writer, read as much as you can",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 377,
-      "comments": 239,
-      "source": "nappertime.com"
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "score": 234,
+      "comments": 62,
+      "source": "how.complexsystems.fail"
     },
     {
-      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-      "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-      "score": 202,
-      "comments": 155,
-      "source": "xda-developers.com"
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "score": 35,
+      "comments": 6,
+      "source": "jepeake.com"
     },
     {
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "score": 165,
-      "comments": 74,
-      "source": "os2museum.com"
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "score": 210,
+      "comments": 106,
+      "source": "securelist.com"
     },
     {
-      "title": "We must not grant AI agents legal personhood",
-      "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "score": 23,
+      "comments": 8,
+      "source": "github.com"
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "score": 189,
+      "comments": 66,
+      "source": "bookdna.com"
+    },
+    {
+      "title": "A website for debloated open source alternatives",
+      "url": "https://debloat.dev/",
+      "score": 257,
+      "comments": 88,
+      "source": "debloat.dev"
+    },
+    {
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "score": 128,
+      "comments": 78,
+      "source": "punyamishra.com"
+    },
+    {
+      "title": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "score": 78,
+      "comments": 38,
+      "source": "timharford.com"
+    },
+    {
+      "title": "Decoding silent reading from non-invasive EEG",
+      "url": "https://arxiv.org/abs/2608.20186",
+      "score": 25,
+      "comments": 11,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+      "score": 20,
+      "comments": 8,
+      "source": "cntraveler.com"
+    },
+    {
+      "title": "Declarative WebGPU with S-Expressions",
+      "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
       "score": 18,
-      "comments": 15,
-      "source": "ft.com"
+      "comments": 1,
+      "source": "hugodaniel.com"
+    },
+    {
+      "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+      "score": 160,
+      "comments": 63,
+      "source": "slate.com"
+    },
+    {
+      "title": "AI and Infrastructure Engineering",
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "score": 38,
+      "comments": 11,
+      "source": "omegion.dev"
+    },
+    {
+      "title": "Kodak DC50 now usable on the Apple II",
+      "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
+      "score": 32,
+      "comments": 5,
+      "source": "colino.net"
+    },
+    {
+      "title": "The planet now has more trees than it did 35 years ago (2018)",
+      "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+      "score": 48,
+      "comments": 27,
+      "source": "psmag.com"
+    },
+    {
+      "title": "The Vibe Tax",
+      "url": "https://insufferable.dev/posts/vibe-tax/",
+      "score": 100,
+      "comments": 77,
+      "source": "insufferable.dev"
+    },
+    {
+      "title": "The Remote Work Challenge: Lessons from 5 Cities",
+      "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+      "score": 30,
+      "comments": 13,
+      "source": "pew.org"
+    },
+    {
+      "title": "Fable and the end of the free lunch",
+      "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+      "score": 108,
+      "comments": 87,
+      "source": "dbreunig.com"
+    },
+    {
+      "title": "Parallel development without the headaches using Git worktree",
+      "url": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
+      "score": 14,
+      "comments": 7,
+      "source": "barrd.dev"
     },
     {
       "title": "Things I want in a modern relational query language",
       "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-      "score": 54,
-      "comments": 41,
+      "score": 83,
+      "comments": 79,
       "source": "sporks.space"
     },
     {
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "score": 242,
-      "comments": 107,
-      "source": "xda-developers.com"
+      "title": "A complex structure on S^6 [pdf]",
+      "url": "https://alpo.ge/s6.pdf",
+      "score": 45,
+      "comments": 14,
+      "source": "alpo.ge"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 452,
-      "comments": 184,
-      "source": "forum.level1techs.com"
+      "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "score": 142,
+      "comments": 168,
+      "source": "studyfinds.com"
     },
     {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "score": 180,
-      "comments": 63,
-      "source": "martypc.net"
+      "title": "Death to px, long live ch",
+      "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+      "score": 60,
+      "comments": 41,
+      "source": "shkspr.mobi"
     },
     {
-      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-      "url": "https://skylens.yantraai.app/",
-      "score": 55,
-      "comments": 27,
-      "source": "skylens.yantraai.app"
-    },
-    {
-      "title": "JIT Compiling Code in 5\u03bcs",
-      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "score": 139,
-      "comments": 90,
-      "source": "malisper.me"
-    },
-    {
-      "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
-      "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-      "score": 37,
-      "comments": 4,
-      "source": "hackaday.com"
-    },
-    {
-      "title": "I Dream of Quieter Computing",
-      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-      "score": 99,
-      "comments": 106,
-      "source": "henry.codes"
-    },
-    {
-      "title": "The Art and Beauty of Blade Runner (2015)",
-      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "score": 160,
-      "comments": 97,
-      "source": "nappertime.com"
-    },
-    {
-      "title": "Hister \u2013 A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "score": 454,
-      "comments": 98,
-      "source": "hister.org"
-    },
-    {
-      "title": "I set a trap for a book-marketing scammer (2025)",
-      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-      "score": 72,
-      "comments": 47,
-      "source": "rwwgreene.substack.com"
-    },
-    {
-      "title": "Fast and Hard Code",
-      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-      "score": 99,
-      "comments": 65,
-      "source": "lucumr.pocoo.org"
-    },
-    {
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 401,
-      "comments": 217,
-      "source": "twitter.com"
-    },
-    {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "score": 463,
-      "comments": 138,
-      "source": "quantumi.sh"
-    },
-    {
-      "title": "typ.ing",
-      "url": "https://typ.ing/",
-      "score": 341,
-      "comments": 110,
-      "source": "typ.ing"
-    },
-    {
-      "title": "Thinking in Python",
-      "url": "https://thinkinginpython.com/",
-      "score": 274,
-      "comments": 58,
-      "source": "thinkinginpython.com"
+      "title": "The Sloppification of Peptides",
+      "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+      "score": 90,
+      "comments": 70,
+      "source": "henryaj.substack.com"
     }
   ],
   "security": [
