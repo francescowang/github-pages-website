@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "Don't Wordle",
-      "url": "https://dontwordle.com/",
-      "score": 19,
-      "comments": 4,
-      "source": "dontwordle.com"
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 684,
+      "comments": 558,
+      "source": "apple.com"
     },
     {
-      "title": "HelloAssembly The smallest possible complete Windows application",
-      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-      "score": 11,
-      "comments": 10,
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "score": 559,
+      "comments": 330,
+      "source": "apple.com"
+    },
+    {
+      "title": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "score": 53,
+      "comments": 20,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Nitter project received cease and desist",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "score": 184,
+      "comments": 117,
       "source": "github.com"
     },
     {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 511,
-      "comments": 155,
-      "source": "developer.apple.com"
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "score": 315,
+      "comments": 164,
+      "source": "apple.com"
     },
     {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 752,
-      "comments": 364,
-      "source": "xusheng.dev"
-    },
-    {
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 912,
-      "comments": 653,
-      "source": "twitter.com"
-    },
-    {
-      "title": "How Universities Should Prepare Founders",
-      "url": "https://paulgraham.com/prepare.html",
-      "score": 163,
-      "comments": 191,
-      "source": "paulgraham.com"
-    },
-    {
-      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "title": "My Friend Aaron",
+      "url": "https://rorz.io/writing/my-friend-aaron",
       "score": 85,
-      "comments": 120,
-      "source": "library.hbs.edu"
+      "comments": 17,
+      "source": "rorz.io"
     },
     {
-      "title": "Quantum battery upends the rules of charging",
-      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-      "score": 43,
-      "comments": 43,
-      "source": "bbc.com"
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "score": 168,
+      "comments": 106,
+      "source": "e360.yale.edu"
+    },
+    {
+      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "score": 20,
+      "comments": 7,
+      "source": "nil.wallyjones.com"
+    },
+    {
+      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 36,
+      "comments": 1,
+      "source": "newsletter.semianalysis.com"
+    },
+    {
+      "title": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "score": 30,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "Building a backyard office, the build and cost breakdown",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "score": 150,
+      "comments": 112,
+      "source": "imkylelambert.com"
+    },
+    {
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "score": 240,
+      "comments": 98,
+      "source": "dontwordle.com"
+    },
+    {
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "score": 177,
+      "comments": 21,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "score": 32,
+      "comments": 5,
+      "source": "blog.master.dev"
+    },
+    {
+      "title": "A new ceiling for \u039b: the de Bruijn\u2013Newman constant",
+      "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+      "score": 23,
+      "comments": 3,
+      "source": "judegomila.com"
+    },
+    {
+      "title": "Fuzzing the Gleam Compiler",
+      "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+      "score": 15,
+      "comments": 1,
+      "source": "kurz.net"
+    },
+    {
+      "title": "Lightweight system monitor for Linux VPS written in Go",
+      "url": "https://github.com/leodeim/vpsmon",
+      "score": 15,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Visualizing Binary Files",
+      "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
+      "score": 27,
+      "comments": 9,
+      "source": "movq.de"
+    },
+    {
+      "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+      "score": 22,
+      "comments": 2,
+      "source": "dl.acm.org"
+    },
+    {
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+      "score": 24,
+      "comments": 2,
+      "source": "groups.google.com"
+    },
+    {
+      "title": "Run Minecraft in a Windows sandbox for computer use agents",
+      "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+      "score": 13,
+      "comments": 2,
+      "source": "cua.ai"
+    },
+    {
+      "title": "Solving the 1+N Query Problem",
+      "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+      "score": 24,
+      "comments": 13,
+      "source": "acadia.engineering"
+    },
+    {
+      "title": "Starbase, LA",
+      "url": "https://www.spacex.com/sites/starbase-la",
+      "score": 73,
+      "comments": 67,
+      "source": "spacex.com"
+    },
+    {
+      "title": "Otto Dix, Nietzsche, and the Great War (2019)",
+      "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+      "score": 28,
+      "comments": 16,
+      "source": "historytoday.com"
+    },
+    {
+      "title": "HelloAssembly: The smallest possible complete Windows application (2021)",
+      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+      "score": 73,
+      "comments": 40,
+      "source": "github.com"
+    },
+    {
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "score": 260,
+      "comments": 117,
+      "source": "modelscope.cn"
+    },
+    {
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "score": 190,
+      "comments": 189,
+      "source": "blog.coredump.cx"
+    },
+    {
+      "title": "Windows 95 released August 24, 1995",
+      "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
+      "score": 96,
+      "comments": 55,
+      "source": "dfarq.homeip.net"
     },
     {
       "title": "SiFive's First Server Platform",
       "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "score": 75,
-      "comments": 19,
-      "source": "chipsandcheese.com"
-    },
-    {
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 1457,
-      "comments": 917,
-      "source": "lectronz.com"
-    },
-    {
-      "title": "The entire city of San Francisco as a video game",
-      "url": "https://sf.thijs.gg/",
-      "score": 510,
-      "comments": 149,
-      "source": "sf.thijs.gg"
-    },
-    {
-      "title": "Moon (2024)",
-      "url": "https://ciechanow.ski/moon/",
-      "score": 216,
-      "comments": 38,
-      "source": "ciechanow.ski"
-    },
-    {
-      "title": "What's new in Emacs 31.1",
-      "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "score": 184,
-      "comments": 39,
-      "source": "masteringemacs.org"
-    },
-    {
-      "title": "Bookshelf \u2013 Self-hosted eBook library that runs on object storage",
-      "url": "https://github.com/murerkinn/bookshelf",
-      "score": 121,
-      "comments": 45,
-      "source": "github.com"
-    },
-    {
-      "title": "Where did all the public bathrooms go?",
-      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "score": 271,
-      "comments": 591,
-      "source": "daily.jstor.org"
-    },
-    {
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "score": 85,
-      "comments": 35,
-      "source": "laude.org"
-    },
-    {
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
       "score": 120,
-      "comments": 23,
-      "source": "blog.archive.org"
-    },
-    {
-      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-      "score": 181,
-      "comments": 86,
-      "source": "journals.plos.org"
-    },
-    {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "score": 125,
-      "comments": 16,
-      "source": "surya.website"
-    },
-    {
-      "title": "Jabber/XMPP: 25 Years of Digital Independence",
-      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "score": 244,
-      "comments": 141,
-      "source": "gultsch.de"
-    },
-    {
-      "title": "Nostr is an inclusive communication commons",
-      "url": "https://nostr.org/",
-      "score": 167,
-      "comments": 109,
-      "source": "nostr.org"
-    },
-    {
-      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-      "url": "https://tarjan.itch.io/thoreaubasic",
-      "score": 80,
-      "comments": 28,
-      "source": "tarjan.itch.io"
-    },
-    {
-      "title": "Walgit \u2013 a Git server that is one binary in front of an object store",
-      "url": "https://github.com/tobi/walgit",
-      "score": 113,
-      "comments": 35,
-      "source": "github.com"
-    },
-    {
-      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-      "score": 100,
-      "comments": 10,
-      "source": "kylezhe.ng"
-    },
-    {
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "score": 163,
-      "comments": 79,
-      "source": "boydkane.com"
-    },
-    {
-      "title": "Was modern art a CIA psy-op? (2020)",
-      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "score": 102,
-      "comments": 178,
-      "source": "daily.jstor.org"
-    },
-    {
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "score": 564,
-      "comments": 643,
-      "source": "twitter.com"
-    },
-    {
-      "title": "SeL4 security proofs now complete on AArch64",
-      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "score": 192,
-      "comments": 47,
-      "source": "proofcraft.systems"
-    },
-    {
-      "title": "Oceans hit highest temperature on record",
-      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "score": 619,
-      "comments": 482,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "score": 179,
-      "comments": 134,
-      "source": "smithsonianmag.com"
+      "comments": 37,
+      "source": "chipsandcheese.com"
     }
   ],
   "security": [
