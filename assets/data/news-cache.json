@@ -1,46 +1,144 @@
 {
   "tech": [
     {
-      "title": "Omarchy is full of security holes",
-      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-      "score": 105,
-      "comments": 69,
-      "source": "blog.happyfellow.dev"
+      "title": "Tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "score": 197,
+      "comments": 32,
+      "source": "github.com"
     },
     {
-      "title": "RAG Is Simpler Than You Think",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "score": 162,
-      "comments": 77,
-      "source": "lighthousenewsletter.com"
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "score": 664,
+      "comments": 308,
+      "source": "z.ai"
     },
     {
-      "title": "Oldinsurancemaps.net is now a Charter Project",
-      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-      "score": 91,
-      "comments": 13,
-      "source": "openstreetmap.us"
+      "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+      "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
+      "score": 117,
+      "comments": 41,
+      "source": "insurancewatchdogcoalition.com"
     },
     {
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "score": 190,
-      "comments": 79,
-      "source": "bloomberg.com"
+      "title": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+      "score": 142,
+      "comments": 45,
+      "source": "lwn.net"
     },
     {
-      "title": "Value Classes Still Need Compiler Sympathy",
-      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-      "score": 48,
-      "comments": 19,
-      "source": "johan-sjolen.github.io"
+      "title": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "score": 831,
+      "comments": 237,
+      "source": "ducklabs.com"
     },
     {
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 1204,
-      "comments": 1165,
-      "source": "apple.com"
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "score": 244,
+      "comments": 95,
+      "source": "nebulasans.com"
+    },
+    {
+      "title": "Qwen3.8-Flash-Next",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "score": 508,
+      "comments": 161,
+      "source": "qwen.ai"
+    },
+    {
+      "title": "Disruption with Some GitHub Services",
+      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "score": 201,
+      "comments": 112,
+      "source": "githubstatus.com"
+    },
+    {
+      "title": "Designation of Autistici/Inventati as a Specially Designated Global Terrorist",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/",
+      "score": 38,
+      "comments": 32,
+      "source": "state.gov"
+    },
+    {
+      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+      "score": 68,
+      "comments": 4,
+      "source": "hotosm.org"
+    },
+    {
+      "title": "Tim Curry has died",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "score": 387,
+      "comments": 139,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+      "url": "https://thetariffcost.com/",
+      "score": 61,
+      "comments": 35,
+      "source": "thetariffcost.com"
+    },
+    {
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "score": 170,
+      "comments": 112,
+      "source": "farmaction.us"
+    },
+    {
+      "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "score": 55,
+      "comments": 14,
+      "source": "fda.gov"
+    },
+    {
+      "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "score": 101,
+      "comments": 59,
+      "source": "ssp.sh"
+    },
+    {
+      "title": "YouTube Format IDs",
+      "url": "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
+      "score": 40,
+      "comments": 12,
+      "source": "gist.github.com"
+    },
+    {
+      "title": "CDs vs. NIMBY",
+      "url": "https://www.betonit.ai/p/cds-vs-nimby",
+      "score": 22,
+      "comments": 34,
+      "source": "betonit.ai"
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "score": 12,
+      "comments": 1,
+      "source": "openai.com"
+    },
+    {
+      "title": "PageRank explained",
+      "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+      "score": 88,
+      "comments": 63,
+      "source": "praveshkoirala.com"
+    },
+    {
+      "title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]",
+      "url": "https://www.youtube.com/watch?v=656058JxTM0",
+      "score": 260,
+      "comments": 85,
+      "source": "youtube.com"
     },
     {
       "title": "Proliferate (YC S25) Is Hiring",
@@ -50,161 +148,76 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Beyond Recall and the Illusion of Competence",
-      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-      "score": 30,
-      "comments": 6,
-      "source": "var0.xyz"
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "score": 377,
+      "comments": 166,
+      "source": "lighthousenewsletter.com"
     },
     {
-      "title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]",
-      "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "score": 146,
-      "comments": 43,
-      "source": "youtube.com"
+      "title": "Super Curry Combat II Turbo \u2013 Legend Edition",
+      "url": "https://curry-combat-2.com",
+      "score": 3,
+      "comments": 1,
+      "source": "curry-combat-2.com"
     },
     {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 447,
-      "comments": 206,
-      "source": "fda.gov"
+      "title": "Launch HN: Risklytics (YC S26) \u2013 Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "score": 18,
+      "comments": 8,
+      "source": "risklytics.ai"
     },
     {
-      "title": "Queryable Executables",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "score": 242,
-      "comments": 67,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 520,
-      "comments": 333,
-      "source": "newsletter.semianalysis.com"
-    },
-    {
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 784,
-      "comments": 523,
-      "source": "apple.com"
-    },
-    {
-      "title": "Show HN: Buslens \u2013 where can I get to by bus? (UK)",
-      "url": "https://rupertlinacre.com/buslens/",
-      "score": 62,
-      "comments": 41,
-      "source": "rupertlinacre.com"
-    },
-    {
-      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "score": 53,
-      "comments": 12,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "Black hole singularity is a surface not a point",
-      "url": "https://arxiv.org/abs/2608.21590",
-      "score": 277,
-      "comments": 193,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 509,
-      "comments": 324,
-      "source": "apple.com"
-    },
-    {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
-      "score": 95,
-      "comments": 57,
-      "source": "github.com"
-    },
-    {
-      "title": "Debian polls its developers on AI: permit or ban?",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
-      "score": 31,
-      "comments": 32,
-      "source": "theregister.com"
-    },
-    {
-      "title": "When str.lower() is a security vulnerability in Python",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "score": 146,
+      "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/76809",
+      "score": 92,
       "comments": 63,
-      "source": "sethmlarson.dev"
+      "source": "thehistoryblog.com"
     },
     {
-      "title": "Building a backyard office, the build and cost breakdown",
-      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 375,
-      "comments": 228,
-      "source": "imkylelambert.com"
-    },
-    {
-      "title": "Nitter and XCancel receive cease and desist notices",
-      "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 1027,
-      "comments": 850,
-      "source": "github.com"
-    },
-    {
-      "title": "Tooltips need a delay, and then they need to skip it",
-      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 194,
-      "comments": 64,
-      "source": "blog.master.dev"
-    },
-    {
-      "title": "U.S. gov't moves to suppress pushback on data centers",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
-      "score": 101,
-      "comments": 97,
-      "source": "tomshardware.com"
-    },
-    {
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 331,
-      "comments": 179,
+      "title": "Access to Urban Woodlands Linked with Lower Use of Antidepressants",
+      "url": "https://e360.yale.edu/digest/scotland-woodlands-antidepressants",
+      "score": 53,
+      "comments": 8,
       "source": "e360.yale.edu"
     },
     {
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 180,
-      "comments": 83,
-      "source": "nil.wallyjones.com"
+      "title": "Meta reaches $17B settlement over social media harms to children",
+      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+      "score": 415,
+      "comments": 391,
+      "source": "reuters.com"
     },
     {
-      "title": "Don't Wordle",
-      "url": "https://dontwordle.com/",
-      "score": 361,
-      "comments": 127,
-      "source": "dontwordle.com"
+      "title": "VMs won't contain cyber-capable agents",
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "score": 104,
+      "comments": 75,
+      "source": "blog.trailofbits.com"
     },
     {
-      "title": "X sends in the lawyers to shut down open source project",
-      "url": "https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548",
-      "score": 5,
-      "comments": 3,
-      "source": "theregister.com"
+      "title": "U.S. State Department Pauses Immigrant Visa Applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "score": 98,
+      "comments": 54,
+      "source": "wsj.com"
     },
     {
-      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-      "url": "https://arxiv.org/abs/2607.21503",
-      "score": 66,
-      "comments": 23,
-      "source": "arxiv.org"
+      "title": "Twitter Viewer \u2013 View Twitter Without Account",
+      "url": "https://twitterwebviewer.com/",
+      "score": 192,
+      "comments": 93,
+      "source": "twitterwebviewer.com"
     }
   ],
   "security": [
+    {
+      "title": "Detecting multi-stage attacks on AWS: A guide to cross-service signal correlation",
+      "url": "https://aws.amazon.com/blogs/security/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation/",
+      "date": "2026-08-26 17:39:19",
+      "author": "Nisha Kashyap"
+    },
     {
       "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
       "url": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws/",
@@ -258,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/landing-zone-accelerator-independent-assessment-report-for-c52020-now-available-on-aws-artifact/",
       "date": "2026-08-11 21:50:28",
       "author": "Kevin Donohue"
-    },
-    {
-      "title": "Summer 2026 SOC 1 report is now available with 185 services in scope",
-      "url": "https://aws.amazon.com/blogs/security/summer-2026-soc-1-report-is-now-available-with-185-services-in-scope/",
-      "date": "2026-08-11 18:53:08",
-      "author": "Baj Bajwa"
     }
   ]
 }
