@@ -1,53 +1,137 @@
 {
   "tech": [
     {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 243,
+      "comments": 139,
+      "source": "fda.gov"
+    },
+    {
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 684,
-      "comments": 558,
+      "score": 937,
+      "comments": 891,
       "source": "apple.com"
+    },
+    {
+      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 311,
+      "comments": 214,
+      "source": "newsletter.semianalysis.com"
     },
     {
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 559,
-      "comments": 330,
+      "score": 697,
+      "comments": 445,
       "source": "apple.com"
+    },
+    {
+      "title": "Python's pre-declared constants are kinda weird",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "score": 129,
+      "comments": 95,
+      "source": "sebsite.pw"
+    },
+    {
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "score": 23,
+      "comments": 3,
+      "source": "github.com"
     },
     {
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "score": 53,
-      "comments": 20,
+      "score": 182,
+      "comments": 125,
       "source": "arxiv.org"
     },
     {
-      "title": "Nitter project received cease and desist",
-      "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 184,
-      "comments": 117,
+      "title": "When str.lower() is a security vulnerability in Python \u2013 Seth Larson",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "score": 53,
+      "comments": 27,
+      "source": "sethmlarson.dev"
+    },
+    {
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "score": 39,
+      "comments": 8,
       "source": "github.com"
+    },
+    {
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "score": 70,
+      "comments": 32,
+      "source": "da.vidbuchanan.co.uk"
     },
     {
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 315,
-      "comments": 164,
+      "score": 418,
+      "comments": 252,
       "source": "apple.com"
     },
     {
-      "title": "My Friend Aaron",
-      "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 85,
-      "comments": 17,
-      "source": "rorz.io"
+      "title": "Nitter project received cease and desist",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "score": 601,
+      "comments": 425,
+      "source": "github.com"
     },
     {
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 168,
-      "comments": 106,
+      "score": 257,
+      "comments": 140,
       "source": "e360.yale.edu"
+    },
+    {
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "score": 115,
+      "comments": 53,
+      "source": "nil.wallyjones.com"
+    },
+    {
+      "title": "Building a backyard office, the build and cost breakdown",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "score": 257,
+      "comments": 186,
+      "source": "imkylelambert.com"
+    },
+    {
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "score": 1183,
+      "comments": 185,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "A brief history of federal lift ticket regulation",
+      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+      "score": 22,
+      "comments": 0,
+      "source": "zakpodmore.substack.com"
+    },
+    {
+      "title": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "score": 104,
+      "comments": 31,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "score": 92,
+      "comments": 20,
+      "source": "github.com"
     },
     {
       "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
@@ -57,161 +141,76 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 20,
-      "comments": 7,
-      "source": "nil.wallyjones.com"
-    },
-    {
-      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 36,
-      "comments": 1,
-      "source": "newsletter.semianalysis.com"
-    },
-    {
-      "title": "Show HN: LatticeDB \u2013 Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 30,
-      "comments": 5,
-      "source": "github.com"
-    },
-    {
-      "title": "Building a backyard office, the build and cost breakdown",
-      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "score": 150,
-      "comments": 112,
-      "source": "imkylelambert.com"
-    },
-    {
       "title": "Don't Wordle",
       "url": "https://dontwordle.com/",
-      "score": 240,
-      "comments": 98,
+      "score": 297,
+      "comments": 115,
       "source": "dontwordle.com"
     },
     {
-      "title": "Dolly Parton has died",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 177,
-      "comments": 21,
-      "source": "theguardian.com"
+      "title": "My Friend Aaron",
+      "url": "https://rorz.io/writing/my-friend-aaron",
+      "score": 431,
+      "comments": 119,
+      "source": "rorz.io"
+    },
+    {
+      "title": "Tracking Costco gas prices",
+      "url": "https://www.jack.bio/blog/costco-gas-tracking",
+      "score": 73,
+      "comments": 76,
+      "source": "jack.bio"
     },
     {
       "title": "Tooltips need a delay, and then they need to skip it",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 32,
-      "comments": 5,
+      "score": 108,
+      "comments": 23,
       "source": "blog.master.dev"
-    },
-    {
-      "title": "A new ceiling for \u039b: the de Bruijn\u2013Newman constant",
-      "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-      "score": 23,
-      "comments": 3,
-      "source": "judegomila.com"
-    },
-    {
-      "title": "Fuzzing the Gleam Compiler",
-      "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-      "score": 15,
-      "comments": 1,
-      "source": "kurz.net"
-    },
-    {
-      "title": "Lightweight system monitor for Linux VPS written in Go",
-      "url": "https://github.com/leodeim/vpsmon",
-      "score": 15,
-      "comments": 7,
-      "source": "github.com"
-    },
-    {
-      "title": "Visualizing Binary Files",
-      "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-      "score": 27,
-      "comments": 9,
-      "source": "movq.de"
-    },
-    {
-      "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
-      "score": 22,
-      "comments": 2,
-      "source": "dl.acm.org"
     },
     {
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "score": 24,
-      "comments": 2,
+      "score": 267,
+      "comments": 69,
       "source": "groups.google.com"
-    },
-    {
-      "title": "Run Minecraft in a Windows sandbox for computer use agents",
-      "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
-      "score": 13,
-      "comments": 2,
-      "source": "cua.ai"
-    },
-    {
-      "title": "Solving the 1+N Query Problem",
-      "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-      "score": 24,
-      "comments": 13,
-      "source": "acadia.engineering"
     },
     {
       "title": "Starbase, LA",
       "url": "https://www.spacex.com/sites/starbase-la",
-      "score": 73,
-      "comments": 67,
+      "score": 214,
+      "comments": 386,
       "source": "spacex.com"
     },
     {
-      "title": "Otto Dix, Nietzsche, and the Great War (2019)",
-      "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-      "score": 28,
-      "comments": 16,
-      "source": "historytoday.com"
+      "title": "Visualizing Binary Files",
+      "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
+      "score": 80,
+      "comments": 15,
+      "source": "movq.de"
     },
     {
-      "title": "HelloAssembly: The smallest possible complete Windows application (2021)",
-      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-      "score": 73,
-      "comments": 40,
-      "source": "github.com"
+      "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+      "url": "https://fdeploy.com/",
+      "score": 15,
+      "comments": 6,
+      "source": "fdeploy.com"
     },
     {
-      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-      "score": 260,
-      "comments": 117,
-      "source": "modelscope.cn"
-    },
-    {
-      "title": "How much of HN is AI?",
-      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-      "score": 190,
-      "comments": 189,
-      "source": "blog.coredump.cx"
-    },
-    {
-      "title": "Windows 95 released August 24, 1995",
-      "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
-      "score": 96,
-      "comments": 55,
-      "source": "dfarq.homeip.net"
-    },
-    {
-      "title": "SiFive's First Server Platform",
-      "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "score": 120,
-      "comments": 37,
-      "source": "chipsandcheese.com"
+      "title": "Fuzzing the Gleam Compiler",
+      "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+      "score": 55,
+      "comments": 6,
+      "source": "kurz.net"
     }
   ],
   "security": [
+    {
+      "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
+      "url": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws/",
+      "date": "2026-08-25 21:53:49",
+      "author": "Kevin Donohue"
+    },
     {
       "title": "AWS Network Firewall now supports rule hit count",
       "url": "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/summer-2026-soc-1-report-is-now-available-with-185-services-in-scope/",
       "date": "2026-08-11 18:53:08",
       "author": "Baj Bajwa"
-    },
-    {
-      "title": "AWS successfully completed its 2025-26 NHS DSPT assessment",
-      "url": "https://aws.amazon.com/blogs/security/aws-successfully-completed-its-2025-26-nhs-dspt-assessment/",
-      "date": "2026-08-11 16:12:04",
-      "author": "Tariro Dongo"
     }
   ]
 }
