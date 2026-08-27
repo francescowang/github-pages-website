@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "Tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "score": 197,
-      "comments": 32,
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 841,
+      "comments": 350,
+      "source": "businessinsider.com"
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "score": 444,
+      "comments": 275,
       "source": "github.com"
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "score": 290,
+      "comments": 84,
+      "source": "mturk.com"
+    },
+    {
+      "title": "Pnpm 12.0",
+      "url": "https://pnpm.io/blog/releases/12.0",
+      "score": 47,
+      "comments": 24,
+      "source": "pnpm.io"
     },
     {
       "title": "GLM-5.3-Flash",
       "url": "https://z.ai/blog/glm-5.3-flash",
-      "score": 664,
-      "comments": 308,
+      "score": 974,
+      "comments": 497,
       "source": "z.ai"
     },
     {
-      "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
-      "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
-      "score": 117,
-      "comments": 41,
-      "source": "insurancewatchdogcoalition.com"
+      "title": "Kusama Yayoi Dies at 97",
+      "url": "https://news.jp/i/1465528042000662661",
+      "score": 142,
+      "comments": 11,
+      "source": "news.jp"
+    },
+    {
+      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "score": 544,
+      "comments": 98,
+      "source": "github.com"
+    },
+    {
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "score": 216,
+      "comments": 63,
+      "source": "asahilinux.org"
+    },
+    {
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "score": 137,
+      "comments": 60,
+      "source": "nhess.copernicus.org"
+    },
+    {
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "score": 452,
+      "comments": 680,
+      "source": "wsj.com"
     },
     {
       "title": "An ongoing 3D-printer AGPL violation",
       "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "score": 142,
-      "comments": 45,
+      "score": 378,
+      "comments": 166,
       "source": "lwn.net"
     },
     {
-      "title": "AWS Acquires DuckLabs",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "score": 831,
-      "comments": 237,
-      "source": "ducklabs.com"
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/",
+      "score": 49,
+      "comments": 10,
+      "source": "projects.laion.ai"
     },
     {
-      "title": "Nebula Sans",
-      "url": "https://www.nebulasans.com",
-      "score": 244,
-      "comments": 95,
-      "source": "nebulasans.com"
+      "title": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "score": 149,
+      "comments": 25,
+      "source": "clerky.com"
     },
     {
-      "title": "Qwen3.8-Flash-Next",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "score": 508,
-      "comments": 161,
-      "source": "qwen.ai"
-    },
-    {
-      "title": "Disruption with Some GitHub Services",
-      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
-      "score": 201,
-      "comments": 112,
-      "source": "githubstatus.com"
-    },
-    {
-      "title": "Designation of Autistici/Inventati as a Specially Designated Global Terrorist",
-      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/",
-      "score": 38,
-      "comments": 32,
-      "source": "state.gov"
-    },
-    {
-      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
-      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-      "score": 68,
-      "comments": 4,
-      "source": "hotosm.org"
-    },
-    {
-      "title": "Tim Curry has died",
-      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-      "score": 387,
-      "comments": 139,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
-      "url": "https://thetariffcost.com/",
-      "score": 61,
-      "comments": 35,
-      "source": "thetariffcost.com"
-    },
-    {
-      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-      "url": "https://farmaction.us/taylorfarmsreport/",
+      "title": "Zohran and the Short Link",
+      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
       "score": 170,
-      "comments": 112,
-      "source": "farmaction.us"
-    },
-    {
-      "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-      "score": 55,
-      "comments": 14,
-      "source": "fda.gov"
-    },
-    {
-      "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "score": 101,
-      "comments": 59,
-      "source": "ssp.sh"
-    },
-    {
-      "title": "YouTube Format IDs",
-      "url": "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
-      "score": 40,
-      "comments": 12,
-      "source": "gist.github.com"
-    },
-    {
-      "title": "CDs vs. NIMBY",
-      "url": "https://www.betonit.ai/p/cds-vs-nimby",
-      "score": 22,
-      "comments": 34,
-      "source": "betonit.ai"
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-      "score": 12,
-      "comments": 1,
-      "source": "openai.com"
-    },
-    {
-      "title": "PageRank explained",
-      "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-      "score": 88,
-      "comments": 63,
-      "source": "praveshkoirala.com"
-    },
-    {
-      "title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]",
-      "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "score": 260,
-      "comments": 85,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "RAG Is Simpler Than You Think",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "score": 377,
-      "comments": 166,
-      "source": "lighthousenewsletter.com"
-    },
-    {
-      "title": "Super Curry Combat II Turbo \u2013 Legend Edition",
-      "url": "https://curry-combat-2.com",
-      "score": 3,
-      "comments": 1,
-      "source": "curry-combat-2.com"
-    },
-    {
-      "title": "Launch HN: Risklytics (YC S26) \u2013 Insurance brokerage for frontier tech companies",
-      "url": "https://www.risklytics.ai/",
-      "score": 18,
-      "comments": 8,
-      "source": "risklytics.ai"
-    },
-    {
-      "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
-      "url": "https://www.thehistoryblog.com/archives/76809",
-      "score": 92,
-      "comments": 63,
-      "source": "thehistoryblog.com"
-    },
-    {
-      "title": "Access to Urban Woodlands Linked with Lower Use of Antidepressants",
-      "url": "https://e360.yale.edu/digest/scotland-woodlands-antidepressants",
-      "score": 53,
-      "comments": 8,
-      "source": "e360.yale.edu"
-    },
-    {
-      "title": "Meta reaches $17B settlement over social media harms to children",
-      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-      "score": 415,
-      "comments": 391,
-      "source": "reuters.com"
-    },
-    {
-      "title": "VMs won't contain cyber-capable agents",
-      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-      "score": 104,
-      "comments": 75,
-      "source": "blog.trailofbits.com"
-    },
-    {
-      "title": "U.S. State Department Pauses Immigrant Visa Applications",
-      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-      "score": 98,
-      "comments": 54,
-      "source": "wsj.com"
+      "comments": 60,
+      "source": "iamwillwang.com"
     },
     {
       "title": "Twitter Viewer \u2013 View Twitter Without Account",
       "url": "https://twitterwebviewer.com/",
-      "score": 192,
-      "comments": 93,
+      "score": 402,
+      "comments": 221,
       "source": "twitterwebviewer.com"
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "score": 245,
+      "comments": 292,
+      "source": "openai.com"
+    },
+    {
+      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+      "score": 255,
+      "comments": 55,
+      "source": "hotosm.org"
+    },
+    {
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+      "score": 153,
+      "comments": 77,
+      "source": "actinideinc.com"
+    },
+    {
+      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
+      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+      "score": 120,
+      "comments": 83,
+      "source": "newsroom.ibm.com"
+    },
+    {
+      "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "score": 203,
+      "comments": 49,
+      "source": "fda.gov"
+    },
+    {
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "score": 396,
+      "comments": 147,
+      "source": "nebulasans.com"
+    },
+    {
+      "title": "The Harness Is the Thing",
+      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+      "score": 94,
+      "comments": 27,
+      "source": "scott-fryxell.github.io"
+    },
+    {
+      "title": "Mold: A Massively Parallel Linker",
+      "url": "https://arxiv.org/abs/2608.23228",
+      "score": 115,
+      "comments": 16,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "score": 121,
+      "comments": 67,
+      "source": "acceptmarkdown.com"
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "score": 216,
+      "comments": 192,
+      "source": "gatesnotes.com"
+    },
+    {
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "score": 268,
+      "comments": 182,
+      "source": "farmaction.us"
+    },
+    {
+      "title": "Getting video models to learn better, faster",
+      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+      "score": 20,
+      "comments": 9,
+      "source": "linum.ai"
+    },
+    {
+      "title": "Launch HN: Risklytics (YC S26) \u2013 Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "score": 50,
+      "comments": 19,
+      "source": "risklytics.ai"
+    },
+    {
+      "title": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "score": 1030,
+      "comments": 302,
+      "source": "ducklabs.com"
+    },
+    {
+      "title": "Tim Curry has died",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "score": 621,
+      "comments": 205,
+      "source": "theguardian.com"
     }
   ],
   "security": [
+    {
+      "title": "ICYMI: July 2026 @AWS Security",
+      "url": "https://aws.amazon.com/blogs/security/icymi-july-2026-aws-security/",
+      "date": "2026-08-26 19:32:55",
+      "author": "Rodolfo Brenes"
+    },
     {
       "title": "Detecting multi-stage attacks on AWS: A guide to cross-service signal correlation",
       "url": "https://aws.amazon.com/blogs/security/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles/",
       "date": "2026-08-12 22:16:55",
       "author": "Zach Jiang"
-    },
-    {
-      "title": "Landing Zone Accelerator Independent Assessment Report for C5:2020 now available on AWS Artifact",
-      "url": "https://aws.amazon.com/blogs/security/landing-zone-accelerator-independent-assessment-report-for-c52020-now-available-on-aws-artifact/",
-      "date": "2026-08-11 21:50:28",
-      "author": "Kevin Donohue"
     }
   ]
 }
