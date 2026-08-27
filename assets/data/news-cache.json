@@ -1,217 +1,216 @@
 {
   "tech": [
     {
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "score": 841,
-      "comments": 350,
-      "source": "businessinsider.com"
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "score": 342,
+      "comments": 97,
+      "source": "blog.cloudflare.com"
     },
     {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "score": 444,
-      "comments": 275,
-      "source": "github.com"
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "score": 331,
+      "comments": 140,
+      "source": "calv.info"
     },
     {
-      "title": "Mechanical Turk shutting down September 30",
-      "url": "https://www.mturk.com/",
-      "score": 290,
-      "comments": 84,
-      "source": "mturk.com"
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "score": 406,
+      "comments": 62,
+      "source": "507movements.com"
     },
     {
-      "title": "Pnpm 12.0",
-      "url": "https://pnpm.io/blog/releases/12.0",
-      "score": 47,
-      "comments": 24,
-      "source": "pnpm.io"
-    },
-    {
-      "title": "GLM-5.3-Flash",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "score": 974,
-      "comments": 497,
-      "source": "z.ai"
-    },
-    {
-      "title": "Kusama Yayoi Dies at 97",
-      "url": "https://news.jp/i/1465528042000662661",
-      "score": 142,
-      "comments": 11,
-      "source": "news.jp"
-    },
-    {
-      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "score": 544,
-      "comments": 98,
-      "source": "github.com"
-    },
-    {
-      "title": "Asahi Linux Progress Report: Linux 7.2",
-      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
-      "score": 216,
-      "comments": 63,
-      "source": "asahilinux.org"
-    },
-    {
-      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-      "score": 137,
-      "comments": 60,
-      "source": "nhess.copernicus.org"
-    },
-    {
-      "title": "U.S. State Department pauses immigrant visa applications",
-      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-      "score": 452,
-      "comments": 680,
-      "source": "wsj.com"
-    },
-    {
-      "title": "An ongoing 3D-printer AGPL violation",
-      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "score": 378,
-      "comments": 166,
-      "source": "lwn.net"
-    },
-    {
-      "title": "Laion Big Video Dataset",
-      "url": "https://projects.laion.ai/bvd/",
-      "score": 49,
-      "comments": 10,
-      "source": "projects.laion.ai"
-    },
-    {
-      "title": "Stripe acquires Clerky",
-      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
-      "score": 149,
-      "comments": 25,
-      "source": "clerky.com"
-    },
-    {
-      "title": "Zohran and the Short Link",
-      "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
-      "score": 170,
-      "comments": 60,
-      "source": "iamwillwang.com"
-    },
-    {
-      "title": "Twitter Viewer \u2013 View Twitter Without Account",
-      "url": "https://twitterwebviewer.com/",
-      "score": 402,
-      "comments": 221,
-      "source": "twitterwebviewer.com"
-    },
-    {
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-      "score": 245,
-      "comments": 292,
-      "source": "openai.com"
-    },
-    {
-      "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
-      "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-      "score": 255,
-      "comments": 55,
-      "source": "hotosm.org"
-    },
-    {
-      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-      "score": 153,
-      "comments": 77,
-      "source": "actinideinc.com"
-    },
-    {
-      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-      "score": 120,
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "score": 109,
       "comments": 83,
-      "source": "newsroom.ibm.com"
+      "source": "code.ffmpeg.org"
     },
     {
-      "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-      "score": 203,
-      "comments": 49,
-      "source": "fda.gov"
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "score": 435,
+      "comments": 169,
+      "source": "pollen-robotics.com"
     },
     {
-      "title": "Nebula Sans",
-      "url": "https://www.nebulasans.com",
-      "score": 396,
-      "comments": 147,
-      "source": "nebulasans.com"
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "score": 155,
+      "comments": 100,
+      "source": "blog.google"
     },
     {
-      "title": "The Harness Is the Thing",
-      "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
-      "score": 94,
-      "comments": 27,
-      "source": "scott-fryxell.github.io"
+      "title": "M5Stack Launches PaperMono",
+      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+      "score": 67,
+      "comments": 23,
+      "source": "shop.m5stack.com"
     },
     {
-      "title": "Mold: A Massively Parallel Linker",
-      "url": "https://arxiv.org/abs/2608.23228",
-      "score": 115,
-      "comments": 16,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
-      "score": 121,
+      "title": "Decompiling a Nintendo 64 game in 84 days",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "score": 146,
       "comments": 67,
-      "source": "acceptmarkdown.com"
+      "source": "blog.chrislewis.au"
+    },
+    {
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "score": 52,
+      "comments": 14,
+      "source": "blog.google"
     },
     {
       "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "score": 216,
-      "comments": 192,
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "score": 144,
+      "comments": 414,
       "source": "gatesnotes.com"
     },
     {
-      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-      "url": "https://farmaction.us/taylorfarmsreport/",
-      "score": 268,
-      "comments": 182,
-      "source": "farmaction.us"
+      "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+      "url": "https://morphing.cloud/afterglow/",
+      "score": 58,
+      "comments": 21,
+      "source": "morphing.cloud"
     },
     {
-      "title": "Getting video models to learn better, faster",
-      "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
-      "score": 20,
-      "comments": 9,
-      "source": "linum.ai"
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "score": 47,
+      "comments": 22,
+      "source": "anthropic.com"
     },
     {
-      "title": "Launch HN: Risklytics (YC S26) \u2013 Insurance brokerage for frontier tech companies",
-      "url": "https://www.risklytics.ai/",
-      "score": 50,
-      "comments": 19,
-      "source": "risklytics.ai"
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "score": 135,
+      "comments": 55,
+      "source": "rahuljuliato.com"
     },
     {
-      "title": "AWS Acquires DuckLabs",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "score": 1030,
-      "comments": 302,
-      "source": "ducklabs.com"
+      "title": "Suica, Japan's First IC Transit Card",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "score": 140,
+      "comments": 106,
+      "source": "tokyodev.com"
     },
     {
-      "title": "Tim Curry has died",
-      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-      "score": 621,
-      "comments": 205,
-      "source": "theguardian.com"
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "url": "https://www.bild.ai/jobs",
+      "score": 1,
+      "comments": 0,
+      "source": "bild.ai"
+    },
+    {
+      "title": "Show HN: Voronoi Go",
+      "url": "https://voronoigo.com/",
+      "score": 46,
+      "comments": 10,
+      "source": "voronoigo.com"
+    },
+    {
+      "title": "Engineered yeast for converting plastic and biomass compounds into food",
+      "url": "https://acs.digitellinc.com/live/37/session/586399",
+      "score": 54,
+      "comments": 35,
+      "source": "acs.digitellinc.com"
+    },
+    {
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "score": 260,
+      "comments": 124,
+      "source": "louisabraham.github.io"
+    },
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 1797,
+      "comments": 836,
+      "source": "businessinsider.com"
+    },
+    {
+      "title": "The mechanics of the Nepali flash flood",
+      "url": "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood",
+      "score": 52,
+      "comments": 10,
+      "source": "economist.com"
+    },
+    {
+      "title": "Launching Route 53 Files",
+      "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+      "score": 83,
+      "comments": 29,
+      "source": "daemonology.net"
+    },
+    {
+      "title": "Aphantasia Beginner's Guide",
+      "url": "https://aphantasia.com/guide",
+      "score": 93,
+      "comments": 224,
+      "source": "aphantasia.com"
+    },
+    {
+      "title": "A curmudgeon tries a language server",
+      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "score": 96,
+      "comments": 63,
+      "source": "entropicthoughts.com"
+    },
+    {
+      "title": "Meta Paid $17B \u2013 Gets to Write Safety Rules for Other SocMedia Platform",
+      "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
+      "score": 26,
+      "comments": 1,
+      "source": "techdirt.com"
+    },
+    {
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "score": 64,
+      "comments": 210,
+      "source": "economist.com"
+    },
+    {
+      "title": "$900M paid out to end wind farm project going to firm run by Mar-a-Lago neighbor",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-windfarm-money-neighbors-florida-b3040628.html",
+      "score": 31,
+      "comments": 3,
+      "source": "independent.co.uk"
+    },
+    {
+      "title": "Autism mutations drive neurodevelopmental pathology",
+      "url": "https://www.science.org/doi/10.1126/science.ady4523",
+      "score": 64,
+      "comments": 68,
+      "source": "science.org"
+    },
+    {
+      "title": "Trade (and Tariffs)",
+      "url": "https://xkcd.com/3290/",
+      "score": 423,
+      "comments": 185,
+      "source": "xkcd.com"
+    },
+    {
+      "title": "Markdown Database Pattern",
+      "url": "https://wayofmarkdown.com/markdown-database",
+      "score": 23,
+      "comments": 5,
+      "source": "wayofmarkdown.com"
     }
   ],
   "security": [
+    {
+      "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
+      "url": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk/",
+      "date": "2026-08-27 16:20:05",
+      "author": "Stephan Traub"
+    },
     {
       "title": "ICYMI: July 2026 @AWS Security",
       "url": "https://aws.amazon.com/blogs/security/icymi-july-2026-aws-security/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/",
       "date": "2026-08-13 21:23:00",
       "author": "Adam Aboudi"
-    },
-    {
-      "title": "How AWS IAM role manager rethinks the starting point for IAM roles",
-      "url": "https://aws.amazon.com/blogs/security/how-aws-iam-role-manager-rethinks-the-starting-point-for-iam-roles/",
-      "date": "2026-08-12 22:16:55",
-      "author": "Zach Jiang"
     }
   ]
 }
