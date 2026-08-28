@@ -3,205 +3,212 @@
     {
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
       "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "score": 342,
-      "comments": 97,
+      "score": 734,
+      "comments": 218,
       "source": "blog.cloudflare.com"
     },
     {
       "title": "Small Models Have Arrived",
       "url": "https://calv.info/small-models-have-arrived",
-      "score": 331,
-      "comments": 140,
+      "score": 628,
+      "comments": 283,
       "source": "calv.info"
+    },
+    {
+      "title": "Sovereign Tech Agency invests \u20ac500k in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "score": 86,
+      "comments": 47,
+      "source": "modal.cx"
     },
     {
       "title": "507 Mechanical Movements",
       "url": "https://507movements.com/",
-      "score": 406,
-      "comments": 62,
+      "score": 570,
+      "comments": 73,
       "source": "507movements.com"
     },
     {
-      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-      "score": 109,
-      "comments": 83,
-      "source": "code.ffmpeg.org"
-    },
-    {
-      "title": "Microduck",
-      "url": "https://pollen-robotics.com/microduck/",
-      "score": 435,
-      "comments": 169,
-      "source": "pollen-robotics.com"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "score": 155,
-      "comments": 100,
-      "source": "blog.google"
-    },
-    {
-      "title": "M5Stack Launches PaperMono",
-      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
-      "score": 67,
-      "comments": 23,
-      "source": "shop.m5stack.com"
-    },
-    {
-      "title": "Decompiling a Nintendo 64 game in 84 days",
-      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
-      "score": 146,
-      "comments": 67,
-      "source": "blog.chrislewis.au"
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "score": 153,
+      "comments": 38,
+      "source": "github.com"
     },
     {
       "title": "Gemini-3.5-Transcribe",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "score": 52,
-      "comments": 14,
+      "score": 270,
+      "comments": 85,
       "source": "blog.google"
     },
     {
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-      "score": 144,
-      "comments": 414,
-      "source": "gatesnotes.com"
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "score": 646,
+      "comments": 211,
+      "source": "pollen-robotics.com"
     },
     {
-      "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
-      "url": "https://morphing.cloud/afterglow/",
-      "score": 58,
-      "comments": 21,
-      "source": "morphing.cloud"
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "score": 236,
+      "comments": 180,
+      "source": "code.ffmpeg.org"
     },
     {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "score": 47,
-      "comments": 22,
-      "source": "anthropic.com"
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "score": 112,
+      "comments": 104,
+      "source": "newscientist.com"
     },
     {
-      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
-      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
-      "score": 135,
-      "comments": 55,
-      "source": "rahuljuliato.com"
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "score": 80,
+      "comments": 25,
+      "source": "terminal-bench-science.ai"
     },
     {
-      "title": "Suica, Japan's First IC Transit Card",
-      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
-      "score": 140,
-      "comments": 106,
-      "source": "tokyodev.com"
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "score": 242,
+      "comments": 180,
+      "source": "blog.google"
     },
     {
-      "title": "Bild AI (YC W25) is hiring product and AI engineers",
-      "url": "https://www.bild.ai/jobs",
-      "score": 1,
-      "comments": 0,
-      "source": "bild.ai"
-    },
-    {
-      "title": "Show HN: Voronoi Go",
-      "url": "https://voronoigo.com/",
-      "score": 46,
-      "comments": 10,
-      "source": "voronoigo.com"
-    },
-    {
-      "title": "Engineered yeast for converting plastic and biomass compounds into food",
-      "url": "https://acs.digitellinc.com/live/37/session/586399",
-      "score": 54,
-      "comments": 35,
-      "source": "acs.digitellinc.com"
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "score": 174,
+      "comments": 33,
+      "source": "github.com"
     },
     {
       "title": "Show HN: The load-bearing vocabulary of Claude",
       "url": "https://louisabraham.github.io/load-bearing/",
-      "score": 260,
-      "comments": 124,
+      "score": 498,
+      "comments": 237,
       "source": "louisabraham.github.io"
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "score": 288,
+      "comments": 543,
+      "source": "gatesnotes.com"
+    },
+    {
+      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "Climate change is strengthening El Ni\u00f1o, coral records suggest",
+      "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+      "score": 19,
+      "comments": 3,
+      "source": "science.org"
+    },
+    {
+      "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "score": 103,
+      "comments": 11,
+      "source": "github.com"
+    },
+    {
+      "title": "Decompiling a Nintendo 64 game in 84 days",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "score": 236,
+      "comments": 137,
+      "source": "blog.chrislewis.au"
+    },
+    {
+      "title": "Select * from Internet.blogposts",
+      "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+      "score": 84,
+      "comments": 39,
+      "source": "pfrazee.leaflet.pub"
+    },
+    {
+      "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+      "url": "https://morphing.cloud/afterglow/",
+      "score": 149,
+      "comments": 42,
+      "source": "morphing.cloud"
+    },
+    {
+      "title": "Bootstrappable Builds: How and Why",
+      "url": "https://lwn.net/Articles/1088279/",
+      "score": 36,
+      "comments": 21,
+      "source": "lwn.net"
     },
     {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "score": 1797,
-      "comments": 836,
+      "score": 1891,
+      "comments": 870,
       "source": "businessinsider.com"
     },
     {
-      "title": "The mechanics of the Nepali flash flood",
-      "url": "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood",
-      "score": 52,
-      "comments": 10,
-      "source": "economist.com"
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "score": 136,
+      "comments": 161,
+      "source": "bloomberg.com"
     },
     {
-      "title": "Launching Route 53 Files",
-      "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
-      "score": 83,
-      "comments": 29,
-      "source": "daemonology.net"
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "score": 177,
+      "comments": 72,
+      "source": "rahuljuliato.com"
     },
     {
-      "title": "Aphantasia Beginner's Guide",
-      "url": "https://aphantasia.com/guide",
-      "score": 93,
-      "comments": 224,
-      "source": "aphantasia.com"
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "score": 113,
+      "comments": 44,
+      "source": "anthropic.com"
     },
     {
-      "title": "A curmudgeon tries a language server",
-      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-      "score": 96,
-      "comments": 63,
-      "source": "entropicthoughts.com"
+      "title": "M5Stack Launches PaperMono",
+      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+      "score": 134,
+      "comments": 49,
+      "source": "shop.m5stack.com"
     },
     {
-      "title": "Meta Paid $17B \u2013 Gets to Write Safety Rules for Other SocMedia Platform",
-      "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
-      "score": 26,
-      "comments": 1,
-      "source": "techdirt.com"
+      "title": "Suica, Japan's First IC Transit Card",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "score": 236,
+      "comments": 216,
+      "source": "tokyodev.com"
     },
     {
-      "title": "Humanity has the debate about AI consciousness backwards",
-      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-      "score": 64,
-      "comments": 210,
-      "source": "economist.com"
+      "title": "Engineered yeast for converting plastic and biomass compounds to food additives",
+      "url": "https://acs.digitellinc.com/live/37/session/586399",
+      "score": 104,
+      "comments": 80,
+      "source": "acs.digitellinc.com"
     },
     {
-      "title": "$900M paid out to end wind farm project going to firm run by Mar-a-Lago neighbor",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-windfarm-money-neighbors-florida-b3040628.html",
-      "score": 31,
-      "comments": 3,
-      "source": "independent.co.uk"
+      "title": "Show HN: IndexFlow \u2013 Open-source indexing infrastructure built with Rust",
+      "url": "https://github.com/IndexFlowing/IndexFlow-core",
+      "score": 18,
+      "comments": 6,
+      "source": "github.com"
     },
     {
-      "title": "Autism mutations drive neurodevelopmental pathology",
-      "url": "https://www.science.org/doi/10.1126/science.ady4523",
-      "score": 64,
-      "comments": 68,
-      "source": "science.org"
-    },
-    {
-      "title": "Trade (and Tariffs)",
-      "url": "https://xkcd.com/3290/",
-      "score": 423,
-      "comments": 185,
-      "source": "xkcd.com"
-    },
-    {
-      "title": "Markdown Database Pattern",
-      "url": "https://wayofmarkdown.com/markdown-database",
-      "score": 23,
-      "comments": 5,
-      "source": "wayofmarkdown.com"
+      "title": "Show HN: Voronoi Go",
+      "url": "https://voronoigo.com/",
+      "score": 128,
+      "comments": 19,
+      "source": "voronoigo.com"
     }
   ],
   "security": [
