@@ -1,217 +1,223 @@
 {
   "tech": [
     {
-      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "score": 734,
-      "comments": 218,
-      "source": "blog.cloudflare.com"
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "score": 444,
+      "comments": 235,
+      "source": "ckardaris.com"
     },
     {
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "score": 628,
-      "comments": 283,
-      "source": "calv.info"
+      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
+      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
+      "score": 139,
+      "comments": 98,
+      "source": "thehealthy.com"
     },
     {
-      "title": "Sovereign Tech Agency invests \u20ac500k in Flatpak",
-      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
-      "score": 86,
-      "comments": 47,
-      "source": "modal.cx"
+      "title": "Stopping the smart TV from being used against you",
+      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+      "score": 39,
+      "comments": 24,
+      "source": "s-config.com"
     },
     {
-      "title": "507 Mechanical Movements",
-      "url": "https://507movements.com/",
-      "score": 570,
-      "comments": 73,
-      "source": "507movements.com"
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "score": 400,
+      "comments": 99,
+      "source": "four.htmx.org"
     },
     {
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "url": "https://github.com/elyosh/OpenTIE/",
-      "score": 153,
-      "comments": 38,
-      "source": "github.com"
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "score": 184,
+      "comments": 62,
+      "source": "anil.recoil.org"
     },
     {
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "score": 270,
-      "comments": 85,
-      "source": "blog.google"
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "score": 404,
+      "comments": 356,
+      "source": "inventati.org"
     },
     {
-      "title": "Microduck",
-      "url": "https://pollen-robotics.com/microduck/",
-      "score": 646,
-      "comments": 211,
-      "source": "pollen-robotics.com"
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "score": 360,
+      "comments": 124,
+      "source": "orbify.eu"
     },
     {
-      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-      "score": 236,
-      "comments": 180,
-      "source": "code.ffmpeg.org"
+      "title": "Curvature Beziers: Improving on a timeless recipe",
+      "url": "https://acko.net/blog/curvature-beziers/",
+      "score": 42,
+      "comments": 10,
+      "source": "acko.net"
     },
     {
-      "title": "Doctors are finally learning to manage antidepressant withdrawal",
-      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
-      "score": 112,
-      "comments": 104,
-      "source": "newscientist.com"
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "score": 59,
+      "comments": 10,
+      "source": "arxiv.org"
     },
     {
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "score": 80,
-      "comments": 25,
-      "source": "terminal-bench-science.ai"
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "score": 486,
+      "comments": 177,
+      "source": "huggingface.co"
     },
     {
-      "title": "Gemini Omni 1.1 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "score": 242,
-      "comments": 180,
-      "source": "blog.google"
+      "title": "The Twelve-Factor App (2025)",
+      "url": "https://12factor.net/",
+      "score": 190,
+      "comments": 96,
+      "source": "12factor.net"
     },
     {
-      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-      "url": "https://github.com/experientiallabs/experiential",
-      "score": 174,
-      "comments": 33,
-      "source": "github.com"
+      "title": "Visual Analysis of Binary Files",
+      "url": "https://binvis.io/#/",
+      "score": 42,
+      "comments": 11,
+      "source": "binvis.io"
     },
     {
-      "title": "Show HN: The load-bearing vocabulary of Claude",
-      "url": "https://louisabraham.github.io/load-bearing/",
-      "score": 498,
-      "comments": 237,
-      "source": "louisabraham.github.io"
+      "title": "Show HN: Sesame - a local-first, open-source password manager",
+      "url": "https://usesesame.app/",
+      "score": 14,
+      "comments": 8,
+      "source": "usesesame.app"
     },
     {
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "score": 288,
-      "comments": 543,
-      "source": "gatesnotes.com"
+      "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "score": 441,
+      "comments": 326,
+      "source": "nytimes.com"
     },
     {
-      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff \u2013 Engineering and Research",
+      "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
       "score": 1,
       "comments": 0,
       "source": "ycombinator.com"
     },
     {
-      "title": "Climate change is strengthening El Ni\u00f1o, coral records suggest",
-      "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
-      "score": 19,
+      "title": "Processing in Memory: DRAM Is About to Do Math",
+      "url": "https://ben3d.ca/blog/processing-in-memory",
+      "score": 22,
+      "comments": 4,
+      "source": "ben3d.ca"
+    },
+    {
+      "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+      "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+      "score": 91,
+      "comments": 53,
+      "source": "geekyschmidt.com"
+    },
+    {
+      "title": "Barrier lake continues to pose flood risk, China warns",
+      "url": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
+      "score": 79,
+      "comments": 17,
+      "source": "kathmandupost.com"
+    },
+    {
+      "title": "The Analytical AI Handbook",
+      "url": "https://handbook.sutro.sh",
+      "score": 37,
+      "comments": 2,
+      "source": "handbook.sutro.sh"
+    },
+    {
+      "title": "Sloc Cloc and Code 4.0 (scc) \u2013 Finding the files that need the most attention",
+      "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
+      "score": 14,
+      "comments": 0,
+      "source": "boyter.org"
+    },
+    {
+      "title": "Global demand for sand spawned a worldwide boom in illegal mining (2015)",
+      "url": "https://www.wired.com/2015/03/illegal-sand-mining/",
+      "score": 46,
+      "comments": 18,
+      "source": "wired.com"
+    },
+    {
+      "title": "Hilariously fast volume computation with the divergence theorem (2018)",
+      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "score": 237,
+      "comments": 63,
+      "source": "alyssarosenzweig.ca"
+    },
+    {
+      "title": "Bye, Bye GitHub",
+      "url": "https://log.ozgur.works/bye-bye-github.html",
+      "score": 30,
+      "comments": 16,
+      "source": "log.ozgur.works"
+    },
+    {
+      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+      "url": "https://github.com/sseshachala/conductai",
+      "score": 17,
       "comments": 3,
-      "source": "science.org"
-    },
-    {
-      "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "score": 103,
-      "comments": 11,
       "source": "github.com"
     },
     {
-      "title": "Decompiling a Nintendo 64 game in 84 days",
-      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
-      "score": 236,
-      "comments": 137,
-      "source": "blog.chrislewis.au"
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "score": 385,
+      "comments": 120,
+      "source": "blog.luanti.org"
     },
     {
-      "title": "Select * from Internet.blogposts",
-      "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
-      "score": 84,
-      "comments": 39,
-      "source": "pfrazee.leaflet.pub"
+      "title": "EasyEffects can massively improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "score": 75,
+      "comments": 37,
+      "source": "osnews.com"
     },
     {
-      "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
-      "url": "https://morphing.cloud/afterglow/",
-      "score": 149,
-      "comments": 42,
-      "source": "morphing.cloud"
+      "title": "Get your Windows license refund",
+      "url": "https://en.refund4freedom.org/",
+      "score": 608,
+      "comments": 248,
+      "source": "en.refund4freedom.org"
     },
     {
-      "title": "Bootstrappable Builds: How and Why",
-      "url": "https://lwn.net/Articles/1088279/",
-      "score": 36,
-      "comments": 21,
-      "source": "lwn.net"
+      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
+      "url": "https://www.nature.com/articles/d41586-026-02506-4",
+      "score": 101,
+      "comments": 131,
+      "source": "nature.com"
     },
     {
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "score": 1891,
-      "comments": 870,
-      "source": "businessinsider.com"
+      "title": "Some conservationists are helping to restore Africa\u2019s wild dog populations",
+      "url": "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/",
+      "score": 60,
+      "comments": 20,
+      "source": "smithsonianmag.com"
     },
     {
-      "title": "Stripe said to abandon $50B pursuit of PayPal",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-      "score": 136,
-      "comments": 161,
-      "source": "bloomberg.com"
-    },
-    {
-      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
-      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
-      "score": 177,
-      "comments": 72,
-      "source": "rahuljuliato.com"
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "score": 113,
-      "comments": 44,
-      "source": "anthropic.com"
-    },
-    {
-      "title": "M5Stack Launches PaperMono",
-      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
-      "score": 134,
-      "comments": 49,
-      "source": "shop.m5stack.com"
-    },
-    {
-      "title": "Suica, Japan's First IC Transit Card",
-      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
-      "score": 236,
-      "comments": 216,
-      "source": "tokyodev.com"
-    },
-    {
-      "title": "Engineered yeast for converting plastic and biomass compounds to food additives",
-      "url": "https://acs.digitellinc.com/live/37/session/586399",
-      "score": 104,
-      "comments": 80,
-      "source": "acs.digitellinc.com"
-    },
-    {
-      "title": "Show HN: IndexFlow \u2013 Open-source indexing infrastructure built with Rust",
-      "url": "https://github.com/IndexFlowing/IndexFlow-core",
-      "score": 18,
-      "comments": 6,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: Voronoi Go",
-      "url": "https://voronoigo.com/",
-      "score": 128,
-      "comments": 19,
-      "source": "voronoigo.com"
+      "title": "State of the Map 2026",
+      "url": "https://2026.stateofthemap.org/",
+      "score": 125,
+      "comments": 48,
+      "source": "2026.stateofthemap.org"
     }
   ],
   "security": [
+    {
+      "title": "Extend your data perimeter to the AWS Management Console with Private Access",
+      "url": "https://aws.amazon.com/blogs/security/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/",
+      "date": "2026-08-28 18:53:57",
+      "author": "Madhur Kulkarni"
+    },
     {
       "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
       "url": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/updates-to-your-aws-sign-in-experience/",
       "date": "2026-08-17 17:22:33",
       "author": "Vaibhav Chowla"
-    },
-    {
-      "title": "AWS Certificate Manager will discontinue email validation to prove domain validation for certificates",
-      "url": "https://aws.amazon.com/blogs/security/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/",
-      "date": "2026-08-13 21:23:00",
-      "author": "Adam Aboudi"
     }
   ]
 }
