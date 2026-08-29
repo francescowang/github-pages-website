@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 190,
+      "comments": 63,
+      "source": "github.com"
+    },
+    {
       "title": "GUIs should be fully keyboard-driven",
       "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "score": 444,
-      "comments": 235,
+      "score": 697,
+      "comments": 337,
       "source": "ckardaris.com"
     },
     {
-      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
-      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
-      "score": 139,
-      "comments": 98,
-      "source": "thehealthy.com"
-    },
-    {
-      "title": "Stopping the smart TV from being used against you",
-      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-      "score": 39,
-      "comments": 24,
-      "source": "s-config.com"
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "score": 49,
+      "comments": 14,
+      "source": "github.com"
     },
     {
       "title": "Htmx 4.0",
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "score": 400,
-      "comments": 99,
+      "score": 586,
+      "comments": 144,
       "source": "four.htmx.org"
     },
     {
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "score": 184,
-      "comments": 62,
-      "source": "anil.recoil.org"
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "score": 287,
+      "comments": 107,
+      "source": "openai.com"
+    },
+    {
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "score": 104,
+      "comments": 79,
+      "source": "azmirror.com"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "score": 53,
+      "comments": 12,
+      "source": "github.com"
+    },
+    {
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "score": 75,
+      "comments": 26,
+      "source": "vectorian.be"
     },
     {
       "title": "U.S. sanctions against the A/I Collective",
       "url": "https://www.inventati.org/",
-      "score": 404,
-      "comments": 356,
+      "score": 540,
+      "comments": 519,
       "source": "inventati.org"
+    },
+    {
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "score": 78,
+      "comments": 14,
+      "source": "pwning.systems"
+    },
+    {
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "score": 282,
+      "comments": 102,
+      "source": "anil.recoil.org"
     },
     {
       "title": "Inception-style curved map for turn-by-turn directions",
       "url": "https://www.orbify.eu/demo/",
-      "score": 360,
-      "comments": 124,
+      "score": 460,
+      "comments": 149,
       "source": "orbify.eu"
+    },
+    {
+      "title": "Monzo Stand-In",
+      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+      "score": 40,
+      "comments": 0,
+      "source": "monzo.com"
+    },
+    {
+      "title": "PPWR lands another blow to an precarious tabletop industry",
+      "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+      "score": 43,
+      "comments": 31,
+      "source": "rascal.news"
+    },
+    {
+      "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+      "score": 16,
+      "comments": 5,
+      "source": "arstechnica.com"
+    },
+    {
+      "title": "Experiments with Plotter Art",
+      "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+      "score": 27,
+      "comments": 1,
+      "source": "sometimes.digital"
+    },
+    {
+      "title": "Kumander Linux \u2013 A Linux Distro with a Windows 7 Desktop",
+      "url": "https://www.kumander.org/",
+      "score": 26,
+      "comments": 5,
+      "source": "kumander.org"
     },
     {
       "title": "Curvature Beziers: Improving on a timeless recipe",
       "url": "https://acko.net/blog/curvature-beziers/",
-      "score": 42,
-      "comments": 10,
+      "score": 99,
+      "comments": 11,
       "source": "acko.net"
-    },
-    {
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "score": 59,
-      "comments": 10,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "GLM-5.3 is now open-weight",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "score": 486,
-      "comments": 177,
-      "source": "huggingface.co"
     },
     {
       "title": "The Twelve-Factor App (2025)",
       "url": "https://12factor.net/",
-      "score": 190,
-      "comments": 96,
+      "score": 249,
+      "comments": 131,
       "source": "12factor.net"
+    },
+    {
+      "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
+      "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
+      "score": 3,
+      "comments": 1,
+      "source": "smithsonianmag.com"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "score": 44,
+      "comments": 19,
+      "source": "groverlab.org"
+    },
+    {
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "score": 638,
+      "comments": 218,
+      "source": "huggingface.co"
+    },
+    {
+      "title": "Flyway for freeloaders, rollback implemented in Python",
+      "url": "https://aconcan.io/blog/flyway-for-freeloaders/",
+      "score": 4,
+      "comments": 0,
+      "source": "aconcan.io"
     },
     {
       "title": "Visual Analysis of Binary Files",
       "url": "https://binvis.io/#/",
-      "score": 42,
-      "comments": 11,
+      "score": 71,
+      "comments": 21,
       "source": "binvis.io"
     },
     {
-      "title": "Show HN: Sesame - a local-first, open-source password manager",
-      "url": "https://usesesame.app/",
-      "score": 14,
-      "comments": 8,
-      "source": "usesesame.app"
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "score": 93,
+      "comments": 23,
+      "source": "arxiv.org"
     },
     {
-      "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
-      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "score": 441,
-      "comments": 326,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff \u2013 Engineering and Research",
-      "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
+      "title": "EasyEffects can improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "score": 119,
+      "comments": 50,
+      "source": "osnews.com"
     },
     {
       "title": "Processing in Memory: DRAM Is About to Do Math",
       "url": "https://ben3d.ca/blog/processing-in-memory",
-      "score": 22,
-      "comments": 4,
+      "score": 84,
+      "comments": 35,
       "source": "ben3d.ca"
     },
     {
       "title": "Verschlimmbesserung: The Word Your Software Updates Need",
       "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-      "score": 91,
-      "comments": 53,
+      "score": 120,
+      "comments": 73,
       "source": "geekyschmidt.com"
     },
     {
-      "title": "Barrier lake continues to pose flood risk, China warns",
-      "url": "https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns",
-      "score": 79,
-      "comments": 17,
-      "source": "kathmandupost.com"
-    },
-    {
-      "title": "The Analytical AI Handbook",
-      "url": "https://handbook.sutro.sh",
-      "score": 37,
-      "comments": 2,
-      "source": "handbook.sutro.sh"
-    },
-    {
-      "title": "Sloc Cloc and Code 4.0 (scc) \u2013 Finding the files that need the most attention",
-      "url": "https://boyter.org/posts/sloc-cloc-code-hotspots-finding-files-that-need-attention/",
-      "score": 14,
-      "comments": 0,
-      "source": "boyter.org"
-    },
-    {
-      "title": "Global demand for sand spawned a worldwide boom in illegal mining (2015)",
-      "url": "https://www.wired.com/2015/03/illegal-sand-mining/",
-      "score": 46,
-      "comments": 18,
-      "source": "wired.com"
-    },
-    {
-      "title": "Hilariously fast volume computation with the divergence theorem (2018)",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
-      "score": 237,
-      "comments": 63,
-      "source": "alyssarosenzweig.ca"
-    },
-    {
-      "title": "Bye, Bye GitHub",
-      "url": "https://log.ozgur.works/bye-bye-github.html",
-      "score": 30,
-      "comments": 16,
-      "source": "log.ozgur.works"
-    },
-    {
-      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-      "url": "https://github.com/sseshachala/conductai",
-      "score": 17,
-      "comments": 3,
+      "title": "Migrating to HTTPX2",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "score": 190,
+      "comments": 81,
       "source": "github.com"
     },
     {
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "score": 385,
-      "comments": 120,
-      "source": "blog.luanti.org"
-    },
-    {
-      "title": "EasyEffects can massively improve laptop speaker sound quality",
-      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-      "score": 75,
-      "comments": 37,
-      "source": "osnews.com"
-    },
-    {
-      "title": "Get your Windows license refund",
-      "url": "https://en.refund4freedom.org/",
-      "score": 608,
-      "comments": 248,
-      "source": "en.refund4freedom.org"
-    },
-    {
-      "title": "Smaller reactors bring nuclear power closer to fulfilling its promise",
-      "url": "https://www.nature.com/articles/d41586-026-02506-4",
-      "score": 101,
-      "comments": 131,
-      "source": "nature.com"
-    },
-    {
-      "title": "Some conservationists are helping to restore Africa\u2019s wild dog populations",
-      "url": "https://www.smithsonianmag.com/science-nature/africa-wild-dogs-most-hated-carnivores-continent-heres-why-conservationists-saving-them-anyway-180989287/",
-      "score": 60,
-      "comments": 20,
-      "source": "smithsonianmag.com"
-    },
-    {
-      "title": "State of the Map 2026",
-      "url": "https://2026.stateofthemap.org/",
-      "score": 125,
-      "comments": 48,
-      "source": "2026.stateofthemap.org"
+      "title": "Twitterwebviewer.com Service Discontinued",
+      "url": "https://twitterwebviewer.com/?",
+      "score": 13,
+      "comments": 2,
+      "source": "twitterwebviewer.com"
     }
   ],
   "security": [
