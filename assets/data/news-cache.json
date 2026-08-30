@@ -3,212 +3,212 @@
     {
       "title": "Creepy Crawlies",
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 189,
-      "comments": 60,
+      "score": 603,
+      "comments": 300,
       "source": "people.kernel.org"
     },
     {
-      "title": "No AI Fridays",
-      "url": "https://noaifridays.com/",
-      "score": 179,
-      "comments": 88,
-      "source": "noaifridays.com"
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 176,
+      "comments": 49,
+      "source": "haiku-os.org"
+    },
+    {
+      "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "score": 24,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "score": 79,
+      "comments": 34,
+      "source": "komoroske.com"
+    },
+    {
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+      "score": 141,
+      "comments": 69,
+      "source": "thezvi.wordpress.com"
+    },
+    {
+      "title": "Sort branches by last commit date",
+      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+      "score": 16,
+      "comments": 3,
+      "source": "ryangreenberg.com"
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "score": 7,
+      "comments": 1,
+      "source": "righto.com"
     },
     {
       "title": "Hacking IKEA Furniture",
       "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-      "score": 127,
-      "comments": 68,
+      "score": 220,
+      "comments": 127,
       "source": "greenlightning.eu"
     },
     {
-      "title": "Casey Muratori \u2013 The Root of the Root of All Evil \u2013 BSC 2026 [video]",
-      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-      "score": 167,
-      "comments": 61,
-      "source": "youtube.com"
+      "title": "1kB Website as Status Symbol",
+      "url": "https://async.cat/blog",
+      "score": 8,
+      "comments": 4,
+      "source": "async.cat"
+    },
+    {
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+      "score": 57,
+      "comments": 23,
+      "source": "ziglang.org"
+    },
+    {
+      "title": "The world may have less time than it thinks on climate change",
+      "url": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+      "score": 27,
+      "comments": 6,
+      "source": "economist.com"
+    },
+    {
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "score": 277,
+      "comments": 264,
+      "source": "0xcc.io"
+    },
+    {
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+      "score": 1,
+      "comments": 0,
+      "source": "artie.com"
     },
     {
       "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
       "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 142,
-      "comments": 56,
+      "score": 180,
+      "comments": 75,
       "source": "qubes-os.org"
-    },
-    {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "url": "https://arxiv.org/abs/1804.07389",
-      "score": 156,
-      "comments": 44,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "When Fruit Is Scarce, These Monkeys Hunt Animals",
-      "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
-      "score": 22,
-      "comments": 1,
-      "source": "smithsonianmag.com"
     },
     {
       "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
       "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-      "score": 27,
-      "comments": 6,
+      "score": 253,
+      "comments": 99,
       "source": "reclaimthenet.org"
     },
     {
-      "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
-      "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-      "score": 31,
-      "comments": 4,
-      "source": "muppetlabs.com"
+      "title": "Dad\u2019s Custom Atari Peripherals",
+      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+      "score": 59,
+      "comments": 9,
+      "source": "goto10retro.com"
     },
     {
-      "title": "Brits would quite like their private messages to stay private",
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "score": 282,
-      "comments": 206,
-      "source": "theregister.com"
+      "title": "Storm Summoner, a MIDI controller for effects pedals",
+      "url": "https://kabaragoya.com/products/storm-summoner",
+      "score": 15,
+      "comments": 3,
+      "source": "kabaragoya.com"
     },
     {
-      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
-      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-      "score": 52,
-      "comments": 41,
-      "source": "fortune.com"
+      "title": "Casey Muratori \u2013 The Root of the Root of All Evil \u2013 BSC 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "score": 259,
+      "comments": 130,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "score": 178,
+      "comments": 51,
+      "source": "arxiv.org"
+    },
+    {
+      "title": "Norway Shrugged",
+      "url": "https://paragraph.com/@hagaetc/norway-shrugged",
+      "score": 12,
+      "comments": 1,
+      "source": "paragraph.com"
+    },
+    {
+      "title": "Electric rain can eat through metal",
+      "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+      "score": 64,
+      "comments": 12,
+      "source": "scientificamerican.com"
+    },
+    {
+      "title": "Synchronisation and SMPTE timecode (time code)",
+      "url": "https://www.philrees.co.uk/articles/timecode.htm",
+      "score": 14,
+      "comments": 1,
+      "source": "philrees.co.uk"
     },
     {
       "title": "What my dad taught me about AI coding in the 90s",
       "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-      "score": 72,
-      "comments": 36,
+      "score": 109,
+      "comments": 52,
       "source": "askmike.org"
     },
     {
-      "title": "Dad's Custom Atari Peripherals \u2013 By Jim Trageser",
-      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-      "score": 14,
-      "comments": 3,
-      "source": "goto10retro.com"
-    },
-    {
-      "title": "RISC-V is now officially supported by CPython",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 251,
-      "comments": 44,
-      "source": "blog.python.org"
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "score": 176,
+      "comments": 208,
+      "source": "fortune.com"
     },
     {
       "title": "Automating Immersive Reading",
       "url": "https://smoores.dev/post/automating_immersive_reading/",
-      "score": 42,
-      "comments": 14,
+      "score": 74,
+      "comments": 23,
       "source": "smoores.dev"
     },
     {
-      "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
-      "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
-      "score": 71,
-      "comments": 9,
-      "source": "blog.jupyter.org"
+      "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+      "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+      "score": 44,
+      "comments": 11,
+      "source": "muppetlabs.com"
     },
     {
-      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-      "url": "https://github.com/fugue-labs/monty-go",
-      "score": 26,
-      "comments": 3,
-      "source": "github.com"
+      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+      "url": "https://openrun.dev/blog/litestream/",
+      "score": 25,
+      "comments": 12,
+      "source": "openrun.dev"
     },
     {
-      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-      "score": 536,
-      "comments": 240,
-      "source": "tomshardware.com"
+      "title": "Building my own network stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "score": 89,
+      "comments": 69,
+      "source": "blog.lyc8503.net"
     },
     {
       "title": "Hy4 preview",
       "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 358,
-      "comments": 219,
+      "score": 372,
+      "comments": 234,
       "source": "tencent.com"
     },
     {
-      "title": "The Einstein-Szilard Refrigerator (2020)",
-      "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
-      "score": 82,
-      "comments": 32,
-      "source": "invention.si.edu"
-    },
-    {
-      "title": "Orbs",
-      "url": "https://ampcode.com/notes/orbs-explained",
-      "score": 61,
-      "comments": 22,
-      "source": "ampcode.com"
-    },
-    {
-      "title": "FreeCORE TrueNAS Core \u2013 Continued",
-      "url": "https://freecore.org/",
-      "score": 151,
-      "comments": 81,
-      "source": "freecore.org"
-    },
-    {
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 511,
-      "comments": 204,
-      "source": "zackbartel.com"
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "score": 257,
-      "comments": 91,
-      "source": "science.nasa.gov"
-    },
-    {
-      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-      "score": 45,
-      "comments": 2,
-      "source": "chipsandcheese.com"
-    },
-    {
-      "title": "One Nix flake to rule them all",
-      "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+      "title": "When fruit is scarce, these monkeys hunt animals",
+      "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
       "score": 44,
-      "comments": 4,
-      "source": "fzakaria.com"
-    },
-    {
-      "title": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
-      "score": 332,
-      "comments": 209,
-      "source": "danluu.com"
-    },
-    {
-      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "score": 72,
-      "comments": 17,
-      "source": "muppetlabs.com"
-    },
-    {
-      "title": "Benchmarking Pocket-Scale Inference",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "score": 75,
-      "comments": 12,
-      "source": "artificialanalysis.ai"
-    },
-    {
-      "title": "SQLite as a Document Database (2020)",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 238,
-      "comments": 56,
-      "source": "dgl.cx"
+      "comments": 26,
+      "source": "smithsonianmag.com"
     }
   ],
   "security": [
