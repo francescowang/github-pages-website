@@ -1,214 +1,214 @@
 {
   "tech": [
     {
-      "title": "The Internet Is Kind of a Predatory Cesspit Now",
-      "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-      "score": 258,
-      "comments": 158,
-      "source": "stephendiehl.com"
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "score": 95,
+      "comments": 36,
+      "source": "danluu.com"
     },
     {
-      "title": "Warp builds self-improving agents on Claude",
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "score": 36,
-      "comments": 24,
-      "source": "claude.com"
+      "title": "FreeCORE TrueNAS Core \u2013 Continued",
+      "url": "https://freecore.org/",
+      "score": 42,
+      "comments": 19,
+      "source": "freecore.org"
     },
     {
-      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "title": "Hy4 preview",
       "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 19,
-      "comments": 2,
+      "score": 219,
+      "comments": 132,
       "source": "tencent.com"
     },
     {
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "url": "https://tucker.wales/writing/bias-towards-action/",
-      "score": 41,
-      "comments": 13,
-      "source": "tucker.wales"
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "score": 46,
+      "comments": 6,
+      "source": "blog.python.org"
     },
     {
       "title": "Tether: iMessage, SMS, etc. on Linux",
       "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 187,
-      "comments": 92,
+      "score": 380,
+      "comments": 159,
       "source": "zackbartel.com"
     },
     {
-      "title": "vLLM v0.28.0",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-      "score": 14,
-      "comments": 0,
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "score": 142,
+      "comments": 68,
+      "source": "science.nasa.gov"
+    },
+    {
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "score": 157,
+      "comments": 61,
+      "source": "texastribune.org"
+    },
+    {
+      "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+      "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+      "score": 5,
+      "comments": 1,
+      "source": "morganlewis.com"
+    },
+    {
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "score": 125,
+      "comments": 52,
+      "source": "tucker.wales"
+    },
+    {
+      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "url": "https://github.com/gbin/defragger",
+      "score": 15,
+      "comments": 5,
       "source": "github.com"
     },
     {
       "title": "SQLite as a Document Database (2020)",
       "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "score": 126,
-      "comments": 32,
+      "score": 181,
+      "comments": 47,
       "source": "dgl.cx"
+    },
+    {
+      "title": "Is it safe to call print in a Python signal handler?",
+      "url": "https://iafisher.com/2026/08/sigprint",
+      "score": 22,
+      "comments": 3,
+      "source": "iafisher.com"
+    },
+    {
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "score": 64,
+      "comments": 11,
+      "source": "coldtake.dev"
+    },
+    {
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "score": 57,
+      "comments": 20,
+      "source": "dl.acm.org"
+    },
+    {
+      "title": "Glacier Mice",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "score": 270,
+      "comments": 51,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "EVE Online moves to Python 3",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "score": 317,
+      "comments": 166,
+      "source": "eveonline.com"
     },
     {
       "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
       "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-      "score": 111,
-      "comments": 17,
+      "score": 341,
+      "comments": 57,
       "source": "theguardian.com"
     },
     {
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "score": 115,
-      "comments": 20,
+      "score": 280,
+      "comments": 65,
       "source": "newsletter.eng-leadership.com"
-    },
-    {
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "url": "https://uecker.codeberg.page/2026-08-29.html",
-      "score": 54,
-      "comments": 29,
-      "source": "uecker.codeberg.page"
-    },
-    {
-      "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
-      "url": "https://typebase.io",
-      "score": 81,
-      "comments": 18,
-      "source": "typebase.io"
-    },
-    {
-      "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
-      "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-      "score": 41,
-      "comments": 4,
-      "source": "r136a1.dev"
-    },
-    {
-      "title": "Glacier Mice",
-      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-      "score": 207,
-      "comments": 44,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "score": 3,
-      "comments": 0,
-      "source": "coldtake.dev"
     },
     {
       "title": "Samsung's Processing-in-Memory (PIM)",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "score": 223,
-      "comments": 77,
+      "score": 249,
+      "comments": 95,
       "source": "chipsandcheese.com"
     },
     {
-      "title": "The elementary school pickup incident and the road ahead",
-      "url": "https://shitposting.ai/pickup-incident/",
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
       "score": 3,
       "comments": 0,
-      "source": "shitposting.ai"
+      "source": "artificialanalysis.ai"
+    },
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 388,
+      "comments": 103,
+      "source": "github.com"
+    },
+    {
+      "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+      "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+      "score": 59,
+      "comments": 8,
+      "source": "r136a1.dev"
+    },
+    {
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "url": "https://defrag98.com",
+      "score": 103,
+      "comments": 57,
+      "source": "defrag98.com"
+    },
+    {
+      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+      "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+      "score": 37,
+      "comments": 5,
+      "source": "coolboulder.org"
+    },
+    {
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "score": 70,
+      "comments": 45,
+      "source": "uecker.codeberg.page"
+    },
+    {
+      "title": "Highest-ever ocean temperature measured as powerful El Ni\u00f1o forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "score": 130,
+      "comments": 117,
+      "source": "latimes.com"
+    },
+    {
+      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "url": "https://github.com/mk6i/open-oscar-server",
+      "score": 4,
+      "comments": 2,
+      "source": "github.com"
     },
     {
       "title": "Quantifying Colour",
       "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-      "score": 44,
-      "comments": 3,
+      "score": 76,
+      "comments": 7,
       "source": "ekunazanu.foo"
-    },
-    {
-      "title": "EVE Online moves to Python 3",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "score": 236,
-      "comments": 123,
-      "source": "eveonline.com"
-    },
-    {
-      "title": "A better SQL in 11 lines of code",
-      "url": "https://prela-lang.org/tutorial/",
-      "score": 24,
-      "comments": 22,
-      "source": "prela-lang.org"
     },
     {
       "title": "Creating the Aetheryte Radio",
       "url": "https://haz.ee/posts/aetheryte-radio.html",
-      "score": 54,
-      "comments": 12,
+      "score": 71,
+      "comments": 14,
       "source": "haz.ee"
     },
     {
       "title": "Recovering Corrupt Zip Files",
       "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
-      "score": 5,
-      "comments": 0,
+      "score": 35,
+      "comments": 16,
       "source": "construct.net"
-    },
-    {
-      "title": "Kmart Digicam Mod Part 2",
-      "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
-      "score": 5,
-      "comments": 0,
-      "source": "mason.bearblog.dev"
-    },
-    {
-      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-      "score": 173,
-      "comments": 62,
-      "source": "bsky.app"
-    },
-    {
-      "title": "Htmx 4.0",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "score": 786,
-      "comments": 198,
-      "source": "four.htmx.org"
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "score": 85,
-      "comments": 29,
-      "source": "science.nasa.gov"
-    },
-    {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 360,
-      "comments": 96,
-      "source": "github.com"
-    },
-    {
-      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-      "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
-      "score": 8,
-      "comments": 1,
-      "source": "coolboulder.org"
-    },
-    {
-      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
-      "url": "https://galaxium.app",
-      "score": 84,
-      "comments": 28,
-      "source": "galaxium.app"
-    },
-    {
-      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-      "score": 97,
-      "comments": 12,
-      "source": "sigma-star.at"
-    },
-    {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "score": 187,
-      "comments": 57,
-      "source": "github.com"
     }
   ],
   "security": [
