@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "score": 163,
+      "comments": 47,
+      "source": "openshot.org"
+    },
+    {
+      "title": "Agent Memory as a File Format",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "score": 18,
+      "comments": 7,
+      "source": "calpaterson.com"
+    },
+    {
       "title": "\u201cI just chose words carefully\u201d",
       "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 374,
-      "comments": 95,
+      "score": 904,
+      "comments": 242,
       "source": "unsung.aresluna.org"
     },
     {
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 963,
-      "comments": 472,
-      "source": "people.kernel.org"
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "score": 133,
+      "comments": 44,
+      "source": "embracethered.com"
+    },
+    {
+      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "score": 5,
+      "comments": 0,
+      "source": "martiansoftware.com"
+    },
+    {
+      "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+      "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+      "score": 7,
+      "comments": 3,
+      "source": "engineering.moniepoint.com"
+    },
+    {
+      "title": "Malleable software = solid bases and custom code",
+      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+      "score": 9,
+      "comments": 0,
+      "source": "mdubakov.me"
+    },
+    {
+      "title": "I Think the Military Commissary's Freezers Were Hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "score": 37,
+      "comments": 24,
+      "source": "signalandsilence.substack.com"
+    },
+    {
+      "title": "uv: Deduplicate all files in the wheel cache",
+      "url": "https://github.com/astral-sh/uv/pull/21327",
+      "score": 81,
+      "comments": 21,
+      "source": "github.com"
+    },
+    {
+      "title": "My hobby of building miniatures and taking pretty pictures",
+      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "score": 200,
+      "comments": 31,
+      "source": "sandyuraz.com"
+    },
+    {
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "score": 157,
+      "comments": 66,
+      "source": "ruurtjan.com"
+    },
+    {
+      "title": "A CVE Dispute",
+      "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+      "score": 53,
+      "comments": 6,
+      "source": "daniel.haxx.se"
     },
     {
       "title": "Understanding ChatGPT Work",
       "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "score": 63,
-      "comments": 23,
+      "score": 228,
+      "comments": 114,
       "source": "simonwillison.net"
+    },
+    {
+      "title": "Using floci to emulate Cloud platforms (GCP, AWS, Azure)",
+      "url": "https://flowg.cloud/blog/using-floci-local-emulators",
+      "score": 10,
+      "comments": 2,
+      "source": "flowg.cloud"
+    },
+    {
+      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "score": 203,
+      "comments": 36,
+      "source": "arstechnica.com"
     },
     {
       "title": "Matrox: Graphics for Professionals",
       "url": "https://www.abortretry.fail/p/matrox",
-      "score": 42,
-      "comments": 7,
+      "score": 144,
+      "comments": 47,
       "source": "abortretry.fail"
-    },
-    {
-      "title": "CobaltC \u2013 The Successor to C?",
-      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
-      "score": 6,
-      "comments": 5,
-      "source": "strawberry9.github.io"
     },
     {
       "title": "Haiku R1/beta6 has been released",
       "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 266,
-      "comments": 82,
+      "score": 340,
+      "comments": 95,
       "source": "haiku-os.org"
     },
     {
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "score": 87,
-      "comments": 13,
-      "source": "righto.com"
+      "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
+      "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
+      "score": 44,
+      "comments": 8,
+      "source": "studyfinds.com"
     },
     {
-      "title": "It takes 5 cloud services to hear my doorbell",
-      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-      "score": 21,
-      "comments": 6,
-      "source": "blog.vghaisas.com"
+      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+      "score": 13,
+      "comments": 10,
+      "source": "research.uga.edu"
     },
     {
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "score": 121,
-      "comments": 13,
-      "source": "wilsonharper.net"
-    },
-    {
-      "title": "Sort branches by last commit date",
-      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
-      "score": 95,
-      "comments": 34,
-      "source": "ryangreenberg.com"
+      "title": "Highlighting My Code Based on How Much I Care",
+      "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
+      "score": 88,
+      "comments": 45,
+      "source": "hank.bond"
     },
     {
       "title": "How to build a diffusion language model",
       "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "score": 21,
-      "comments": 2,
+      "score": 122,
+      "comments": 14,
       "source": "kuleshov-group.github.io"
     },
     {
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "score": 67,
-      "comments": 26,
-      "source": "sander.ai"
+      "title": "I built a hardware-bound local password vault hidden in a photo",
+      "url": "https://blindlock.app/en/",
+      "score": 5,
+      "comments": 0,
+      "source": "blindlock.app"
     },
     {
-      "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "url": "https://github.com/KodeMunkie/sm750hdmifb",
-      "score": 82,
-      "comments": 34,
+      "title": "The AI-Native SDLC Starts with Your Infrastructure",
+      "url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure/",
+      "score": 5,
+      "comments": 0,
+      "source": "metalbear.com"
+    },
+    {
+      "title": "The startling 1960s theory that Stonehenge was a prehistoric computer",
+      "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+      "score": 6,
+      "comments": 0,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 1243,
+      "comments": 624,
+      "source": "people.kernel.org"
+    },
+    {
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "score": 190,
+      "comments": 20,
+      "source": "wilsonharper.net"
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "score": 120,
+      "comments": 19,
+      "source": "righto.com"
+    },
+    {
+      "title": "Formalization of the Solution to the Hopf Problem",
+      "url": "https://github.com/plby/HopfProblem",
+      "score": 14,
+      "comments": 9,
       "source": "github.com"
     },
     {
-      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
-      "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
-      "score": 36,
-      "comments": 27,
-      "source": "solar.lowtechmagazine.com"
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "score": 199,
+      "comments": 187,
+      "source": "blog.vghaisas.com"
     },
     {
       "title": "Hacking IKEA Furniture",
       "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-      "score": 274,
-      "comments": 187,
+      "score": 335,
+      "comments": 247,
       "source": "greenlightning.eu"
-    },
-    {
-      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-      "url": "https://relm4.org/",
-      "score": 17,
-      "comments": 9,
-      "source": "relm4.org"
-    },
-    {
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "url": "https://komoroske.com/slime-mold/",
-      "score": 136,
-      "comments": 45,
-      "source": "komoroske.com"
-    },
-    {
-      "title": "Startup Anti-Patterns",
-      "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-      "score": 99,
-      "comments": 54,
-      "source": "itamarnovick.com"
-    },
-    {
-      "title": "Dad\u2019s Custom Atari Peripherals",
-      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-      "score": 109,
-      "comments": 15,
-      "source": "goto10retro.com"
-    },
-    {
-      "title": "Artie (YC S23) Is Hiring Technical AES",
-      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-      "score": 1,
-      "comments": 0,
-      "source": "artie.com"
-    },
-    {
-      "title": "Flock Safety's controversial CEO just got a taste of his own medicine",
-      "url": "https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/",
-      "score": 17,
-      "comments": 2,
-      "source": "neowin.net"
-    },
-    {
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-      "score": 213,
-      "comments": 84,
-      "source": "qubes-os.org"
-    },
-    {
-      "title": "How would you know whether an ancient culture had zero?",
-      "url": "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/",
-      "score": 33,
-      "comments": 7,
-      "source": "johndcook.com"
-    },
-    {
-      "title": "SolarWindow launches 0.85 mm-thick, self-adhesive solar film",
-      "url": "https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/",
-      "score": 8,
-      "comments": 4,
-      "source": "pv-magazine.com"
-    },
-    {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "url": "https://arxiv.org/abs/1804.07389",
-      "score": 195,
-      "comments": 56,
-      "source": "arxiv.org"
-    },
-    {
-      "title": "Omarchy: Any User Process Can Escalate to Root",
-      "url": "https://0xcc.io/posts/omarchy-root-creds/",
-      "score": 450,
-      "comments": 424,
-      "source": "0xcc.io"
-    },
-    {
-      "title": "Zig: Pointer Stability for ArrayLists",
-      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-      "score": 89,
-      "comments": 65,
-      "source": "ziglang.org"
-    },
-    {
-      "title": "Electric rain can eat through metal",
-      "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
-      "score": 101,
-      "comments": 20,
-      "source": "scientificamerican.com"
-    },
-    {
-      "title": "Adding a directional cost bias to a TSP heuristic reveals better local optima",
-      "url": "https://tsp.uncledroid.app",
-      "score": 4,
-      "comments": 1,
-      "source": "tsp.uncledroid.app"
     }
   ],
   "security": [
