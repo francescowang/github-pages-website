@@ -1,217 +1,222 @@
 {
   "tech": [
     {
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "score": 169,
+      "comments": 131,
+      "source": "webiterate.dev"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 306,
+      "comments": 85,
+      "source": "jasontucker.blog"
+    },
+    {
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 432,
+      "comments": 167,
+      "source": "playaphone.com"
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 149,
+      "comments": 27,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "score": 89,
+      "comments": 21,
+      "source": "laser.consti.de"
+    },
+    {
+      "title": "'Mad honey' that can stop your heart is being sold online",
+      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+      "score": 61,
+      "comments": 46,
+      "source": "phys.org"
+    },
+    {
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "score": 108,
+      "comments": 31,
+      "source": "chosun.com"
+    },
+    {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "score": 112,
+      "comments": 15,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "score": 236,
+      "comments": 91,
+      "source": "rockpapershotgun.com"
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "score": 242,
+      "comments": 267,
+      "source": "macrumors.com"
+    },
+    {
+      "title": "Tmp.0ut, Vol. 5",
+      "url": "https://tmpout.sh/5/",
+      "score": 110,
+      "comments": 5,
+      "source": "tmpout.sh"
+    },
+    {
+      "title": "How we configured OpenTelemetry logs in Rails",
+      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "score": 9,
+      "comments": 0,
+      "source": "sixpatterns.com"
+    },
+    {
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 160,
+      "comments": 49,
+      "source": "codex-tool-reference.simonw.chatgpt.site"
+    },
+    {
+      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "score": 135,
+      "comments": 91,
+      "source": "ravynos.com"
+    },
+    {
+      "title": "Claude \u00d7 retrocomputing: emulating a QIC-117 tape drive",
+      "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+      "score": 7,
+      "comments": 1,
+      "source": "dmitrybrant.com"
+    },
+    {
+      "title": "I think the military commissary's freezers were hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "score": 200,
+      "comments": 116,
+      "source": "signalandsilence.substack.com"
+    },
+    {
+      "title": "Reverse engineering my ADHD test",
+      "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+      "score": 103,
+      "comments": 31,
+      "source": "nullpt.rs"
+    },
+    {
+      "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "score": 36,
+      "comments": 37,
+      "source": "usealmanac.com"
+    },
+    {
+      "title": "Since it was stripped of planetary status, Pluto\u2019s defenders have been fighting",
+      "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
+      "score": 35,
+      "comments": 95,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Internet centralization and the original sin of NAT",
+      "url": "https://dreamstation.systems/personal/ntppost.html",
+      "score": 152,
+      "comments": 112,
+      "source": "dreamstation.systems"
+    },
+    {
+      "title": "Euphemisation of Taboo Areas [pdf]",
+      "url": "https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf",
+      "score": 28,
+      "comments": 0,
+      "source": "ajmp.uwr.edu.pl"
+    },
+    {
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "score": 53,
+      "comments": 94,
+      "source": "muratbuffalo.blogspot.com"
+    },
+    {
+      "title": "Launch HN: Hebbian Robotics (YC S26) \u2013 Build scalable robotics data pipelines",
+      "url": "https://github.com/Hebbian-Robotics/hflow",
+      "score": 33,
+      "comments": 10,
+      "source": "github.com"
+    },
+    {
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "score": 65,
+      "comments": 20,
+      "source": "pantsforbirds.com"
+    },
+    {
+      "title": "No country for mediocre mathematicians",
+      "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
+      "score": 106,
+      "comments": 63,
+      "source": "garvvee.substack.com"
+    },
+    {
+      "title": "Dimethyl Mercury Exposure Incident at MIT",
+      "url": "https://twitter.com/andrew_n_carr/status/2093524390390694232",
+      "score": 96,
+      "comments": 61,
+      "source": "twitter.com"
+    },
+    {
+      "title": "'Stunning' percolation proof solves decades-old puzzle about phase transitions",
+      "url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
+      "score": 42,
+      "comments": 14,
+      "source": "quantamagazine.org"
+    },
+    {
+      "title": "OpenShot 4.0 \u2013 Open-source video editor",
       "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "score": 163,
-      "comments": 47,
+      "score": 507,
+      "comments": 116,
       "source": "openshot.org"
-    },
-    {
-      "title": "Agent Memory as a File Format",
-      "url": "https://calpaterson.com/memoryfields.html",
-      "score": 18,
-      "comments": 7,
-      "source": "calpaterson.com"
-    },
-    {
-      "title": "\u201cI just chose words carefully\u201d",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 904,
-      "comments": 242,
-      "source": "unsung.aresluna.org"
     },
     {
       "title": "Breaking Claude Code Opus 5 Auto Mode",
       "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 133,
-      "comments": 44,
+      "score": 328,
+      "comments": 110,
       "source": "embracethered.com"
-    },
-    {
-      "title": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
-      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
-      "score": 5,
-      "comments": 0,
-      "source": "martiansoftware.com"
-    },
-    {
-      "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
-      "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
-      "score": 7,
-      "comments": 3,
-      "source": "engineering.moniepoint.com"
-    },
-    {
-      "title": "Malleable software = solid bases and custom code",
-      "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
-      "score": 9,
-      "comments": 0,
-      "source": "mdubakov.me"
-    },
-    {
-      "title": "I Think the Military Commissary's Freezers Were Hacked",
-      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "score": 37,
-      "comments": 24,
-      "source": "signalandsilence.substack.com"
-    },
-    {
-      "title": "uv: Deduplicate all files in the wheel cache",
-      "url": "https://github.com/astral-sh/uv/pull/21327",
-      "score": 81,
-      "comments": 21,
-      "source": "github.com"
-    },
-    {
-      "title": "My hobby of building miniatures and taking pretty pictures",
-      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
-      "score": 200,
-      "comments": 31,
-      "source": "sandyuraz.com"
-    },
-    {
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-      "score": 157,
-      "comments": 66,
-      "source": "ruurtjan.com"
-    },
-    {
-      "title": "A CVE Dispute",
-      "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
-      "score": 53,
-      "comments": 6,
-      "source": "daniel.haxx.se"
-    },
-    {
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "score": 228,
-      "comments": 114,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "Using floci to emulate Cloud platforms (GCP, AWS, Azure)",
-      "url": "https://flowg.cloud/blog/using-floci-local-emulators",
-      "score": 10,
-      "comments": 2,
-      "source": "flowg.cloud"
-    },
-    {
-      "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
-      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-      "score": 203,
-      "comments": 36,
-      "source": "arstechnica.com"
-    },
-    {
-      "title": "Matrox: Graphics for Professionals",
-      "url": "https://www.abortretry.fail/p/matrox",
-      "score": 144,
-      "comments": 47,
-      "source": "abortretry.fail"
-    },
-    {
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 340,
-      "comments": 95,
-      "source": "haiku-os.org"
-    },
-    {
-      "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
-      "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
-      "score": 44,
-      "comments": 8,
-      "source": "studyfinds.com"
-    },
-    {
-      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
-      "score": 13,
-      "comments": 10,
-      "source": "research.uga.edu"
-    },
-    {
-      "title": "Highlighting My Code Based on How Much I Care",
-      "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
-      "score": 88,
-      "comments": 45,
-      "source": "hank.bond"
-    },
-    {
-      "title": "How to build a diffusion language model",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "score": 122,
-      "comments": 14,
-      "source": "kuleshov-group.github.io"
-    },
-    {
-      "title": "I built a hardware-bound local password vault hidden in a photo",
-      "url": "https://blindlock.app/en/",
-      "score": 5,
-      "comments": 0,
-      "source": "blindlock.app"
-    },
-    {
-      "title": "The AI-Native SDLC Starts with Your Infrastructure",
-      "url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure/",
-      "score": 5,
-      "comments": 0,
-      "source": "metalbear.com"
-    },
-    {
-      "title": "The startling 1960s theory that Stonehenge was a prehistoric computer",
-      "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
-      "score": 6,
-      "comments": 0,
-      "source": "bbc.com"
-    },
-    {
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 1243,
-      "comments": 624,
-      "source": "people.kernel.org"
-    },
-    {
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "score": 190,
-      "comments": 20,
-      "source": "wilsonharper.net"
-    },
-    {
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "score": 120,
-      "comments": 19,
-      "source": "righto.com"
-    },
-    {
-      "title": "Formalization of the Solution to the Hopf Problem",
-      "url": "https://github.com/plby/HopfProblem",
-      "score": 14,
-      "comments": 9,
-      "source": "github.com"
-    },
-    {
-      "title": "It takes 5 cloud services to hear my doorbell",
-      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-      "score": 199,
-      "comments": 187,
-      "source": "blog.vghaisas.com"
-    },
-    {
-      "title": "Hacking IKEA Furniture",
-      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-      "score": 335,
-      "comments": 247,
-      "source": "greenlightning.eu"
     }
   ],
   "security": [
+    {
+      "title": "We invited a direct competitor into Security Hub Extended. Here\u2019s why.",
+      "url": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why/",
+      "date": "2026-08-31 19:00:07",
+      "author": "Michael Fuller"
+    },
+    {
+      "title": "Automate IAM Identity Center governance with continuous discovery and reporting",
+      "url": "https://aws.amazon.com/blogs/security/automate-iam-identity-center-governance-with-continuous-discovery-and-reporting/",
+      "date": "2026-08-31 17:18:31",
+      "author": "Jonathan Nguyen"
+    },
     {
       "title": "Extend your data perimeter to the AWS Management Console with Private Access",
       "url": "https://aws.amazon.com/blogs/security/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/",
@@ -259,18 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/",
       "date": "2026-08-18 20:46:26",
       "author": "Nishant Mainro"
-    },
-    {
-      "title": "Security Hub Extended adds Supply Chain Security as its tenth category",
-      "url": "https://aws.amazon.com/blogs/security/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/",
-      "date": "2026-08-18 17:04:28",
-      "author": "Michael Fuller"
-    },
-    {
-      "title": "Updates to your AWS Sign-In experience",
-      "url": "https://aws.amazon.com/blogs/security/updates-to-your-aws-sign-in-experience/",
-      "date": "2026-08-17 17:22:33",
-      "author": "Vaibhav Chowla"
     }
   ]
 }
