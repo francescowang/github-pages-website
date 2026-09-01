@@ -1,207 +1,214 @@
 {
   "tech": [
     {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 381,
-      "comments": 98,
-      "source": "jasontucker.blog"
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "score": 90,
+      "comments": 5,
+      "source": "github.com"
+    },
+    {
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "score": 30,
+      "comments": 8,
+      "source": "mvakde.github.io"
+    },
+    {
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "score": 440,
+      "comments": 236,
+      "source": "fastpotify.rocks"
+    },
+    {
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "score": 259,
+      "comments": 138,
+      "source": "gpuworld.org"
+    },
+    {
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "score": 62,
+      "comments": 19,
+      "source": "simpleflying.com"
+    },
+    {
+      "title": "Tmp.0ut Volume 5",
+      "url": "https://tmpout.sh/5/",
+      "score": 81,
+      "comments": 24,
+      "source": "tmpout.sh"
+    },
+    {
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
+      "score": 142,
+      "comments": 37,
+      "source": "restroomarchive.com"
+    },
+    {
+      "title": "Polishing Cloth Updated",
+      "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
+      "score": 37,
+      "comments": 22,
+      "source": "512pixels.net"
     },
     {
       "title": "Playa Phone",
       "url": "https://playaphone.com/",
-      "score": 522,
-      "comments": 189,
+      "score": 644,
+      "comments": 211,
       "source": "playaphone.com"
     },
     {
-      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-      "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-      "score": 31,
-      "comments": 20,
-      "source": "jkm.dev"
-    },
-    {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "score": 239,
-      "comments": 30,
-      "source": "youtube.com"
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 511,
+      "comments": 125,
+      "source": "jasontucker.blog"
     },
     {
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 252,
-      "comments": 28,
+      "score": 442,
+      "comments": 63,
       "source": "youtube.com"
     },
     {
-      "title": "Lion-man",
-      "url": "https://en.wikipedia.org/wiki/Lion-man",
-      "score": 69,
-      "comments": 32,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Borges Labyrinth in Venice reopens to the public",
-      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
-      "score": 20,
-      "comments": 2,
-      "source": "wallpaper.com"
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 335,
+      "comments": 43,
+      "source": "youtube.com"
     },
     {
       "title": "Dwarf Fortress is getting the mother of all magic updates",
       "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "score": 318,
-      "comments": 118,
+      "score": 422,
+      "comments": 173,
       "source": "rockpapershotgun.com"
     },
     {
-      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "score": 53,
-      "comments": 32,
-      "source": "cgicoffee.com"
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
     },
     {
-      "title": "Show HN: Laser Graffiti",
-      "url": "https://laser.consti.de",
-      "score": 135,
-      "comments": 29,
-      "source": "laser.consti.de"
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "url": "https://github.com/fregacmols/RotaryCell",
+      "score": 70,
+      "comments": 10,
+      "source": "github.com"
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 324,
-      "comments": 370,
+      "score": 420,
+      "comments": 466,
       "source": "macrumors.com"
-    },
-    {
-      "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
-      "url": "https://www.bbc.com/news/articles/c24j5192j7jo",
-      "score": 47,
-      "comments": 14,
-      "source": "bbc.com"
     },
     {
       "title": "Evidence of Fraud in an Influential Study About Procrastination",
       "url": "https://datacolada.org/138",
-      "score": 87,
-      "comments": 75,
+      "score": 252,
+      "comments": 172,
       "source": "datacolada.org"
     },
     {
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "score": 142,
-      "comments": 48,
-      "source": "darlinghq.org"
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "score": 198,
+      "comments": 42,
+      "source": "laser.consti.de"
     },
     {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 161,
-      "comments": 43,
-      "source": "chosun.com"
-    },
-    {
-      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-      "score": 78,
-      "comments": 88,
-      "source": "wsj.com"
+      "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+      "score": 12,
+      "comments": 3,
+      "source": "science.nasa.gov"
     },
     {
       "title": "I think the military commissary's freezers were hacked",
       "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "score": 268,
-      "comments": 156,
+      "score": 353,
+      "comments": 197,
       "source": "signalandsilence.substack.com"
     },
     {
-      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "url": "https://ravynos.com/",
-      "score": 177,
-      "comments": 104,
-      "source": "ravynos.com"
-    },
-    {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "score": 193,
-      "comments": 52,
-      "source": "codex-tool-reference.simonw.chatgpt.site"
-    },
-    {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "score": 155,
-      "comments": 98,
-      "source": "phys.org"
-    },
-    {
-      "title": "Snakes and Ladders",
-      "url": "https://entropicthoughts.com/snakes-and-ladders",
+      "title": "Roget's Thesaurus",
+      "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
       "score": 19,
-      "comments": 9,
-      "source": "entropicthoughts.com"
+      "comments": 2,
+      "source": "artflsrv04.uchicago.edu"
+    },
+    {
+      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+      "score": 148,
+      "comments": 143,
+      "source": "wsj.com"
+    },
+    {
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "score": 219,
+      "comments": 64,
+      "source": "chosun.com"
+    },
+    {
+      "title": "Lion-man",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "score": 118,
+      "comments": 64,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+      "score": 49,
+      "comments": 34,
+      "source": "dolthub.com"
+    },
+    {
+      "title": "Flat vs. segmented memory \u2013 it's recursive",
+      "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+      "score": 24,
+      "comments": 0,
+      "source": "humprog.org"
     },
     {
       "title": "Reverse engineering my ADHD test",
       "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-      "score": 164,
-      "comments": 84,
+      "score": 229,
+      "comments": 139,
       "source": "nullpt.rs"
     },
     {
-      "title": "Internet centralization and the original sin of NAT",
-      "url": "https://dreamstation.systems/personal/ntppost.html",
-      "score": 191,
-      "comments": 151,
-      "source": "dreamstation.systems"
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "score": 202,
+      "comments": 115,
+      "source": "ravynos.com"
     },
     {
-      "title": "Optimal transport is art: images to collection of optimally placed particles",
-      "url": "https://blog.wolfram.com/2016/05/06/computational-stippling-can-machines-do-as-well-as-humans/",
-      "score": 3,
-      "comments": 2,
-      "source": "blog.wolfram.com"
+      "title": "Borges Labyrinth in Venice reopens to the public",
+      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+      "score": 76,
+      "comments": 27,
+      "source": "wallpaper.com"
     },
     {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "score": 600,
-      "comments": 455,
-      "source": "webiterate.dev"
-    },
-    {
-      "title": "Visualizing Combos in Judo in R",
-      "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
-      "score": 12,
-      "comments": 0,
-      "source": "r-bloggers.com"
-    },
-    {
-      "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "score": 51,
-      "comments": 45,
-      "source": "usealmanac.com"
-    },
-    {
-      "title": "No country for mediocre mathematicians",
-      "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
-      "score": 167,
-      "comments": 97,
-      "source": "garvvee.substack.com"
-    },
-    {
-      "title": "Launch HN: Hebbian Robotics (YC S26) \u2013 Build scalable robotics data pipelines",
-      "url": "https://github.com/Hebbian-Robotics/hflow",
-      "score": 44,
-      "comments": 11,
-      "source": "github.com"
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 222,
+      "comments": 53,
+      "source": "codex-tool-reference.simonw.chatgpt.site"
     }
   ],
   "security": [
