@@ -3,93 +3,135 @@
     {
       "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
       "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-      "score": 90,
-      "comments": 5,
+      "score": 541,
+      "comments": 146,
       "source": "github.com"
+    },
+    {
+      "title": "Io_uring Without Readahead",
+      "url": "https://frn.sh/io-uring/",
+      "score": 57,
+      "comments": 7,
+      "source": "frn.sh"
     },
     {
       "title": "44% on ARC-AGI-1 in 67 cents",
       "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "score": 30,
-      "comments": 8,
+      "score": 248,
+      "comments": 71,
       "source": "mvakde.github.io"
-    },
-    {
-      "title": "Fastpotify",
-      "url": "https://fastpotify.rocks/",
-      "score": 440,
-      "comments": 236,
-      "source": "fastpotify.rocks"
-    },
-    {
-      "title": "GPU World",
-      "url": "https://www.gpuworld.org/",
-      "score": 259,
-      "comments": 138,
-      "source": "gpuworld.org"
     },
     {
       "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "score": 62,
-      "comments": 19,
+      "score": 254,
+      "comments": 102,
       "source": "simpleflying.com"
+    },
+    {
+      "title": "Ambient CSS v3 \u2013 Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "score": 5,
+      "comments": 0,
+      "source": "ambientcss.vercel.app"
+    },
+    {
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
+      "score": 671,
+      "comments": 429,
+      "source": "fastpotify.rocks"
+    },
+    {
+      "title": "EFF to Governor Newsom: Veto California's AB 1709",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
+      "score": 55,
+      "comments": 29,
+      "source": "eff.org"
+    },
+    {
+      "title": "We Are Rebuilding Monica",
+      "url": "https://www.monicahq.com/en/blog/we-are-rebuilding-monica/",
+      "score": 27,
+      "comments": 11,
+      "source": "monicahq.com"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "score": 74,
+      "comments": 28,
+      "source": "blog.mozilla.org"
+    },
+    {
+      "title": "A browser-based viewer for Office Open XML documents",
+      "url": "https://ooxml.silurus.dev/",
+      "score": 7,
+      "comments": 0,
+      "source": "ooxml.silurus.dev"
+    },
+    {
+      "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+      "score": 51,
+      "comments": 26,
+      "source": "aviationweek.com"
+    },
+    {
+      "title": "Fractal Jittered Voronoi Partitions",
+      "url": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
+      "score": 43,
+      "comments": 3,
+      "source": "boristhebrave.com"
     },
     {
       "title": "Tmp.0ut Volume 5",
       "url": "https://tmpout.sh/5/",
-      "score": 81,
-      "comments": 24,
+      "score": 156,
+      "comments": 33,
       "source": "tmpout.sh"
     },
     {
       "title": "Restroom Archive",
       "url": "https://restroomarchive.com",
-      "score": 142,
-      "comments": 37,
+      "score": 269,
+      "comments": 62,
       "source": "restroomarchive.com"
     },
     {
-      "title": "Polishing Cloth Updated",
-      "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
-      "score": 37,
-      "comments": 22,
-      "source": "512pixels.net"
+      "title": "GPU World",
+      "url": "https://www.gpuworld.org/",
+      "score": 346,
+      "comments": 206,
+      "source": "gpuworld.org"
     },
     {
       "title": "Playa Phone",
       "url": "https://playaphone.com/",
-      "score": 644,
-      "comments": 211,
+      "score": 704,
+      "comments": 221,
       "source": "playaphone.com"
+    },
+    {
+      "title": "Urban Congestion Pricing and the Response Times of Emergency Medical Services",
+      "url": "https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services",
+      "score": 41,
+      "comments": 56,
+      "source": "nber.org"
     },
     {
       "title": "I turned my security cameras into an automatic bird identification system",
       "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 511,
-      "comments": 125,
+      "score": 573,
+      "comments": 151,
       "source": "jasontucker.blog"
     },
     {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 442,
-      "comments": 63,
-      "source": "youtube.com"
-    },
-    {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "score": 335,
-      "comments": 43,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Dwarf Fortress is getting the mother of all magic updates",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "score": 422,
-      "comments": 173,
-      "source": "rockpapershotgun.com"
+      "title": "DIY \u2013 Build a Potato Box (2022)",
+      "url": "https://www.rebootedmom.com/build-a-potato-box/",
+      "score": 27,
+      "comments": 7,
+      "source": "rebootedmom.com"
     },
     {
       "title": "CollectWise (YC F24) Is Hiring",
@@ -99,116 +141,67 @@
       "source": "ycombinator.com"
     },
     {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "score": 545,
+      "comments": 72,
+      "source": "youtube.com"
+    },
+    {
+      "title": "A Genealogy of Freudenthal's Lincos",
+      "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
+      "score": 3,
+      "comments": 0,
+      "source": "shellsandpebbles.com"
+    },
+    {
       "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
       "url": "https://github.com/fregacmols/RotaryCell",
-      "score": 70,
-      "comments": 10,
+      "score": 130,
+      "comments": 37,
       "source": "github.com"
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 374,
+      "comments": 55,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "score": 479,
+      "comments": 218,
+      "source": "rockpapershotgun.com"
+    },
+    {
+      "title": "Ubisoft's FOR HONOR will block SteamOS / Linux players starting September 10",
+      "url": "https://www.gamingonlinux.com/2026/09/ubisofts-for-honor-will-block-steamos-linux-on-september-10/",
+      "score": 58,
+      "comments": 44,
+      "source": "gamingonlinux.com"
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 420,
-      "comments": 466,
+      "score": 473,
+      "comments": 546,
       "source": "macrumors.com"
-    },
-    {
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "url": "https://datacolada.org/138",
-      "score": 252,
-      "comments": 172,
-      "source": "datacolada.org"
-    },
-    {
-      "title": "Show HN: Laser Graffiti",
-      "url": "https://laser.consti.de",
-      "score": 198,
-      "comments": 42,
-      "source": "laser.consti.de"
-    },
-    {
-      "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
-      "score": 12,
-      "comments": 3,
-      "source": "science.nasa.gov"
-    },
-    {
-      "title": "I think the military commissary's freezers were hacked",
-      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "score": 353,
-      "comments": 197,
-      "source": "signalandsilence.substack.com"
-    },
-    {
-      "title": "Roget's Thesaurus",
-      "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
-      "score": 19,
-      "comments": 2,
-      "source": "artflsrv04.uchicago.edu"
     },
     {
       "title": "Cheap GPS jammers are filling the world with navigation dead zones",
       "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-      "score": 148,
-      "comments": 143,
+      "score": 195,
+      "comments": 203,
       "source": "wsj.com"
     },
     {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 219,
-      "comments": 64,
-      "source": "chosun.com"
-    },
-    {
-      "title": "Lion-man",
-      "url": "https://en.wikipedia.org/wiki/Lion-man",
-      "score": 118,
-      "comments": 64,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-      "score": 49,
-      "comments": 34,
-      "source": "dolthub.com"
-    },
-    {
-      "title": "Flat vs. segmented memory \u2013 it's recursive",
-      "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-      "score": 24,
-      "comments": 0,
-      "source": "humprog.org"
-    },
-    {
-      "title": "Reverse engineering my ADHD test",
-      "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-      "score": 229,
-      "comments": 139,
-      "source": "nullpt.rs"
-    },
-    {
-      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "url": "https://ravynos.com/",
-      "score": 202,
-      "comments": 115,
-      "source": "ravynos.com"
-    },
-    {
-      "title": "Borges Labyrinth in Venice reopens to the public",
-      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
-      "score": 76,
-      "comments": 27,
-      "source": "wallpaper.com"
-    },
-    {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "score": 222,
-      "comments": 53,
-      "source": "codex-tool-reference.simonw.chatgpt.site"
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "score": 239,
+      "comments": 51,
+      "source": "laser.consti.de"
     }
   ],
   "security": [
