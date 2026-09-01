@@ -1,207 +1,207 @@
 {
   "tech": [
     {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "score": 169,
-      "comments": 131,
-      "source": "webiterate.dev"
-    },
-    {
       "title": "I turned my security cameras into an automatic bird identification system",
       "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 306,
-      "comments": 85,
+      "score": 381,
+      "comments": 98,
       "source": "jasontucker.blog"
     },
     {
       "title": "Playa Phone",
       "url": "https://playaphone.com/",
-      "score": 432,
-      "comments": 167,
+      "score": 522,
+      "comments": 189,
       "source": "playaphone.com"
+    },
+    {
+      "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+      "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+      "score": 31,
+      "comments": 20,
+      "source": "jkm.dev"
     },
     {
       "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
       "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "score": 149,
-      "comments": 27,
+      "score": 239,
+      "comments": 30,
       "source": "youtube.com"
-    },
-    {
-      "title": "Show HN: Laser Graffiti",
-      "url": "https://laser.consti.de",
-      "score": 89,
-      "comments": 21,
-      "source": "laser.consti.de"
-    },
-    {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "score": 61,
-      "comments": 46,
-      "source": "phys.org"
-    },
-    {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "score": 108,
-      "comments": 31,
-      "source": "chosun.com"
     },
     {
       "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "score": 112,
-      "comments": 15,
+      "score": 252,
+      "comments": 28,
       "source": "youtube.com"
+    },
+    {
+      "title": "Lion-man",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "score": 69,
+      "comments": 32,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Borges Labyrinth in Venice reopens to the public",
+      "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+      "score": 20,
+      "comments": 2,
+      "source": "wallpaper.com"
     },
     {
       "title": "Dwarf Fortress is getting the mother of all magic updates",
       "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-      "score": 236,
-      "comments": 91,
+      "score": 318,
+      "comments": 118,
       "source": "rockpapershotgun.com"
+    },
+    {
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+      "score": 53,
+      "comments": 32,
+      "source": "cgicoffee.com"
+    },
+    {
+      "title": "Show HN: Laser Graffiti",
+      "url": "https://laser.consti.de",
+      "score": 135,
+      "comments": 29,
+      "source": "laser.consti.de"
     },
     {
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "score": 242,
-      "comments": 267,
+      "score": 324,
+      "comments": 370,
       "source": "macrumors.com"
     },
     {
-      "title": "Tmp.0ut, Vol. 5",
-      "url": "https://tmpout.sh/5/",
-      "score": 110,
-      "comments": 5,
-      "source": "tmpout.sh"
+      "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
+      "url": "https://www.bbc.com/news/articles/c24j5192j7jo",
+      "score": 47,
+      "comments": 14,
+      "source": "bbc.com"
     },
     {
-      "title": "How we configured OpenTelemetry logs in Rails",
-      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-      "score": 9,
-      "comments": 0,
-      "source": "sixpatterns.com"
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "score": 87,
+      "comments": 75,
+      "source": "datacolada.org"
     },
     {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "score": 160,
-      "comments": 49,
-      "source": "codex-tool-reference.simonw.chatgpt.site"
+      "title": "Run macOS Software on Linux",
+      "url": "https://www.darlinghq.org/",
+      "score": 142,
+      "comments": 48,
+      "source": "darlinghq.org"
     },
     {
-      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "url": "https://ravynos.com/",
-      "score": 135,
-      "comments": 91,
-      "source": "ravynos.com"
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "score": 161,
+      "comments": 43,
+      "source": "chosun.com"
     },
     {
-      "title": "Claude \u00d7 retrocomputing: emulating a QIC-117 tape drive",
-      "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
-      "score": 7,
-      "comments": 1,
-      "source": "dmitrybrant.com"
+      "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+      "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+      "score": 78,
+      "comments": 88,
+      "source": "wsj.com"
     },
     {
       "title": "I think the military commissary's freezers were hacked",
       "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-      "score": 200,
-      "comments": 116,
+      "score": 268,
+      "comments": 156,
       "source": "signalandsilence.substack.com"
+    },
+    {
+      "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "url": "https://ravynos.com/",
+      "score": 177,
+      "comments": 104,
+      "source": "ravynos.com"
+    },
+    {
+      "title": "ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "score": 193,
+      "comments": 52,
+      "source": "codex-tool-reference.simonw.chatgpt.site"
+    },
+    {
+      "title": "'Mad honey' that can stop your heart is being sold online",
+      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+      "score": 155,
+      "comments": 98,
+      "source": "phys.org"
+    },
+    {
+      "title": "Snakes and Ladders",
+      "url": "https://entropicthoughts.com/snakes-and-ladders",
+      "score": 19,
+      "comments": 9,
+      "source": "entropicthoughts.com"
     },
     {
       "title": "Reverse engineering my ADHD test",
       "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-      "score": 103,
-      "comments": 31,
+      "score": 164,
+      "comments": 84,
       "source": "nullpt.rs"
-    },
-    {
-      "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "score": 36,
-      "comments": 37,
-      "source": "usealmanac.com"
-    },
-    {
-      "title": "Since it was stripped of planetary status, Pluto\u2019s defenders have been fighting",
-      "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
-      "score": 35,
-      "comments": 95,
-      "source": "theguardian.com"
     },
     {
       "title": "Internet centralization and the original sin of NAT",
       "url": "https://dreamstation.systems/personal/ntppost.html",
-      "score": 152,
-      "comments": 112,
+      "score": 191,
+      "comments": 151,
       "source": "dreamstation.systems"
     },
     {
-      "title": "Euphemisation of Taboo Areas [pdf]",
-      "url": "https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf",
-      "score": 28,
+      "title": "Optimal transport is art: images to collection of optimally placed particles",
+      "url": "https://blog.wolfram.com/2016/05/06/computational-stippling-can-machines-do-as-well-as-humans/",
+      "score": 3,
+      "comments": 2,
+      "source": "blog.wolfram.com"
+    },
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "score": 600,
+      "comments": 455,
+      "source": "webiterate.dev"
+    },
+    {
+      "title": "Visualizing Combos in Judo in R",
+      "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
+      "score": 12,
       "comments": 0,
-      "source": "ajmp.uwr.edu.pl"
+      "source": "r-bloggers.com"
     },
     {
-      "title": "The safest job from AI may be writing",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "score": 53,
-      "comments": 94,
-      "source": "muratbuffalo.blogspot.com"
-    },
-    {
-      "title": "Launch HN: Hebbian Robotics (YC S26) \u2013 Build scalable robotics data pipelines",
-      "url": "https://github.com/Hebbian-Robotics/hflow",
-      "score": 33,
-      "comments": 10,
-      "source": "github.com"
-    },
-    {
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "score": 65,
-      "comments": 20,
-      "source": "pantsforbirds.com"
+      "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "score": 51,
+      "comments": 45,
+      "source": "usealmanac.com"
     },
     {
       "title": "No country for mediocre mathematicians",
       "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
-      "score": 106,
-      "comments": 63,
+      "score": 167,
+      "comments": 97,
       "source": "garvvee.substack.com"
     },
     {
-      "title": "Dimethyl Mercury Exposure Incident at MIT",
-      "url": "https://twitter.com/andrew_n_carr/status/2093524390390694232",
-      "score": 96,
-      "comments": 61,
-      "source": "twitter.com"
-    },
-    {
-      "title": "'Stunning' percolation proof solves decades-old puzzle about phase transitions",
-      "url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
-      "score": 42,
-      "comments": 14,
-      "source": "quantamagazine.org"
-    },
-    {
-      "title": "OpenShot 4.0 \u2013 Open-source video editor",
-      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-      "score": 507,
-      "comments": 116,
-      "source": "openshot.org"
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "score": 328,
-      "comments": 110,
-      "source": "embracethered.com"
+      "title": "Launch HN: Hebbian Robotics (YC S26) \u2013 Build scalable robotics data pipelines",
+      "url": "https://github.com/Hebbian-Robotics/hflow",
+      "score": 44,
+      "comments": 11,
+      "source": "github.com"
     }
   ],
   "security": [
