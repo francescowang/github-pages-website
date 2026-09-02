@@ -1,67 +1,137 @@
 {
   "tech": [
     {
+      "title": "A Note from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "score": 407,
+      "comments": 81,
+      "source": "lwn.net"
+    },
+    {
+      "title": "Gemini 3.8 Flash",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+      "score": 118,
+      "comments": 56,
+      "source": "deepmind.google"
+    },
+    {
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "score": 97,
+      "comments": 10,
+      "source": "science.org"
+    },
+    {
+      "title": "GrapheneOS says Pixel 11 has MTE support after all",
+      "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+      "score": 75,
+      "comments": 51,
+      "source": "grapheneos.social"
+    },
+    {
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 147,
+      "comments": 70,
+      "source": "help.mistral.ai"
+    },
+    {
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 119,
+      "comments": 68,
+      "source": "trellner.com"
+    },
+    {
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "score": 50,
+      "comments": 6,
+      "source": "stripeacross.com"
+    },
+    {
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "score": 42,
+      "comments": 11,
+      "source": "turtlespace.blog"
+    },
+    {
       "title": "Commodore 64 released September 1, 1982",
       "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-      "score": 73,
-      "comments": 9,
+      "score": 232,
+      "comments": 117,
       "source": "dfarq.homeip.net"
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "score": 1262,
-      "comments": 1178,
-      "source": "anthropic.com"
+      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "score": 61,
+      "comments": 21,
+      "source": "studyfinds.com"
+    },
+    {
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "score": 21,
+      "comments": 7,
+      "source": "github.com"
+    },
+    {
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "score": 76,
+      "comments": 24,
+      "source": "aisle.com"
+    },
+    {
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "score": 28,
+      "comments": 4,
+      "source": "clui.org"
+    },
+    {
+      "title": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "score": 62,
+      "comments": 38,
+      "source": "claude.com"
+    },
+    {
+      "title": "LLMs: Intelligence vs. Cost",
+      "url": "https://openteams.com/intelligence-vs-cost/",
+      "score": 35,
+      "comments": 16,
+      "source": "openteams.com"
+    },
+    {
+      "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+      "score": 147,
+      "comments": 126,
+      "source": "nltimes.nl"
+    },
+    {
+      "title": "A third of Perplexity's citations don't contain the number they're cited for",
+      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+      "score": 30,
+      "comments": 5,
+      "source": "hausresearch.com"
+    },
+    {
+      "title": "Ending my elixir exploratory writing",
+      "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
+      "score": 54,
+      "comments": 32,
+      "source": "lucassifoni.info"
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
       "url": "https://arxiv.org/abs/2608.29530",
-      "score": 154,
-      "comments": 51,
+      "score": 236,
+      "comments": 81,
       "source": "arxiv.org"
-    },
-    {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "score": 717,
-      "comments": 789,
-      "source": "danluu.com"
-    },
-    {
-      "title": "Fine, I'll build my own text editor",
-      "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "score": 134,
-      "comments": 118,
-      "source": "dbushell.com"
-    },
-    {
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "score": 227,
-      "comments": 95,
-      "source": "krebsonsecurity.com"
-    },
-    {
-      "title": "Introducing Ad Blocker for Firefox on iOS",
-      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "score": 484,
-      "comments": 163,
-      "source": "blog.mozilla.org"
-    },
-    {
-      "title": "WebFPGA",
-      "url": "https://webfpga.io/",
-      "score": 85,
-      "comments": 32,
-      "source": "webfpga.io"
-    },
-    {
-      "title": "Sonic Pi",
-      "url": "https://sonic-pi.net/",
-      "score": 170,
-      "comments": 34,
-      "source": "sonic-pi.net"
     },
     {
       "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
@@ -71,137 +141,74 @@
       "source": "careers.telli.com"
     },
     {
-      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "score": 146,
-      "comments": 65,
-      "source": "masteranza.github.io"
+      "title": "9000 RPM is faster than your screen refreshes",
+      "url": "https://ma.ttias.be/9000-rpm/",
+      "score": 29,
+      "comments": 13,
+      "source": "ma.ttias.be"
     },
     {
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "url": "https://lws.io/blog/my-local-model-setup/",
-      "score": 212,
-      "comments": 129,
-      "source": "lws.io"
-    },
-    {
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "score": 124,
+      "title": "Why humanoid robots won't catch up to human workers any time soon",
+      "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+      "score": 25,
       "comments": 33,
-      "source": "baseten.co"
+      "source": "understandingai.org"
     },
     {
-      "title": "Open Battery Information",
-      "url": "https://github.com/mnh-jansson/open-battery-information",
-      "score": 5,
-      "comments": 1,
-      "source": "github.com"
-    },
-    {
-      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "score": 173,
-      "comments": 53,
-      "source": "norirobotics.com"
-    },
-    {
-      "title": "Ambient CSS v3 \u2013 Blender meets CSS",
-      "url": "https://ambientcss.vercel.app/",
-      "score": 276,
-      "comments": 82,
-      "source": "ambientcss.vercel.app"
-    },
-    {
-      "title": "Movie Scene Map \u2013 13,312 films, series, games, anime and manga",
-      "url": "https://moviescenemap.com/",
-      "score": 260,
-      "comments": 38,
-      "source": "moviescenemap.com"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra/",
-      "score": 160,
-      "comments": 70,
-      "source": "openai.com"
-    },
-    {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "score": 417,
-      "comments": 190,
-      "source": "simonwillison.net"
-    },
-    {
-      "title": "True Rate of Unemployment",
-      "url": "https://www.lisep.org/tru",
-      "score": 237,
-      "comments": 198,
-      "source": "lisep.org"
-    },
-    {
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-      "score": 129,
-      "comments": 55,
-      "source": "tomverbeure.github.io"
-    },
-    {
-      "title": "The creator of Jujutsu has joined ERSC",
-      "url": "https://ersc.io/blog/martin-joins-ersc",
-      "score": 238,
-      "comments": 177,
-      "source": "ersc.io"
-    },
-    {
-      "title": "Show HN: HN Match Maker \u2013 Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "url": "https://hnmatchmaker.com/",
-      "score": 92,
-      "comments": 40,
-      "source": "hnmatchmaker.com"
-    },
-    {
-      "title": "How bicycle coaster brakes work (2018)",
-      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-      "score": 66,
-      "comments": 54,
-      "source": "dougbarnesauthor.com"
-    },
-    {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "url": "https://github.com/carloslfu/slotstream",
-      "score": 213,
-      "comments": 97,
-      "source": "github.com"
-    },
-    {
-      "title": "Building an interactive instrument for a one-of-a-kind festival",
-      "url": "https://benholmen.com/blog/halfmoon-chimes/",
-      "score": 56,
-      "comments": 6,
-      "source": "benholmen.com"
-    },
-    {
-      "title": "Forgotten History of Small Nuclear Reactors (2015)",
-      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
-      "score": 42,
-      "comments": 28,
-      "source": "spectrum.ieee.org"
-    },
-    {
-      "title": "A Genealogy of Freudenthal's Lincos",
-      "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
-      "score": 10,
-      "comments": 1,
-      "source": "shellsandpebbles.com"
-    },
-    {
-      "title": "Top Web Design Styles of 1993",
-      "url": "https://contemporary-home-computing.org/prof-dr-style/",
-      "score": 49,
+      "title": "Using jq to format JSON on the clipboard",
+      "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
+      "score": 35,
       "comments": 9,
-      "source": "contemporary-home-computing.org"
+      "source": "chris48s.github.io"
+    },
+    {
+      "title": "The Cables That Connect the World",
+      "url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/",
+      "score": 30,
+      "comments": 6,
+      "source": "xn--gckvb8fzb.com"
+    },
+    {
+      "title": "Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It",
+      "url": "https://sabot.media/post/banca-etica-statement-english",
+      "score": 50,
+      "comments": 28,
+      "source": "sabot.media"
+    },
+    {
+      "title": "Move in C++ without a std:move",
+      "url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
+      "score": 30,
+      "comments": 35,
+      "source": "andreasfertig.com"
+    },
+    {
+      "title": "It's OK to hardcode feature flags (2025)",
+      "url": "https://code.mendhak.com/hardcode-feature-flags/",
+      "score": 57,
+      "comments": 32,
+      "source": "code.mendhak.com"
+    },
+    {
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "score": 109,
+      "comments": 86,
+      "source": "multiversecomputing.com"
+    },
+    {
+      "title": "Fine, I'll build my own text editor",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
+      "score": 210,
+      "comments": 201,
+      "source": "dbushell.com"
+    },
+    {
+      "title": "B200 Attention Kernel from Scratch to Near-SOTA in 60 Diagrams",
+      "url": "https://iaroslavelistratov.github.io/b200-attention/",
+      "score": 13,
+      "comments": 0,
+      "source": "iaroslavelistratov.github.io"
     }
   ],
   "security": [
