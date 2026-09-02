@@ -1,137 +1,200 @@
 {
   "tech": [
     {
-      "title": "A Note from LWN",
-      "url": "https://lwn.net/Articles/1090585/",
-      "score": 407,
-      "comments": 81,
-      "source": "lwn.net"
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "score": 109,
+      "comments": 43,
+      "source": "developer.meta.com"
     },
     {
-      "title": "Gemini 3.8 Flash",
-      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-      "score": 118,
-      "comments": 56,
-      "source": "deepmind.google"
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "score": 656,
+      "comments": 389,
+      "source": "blog.google"
+    },
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "score": 85,
+      "comments": 32,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "The Post-AI Internet Doesn't Look Great",
+      "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
+      "score": 50,
+      "comments": 31,
+      "source": "jordangoodman.xyz"
+    },
+    {
+      "title": "Wendell Berry has died",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "score": 59,
+      "comments": 28,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 319,
+      "comments": 138,
+      "source": "help.mistral.ai"
+    },
+    {
+      "title": "I wanna live an NPC life",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "score": 10,
+      "comments": 3,
+      "source": "signalundefied.bearblog.dev"
     },
     {
       "title": "Biggest dark matter detector spots a single weird particle",
       "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-      "score": 97,
-      "comments": 10,
+      "score": 207,
+      "comments": 57,
       "source": "science.org"
     },
     {
-      "title": "GrapheneOS says Pixel 11 has MTE support after all",
-      "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
-      "score": 75,
-      "comments": 51,
-      "source": "grapheneos.social"
-    },
-    {
-      "title": "Mistral now trains on user input by default, except on enterprise tier",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "score": 147,
-      "comments": 70,
-      "source": "help.mistral.ai"
-    },
-    {
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 119,
-      "comments": 68,
-      "source": "trellner.com"
-    },
-    {
-      "title": "Poisson Disk Sampling",
-      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-      "score": 50,
-      "comments": 6,
-      "source": "stripeacross.com"
+      "title": "Embedded Rust RTOS vs. C RTOS",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "score": 24,
+      "comments": 4,
+      "source": "tweedegolf.nl"
     },
     {
       "title": "Exit the Cave",
       "url": "https://turtlespace.blog/p/exit-the-cave",
-      "score": 42,
-      "comments": 11,
+      "score": 158,
+      "comments": 40,
       "source": "turtlespace.blog"
-    },
-    {
-      "title": "Commodore 64 released September 1, 1982",
-      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-      "score": 232,
-      "comments": 117,
-      "source": "dfarq.homeip.net"
     },
     {
       "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
       "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "score": 61,
-      "comments": 21,
+      "score": 156,
+      "comments": 68,
       "source": "studyfinds.com"
     },
     {
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "score": 21,
-      "comments": 7,
-      "source": "github.com"
+      "title": "The Qantas A380 engine disintegration in 2010",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "score": 20,
+      "comments": 5,
+      "source": "admiralcloudberg.medium.com"
     },
     {
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "score": 76,
-      "comments": 24,
-      "source": "aisle.com"
+      "title": "A practical guide to running 8x RTX PRO 6000's",
+      "url": "https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s",
+      "score": 9,
+      "comments": 5,
+      "source": "gpupartner.com"
+    },
+    {
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "score": 293,
+      "comments": 150,
+      "source": "dfarq.homeip.net"
     },
     {
       "title": "A Selection of Los Alamos Rolodex Business Cards",
       "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
-      "score": 28,
-      "comments": 4,
+      "score": 113,
+      "comments": 24,
       "source": "clui.org"
     },
     {
-      "title": "Check if a file was made with Claude",
-      "url": "https://claude.com/check-content",
-      "score": 62,
-      "comments": 38,
-      "source": "claude.com"
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "score": 33,
+      "comments": 9,
+      "source": "blog.cloudflare.com"
     },
     {
-      "title": "LLMs: Intelligence vs. Cost",
-      "url": "https://openteams.com/intelligence-vs-cost/",
-      "score": 35,
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "score": 101,
       "comments": 16,
-      "source": "openteams.com"
+      "source": "stripeacross.com"
     },
     {
-      "title": "Dutch central bank moves share of gold from U.S., Canada to London",
-      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
-      "score": 147,
-      "comments": 126,
-      "source": "nltimes.nl"
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "score": 245,
+      "comments": 114,
+      "source": "trellner.com"
     },
     {
-      "title": "A third of Perplexity's citations don't contain the number they're cited for",
-      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
-      "score": 30,
-      "comments": 5,
-      "source": "hausresearch.com"
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "score": 8,
+      "comments": 0,
+      "source": "github.com"
     },
     {
-      "title": "Ending my elixir exploratory writing",
-      "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
-      "score": 54,
-      "comments": 32,
-      "source": "lucassifoni.info"
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "score": 136,
+      "comments": 112,
+      "source": "forums.paint.net"
     },
     {
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
-      "score": 236,
-      "comments": 81,
-      "source": "arxiv.org"
+      "title": "SteamdDB Joins Nexus Mods",
+      "url": "https://www.nexusmods.com/news/15597",
+      "score": 79,
+      "comments": 48,
+      "source": "nexusmods.com"
+    },
+    {
+      "title": "Making the Internet Boring",
+      "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
+      "score": 35,
+      "comments": 17,
+      "source": "cemrehancavdar.com"
+    },
+    {
+      "title": "A note on subscription prices from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "score": 645,
+      "comments": 127,
+      "source": "lwn.net"
+    },
+    {
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "score": 65,
+      "comments": 15,
+      "source": "github.com"
+    },
+    {
+      "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
+      "url": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
+      "score": 9,
+      "comments": 1,
+      "source": "nooshu.com"
+    },
+    {
+      "title": "Introducing Muse Spark 1.3",
+      "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+      "score": 37,
+      "comments": 9,
+      "source": "research.meta.ai"
+    },
+    {
+      "title": "I Don't Have a Smartphone",
+      "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+      "score": 148,
+      "comments": 150,
+      "source": "ploum.net"
+    },
+    {
+      "title": "AI Agents and the Refactoring That Never Happens",
+      "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+      "score": 8,
+      "comments": 10,
+      "source": "rosenfeld.page"
     },
     {
       "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
@@ -141,77 +204,20 @@
       "source": "careers.telli.com"
     },
     {
-      "title": "9000 RPM is faster than your screen refreshes",
-      "url": "https://ma.ttias.be/9000-rpm/",
-      "score": 29,
-      "comments": 13,
-      "source": "ma.ttias.be"
-    },
-    {
-      "title": "Why humanoid robots won't catch up to human workers any time soon",
-      "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-      "score": 25,
-      "comments": 33,
-      "source": "understandingai.org"
-    },
-    {
-      "title": "Using jq to format JSON on the clipboard",
-      "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
-      "score": 35,
-      "comments": 9,
-      "source": "chris48s.github.io"
-    },
-    {
-      "title": "The Cables That Connect the World",
-      "url": "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/",
-      "score": 30,
-      "comments": 6,
-      "source": "xn--gckvb8fzb.com"
-    },
-    {
-      "title": "Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It",
-      "url": "https://sabot.media/post/banca-etica-statement-english",
-      "score": 50,
-      "comments": 28,
-      "source": "sabot.media"
-    },
-    {
-      "title": "Move in C++ without a std:move",
-      "url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
-      "score": 30,
-      "comments": 35,
-      "source": "andreasfertig.com"
-    },
-    {
-      "title": "It's OK to hardcode feature flags (2025)",
-      "url": "https://code.mendhak.com/hardcode-feature-flags/",
-      "score": 57,
-      "comments": 32,
-      "source": "code.mendhak.com"
-    },
-    {
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "score": 109,
-      "comments": 86,
-      "source": "multiversecomputing.com"
-    },
-    {
-      "title": "Fine, I'll build my own text editor",
-      "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "score": 210,
-      "comments": 201,
-      "source": "dbushell.com"
-    },
-    {
-      "title": "B200 Attention Kernel from Scratch to Near-SOTA in 60 Diagrams",
-      "url": "https://iaroslavelistratov.github.io/b200-attention/",
-      "score": 13,
-      "comments": 0,
-      "source": "iaroslavelistratov.github.io"
+      "title": "Discontinuation of third level domain registrations for the .name TLD [pdf]",
+      "url": "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf",
+      "score": 41,
+      "comments": 31,
+      "source": "itp.cdn.icann.org"
     }
   ],
   "security": [
+    {
+      "title": "Agentic security: Detection and response at machine speed",
+      "url": "https://aws.amazon.com/blogs/security/agentic-security-detection-and-response-at-machine-speed/",
+      "date": "2026-09-02 18:36:37",
+      "author": "Gee Rittenhouse"
+    },
     {
       "title": "We invited a direct competitor into Security Hub Extended. Here\u2019s why.",
       "url": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why/",
@@ -265,12 +271,6 @@
       "url": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore/",
       "date": "2026-08-19 17:24:15",
       "author": "Anshu Bathla"
-    },
-    {
-      "title": "Implement custom authentication for tools integration using request Lambda interceptor in AgentCore Gateway",
-      "url": "https://aws.amazon.com/blogs/security/implement-custom-authentication-for-tools-integration-using-request-lambda-interceptor-in-agentcore-gateway/",
-      "date": "2026-08-18 20:46:26",
-      "author": "Nishant Mainro"
     }
   ]
 }
