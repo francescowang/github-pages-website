@@ -3,215 +3,214 @@
     {
       "title": "Muse Spark 1.3",
       "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "score": 109,
-      "comments": 43,
+      "score": 418,
+      "comments": 281,
       "source": "developer.meta.com"
     },
     {
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "score": 656,
-      "comments": 389,
+      "score": 850,
+      "comments": 495,
       "source": "blog.google"
     },
     {
       "title": "Google avoids a breakup of its ad tech business",
       "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "score": 85,
-      "comments": 32,
+      "score": 282,
+      "comments": 199,
       "source": "nytimes.com"
     },
     {
-      "title": "The Post-AI Internet Doesn't Look Great",
-      "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
-      "score": 50,
-      "comments": 31,
-      "source": "jordangoodman.xyz"
+      "title": "Holden's Lightning Flight",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "score": 69,
+      "comments": 13,
+      "source": "en.wikipedia.org"
     },
     {
-      "title": "Wendell Berry has died",
-      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-      "score": 59,
-      "comments": 28,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "score": 319,
-      "comments": 138,
-      "source": "help.mistral.ai"
-    },
-    {
-      "title": "I wanna live an NPC life",
-      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-      "score": 10,
-      "comments": 3,
-      "source": "signalundefied.bearblog.dev"
-    },
-    {
-      "title": "Biggest dark matter detector spots a single weird particle",
-      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-      "score": 207,
-      "comments": 57,
-      "source": "science.org"
-    },
-    {
-      "title": "Embedded Rust RTOS vs. C RTOS",
-      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-      "score": 24,
-      "comments": 4,
-      "source": "tweedegolf.nl"
-    },
-    {
-      "title": "Exit the Cave",
-      "url": "https://turtlespace.blog/p/exit-the-cave",
-      "score": 158,
-      "comments": 40,
-      "source": "turtlespace.blog"
-    },
-    {
-      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "score": 156,
-      "comments": 68,
-      "source": "studyfinds.com"
-    },
-    {
-      "title": "The Qantas A380 engine disintegration in 2010",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "score": 20,
-      "comments": 5,
-      "source": "admiralcloudberg.medium.com"
-    },
-    {
-      "title": "A practical guide to running 8x RTX PRO 6000's",
-      "url": "https://www.gpupartner.com/blog/a-practical-guide-to-running-8x-rtx-pro-6000s",
-      "score": 9,
-      "comments": 5,
-      "source": "gpupartner.com"
-    },
-    {
-      "title": "Commodore 64 released September 1, 1982",
-      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-      "score": 293,
-      "comments": 150,
-      "source": "dfarq.homeip.net"
-    },
-    {
-      "title": "A Selection of Los Alamos Rolodex Business Cards",
-      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
-      "score": 113,
-      "comments": 24,
-      "source": "clui.org"
-    },
-    {
-      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
-      "url": "https://blog.cloudflare.com/cache-transcoding/",
-      "score": 33,
-      "comments": 9,
-      "source": "blog.cloudflare.com"
-    },
-    {
-      "title": "Poisson Disk Sampling",
-      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-      "score": 101,
-      "comments": 16,
-      "source": "stripeacross.com"
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "score": 115,
+      "comments": 22,
+      "source": "werwolv.net"
     },
     {
       "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 245,
-      "comments": 114,
+      "score": 323,
+      "comments": 154,
       "source": "trellner.com"
     },
     {
       "title": "Fable 5.1 World Modeling",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "score": 8,
-      "comments": 0,
+      "score": 150,
+      "comments": 53,
       "source": "github.com"
     },
     {
-      "title": "Paint.net 5.2 alpha now runs on Linux",
-      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
-      "score": 136,
-      "comments": 112,
-      "source": "forums.paint.net"
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 380,
+      "comments": 167,
+      "source": "help.mistral.ai"
     },
     {
-      "title": "SteamdDB Joins Nexus Mods",
-      "url": "https://www.nexusmods.com/news/15597",
-      "score": 79,
-      "comments": 48,
-      "source": "nexusmods.com"
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "score": 44,
+      "comments": 20,
+      "source": "nature.com"
     },
     {
-      "title": "Making the Internet Boring",
-      "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
-      "score": 35,
-      "comments": 17,
-      "source": "cemrehancavdar.com"
+      "title": "Higher Multipoles of the Cow",
+      "url": "https://arxiv.org/abs/2504.00506",
+      "score": 6,
+      "comments": 2,
+      "source": "arxiv.org"
     },
     {
-      "title": "A note on subscription prices from LWN",
-      "url": "https://lwn.net/Articles/1090585/",
-      "score": 645,
-      "comments": 127,
-      "source": "lwn.net"
+      "title": "Engineering of the fastest WebAssembly interpreters",
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+      "score": 51,
+      "comments": 3,
+      "source": "wasmi-labs.github.io"
+    },
+    {
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "score": 46,
+      "comments": 12,
+      "source": "secondthoughts.ai"
+    },
+    {
+      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+      "score": 121,
+      "comments": 79,
+      "source": "cbsnews.com"
+    },
+    {
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "score": 255,
+      "comments": 84,
+      "source": "science.org"
+    },
+    {
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "score": 219,
+      "comments": 101,
+      "source": "studyfinds.com"
+    },
+    {
+      "title": "Wendell Berry has died",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "score": 144,
+      "comments": 81,
+      "source": "nytimes.com"
+    },
+    {
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "url": "https://nango.dev/careers",
+      "score": 1,
+      "comments": 0,
+      "source": "nango.dev"
+    },
+    {
+      "title": "Exit the Cave",
+      "url": "https://turtlespace.blog/p/exit-the-cave",
+      "score": 215,
+      "comments": 79,
+      "source": "turtlespace.blog"
+    },
+    {
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+      "score": 103,
+      "comments": 66,
+      "source": "bbc.com"
+    },
+    {
+      "title": "Embedded Rust RTOS vs. C RTOS",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "score": 61,
+      "comments": 30,
+      "source": "tweedegolf.nl"
+    },
+    {
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "score": 42,
+      "comments": 25,
+      "source": "images.gatesnotes.com"
+    },
+    {
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "score": 142,
+      "comments": 33,
+      "source": "clui.org"
+    },
+    {
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "score": 85,
+      "comments": 53,
+      "source": "admiralcloudberg.medium.com"
+    },
+    {
+      "title": "Poisson Disk Sampling",
+      "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+      "score": 131,
+      "comments": 19,
+      "source": "stripeacross.com"
+    },
+    {
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "score": 72,
+      "comments": 31,
+      "source": "blog.cloudflare.com"
     },
     {
       "title": "WebLLM: high-performance in-browser LLM inference engine",
       "url": "https://github.com/mlc-ai/web-llm",
-      "score": 65,
-      "comments": 15,
+      "score": 92,
+      "comments": 17,
       "source": "github.com"
     },
     {
-      "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
-      "url": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
-      "score": 9,
-      "comments": 1,
-      "source": "nooshu.com"
+      "title": "Making the Internet Boring",
+      "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
+      "score": 87,
+      "comments": 45,
+      "source": "cemrehancavdar.com"
     },
     {
-      "title": "Introducing Muse Spark 1.3",
-      "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-      "score": 37,
-      "comments": 9,
-      "source": "research.meta.ai"
+      "title": "I wanna live an NPC life",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "score": 195,
+      "comments": 183,
+      "source": "signalundefied.bearblog.dev"
     },
     {
-      "title": "I Don't Have a Smartphone",
-      "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
-      "score": 148,
-      "comments": 150,
-      "source": "ploum.net"
-    },
-    {
-      "title": "AI Agents and the Refactoring That Never Happens",
-      "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
-      "score": 8,
-      "comments": 10,
-      "source": "rosenfeld.page"
-    },
-    {
-      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
-      "url": "https://careers.telli.com/",
-      "score": 1,
-      "comments": 0,
-      "source": "careers.telli.com"
-    },
-    {
-      "title": "Discontinuation of third level domain registrations for the .name TLD [pdf]",
-      "url": "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf",
-      "score": 41,
-      "comments": 31,
-      "source": "itp.cdn.icann.org"
+      "title": "Product Backlog Problems: Why Your Hierarchy Is Broken",
+      "url": "https://www.prodpad.com/blog/backlog-hierarchy-problem/",
+      "score": 19,
+      "comments": 13,
+      "source": "prodpad.com"
     }
   ],
   "security": [
+    {
+      "title": "Managing identity source transition for AWS IAM Identity Center",
+      "url": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/",
+      "date": "2026-09-02 20:36:31",
+      "author": "Xiaoxue Xu"
+    },
     {
       "title": "Agentic security: Detection and response at machine speed",
       "url": "https://aws.amazon.com/blogs/security/agentic-security-detection-and-response-at-machine-speed/",
@@ -265,12 +264,6 @@
       "url": "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count/",
       "date": "2026-08-20 18:40:20",
       "author": "Preetkumar Shah"
-    },
-    {
-      "title": "Propagate user authorization context in AI agents with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/security/propagate-user-authorization-context-in-ai-agents-with-amazon-bedrock-agentcore/",
-      "date": "2026-08-19 17:24:15",
-      "author": "Anshu Bathla"
     }
   ]
 }
