@@ -1,207 +1,200 @@
 {
   "tech": [
     {
-      "title": "Audacity 4.0",
-      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "score": 641,
-      "comments": 157,
-      "source": "github.com"
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "score": 527,
+      "comments": 23,
+      "source": "openai.com"
     },
     {
-      "title": "Grok Outage",
-      "url": "https://status.x.ai/",
-      "score": 37,
-      "comments": 17,
-      "source": "status.x.ai"
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 258,
+      "comments": 84,
+      "source": "inference-docs.cerebras.ai"
     },
     {
-      "title": "ChatGPT Is Throwing 404",
-      "url": "https://chatgpt.com/",
-      "score": 279,
-      "comments": 224,
-      "source": "chatgpt.com"
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "score": 984,
+      "comments": 292,
+      "source": "neil.fraser.name"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "score": 25,
+      "comments": 14,
+      "source": "arcprize.org"
     },
     {
       "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
       "url": "https://anyhumanever.com/",
-      "score": 41,
-      "comments": 23,
+      "score": 316,
+      "comments": 143,
       "source": "anyhumanever.com"
     },
     {
-      "title": "Elevated Errors for Multiple Models",
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "score": 166,
-      "comments": 139,
-      "source": "status.claude.com"
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "score": 194,
+      "comments": 64,
+      "source": "ifm.ai"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "score": 92,
+      "comments": 33,
+      "source": "babyloniantwins.com"
+    },
+    {
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "score": 62,
+      "comments": 11,
+      "source": "discoverwildlife.com"
+    },
+    {
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "score": 19,
+      "comments": 11,
+      "source": "youtube.com"
+    },
+    {
+      "title": "Unusual Suspects",
+      "url": "https://neal.fun/unusual-suspects/",
+      "score": 36,
+      "comments": 11,
+      "source": "neal.fun"
+    },
+    {
+      "title": "The true horror of Edgar Allan Poe\u2019s stories lies in their confessions",
+      "url": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
+      "score": 18,
+      "comments": 3,
+      "source": "yalereview.org"
+    },
+    {
+      "title": "Gooseworks (YC W23) Is Hiring \u2013\u00a0Founding Creative Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "ycombinator.com"
+    },
+    {
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "score": 41,
+      "comments": 9,
+      "source": "sciencealert.com"
+    },
+    {
+      "title": "Static Allocation, Constant Work",
+      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+      "score": 81,
+      "comments": 13,
+      "source": "matklad.github.io"
+    },
+    {
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "score": 949,
+      "comments": 211,
+      "source": "github.com"
+    },
+    {
+      "title": "VC isn't VC anymore",
+      "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
+      "score": 114,
+      "comments": 119,
+      "source": "anildash.com"
+    },
+    {
+      "title": "Gloria Steinem has died",
+      "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+      "score": 61,
+      "comments": 21,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "score": 17,
+      "comments": 6,
+      "source": "zed.dev"
+    },
+    {
+      "title": "How concerned should we be about Astra's recurrent architecture?",
+      "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+      "score": 40,
+      "comments": 21,
+      "source": "lesswrong.com"
+    },
+    {
+      "title": "\u201cWe want it to really confuse people, but also really make people happy\u201d",
+      "url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
+      "score": 38,
+      "comments": 12,
+      "source": "unsung.aresluna.org"
+    },
+    {
+      "title": "The death of San Francisco's Market Street",
+      "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
+      "score": 11,
+      "comments": 3,
+      "source": "noahpinion.blog"
+    },
+    {
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+      "score": 214,
+      "comments": 149,
+      "source": "twitter.com"
+    },
+    {
+      "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+      "score": 8,
+      "comments": 2,
+      "source": "artificialanalysis.ai"
+    },
+    {
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "score": 72,
+      "comments": 8,
+      "source": "hawksley.dev"
+    },
+    {
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "score": 83,
+      "comments": 19,
+      "source": "kedglobal.com"
+    },
+    {
+      "title": "Unified Arabic",
+      "url": "https://worksthatwork.com/6/unified-arabic",
+      "score": 53,
+      "comments": 4,
+      "source": "worksthatwork.com"
+    },
+    {
+      "title": "The asteroid currently hitting front end web development",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "score": 16,
+      "comments": 11,
+      "source": "nolanlawson.com"
     },
     {
       "title": "Pre-Release of Polars 2.0",
       "url": "https://pola.rs/posts/announcing-polars-2/",
-      "score": 309,
-      "comments": 102,
+      "score": 365,
+      "comments": 120,
       "source": "pola.rs"
-    },
-    {
-      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
-      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
-      "score": 16,
-      "comments": 2,
-      "source": "newsguild.org"
-    },
-    {
-      "title": "The Browser's Main Thread Is Expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "score": 272,
-      "comments": 95,
-      "source": "kciter.so"
-    },
-    {
-      "title": "Invisible Companies",
-      "url": "https://colossus.com/article/invisible-companies/",
-      "score": 99,
-      "comments": 31,
-      "source": "colossus.com"
-    },
-    {
-      "title": "What I Learned from My Mom (1941-2026)",
-      "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
-      "score": 177,
-      "comments": 8,
-      "source": "experimentalliving.substack.com"
-    },
-    {
-      "title": "Intrusive Linked Lists",
-      "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
-      "score": 51,
-      "comments": 25,
-      "source": "data-structures-in-practice.com"
-    },
-    {
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "url": "https://9mothers.com/careers",
-      "score": 1,
-      "comments": 0,
-      "source": "9mothers.com"
-    },
-    {
-      "title": "Codex Is Down",
-      "url": "https://github.com/openai/codex/issues/28756",
-      "score": 70,
-      "comments": 37,
-      "source": "github.com"
-    },
-    {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "score": 1121,
-      "comments": 630,
-      "source": "blog.google"
-    },
-    {
-      "title": "Nobody Has Actually Built a Software Factory",
-      "url": "https://medium.com/@NMitchem/nobody-has-actually-built-a-software-factory-77ffdc0c3efc",
-      "score": 4,
-      "comments": 0,
-      "source": "medium.com"
-    },
-    {
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "score": 654,
-      "comments": 428,
-      "source": "developer.meta.com"
-    },
-    {
-      "title": "Nvidia to Acquire Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "score": 159,
-      "comments": 46,
-      "source": "blogs.nvidia.com"
-    },
-    {
-      "title": "Amazon Stonehenge: Parque Arqueol\u00f3gico do Solst\u00edcio",
-      "url": "https://en.wikipedia.org/wiki/Parque_Arqueol%C3%B3gico_do_Solst%C3%ADcio",
-      "score": 24,
-      "comments": 6,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "score": 490,
-      "comments": 241,
-      "source": "trellner.com"
-    },
-    {
-      "title": "Florida revokes permits for license plate readers on state highways",
-      "url": "https://www.wusf.org/transportation/2026-08-31/fdot-revokes-permits-for-flock-cameras-installed-on-state-land-next-to-roads",
-      "score": 63,
-      "comments": 16,
-      "source": "wusf.org"
-    },
-    {
-      "title": "The Computer Museum of America reclamation project",
-      "url": "https://computer-museum.org/wp/",
-      "score": 84,
-      "comments": 33,
-      "source": "computer-museum.org"
-    },
-    {
-      "title": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "score": 447,
-      "comments": 321,
-      "source": "nytimes.com"
-    },
-    {
-      "title": "Holden's Lightning Flight",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "score": 206,
-      "comments": 44,
-      "source": "en.wikipedia.org"
-    },
-    {
-      "title": "Anatomy of a Browser",
-      "url": "https://medium.com/@Koukyosyumei/anatomy-of-a-browser-95014ab378f8",
-      "score": 7,
-      "comments": 0,
-      "source": "medium.com"
-    },
-    {
-      "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
-      "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
-      "score": 31,
-      "comments": 4,
-      "source": "sciencealert.com"
-    },
-    {
-      "title": "Fish Bad, Sugar Good and Other Medieval Ideas About Food",
-      "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
-      "score": 68,
-      "comments": 51,
-      "source": "lithub.com"
-    },
-    {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "score": 480,
-      "comments": 228,
-      "source": "help.mistral.ai"
-    },
-    {
-      "title": "Fable 5.1 World Modeling",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "score": 308,
-      "comments": 89,
-      "source": "github.com"
-    },
-    {
-      "title": "ChatGPT, Claude, and Grok Are Down",
-      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
-      "score": 6,
-      "comments": 1,
-      "source": "macrumors.com"
     }
   ],
   "security": [
