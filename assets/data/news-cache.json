@@ -3,201 +3,206 @@
     {
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
-      "score": 527,
-      "comments": 23,
+      "score": 1380,
+      "comments": 1139,
       "source": "openai.com"
-    },
-    {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "score": 258,
-      "comments": 84,
-      "source": "inference-docs.cerebras.ai"
     },
     {
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
-      "score": 984,
-      "comments": 292,
+      "score": 1418,
+      "comments": 387,
       "source": "neil.fraser.name"
     },
     {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "score": 25,
-      "comments": 14,
-      "source": "arcprize.org"
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 464,
+      "comments": 136,
+      "source": "inference-docs.cerebras.ai"
     },
     {
-      "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
-      "url": "https://anyhumanever.com/",
-      "score": 316,
-      "comments": 143,
-      "source": "anyhumanever.com"
+      "title": "Project Xanadu: Even More Hindsight",
+      "url": "https://gwern.net/xanadu",
+      "score": 10,
+      "comments": 0,
+      "source": "gwern.net"
     },
     {
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "score": 194,
-      "comments": 64,
-      "source": "ifm.ai"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "score": 92,
-      "comments": 33,
-      "source": "babyloniantwins.com"
-    },
-    {
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "score": 62,
-      "comments": 11,
-      "source": "discoverwildlife.com"
+      "title": "New type of dice guarantees no tie when deciding who goes first",
+      "url": "https://www.cbc.ca/lite/story/9.7328614",
+      "score": 52,
+      "comments": 35,
+      "source": "cbc.ca"
     },
     {
       "title": "The largest electric aircraft just flew [video]",
       "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "score": 19,
-      "comments": 11,
+      "score": 210,
+      "comments": 143,
       "source": "youtube.com"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "score": 114,
+      "comments": 37,
+      "source": "armature.tech"
+    },
+    {
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "score": 172,
+      "comments": 57,
+      "source": "discoverwildlife.com"
+    },
+    {
+      "title": "From Hookswitch to Grave",
+      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+      "score": 3,
+      "comments": 0,
+      "source": "computer.rip"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "score": 207,
+      "comments": 65,
+      "source": "babyloniantwins.com"
+    },
+    {
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "score": 264,
+      "comments": 84,
+      "source": "ifm.ai"
+    },
+    {
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "score": 129,
+      "comments": 72,
+      "source": "sciencealert.com"
+    },
+    {
+      "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "score": 482,
+      "comments": 244,
+      "source": "anyhumanever.com"
+    },
+    {
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "score": 90,
+      "comments": 36,
+      "source": "zed.dev"
+    },
+    {
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "score": 208,
+      "comments": 58,
+      "source": "kedglobal.com"
+    },
+    {
+      "title": "Virtual Threads for a scripting language in Java 8 without Loom",
+      "url": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
+      "score": 9,
+      "comments": 1,
+      "source": "jactl.io"
+    },
+    {
+      "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
+      "url": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+      "score": 47,
+      "comments": 11,
+      "source": "kevin.md"
+    },
+    {
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "score": 1,
+      "comments": 0,
+      "source": "tasklet.ai"
+    },
+    {
+      "title": "GLP-1s are being linked to fewer serious infections, including TB",
+      "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+      "score": 64,
+      "comments": 40,
+      "source": "gizmodo.com"
+    },
+    {
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "score": 1063,
+      "comments": 236,
+      "source": "github.com"
+    },
+    {
+      "title": "How concerned should we be about Astra's recurrent architecture?",
+      "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+      "score": 95,
+      "comments": 58,
+      "source": "lesswrong.com"
     },
     {
       "title": "Unusual Suspects",
       "url": "https://neal.fun/unusual-suspects/",
-      "score": 36,
-      "comments": 11,
+      "score": 116,
+      "comments": 24,
       "source": "neal.fun"
     },
     {
       "title": "The true horror of Edgar Allan Poe\u2019s stories lies in their confessions",
       "url": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
-      "score": 18,
-      "comments": 3,
+      "score": 57,
+      "comments": 22,
       "source": "yalereview.org"
     },
     {
-      "title": "Gooseworks (YC W23) Is Hiring \u2013\u00a0Founding Creative Engineer",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "GPS glitched across the US by as much as 33 feet",
-      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
-      "score": 41,
-      "comments": 9,
-      "source": "sciencealert.com"
-    },
-    {
-      "title": "Static Allocation, Constant Work",
-      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
-      "score": 81,
-      "comments": 13,
-      "source": "matklad.github.io"
-    },
-    {
-      "title": "Audacity 4.0",
-      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "score": 949,
-      "comments": 211,
-      "source": "github.com"
-    },
-    {
-      "title": "VC isn't VC anymore",
-      "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
-      "score": 114,
-      "comments": 119,
-      "source": "anildash.com"
-    },
-    {
-      "title": "Gloria Steinem has died",
-      "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
-      "score": 61,
-      "comments": 21,
-      "source": "theguardian.com"
-    },
-    {
-      "title": "Xanadu was waiting for agents",
-      "url": "https://zed.dev/blog/agentic-xanadu",
-      "score": 17,
-      "comments": 6,
-      "source": "zed.dev"
-    },
-    {
-      "title": "How concerned should we be about Astra's recurrent architecture?",
-      "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
-      "score": 40,
-      "comments": 21,
-      "source": "lesswrong.com"
-    },
-    {
-      "title": "\u201cWe want it to really confuse people, but also really make people happy\u201d",
-      "url": "https://unsung.aresluna.org/we-want-it-to-really-confuse-people-but-also-really-make-people-happy/",
-      "score": 38,
-      "comments": 12,
-      "source": "unsung.aresluna.org"
-    },
-    {
-      "title": "The death of San Francisco's Market Street",
-      "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
-      "score": 11,
-      "comments": 3,
-      "source": "noahpinion.blog"
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "score": 173,
+      "comments": 102,
+      "source": "arcprize.org"
     },
     {
       "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
       "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "score": 214,
-      "comments": 149,
+      "score": 287,
+      "comments": 197,
       "source": "twitter.com"
-    },
-    {
-      "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
-      "score": 8,
-      "comments": 2,
-      "source": "artificialanalysis.ai"
-    },
-    {
-      "title": "How to get a free .arpa domain",
-      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-      "score": 72,
-      "comments": 8,
-      "source": "hawksley.dev"
-    },
-    {
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "score": 83,
-      "comments": 19,
-      "source": "kedglobal.com"
-    },
-    {
-      "title": "Unified Arabic",
-      "url": "https://worksthatwork.com/6/unified-arabic",
-      "score": 53,
-      "comments": 4,
-      "source": "worksthatwork.com"
     },
     {
       "title": "The asteroid currently hitting front end web development",
       "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-      "score": 16,
-      "comments": 11,
+      "score": 86,
+      "comments": 97,
       "source": "nolanlawson.com"
     },
     {
-      "title": "Pre-Release of Polars 2.0",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "score": 365,
-      "comments": 120,
-      "source": "pola.rs"
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "score": 122,
+      "comments": 13,
+      "source": "hawksley.dev"
     }
   ],
   "security": [
+    {
+      "title": "Incident response guide for AWS CloudTrail investigations \u2013 Part 2",
+      "url": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-2/",
+      "date": "2026-09-03 21:15:53",
+      "author": "Oscar Diaz"
+    },
+    {
+      "title": "Incident response guide for AWS CloudTrail investigations \u2013 Part 1",
+      "url": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
+      "date": "2026-09-03 21:15:39",
+      "author": "Oscar Diaz"
+    },
     {
       "title": "Managing identity source transition for AWS IAM Identity Center",
       "url": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/",
@@ -245,18 +250,6 @@
       "url": "https://aws.amazon.com/blogs/security/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation/",
       "date": "2026-08-26 17:39:19",
       "author": "Nisha Kashyap"
-    },
-    {
-      "title": "Fast Track ISM-ready cloud environments and IRAP Assessments with Landing Zone Accelerator on AWS",
-      "url": "https://aws.amazon.com/blogs/security/fast-track-ism-ready-cloud-environments-and-irap-assessments-with-landing-zone-accelerator-on-aws/",
-      "date": "2026-08-25 21:53:49",
-      "author": "Kevin Donohue"
-    },
-    {
-      "title": "AWS Network Firewall now supports rule hit count",
-      "url": "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count/",
-      "date": "2026-08-20 18:40:20",
-      "author": "Preetkumar Shah"
     }
   ]
 }
