@@ -1,207 +1,214 @@
 {
   "tech": [
     {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "score": 271,
+      "comments": 154,
+      "source": "nvd.nist.gov"
+    },
+    {
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "score": 191,
-      "comments": 109,
+      "score": 513,
+      "comments": 323,
       "source": "anthropic.com"
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 1222,
-      "comments": 1001,
+      "score": 1510,
+      "comments": 1199,
       "source": "collusion.wiki"
+    },
+    {
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "score": 57,
+      "comments": 16,
+      "source": "artificialanalysis.ai"
+    },
+    {
+      "title": "Statichost.eu \u2013 European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "score": 180,
+      "comments": 60,
+      "source": "statichost.eu"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "score": 135,
+      "comments": 71,
+      "source": "openrouter.ai"
     },
     {
       "title": "Shutting down our public encrypted DNS",
       "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "score": 100,
-      "comments": 20,
+      "score": 263,
+      "comments": 106,
       "source": "mullvad.net"
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "url": "https://opentrailpaper.com",
-      "score": 136,
-      "comments": 51,
-      "source": "opentrailpaper.com"
-    },
-    {
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-      "score": 28,
-      "comments": 9,
-      "source": "rietta.com"
     },
     {
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "score": 18,
-      "comments": 8,
+      "score": 180,
+      "comments": 116,
       "source": "eebench.org"
+    },
+    {
+      "title": "Can guitar frets perform multiplication?",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "score": 39,
+      "comments": 10,
+      "source": "charlespetzold.com"
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "score": 44,
+      "comments": 15,
+      "source": "engineering.atspotify.com"
+    },
+    {
+      "title": "RSA-260 Factorized",
+      "url": "https://twitter.com/penlume/status/2095372672356212876",
+      "score": 68,
+      "comments": 30,
+      "source": "twitter.com"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "score": 240,
+      "comments": 84,
+      "source": "opentrailpaper.com"
+    },
+    {
+      "title": "Git Submodules as a Package Manager",
+      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+      "score": 6,
+      "comments": 0,
+      "source": "nesbitt.io"
+    },
+    {
+      "title": "An open DNS recursive service for free security and high privacy",
+      "url": "https://quad9.net/",
+      "score": 67,
+      "comments": 14,
+      "source": "quad9.net"
+    },
+    {
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "score": 71,
+      "comments": 15,
+      "source": "github.com"
+    },
+    {
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "score": 223,
+      "comments": 160,
+      "source": "news.gallup.com"
+    },
+    {
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "score": 76,
+      "comments": 23,
+      "source": "rietta.com"
+    },
+    {
+      "title": "When declaring an incident becomes everyone's favorite workaround",
+      "url": "https://greatcircle.com/blog/2026/08/11/declaring-incidents-for-side-effects/",
+      "score": 15,
+      "comments": 5,
+      "source": "greatcircle.com"
+    },
+    {
+      "title": "Show HN: Moadim.io \u2013 A scheduler for agents",
+      "url": "https://moadim.io/",
+      "score": 16,
+      "comments": 8,
+      "source": "moadim.io"
+    },
+    {
+      "title": "ExactTex. A gradually-typed superset of LaTeX",
+      "url": "https://github.com/camilochs/exacttex",
+      "score": 18,
+      "comments": 1,
+      "source": "github.com"
+    },
+    {
+      "title": "Icons as a Service",
+      "url": "https://nravic.com/blog/images/",
+      "score": 25,
+      "comments": 1,
+      "source": "nravic.com"
+    },
+    {
+      "title": "Connecting every app to every other app",
+      "url": "https://blog.val.town/connectors",
+      "score": 15,
+      "comments": 1,
+      "source": "blog.val.town"
     },
     {
       "title": "The Rust React Compiler is now native in Vite",
       "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-      "score": 47,
-      "comments": 8,
+      "score": 117,
+      "comments": 22,
       "source": "blog.master.dev"
     },
     {
       "title": "IBM Bob",
       "url": "https://bob.ibm.com/",
-      "score": 175,
-      "comments": 205,
+      "score": 232,
+      "comments": 268,
       "source": "bob.ibm.com"
     },
     {
-      "title": "Solving the Jane Street reverse engineering challenge",
-      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-      "score": 343,
-      "comments": 79,
-      "source": "jestoph.com"
+      "title": "Decompiler Explorer",
+      "url": "https://dogbolt.org",
+      "score": 39,
+      "comments": 1,
+      "source": "dogbolt.org"
     },
     {
       "title": "deSEC \u2013 Free Secure DNS",
       "url": "https://desec.io/",
-      "score": 68,
-      "comments": 29,
+      "score": 116,
+      "comments": 41,
       "source": "desec.io"
     },
     {
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "score": 42,
-      "comments": 23,
-      "source": "github.blog"
+      "title": "How to Create a Tor Exit Node (2015)",
+      "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+      "score": 44,
+      "comments": 19,
+      "source": "madpsy.uk"
+    },
+    {
+      "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+      "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+      "score": 25,
+      "comments": 0,
+      "source": "jeremykun.com"
+    },
+    {
+      "title": "\u201cNext-token predictor\u201d is the wrong mental model for LLMs",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "score": 91,
+      "comments": 192,
+      "source": "gmcgoldr.github.io"
     },
     {
       "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
       "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-      "score": 174,
-      "comments": 96,
+      "score": 357,
+      "comments": 211,
       "source": "torrentfreak.com"
-    },
-    {
-      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "score": 174,
-      "comments": 113,
-      "source": "wired.com"
-    },
-    {
-      "title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "score": 49,
-      "comments": 19,
-      "source": "github.com"
-    },
-    {
-      "title": "The Two Abstractions of System Design: Hide or Reduce",
-      "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-      "score": 89,
-      "comments": 10,
-      "source": "muratbuffalo.blogspot.com"
-    },
-    {
-      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
-      "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
-      "score": 128,
-      "comments": 46,
-      "source": "starelevator.com"
-    },
-    {
-      "title": "People that worked on the same idea for decades",
-      "url": "https://nityasnotes.com/writing/decades/",
-      "score": 26,
-      "comments": 12,
-      "source": "nityasnotes.com"
-    },
-    {
-      "title": "Getting Started with AT Protocol",
-      "url": "https://bnb.im/posts/atproto-essential-resources/",
-      "score": 56,
-      "comments": 20,
-      "source": "bnb.im"
-    },
-    {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "score": 672,
-      "comments": 221,
-      "source": "inference-docs.cerebras.ai"
-    },
-    {
-      "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
-      "url": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
-      "score": 11,
-      "comments": 3,
-      "source": "millersbookreview.com"
-    },
-    {
-      "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-      "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-      "score": 1,
-      "comments": 0,
-      "source": "ycombinator.com"
-    },
-    {
-      "title": "Deadpan Photography: Enjoying the Pretence",
-      "url": "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/",
-      "score": 4,
-      "comments": 1,
-      "source": "photoni.st"
-    },
-    {
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "score": 2120,
-      "comments": 1925,
-      "source": "openai.com"
-    },
-    {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "score": 338,
-      "comments": 70,
-      "source": "productrise.app"
-    },
-    {
-      "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
-      "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-      "score": 51,
-      "comments": 60,
-      "source": "github.com"
-    },
-    {
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "score": 454,
-      "comments": 335,
-      "source": "youtube.com"
-    },
-    {
-      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-      "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-      "score": 55,
-      "comments": 18,
-      "source": "twitter.com"
-    },
-    {
-      "title": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
-      "url": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
-      "score": 11,
-      "comments": 1,
-      "source": "cs.cmu.edu"
-    },
-    {
-      "title": "How Fairphone built the Fairphone Gen 6+",
-      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-      "score": 172,
-      "comments": 142,
-      "source": "arstechnica.com"
     }
   ],
   "security": [
