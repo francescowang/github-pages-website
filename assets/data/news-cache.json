@@ -1,214 +1,214 @@
 {
   "tech": [
     {
+      "title": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 201,
+      "comments": 116,
+      "source": "bcantrill.dtrace.org"
+    },
+    {
+      "title": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "score": 145,
+      "comments": 87,
+      "source": "edwest.co.uk"
+    },
+    {
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "score": 137,
-      "comments": 16,
+      "score": 369,
+      "comments": 105,
       "source": "isaraerospace.com"
+    },
+    {
+      "title": "A/I shuts down \u2013 Stay human",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "score": 16,
+      "comments": 0,
+      "source": "keepitfree.ai"
+    },
+    {
+      "title": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "url": "https://en.wikipedia.org/wiki/M-DISC",
+      "score": 97,
+      "comments": 38,
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "The many mysteries and lessons of the Bayeux tapestry",
+      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+      "score": 20,
+      "comments": 1,
+      "source": "economist.com"
+    },
+    {
+      "title": "What is Nueralese and Why is it Bad",
+      "url": "https://www.lesswrong.com/posts/RCYF2rW8wgusidZk7/what-is-neuralese-and-why-is-it-bad",
+      "score": 12,
+      "comments": 4,
+      "source": "lesswrong.com"
+    },
+    {
+      "title": "Show HN: Kad\u014d \u2013 open-source habit tracker, with non-binary habit score, for iOS",
+      "url": "https://github.com/scastiel/kado",
+      "score": 4,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Asahi Linux Now Officially Supports Apple M3 Macs \u2013 With Caveats",
+      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "score": 28,
+      "comments": 2,
+      "source": "phoronix.com"
     },
     {
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
       "url": "https://cloudinabottle.org/blog/launch-post",
-      "score": 413,
-      "comments": 194,
+      "score": 512,
+      "comments": 256,
       "source": "cloudinabottle.org"
     },
     {
-      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
-      "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
-      "score": 76,
-      "comments": 29,
-      "source": "motherjones.com"
-    },
-    {
-      "title": "Play GTA Vice City in the Browser",
-      "url": "https://quenq.com/apps/vice-city-online/",
-      "score": 48,
-      "comments": 21,
-      "source": "quenq.com"
-    },
-    {
-      "title": "Music Theory for Programmers",
-      "url": "https://runjs.app/blog/music-theory-for-programmers",
-      "score": 137,
-      "comments": 58,
-      "source": "runjs.app"
+      "title": "The pencil case model of creativity",
+      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+      "score": 27,
+      "comments": 6,
+      "source": "dub.uu.nl"
     },
     {
       "title": "The revolt of the reader",
       "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "score": 362,
-      "comments": 149,
+      "score": 470,
+      "comments": 222,
       "source": "bcantrill.dtrace.org"
+    },
+    {
+      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+      "url": "https://shukla.io/quantum-oracle-engineering/",
+      "score": 8,
+      "comments": 3,
+      "source": "shukla.io"
+    },
+    {
+      "title": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "score": 234,
+      "comments": 138,
+      "source": "runjs.app"
     },
     {
       "title": "IBM Quantum Nighthawk R2",
       "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
-      "score": 11,
-      "comments": 1,
+      "score": 47,
+      "comments": 24,
       "source": "ibm.com"
+    },
+    {
+      "title": "Household Laser Cuts",
+      "url": "https://cceckman.com/writing/household-laser-cuts/",
+      "score": 20,
+      "comments": 4,
+      "source": "cceckman.com"
     },
     {
       "title": "The ColorChecker, photography's most important 24 squares, turns 50",
       "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-      "score": 64,
-      "comments": 10,
+      "score": 101,
+      "comments": 18,
       "source": "dpreview.com"
     },
     {
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "score": 61,
-      "comments": 21,
-      "source": "ben-evans.com"
+      "title": "The Empire of Information",
+      "url": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
+      "score": 21,
+      "comments": 7,
+      "source": "lareviewofbooks.org"
     },
     {
-      "title": "OpenBSD Stories: Strange Medieval Devices",
-      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-      "score": 63,
-      "comments": 12,
-      "source": "miod.online.fr"
-    },
-    {
-      "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
-      "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
-      "score": 27,
-      "comments": 34,
-      "source": "nytimes.com"
+      "title": "Fileregister: Tagging and reference layer for your files, in plain text",
+      "url": "https://github.com/rhsev/fileregister",
+      "score": 9,
+      "comments": 1,
+      "source": "github.com"
     },
     {
       "title": "AMD Based FreeBSD Desktop Reloaded",
       "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-      "score": 54,
-      "comments": 4,
+      "score": 86,
+      "comments": 9,
       "source": "vermaden.wordpress.com"
+    },
+    {
+      "title": "I Changed My License",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "score": 112,
+      "comments": 127,
+      "source": "bergie.iki.fi"
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "score": 105,
+      "comments": 47,
+      "source": "ben-evans.com"
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "score": 2187,
-      "comments": 1546,
+      "score": 2227,
+      "comments": 1564,
       "source": "collusion.wiki"
+    },
+    {
+      "title": "2026 Hugo Awards",
+      "url": "https://www.thehugoawards.org/",
+      "score": 25,
+      "comments": 10,
+      "source": "thehugoawards.org"
+    },
+    {
+      "title": "New all in one 6502 computer (Neo6502kbd)",
+      "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/",
+      "score": 25,
+      "comments": 11,
+      "source": "olimex.wordpress.com"
     },
     {
       "title": "Learn Programming with OCaml",
       "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "score": 255,
-      "comments": 94,
+      "score": 290,
+      "comments": 121,
       "source": "usr.lmf.cnrs.fr"
     },
     {
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "score": 407,
-      "comments": 60,
-      "source": "lapcatsoftware.com"
+      "title": "'Old Person Smell'",
+      "url": "https://www.theguardian.com/wellness/2026/sep/03/old-person-smell",
+      "score": 47,
+      "comments": 23,
+      "source": "theguardian.com"
     },
     {
       "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
       "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "score": 346,
-      "comments": 100,
+      "score": 361,
+      "comments": 106,
       "source": "devquasar.com"
-    },
-    {
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "score": 608,
-      "comments": 323,
-      "source": "space.com"
-    },
-    {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-      "score": 776,
-      "comments": 467,
-      "source": "nvd.nist.gov"
-    },
-    {
-      "title": "Nitter has more working instances than before the takedowns",
-      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-      "score": 680,
-      "comments": 346,
-      "source": "codeberg.org"
-    },
-    {
-      "title": "A Computer History Time Capsule",
-      "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
-      "score": 7,
-      "comments": 0,
-      "source": "blog.archive.org"
-    },
-    {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "score": 173,
-      "comments": 33,
-      "source": "sofiabelen.github.io"
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "score": 185,
-      "comments": 137,
-      "source": "openai.robocurve.org"
-    },
-    {
-      "title": "Topologist's Map of the World",
-      "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
-      "score": 92,
-      "comments": 25,
-      "source": "futilitycloset.com"
     },
     {
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
-      "score": 272,
-      "comments": 198,
+      "score": 335,
+      "comments": 226,
       "source": "arxiv.org"
     },
     {
-      "title": "RecurseCenter.return()",
-      "url": "https://mm-dev.rocks/series/recursecenter.return/",
-      "score": 51,
-      "comments": 8,
-      "source": "mm-dev.rocks"
-    },
-    {
-      "title": "How Swiss tables work in Go built-in map",
-      "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-      "score": 79,
-      "comments": 5,
-      "source": "victoriametrics.com"
-    },
-    {
-      "title": "Site Is Closed on Sundays",
-      "url": "https://v7.robweychert.com/",
-      "score": 86,
-      "comments": 97,
-      "source": "v7.robweychert.com"
-    },
-    {
-      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-      "url": "https://github.com/iczelia/balrogg",
-      "score": 85,
-      "comments": 11,
-      "source": "github.com"
-    },
-    {
-      "title": "Delidded Intel I9-14900KS CT Scan",
-      "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
-      "score": 106,
-      "comments": 10,
-      "source": "lttlabs.com"
-    },
-    {
-      "title": "Matching Puzzle Pieces and Disappointing Benchmarks",
-      "url": "https://llogiq.github.io/2026/03/20/case.html",
-      "score": 5,
-      "comments": 0,
-      "source": "llogiq.github.io"
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "score": 505,
+      "comments": 88,
+      "source": "lapcatsoftware.com"
     }
   ],
   "security": [
