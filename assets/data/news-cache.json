@@ -1,80 +1,164 @@
 {
   "tech": [
     {
-      "title": "Nitter is unarchived and will continue",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "score": 179,
-      "comments": 50,
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "score": 110,
+      "comments": 44,
+      "source": "austinhenley.com"
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "score": 156,
+      "comments": 94,
+      "source": "anubis.techaro.lol"
+    },
+    {
+      "title": "The NX bit is not just about security",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "score": 12,
+      "comments": 0,
+      "source": "purplesyringa.moe"
+    },
+    {
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 549,
+      "comments": 362,
+      "source": "bcantrill.dtrace.org"
+    },
+    {
+      "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "url": "https://github.com/marsbos/mador",
+      "score": 71,
+      "comments": 22,
       "source": "github.com"
     },
     {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "score": 188,
-      "comments": 121,
-      "source": "openai.com"
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "score": 495,
+      "comments": 258,
+      "source": "github.com"
     },
     {
-      "title": "Your intellectual fly is open (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 373,
-      "comments": 250,
-      "source": "bcantrill.dtrace.org"
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "score": 211,
+      "comments": 140,
+      "source": "grapheneos.social"
+    },
+    {
+      "title": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "score": 109,
+      "comments": 54,
+      "source": "babylonian-collection.yale.edu"
+    },
+    {
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://github.com/Staatsgeheim/MathKernel",
+      "score": 9,
+      "comments": 0,
+      "source": "github.com"
+    },
+    {
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "score": 48,
+      "comments": 13,
+      "source": "arxiv.org"
     },
     {
       "title": "NetBSD 9.5 released and EOL for NetBSD-9",
       "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "score": 80,
-      "comments": 4,
+      "score": 112,
+      "comments": 10,
       "source": "blog.netbsd.org"
     },
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "score": 484,
-      "comments": 154,
-      "source": "isaraerospace.com"
+      "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
+      "url": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
+      "score": 31,
+      "comments": 10,
+      "source": "theguardian.com"
+    },
+    {
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "score": 343,
+      "comments": 295,
+      "source": "openai.com"
+    },
+    {
+      "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
+      "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+      "score": 44,
+      "comments": 11,
+      "source": "atlasobscura.com"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "score": 125,
+      "comments": 79,
+      "source": "openai.com"
+    },
+    {
+      "title": "Asahi Linux on M3",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "score": 366,
+      "comments": 212,
+      "source": "asahilinux.org"
+    },
+    {
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "score": 27,
+      "comments": 2,
+      "source": "blog.glazer.ee"
+    },
+    {
+      "title": "A/I shuts down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "score": 533,
+      "comments": 420,
+      "source": "keepitfree.ai"
     },
     {
       "title": "Research carried out using NetBSD",
       "url": "https://www.netbsd.org/gallery/research.html",
-      "score": 46,
-      "comments": 10,
+      "score": 79,
+      "comments": 19,
       "source": "netbsd.org"
-    },
-    {
-      "title": "A/I shuts down \u2013 Stay human",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "score": 386,
-      "comments": 261,
-      "source": "keepitfree.ai"
-    },
-    {
-      "title": "Following legal advice, the Nitter project will continue",
-      "url": "https://github.com/zedeus/nitter",
-      "score": 223,
-      "comments": 53,
-      "source": "github.com"
-    },
-    {
-      "title": "Doomscrolling Ourselves to Death",
-      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "score": 284,
-      "comments": 198,
-      "source": "edwest.co.uk"
     },
     {
       "title": "Vidact \u2013 a compiler that turns React into direct DOM operations",
       "url": "https://www.vidact.dev/",
-      "score": 23,
-      "comments": 9,
+      "score": 55,
+      "comments": 26,
       "source": "vidact.dev"
+    },
+    {
+      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+      "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+      "score": 71,
+      "comments": 45,
+      "source": "twitter.com"
+    },
+    {
+      "title": "D2 Is Non-Profit",
+      "url": "https://d2lang.com/blog/d2-non-profit/",
+      "score": 31,
+      "comments": 12,
+      "source": "d2lang.com"
     },
     {
       "title": "Electronic skin for prosthetics to sense temperature and pressure",
       "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-      "score": 23,
-      "comments": 3,
+      "score": 48,
+      "comments": 5,
       "source": "news.wsu.edu"
     },
     {
@@ -85,130 +169,46 @@
       "source": "ycombinator.com"
     },
     {
-      "title": "Recreating Minecraft Is Not a Benchmark",
-      "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-      "score": 51,
-      "comments": 36,
-      "source": "kuber.studio"
-    },
-    {
-      "title": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "score": 29,
-      "comments": 18,
-      "source": "babylonian-collection.yale.edu"
-    },
-    {
-      "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-      "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
-      "score": 44,
-      "comments": 12,
-      "source": "blog.ydb.tech"
-    },
-    {
       "title": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years",
       "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "score": 158,
-      "comments": 70,
+      "score": 188,
+      "comments": 90,
       "source": "en.wikipedia.org"
     },
     {
-      "title": "Finder is so frustrating and has been since day one",
-      "url": "https://kepter.app/finder",
-      "score": 59,
-      "comments": 51,
-      "source": "kepter.app"
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "score": 562,
+      "comments": 179,
+      "source": "isaraerospace.com"
     },
     {
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "score": 540,
-      "comments": 254,
-      "source": "bcantrill.dtrace.org"
+      "title": "Doomscrolling ourselves to death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "score": 373,
+      "comments": 276,
+      "source": "edwest.co.uk"
     },
     {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "score": 581,
-      "comments": 285,
-      "source": "cloudinabottle.org"
-    },
-    {
-      "title": "Asahi Linux Now Officially Supports Apple M3 Macs \u2013 With Caveats",
-      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
-      "score": 215,
-      "comments": 134,
-      "source": "phoronix.com"
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "score": 70,
-      "comments": 43,
-      "source": "openai.com"
-    },
-    {
-      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-      "url": "https://shukla.io/quantum-oracle-engineering/",
-      "score": 45,
-      "comments": 18,
-      "source": "shukla.io"
-    },
-    {
-      "title": "Show HN: Kad\u014d \u2013 open-source habit tracker, with non-binary habit score, for iOS",
-      "url": "https://github.com/scastiel/kado",
-      "score": 52,
-      "comments": 28,
-      "source": "github.com"
-    },
-    {
-      "title": "The many mysteries and lessons of the Bayeux tapestry",
-      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-      "score": 51,
+      "title": "Every Novel Is Boring\u2013Until It Isn't",
+      "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
+      "score": 16,
       "comments": 7,
-      "source": "economist.com"
+      "source": "publicbooks.org"
     },
     {
-      "title": "IBM Quantum Nighthawk R2",
-      "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
-      "score": 68,
-      "comments": 34,
-      "source": "ibm.com"
+      "title": "2026 Hugo Awards",
+      "url": "https://www.thehugoawards.org/",
+      "score": 75,
+      "comments": 41,
+      "source": "thehugoawards.org"
     },
     {
-      "title": "Music Theory for Programmers",
-      "url": "https://runjs.app/blog/music-theory-for-programmers",
-      "score": 317,
-      "comments": 207,
-      "source": "runjs.app"
-    },
-    {
-      "title": "The pencil case model of creativity",
-      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-      "score": 51,
-      "comments": 16,
-      "source": "dub.uu.nl"
-    },
-    {
-      "title": "Ganon's Mysterious Origins (Revisited)",
-      "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
-      "score": 21,
-      "comments": 5,
-      "source": "thrillingtalesofoldvideogames.com"
-    },
-    {
-      "title": "Household Laser Cuts",
-      "url": "https://cceckman.com/writing/household-laser-cuts/",
-      "score": 46,
-      "comments": 16,
-      "source": "cceckman.com"
-    },
-    {
-      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-      "score": 117,
-      "comments": 22,
-      "source": "dpreview.com"
+      "title": "216M Spy TVs \u2013 The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "score": 26,
+      "comments": 7,
+      "source": "youtube.com"
     }
   ],
   "security": [
